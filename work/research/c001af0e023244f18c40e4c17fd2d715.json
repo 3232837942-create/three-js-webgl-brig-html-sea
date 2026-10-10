@@ -1,0 +1,167 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2021-07-17T12:23:34.662451",
+  "embedUrl": "https://sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/embed",
+  "faceCount": 20508,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 95,
+  "name": "Stylized Cannon",
+  "publishedAt": "2021-07-18T05:42:02.897435",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "3dart",
+      "slug": "3dart",
+      "uri": "https://api.sketchfab.com/v3/tags/3dart"
+    },
+    {
+      "name": "Cannon",
+      "slug": "cannon",
+      "uri": "https://api.sketchfab.com/v3/tags/cannon"
+    },
+    {
+      "name": "weapons",
+      "slug": "weapons",
+      "uri": "https://api.sketchfab.com/v3/tags/weapons"
+    },
+    {
+      "name": "gameart",
+      "slug": "gameart",
+      "uri": "https://api.sketchfab.com/v3/tags/gameart"
+    },
+    {
+      "name": "stylized",
+      "slug": "stylized",
+      "uri": "https://api.sketchfab.com/v3/tags/stylized"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "8e21c88527674e509aef80c32ddb6e57",
+        "width": 1920,
+        "height": 1080,
+        "size": 350270,
+        "url": "https://media.sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/thumbnails/1f784db159ec422b9fa06b11eb317f2d/afcb708c663b4466862a4fd3de71abe7.jpeg"
+      },
+      {
+        "uid": "94e4301713e04be5a84f525f8e57c31e",
+        "width": 1024,
+        "height": 576,
+        "size": 51713,
+        "url": "https://media.sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/thumbnails/1f784db159ec422b9fa06b11eb317f2d/b82e399442ae4084a4058d99b6431a71.jpeg"
+      },
+      {
+        "uid": "a54d91810f2d4e6ba06b67203b3a44f8",
+        "width": 720,
+        "height": 405,
+        "size": 29833,
+        "url": "https://media.sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/thumbnails/1f784db159ec422b9fa06b11eb317f2d/d25eadea70de41789ec19d311e0c8dad.jpeg"
+      },
+      {
+        "uid": "383f383d3cec43fe8457b3a7659d6bb1",
+        "width": 256,
+        "height": 144,
+        "size": 6104,
+        "url": "https://media.sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/thumbnails/1f784db159ec422b9fa06b11eb317f2d/d31c6f10f1564f4382e93d6c2cda2705.jpeg"
+      },
+      {
+        "uid": "9ca00db1ffd54d869dfc6250ab8ece37",
+        "width": 64,
+        "height": 36,
+        "size": 1172,
+        "url": "https://media.sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/thumbnails/1f784db159ec422b9fa06b11eb317f2d/b9138ff31624401cb5ace0bb0d7fdb42.jpeg"
+      }
+    ]
+  },
+  "uid": "c001af0e023244f18c40e4c17fd2d715",
+  "uri": "https://api.sketchfab.com/v3/models/c001af0e023244f18c40e4c17fd2d715",
+  "user": {
+    "uid": "3cf84a6a61c743e0bcaa9d15b3f7eab4",
+    "username": "Ljm.3d",
+    "displayName": "LJM",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Ljm.3d",
+    "avatar": {
+      "uid": "4a4ff28c4d6e4756ba0d02f74de9e7d1",
+      "uri": "https://api.sketchfab.com/v3/avatars/4a4ff28c4d6e4756ba0d02f74de9e7d1",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1037,
+          "url": "https://media.sketchfab.com/avatars/4a4ff28c4d6e4756ba0d02f74de9e7d1/2ae27c0d1d4c4939b1566c7a482b8bc5.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1409,
+          "url": "https://media.sketchfab.com/avatars/4a4ff28c4d6e4756ba0d02f74de9e7d1/0a2e9afeded34d7c906ecdf1a6a09276.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2528,
+          "url": "https://media.sketchfab.com/avatars/4a4ff28c4d6e4756ba0d02f74de9e7d1/bb34d9e325724bbf9a8d140d94ef303f.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2808,
+          "url": "https://media.sketchfab.com/avatars/4a4ff28c4d6e4756ba0d02f74de9e7d1/1a7767f36c0a4564bd265aabc2061d61.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/3cf84a6a61c743e0bcaa9d15b3f7eab4"
+  },
+  "vertexCount": 10813,
+  "viewCount": 3023,
+  "viewerUrl": "https://sketchfab.com/3d-models/stylized-cannon-c001af0e023244f18c40e4c17fd2d715",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Stylized Cannon \n\n- Modelled in Maya\n- High Poly Sculpt in Zbrush\n- Textured in Substance Painter\n- Rendered in Marmoset Toolbag 3 \n\nMore shots over at https://www.artstation.com/artwork/Ye3OXY\n\n\n\nInspiration based off the model by the Valday Team on Sketchfab.",
+  "price": null,
+  "downloadCount": 774,
+  "editorUrl": "https://sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-20T09:05:05.024087",
+  "pbrType": "metalness",
+  "textureCount": 7,
+  "materialCount": 2
+}

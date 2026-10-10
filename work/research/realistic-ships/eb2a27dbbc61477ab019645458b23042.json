@@ -1,0 +1,187 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2023-05-02T14:38:52.050648",
+  "embedUrl": "https://sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/embed",
+  "faceCount": 100000,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+    "label": "CC Attribution-NonCommercial",
+    "fullName": "Creative Commons Attribution-NonCommercial",
+    "requirements": "Author must be credited. No commercial use.",
+    "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "slug": "by-nc"
+  },
+  "likeCount": 4,
+  "name": "Plaster mold for commemorative medal",
+  "publishedAt": "2023-05-16T16:14:41.067485",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "spain",
+      "slug": "spain",
+      "uri": "https://api.sketchfab.com/v3/tags/spain"
+    },
+    {
+      "name": "museum",
+      "slug": "museum",
+      "uri": "https://api.sketchfab.com/v3/tags/museum"
+    },
+    {
+      "name": "(Toledo)",
+      "slug": "toledo",
+      "uri": "https://api.sketchfab.com/v3/tags/toledo"
+    },
+    {
+      "name": "digitalheritage",
+      "slug": "digitalheritage",
+      "uri": "https://api.sketchfab.com/v3/tags/digitalheritage"
+    },
+    {
+      "name": "museumsonsketchfab",
+      "slug": "museumsonsketchfab",
+      "uri": "https://api.sketchfab.com/v3/tags/museumsonsketchfab"
+    },
+    {
+      "name": "museumcollection",
+      "slug": "museumcollection",
+      "uri": "https://api.sketchfab.com/v3/tags/museumcollection"
+    },
+    {
+      "name": "gdh",
+      "slug": "gdh",
+      "uri": "https://api.sketchfab.com/v3/tags/gdh"
+    },
+    {
+      "name": "globaldigitalheritage",
+      "slug": "globaldigitalheritage",
+      "uri": "https://api.sketchfab.com/v3/tags/globaldigitalheritage"
+    },
+    {
+      "name": "castilla-la-mancha",
+      "slug": "castilla-la-mancha",
+      "uri": "https://api.sketchfab.com/v3/tags/castilla-la-mancha"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "9df3d8b83b8b46e28c9e25e7324dbf9c",
+        "width": 1920,
+        "height": 1080,
+        "size": 101058,
+        "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/ec6690a501d04edb9ca072d0fc9f57e6.jpeg"
+      },
+      {
+        "uid": "e423bde84a8241c995a71a08a535cc7c",
+        "width": 1024,
+        "height": 576,
+        "size": 32732,
+        "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/8e8e46c0c3ed4e64a8d9ecec0a186678.jpeg"
+      },
+      {
+        "uid": "69c94b652ef349aeaa36f215ec933b35",
+        "width": 720,
+        "height": 405,
+        "size": 18405,
+        "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/f44b11c21cbb43b8906bbd88d4807964.jpeg"
+      },
+      {
+        "uid": "b370ea20dd1747dea2431e826c76994b",
+        "width": 256,
+        "height": 144,
+        "size": 3639,
+        "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/43a69fc4f32143c286b7b90468ce5380.jpeg"
+      },
+      {
+        "uid": "2a280bfbf27844ae80bac4d256b4319d",
+        "width": 64,
+        "height": 36,
+        "size": 1113,
+        "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/ca3a9cdf5c81480bba2472fb107fa9e8.jpeg"
+      }
+    ]
+  },
+  "uid": "eb2a27dbbc61477ab019645458b23042",
+  "uri": "https://api.sketchfab.com/v3/models/eb2a27dbbc61477ab019645458b23042",
+  "user": {
+    "uid": "c6c27d4322fe41c4a157d96f56c47fd3",
+    "username": "GlobalDigitalHeritage",
+    "displayName": "Global Digital Heritage and GDH-Afrika",
+    "account": "prem",
+    "profileUrl": "https://sketchfab.com/GlobalDigitalHeritage",
+    "avatar": {
+      "uid": "be1e31eb0c1e47d7a3eda6ecb7f6211b",
+      "uri": "https://api.sketchfab.com/v3/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1148,
+          "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/048fd93d0fc44a05b7b0b573d6f68f14.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1639,
+          "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/aed12b256e7246bdaac23a9e7c8a3af5.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3452,
+          "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/d367232573314438948472d97ccc8aa9.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4004,
+          "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/7c5a7134a0aa432a874fbe51a30f9b6d.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/c6c27d4322fe41c4a157d96f56c47fd3"
+  },
+  "vertexCount": 49998,
+  "viewCount": 76,
+  "viewerUrl": "https://sketchfab.com/3d-models/plaster-mold-for-commemorative-medal-eb2a27dbbc61477ab019645458b23042",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Plaster mold for the casting of the commemorative medal for the centenary of the heroine María Pita, defender of the city of La Coruña in 1589 against the English troops led by Sir Francis Drake. Only three medals were cast, all of them in silver, commissioned in 1890 by the “Liceo Brigantino” in La Coruña to commemorate the centenary. The piece is part of the Romero Ortiz Collection. 19th century. In the collection of the Spanish National Army Museum (Toledo, Spain). Catalog number MUE-25958. 3D model made using the Artec Space Spider scanner. Processing completed in Artec Studio Professional with additional processing completed in Geomagic Wrap.\n\nThis work is part of the collaboration agreement signed in 2021 between the Ministry of Defence (Spain) and Global Digital Heritage (GDH) for the digitization of the collections preserved by the Spanish National Army Museum located in Toledo. We want to publicly thank the collaboration of all the museum staff, both civilian and military.",
+  "price": null,
+  "downloadCount": 35,
+  "editorUrl": "https://sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-01-29T01:03:23.365240",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

@@ -1,0 +1,196 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+      "name": "Characters & Creatures",
+      "slug": "characters-creatures",
+      "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2026-06-04T14:53:16.770216",
+  "embedUrl": "https://sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/embed",
+  "faceCount": 198838,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 0,
+  "name": "Churchclara: Walter O'Keeffe Stone",
+  "publishedAt": "2026-06-04T14:58:37.634286",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "Strongman",
+      "slug": "strongman",
+      "uri": "https://api.sketchfab.com/v3/tags/strongman"
+    },
+    {
+      "name": "bullaun",
+      "slug": "bullaun",
+      "uri": "https://api.sketchfab.com/v3/tags/bullaun"
+    },
+    {
+      "name": "kilkenny3d",
+      "slug": "kilkenny3d",
+      "uri": "https://api.sketchfab.com/v3/tags/kilkenny3d"
+    },
+    {
+      "name": "lifting-stone",
+      "slug": "lifting-stone",
+      "uri": "https://api.sketchfab.com/v3/tags/lifting-stone"
+    },
+    {
+      "name": "kiriengine",
+      "slug": "kiriengine",
+      "uri": "https://api.sketchfab.com/v3/tags/kiriengine"
+    },
+    {
+      "name": "smr-ie",
+      "slug": "smr-ie",
+      "uri": "https://api.sketchfab.com/v3/tags/smr-ie"
+    },
+    {
+      "name": "bullaun-stone",
+      "slug": "bullaun-stone",
+      "uri": "https://api.sketchfab.com/v3/tags/bullaun-stone"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "e5e385ed0c564b95b9e9d9500ce5e117",
+        "width": 1920,
+        "height": 1080,
+        "size": 157774,
+        "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/f3198087d0a34f57861feb6564e5a234.jpeg"
+      },
+      {
+        "uid": "ebc7c23331e44a33bce734126f9518ba",
+        "width": 1024,
+        "height": 576,
+        "size": 37256,
+        "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/f8bf9cc534884a21b20499c4d9a5022e.jpeg"
+      },
+      {
+        "uid": "a31ce2ffb67c4b118275070e7f1ed1af",
+        "width": 720,
+        "height": 405,
+        "size": 19110,
+        "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/fba6ec8c48814017b9b0de36a7686087.jpeg"
+      },
+      {
+        "uid": "397e90e9000c45c1b8f028da2d932cda",
+        "width": 256,
+        "height": 144,
+        "size": 3504,
+        "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/a1e2a16820e74bd386e99cae905cf9d6.jpeg"
+      },
+      {
+        "uid": "aedaa18ed0ec4f09a8ee2ad9aaa7457c",
+        "width": 64,
+        "height": 36,
+        "size": 955,
+        "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/6e2d0fb8d72f443fa8d97ee7dd6f8781.jpeg"
+      }
+    ]
+  },
+  "uid": "b7b40f9573f5456d89c8513b8ae7932e",
+  "uri": "https://api.sketchfab.com/v3/models/b7b40f9573f5456d89c8513b8ae7932e",
+  "user": {
+    "uid": "4d9ac526066f4adc90a32dd57ddc42dc",
+    "username": "b-unicycling",
+    "displayName": "b-unicycling",
+    "account": "pro",
+    "profileUrl": "https://sketchfab.com/b-unicycling",
+    "avatar": {
+      "uid": "6993d14140a241a9ac3a5b48ab9b6abc",
+      "uri": "https://api.sketchfab.com/v3/avatars/6993d14140a241a9ac3a5b48ab9b6abc",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 2335,
+          "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/6baf43359e634dba8122684a52e0bb72.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 4058,
+          "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/7977252be95f4b3a82341af4778882b4.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 8726,
+          "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/ec8ce19d537049fdba0a5421e7a38503.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 10011,
+          "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/e554dd6be43a4b3f9089c549228edb8c.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/4d9ac526066f4adc90a32dd57ddc42dc"
+  },
+  "vertexCount": 99849,
+  "viewCount": 14,
+  "viewerUrl": "https://sketchfab.com/3d-models/churchclara-walter-okeeffe-stone-b7b40f9573f5456d89c8513b8ae7932e",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This bullaun stone was described by Carrigan (1905) as a \"holy water font\" which had been carried \"about a century ago\" from the churchyard to the north of the churchyard. It is now on private land, but I had permission to scan it. Since Walter O'Keeffe carried it and challenged anyone to bring it back to the churchyard, it qualifies as a lifting stone. Carrigan writes that it weighs about 6cwt which makes it one of the heaviest in the country. Walter O'Keeffe died in October 18th 1752 aged 21 which dates his lift to before that date.\n\nSMR no.: KK020-017007-\n\nMade in KiriEngine from 77 images.",
+  "price": null,
+  "downloadCount": 7,
+  "editorUrl": "https://sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-06-04T15:01:54.794036",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

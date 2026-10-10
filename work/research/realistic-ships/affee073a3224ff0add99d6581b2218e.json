@@ -1,0 +1,329 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "93e6d27da62149c6b963039835f45997",
+      "name": "People",
+      "slug": "people",
+      "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 2,
+  "createdAt": "2017-06-28T15:48:27.574739",
+  "embedUrl": "https://sketchfab.com/models/affee073a3224ff0add99d6581b2218e/embed",
+  "faceCount": 28533,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 11,
+  "name": "Commemorative plaque - Jan Karel Zdenko Kotěra",
+  "publishedAt": "2017-07-18T09:57:40.159868",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "object",
+      "slug": "object",
+      "uri": "https://api.sketchfab.com/v3/tags/object"
+    },
+    {
+      "name": "people",
+      "slug": "people",
+      "uri": "https://api.sketchfab.com/v3/tags/people"
+    },
+    {
+      "name": "architect",
+      "slug": "architect",
+      "uri": "https://api.sketchfab.com/v3/tags/architect"
+    },
+    {
+      "name": "reality",
+      "slug": "reality",
+      "uri": "https://api.sketchfab.com/v3/tags/reality"
+    },
+    {
+      "name": "historical",
+      "slug": "historical",
+      "uri": "https://api.sketchfab.com/v3/tags/historical"
+    },
+    {
+      "name": "heritage",
+      "slug": "heritage",
+      "uri": "https://api.sketchfab.com/v3/tags/heritage"
+    },
+    {
+      "name": "cz",
+      "slug": "cz",
+      "uri": "https://api.sketchfab.com/v3/tags/cz"
+    },
+    {
+      "name": "vr",
+      "slug": "vr",
+      "uri": "https://api.sketchfab.com/v3/tags/vr"
+    },
+    {
+      "name": "designer",
+      "slug": "designer",
+      "uri": "https://api.sketchfab.com/v3/tags/designer"
+    },
+    {
+      "name": "jan",
+      "slug": "jan",
+      "uri": "https://api.sketchfab.com/v3/tags/jan"
+    },
+    {
+      "name": "realistic",
+      "slug": "realistic",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic"
+    },
+    {
+      "name": "modernism",
+      "slug": "modernism",
+      "uri": "https://api.sketchfab.com/v3/tags/modernism"
+    },
+    {
+      "name": "real",
+      "slug": "real",
+      "uri": "https://api.sketchfab.com/v3/tags/real"
+    },
+    {
+      "name": "plaque",
+      "slug": "plaque",
+      "uri": "https://api.sketchfab.com/v3/tags/plaque"
+    },
+    {
+      "name": "Czech",
+      "slug": "czech",
+      "uri": "https://api.sketchfab.com/v3/tags/czech"
+    },
+    {
+      "name": "realism",
+      "slug": "realism",
+      "uri": "https://api.sketchfab.com/v3/tags/realism"
+    },
+    {
+      "name": "Place",
+      "slug": "place",
+      "uri": "https://api.sketchfab.com/v3/tags/place"
+    },
+    {
+      "name": "Brno",
+      "slug": "brno",
+      "uri": "https://api.sketchfab.com/v3/tags/brno"
+    },
+    {
+      "name": "downtown",
+      "slug": "downtown",
+      "uri": "https://api.sketchfab.com/v3/tags/downtown"
+    },
+    {
+      "name": "downloadable",
+      "slug": "downloadable",
+      "uri": "https://api.sketchfab.com/v3/tags/downloadable"
+    },
+    {
+      "name": "location",
+      "slug": "location",
+      "uri": "https://api.sketchfab.com/v3/tags/location"
+    },
+    {
+      "name": "peoples",
+      "slug": "peoples",
+      "uri": "https://api.sketchfab.com/v3/tags/peoples"
+    },
+    {
+      "name": "kotera",
+      "slug": "kotera",
+      "uri": "https://api.sketchfab.com/v3/tags/kotera"
+    },
+    {
+      "name": "painter",
+      "slug": "painter",
+      "uri": "https://api.sketchfab.com/v3/tags/painter"
+    },
+    {
+      "name": "realitycapture",
+      "slug": "realitycapture",
+      "uri": "https://api.sketchfab.com/v3/tags/realitycapture"
+    },
+    {
+      "name": "architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/tags/architecture"
+    },
+    {
+      "name": "photogrammetry",
+      "slug": "photogrammetry",
+      "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+    },
+    {
+      "name": "art",
+      "slug": "art",
+      "uri": "https://api.sketchfab.com/v3/tags/art"
+    },
+    {
+      "name": "texture",
+      "slug": "texture",
+      "uri": "https://api.sketchfab.com/v3/tags/texture"
+    },
+    {
+      "name": "scan",
+      "slug": "scan",
+      "uri": "https://api.sketchfab.com/v3/tags/scan"
+    },
+    {
+      "name": "city",
+      "slug": "city",
+      "uri": "https://api.sketchfab.com/v3/tags/city"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    },
+    {
+      "name": "textured",
+      "slug": "textured",
+      "uri": "https://api.sketchfab.com/v3/tags/textured"
+    },
+    {
+      "name": "download",
+      "slug": "download",
+      "uri": "https://api.sketchfab.com/v3/tags/download"
+    },
+    {
+      "name": "history",
+      "slug": "history",
+      "uri": "https://api.sketchfab.com/v3/tags/history"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "9e8ebad67a5c4bbf9c59515b21f63556",
+        "width": 1024,
+        "height": 576,
+        "size": 87250,
+        "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/1024x576.jpeg"
+      },
+      {
+        "uid": "8e5643ad0b4a4b33b576f09171859f13",
+        "width": 720,
+        "height": 405,
+        "size": 45169,
+        "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/720x405.jpeg"
+      },
+      {
+        "uid": "c205b53b59994eaf95fcbb29db98ac99",
+        "width": 256,
+        "height": 144,
+        "size": 7468,
+        "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/256x144.jpeg"
+      },
+      {
+        "uid": "00917aa953294a529ca46eac6a63d149",
+        "width": 64,
+        "height": 36,
+        "size": 1268,
+        "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/64x36.jpeg"
+      }
+    ]
+  },
+  "uid": "affee073a3224ff0add99d6581b2218e",
+  "uri": "https://api.sketchfab.com/v3/models/affee073a3224ff0add99d6581b2218e",
+  "user": {
+    "uid": "56b017a4f5a94a12b029692e61ec3dab",
+    "username": "3dhdscan",
+    "displayName": "3dhdscan",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/3dhdscan",
+    "avatar": {
+      "uid": "8a719802f04443328e6f851e04c97f0d",
+      "uri": "https://api.sketchfab.com/v3/avatars/8a719802f04443328e6f851e04c97f0d",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1252,
+          "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/651d16522ad54854bf2b9401855dae45.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1803,
+          "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/1e5ad91e53ed4b68b6cebeea44327471.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 4066,
+          "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/6ae506f72563454e9dbc7c4fbc38984d.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4600,
+          "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/629d3393be2c48a1b6f244a5f661ebbb.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/56b017a4f5a94a12b029692e61ec3dab"
+  },
+  "vertexCount": 14620,
+  "viewCount": 253,
+  "viewerUrl": "https://sketchfab.com/3d-models/commemorative-plaque-jan-karel-zdenko-kotera-affee073a3224ff0add99d6581b2218e",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Jan Karel Zdenko Kotěra (18th December 1871 Brno - 17th April 1923 Prague) was a Czech architect, urban designer, architect, furniture designer and painter. Kotěra was born in Brno, the largest city in Moravia, to a Czech father and German-speaking mother. He studied architecture in Vienna during the waning days of the Austro-Hungarian Empire under the Viennese master Otto Wagner. Kotěra returned to Prague in 1897 to help found a dynamic movement of Czech nationalist artists and architects centered on the Mánes Union of Fine Arts. Strongly influenced by the work of the Vienna Secession, his work bridged late nineteenth-century architectural design and early modernism. Kotěra collaborated with Czech sculptors Jan Štursa, Stanislav Sucharda, and Stanislav's son Vojtěch Sucharda on a number of buildings. As a teacher, Kotěra trained a generation of Czech architects, including Josef Gočár, who would bring Czech modernism to its pinnacle in the years leading up to the Nazi occupation in 1939.",
+  "price": null,
+  "downloadCount": 96,
+  "editorUrl": "https://sketchfab.com/models/affee073a3224ff0add99d6581b2218e/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website-archived",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-10T22:48:35.634607",
+  "pbrType": null,
+  "textureCount": 3,
+  "materialCount": 1
+}

@@ -1,0 +1,206 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 18,
+  "createdAt": "2020-06-10T12:56:31.639199",
+  "embedUrl": "https://sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/embed",
+  "faceCount": 587159,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 956,
+  "name": "Aleksandr class archipelago frigate",
+  "publishedAt": "2020-12-18T09:59:20.906639",
+  "soundCount": 0,
+  "staffpickedAt": "2020-12-23T13:25:06.440068",
+  "tags": [
+    {
+      "name": "russia",
+      "slug": "russia",
+      "uri": "https://api.sketchfab.com/v3/tags/russia"
+    },
+    {
+      "name": "warfare",
+      "slug": "warfare",
+      "uri": "https://api.sketchfab.com/v3/tags/warfare"
+    },
+    {
+      "name": "Frigate",
+      "slug": "frigate",
+      "uri": "https://api.sketchfab.com/v3/tags/frigate"
+    },
+    {
+      "name": "18th-century",
+      "slug": "18th-century",
+      "uri": "https://api.sketchfab.com/v3/tags/18th-century"
+    },
+    {
+      "name": "sailing-ship",
+      "slug": "sailing-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing-ship"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "navy",
+      "slug": "navy",
+      "uri": "https://api.sketchfab.com/v3/tags/navy"
+    },
+    {
+      "name": "baltic-sea",
+      "slug": "baltic-sea",
+      "uri": "https://api.sketchfab.com/v3/tags/baltic-sea"
+    },
+    {
+      "name": "svensksund",
+      "slug": "svensksund",
+      "uri": "https://api.sketchfab.com/v3/tags/svensksund"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "70776604b2c24134a1497dcc14327108",
+        "width": 1920,
+        "height": 1080,
+        "size": 173278,
+        "url": "https://media.sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/thumbnails/85d2f3b0d87b4c13a8234077e26fcd73/81dfd6bd2edf44888bc12eb0e10c8f44.jpeg"
+      },
+      {
+        "uid": "b54cea57dfa64866937ebde932c513c9",
+        "width": 1024,
+        "height": 576,
+        "size": 56044,
+        "url": "https://media.sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/thumbnails/85d2f3b0d87b4c13a8234077e26fcd73/9cae8b69c4ca495caed2c2a9976f66a6.jpeg"
+      },
+      {
+        "uid": "6d9594c0bd6d46368957fb04cc7ea467",
+        "width": 720,
+        "height": 405,
+        "size": 31532,
+        "url": "https://media.sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/thumbnails/85d2f3b0d87b4c13a8234077e26fcd73/2c77c685b84d405398d9b83e3a0a7c2b.jpeg"
+      },
+      {
+        "uid": "48440518dfbf444d8b7fdf91f5c84452",
+        "width": 256,
+        "height": 144,
+        "size": 5473,
+        "url": "https://media.sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/thumbnails/85d2f3b0d87b4c13a8234077e26fcd73/23e3bd5ed28e473c9b12826f3533b92c.jpeg"
+      },
+      {
+        "uid": "f7752fc77331436bacc47794861ce49b",
+        "width": 64,
+        "height": 36,
+        "size": 829,
+        "url": "https://media.sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/thumbnails/85d2f3b0d87b4c13a8234077e26fcd73/38fc22ba53324daaa2a5f896bcec11b6.jpeg"
+      }
+    ]
+  },
+  "uid": "f82f40ca04d84a24868a453c4e3a16c2",
+  "uri": "https://api.sketchfab.com/v3/models/f82f40ca04d84a24868a453c4e3a16c2",
+  "user": {
+    "uid": "11896623337f4b9babf54f25938ce164",
+    "username": "Museovirasto",
+    "displayName": "Museovirasto Museiverket Finnish Heritage Agency",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Museovirasto",
+    "avatar": {
+      "uid": "190fff2c1ef94e869f5fdd0bf7a9a9b4",
+      "uri": "https://api.sketchfab.com/v3/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 678,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c8650e9a5d2342d7b9550a43e905c24b.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 844,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c508256ac465494ea57907cd8983f285.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 1779,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/2993c4f2c3024e00a0cc32cfc484f666.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 1855,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/cb7e9a7e8c87450f9773e281053b73eb.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/11896623337f4b9babf54f25938ce164"
+  },
+  "vertexCount": 306484,
+  "viewCount": 63380,
+  "viewerUrl": "https://sketchfab.com/3d-models/aleksandr-class-archipelago-frigate-f82f40ca04d84a24868a453c4e3a16c2",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "The Aleksander class frigate was the largest Russian archipelago navy class ship in 1790 on the Baltic Sea. Five of these ships took part in the Second Battle of Svensksund on July 9th and were lost (taken over, sunk, or burnt), while eight frigates in total were built during the war of 1788–1790 against Sweden. Aleksandr class frigates had a typical ship rig of the period. Aleksandr class is known as an archipelago or rowing frigate. The hull has nine smaller holes between gun deck main gun ports.\n\nHull dimensions:\n•\tLength at waterline: 39.60 m\n•\tGreatest width (breadth): 9.80 m\n•\tGreatest depth: 3.6 m\n\nProject ship 01B, Russian Aleksander Frigate Class, Open sails, 9.5.2020, programs: Blender, Substance Painter, UE4\n\nThis model was created in the National Museum of Finland project \"Historia eläväksi digitaalisella tarinankerronnalla\" by Zoan Oy.",
+  "price": null,
+  "downloadCount": 14599,
+  "editorUrl": "https://sketchfab.com/models/f82f40ca04d84a24868a453c4e3a16c2/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-21T07:10:26.201485",
+  "pbrType": null,
+  "textureCount": 64,
+  "materialCount": 36
+}

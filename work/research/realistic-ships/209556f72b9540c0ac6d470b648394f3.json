@@ -1,0 +1,157 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 2,
+  "createdAt": "2020-06-22T12:24:04.493215",
+  "embedUrl": "https://sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/embed",
+  "faceCount": 659861,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 8,
+  "name": "RSS Marrion",
+  "publishedAt": "2020-06-22T13:21:23.686306",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "cruiser",
+      "slug": "cruiser",
+      "uri": "https://api.sketchfab.com/v3/tags/cruiser"
+    },
+    {
+      "name": "iron-clad",
+      "slug": "iron-clad",
+      "uri": "https://api.sketchfab.com/v3/tags/iron-clad"
+    },
+    {
+      "name": "noai",
+      "slug": "noai",
+      "uri": "https://api.sketchfab.com/v3/tags/noai"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "2b1fc6ea83204eaa84b4fc9ea6072ac6",
+        "width": 1920,
+        "height": 1080,
+        "size": 93542,
+        "url": "https://media.sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/thumbnails/3aec1f2a2ce842968f7fe0af5d2e8ee3/88f6bf6f4cbf4f65a4b0e60e9b3901d4.jpeg"
+      },
+      {
+        "uid": "8775fc15133b4005a3b39a67882281de",
+        "width": 1024,
+        "height": 576,
+        "size": 32930,
+        "url": "https://media.sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/thumbnails/3aec1f2a2ce842968f7fe0af5d2e8ee3/f04990c51ae74ae099947dc0bdf82c2f.jpeg"
+      },
+      {
+        "uid": "660730a02ef441a285f9a6dbe5a56f63",
+        "width": 720,
+        "height": 405,
+        "size": 19721,
+        "url": "https://media.sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/thumbnails/3aec1f2a2ce842968f7fe0af5d2e8ee3/852cf55aa5ba480fab8dceeb7e525229.jpeg"
+      },
+      {
+        "uid": "70c67521aa754e5cbd3dcdcf6e7b6aed",
+        "width": 256,
+        "height": 144,
+        "size": 4736,
+        "url": "https://media.sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/thumbnails/3aec1f2a2ce842968f7fe0af5d2e8ee3/e1f5ce6f96194af6aba842489347b1d5.jpeg"
+      },
+      {
+        "uid": "e1c4fb70a9a64efb8e10346003eef9ba",
+        "width": 64,
+        "height": 36,
+        "size": 971,
+        "url": "https://media.sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/thumbnails/3aec1f2a2ce842968f7fe0af5d2e8ee3/f592de9a029b44d5a7a97a3ccf8005be.jpeg"
+      }
+    ]
+  },
+  "uid": "209556f72b9540c0ac6d470b648394f3",
+  "uri": "https://api.sketchfab.com/v3/models/209556f72b9540c0ac6d470b648394f3",
+  "user": {
+    "uid": "e9a7417674074b73a08cabea08a07d25",
+    "username": "martyn169",
+    "displayName": "martyn169",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/martyn169",
+    "avatar": {
+      "uid": "0dd9b9a3629345e287f239c716c8ba73",
+      "uri": "https://api.sketchfab.com/v3/avatars/0dd9b9a3629345e287f239c716c8ba73",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1020,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/c8360b2c86b84035bea7d343be12bba0.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1304,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/6a9cb785e6804fe69a35b334a208a0f0.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2549,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/8e5c987a02cb43e9a694ea96aabed2b5.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2893,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/d3fcc9e17fee410bb8d381aa5794014b.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/e9a7417674074b73a08cabea08a07d25"
+  },
+  "vertexCount": 265711,
+  "viewCount": 607,
+  "viewerUrl": "https://sketchfab.com/3d-models/rss-marrion-209556f72b9540c0ac6d470b648394f3",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "RSS Marrion is an Ironclad fleet-cruiser built for the Svenberg navy.  She and 7 others of her type were laid down in 4454 as part of a naval program to remove the aging wooden fleets and replace them with the newer and better Ironclads. Her main purpose was to serve along side capital ships in fleet operations and to take on the older tall ships of the line. The main 150mm guns could fire high explosive or semi armour piercing rounds, which would often tear through the weaker wooden ships outer hull and cause heavy damage inside.  They still used sails and were 2 knots slower than the Krackens at 14 knots, however they could still outpace the older wooden ships, and even absorb allot of punishment in the process.\n\nThe Marrion class as a whole would only last 20 years before being put in reserve before being scrapped a further 20 after that, however they did provide important lessons on how Iron cruisers could work.",
+  "price": null,
+  "downloadCount": 99,
+  "editorUrl": "https://sketchfab.com/models/209556f72b9540c0ac6d470b648394f3/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-11-21T18:03:55.139117",
+  "pbrType": null,
+  "textureCount": 2,
+  "materialCount": 27
+}

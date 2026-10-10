@@ -1,0 +1,176 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-05-16T10:38:53.758618",
+  "embedUrl": "https://sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/embed",
+  "faceCount": 6148002,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 19,
+  "name": "Casa de Braganca",
+  "publishedAt": "2025-05-16T10:44:15.190931",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "castle",
+      "slug": "castle",
+      "uri": "https://api.sketchfab.com/v3/tags/castle"
+    },
+    {
+      "name": "portugal",
+      "slug": "portugal",
+      "uri": "https://api.sketchfab.com/v3/tags/portugal"
+    },
+    {
+      "name": "palace",
+      "slug": "palace",
+      "uri": "https://api.sketchfab.com/v3/tags/palace"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "2d8af49b59374bae9ef425b76094d3f3",
+        "width": 1920,
+        "height": 1080,
+        "size": 267950,
+        "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/e446e9a25fac48659998410b350b3d80.jpeg"
+      },
+      {
+        "uid": "a930dd80423447b28f98f3eb46e489a4",
+        "width": 1024,
+        "height": 576,
+        "size": 76770,
+        "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/5078e1a1fb514ce8a8d8c94be234f36f.jpeg"
+      },
+      {
+        "uid": "f7a875b45ac5457e86a01603d1f7d674",
+        "width": 720,
+        "height": 405,
+        "size": 40796,
+        "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/9a25feb69ed84c5f92ccbaa75026e72f.jpeg"
+      },
+      {
+        "uid": "4ecd4f7397b544e4bd8e9043e7672c9f",
+        "width": 256,
+        "height": 144,
+        "size": 7042,
+        "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/1e6ea9eeb4bb4b03a96bf6ccd034e6ca.jpeg"
+      },
+      {
+        "uid": "fd279de1b96d458baecbc86554904527",
+        "width": 64,
+        "height": 36,
+        "size": 1316,
+        "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/660c4d75379a4e57a58727af3f2b8ba0.jpeg"
+      }
+    ]
+  },
+  "uid": "e9b7bdd241e745a8a4b98dd2bfc1c925",
+  "uri": "https://api.sketchfab.com/v3/models/e9b7bdd241e745a8a4b98dd2bfc1c925",
+  "user": {
+    "uid": "9870ea520e01438b8945cb896871bb73",
+    "username": "johnagotinho",
+    "displayName": "VirtualPhoto3D",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/johnagotinho",
+    "avatar": {
+      "uid": "838a212d1fb847979998978d358c0c88",
+      "uri": "https://api.sketchfab.com/v3/avatars/838a212d1fb847979998978d358c0c88",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 2311,
+          "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/d3c648949ddd475fb443f59af6f888dc.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 4612,
+          "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/25bf267807134dc88d2884e78700182b.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 13420,
+          "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/3c0394f777c647e99e7e28e65f60cd65.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 15927,
+          "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/f6429a4e367a488181340f1e2b2fa703.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/9870ea520e01438b8945cb896871bb73"
+  },
+  "vertexCount": 3079346,
+  "viewCount": 870,
+  "viewerUrl": "https://sketchfab.com/3d-models/casa-de-braganca-e9b7bdd241e745a8a4b98dd2bfc1c925",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "The Most Serene House of Braganza, also known as the Brigantine dynasty, is a noble family of Portuguese origin that produced emperors, kings, princes, and dukes who ruled in both Europe and the Americas.\n\nFounded by Afonso I, the 1st Duke of Braganza and the illegitimate son of King John I of Portugal from the House of Aviz, the house grew to become one of the wealthiest and most influential noble families in Iberia during the Renaissance. The Braganza family rose to power by overthrowing the Philippine Dynasty in the Restoration War, leading to the Duke of Braganza ascending to the throne as King John IV of Portugal in 1640. The Braganzas then ruled Portugal and its empire from 1640 onward. With the establishment of the United Kingdom of Portugal, Brazil, and the Algarves in 1815, and Brazil's independence in 1822, the Braganza family also became monarchs of Brazil.\n\nLocation: Guimaraes, Portugal\nPhotogrammetry Capture Method: DJI Mini2",
+  "price": null,
+  "downloadCount": 166,
+  "editorUrl": "https://sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "agisoft-photoscan",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-08-28T22:27:09.812973",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 1
+}

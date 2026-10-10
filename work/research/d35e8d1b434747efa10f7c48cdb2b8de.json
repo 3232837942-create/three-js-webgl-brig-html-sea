@@ -1,0 +1,282 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2026-03-22T21:01:53.863561",
+  "embedUrl": "https://sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/embed",
+  "faceCount": 1851708,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 2,
+  "name": "Nao Victoria Galleon Ship –",
+  "publishedAt": "2026-03-22T21:06:02.846446",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "wooden",
+      "slug": "wooden",
+      "uri": "https://api.sketchfab.com/v3/tags/wooden"
+    },
+    {
+      "name": "historical",
+      "slug": "historical",
+      "uri": "https://api.sketchfab.com/v3/tags/historical"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "nao",
+      "slug": "nao",
+      "uri": "https://api.sketchfab.com/v3/tags/nao"
+    },
+    {
+      "name": "victoria",
+      "slug": "victoria",
+      "uri": "https://api.sketchfab.com/v3/tags/victoria"
+    },
+    {
+      "name": "ready",
+      "slug": "ready",
+      "uri": "https://api.sketchfab.com/v3/tags/ready"
+    },
+    {
+      "name": "museo",
+      "slug": "museo",
+      "uri": "https://api.sketchfab.com/v3/tags/museo"
+    },
+    {
+      "name": "vr",
+      "slug": "vr",
+      "uri": "https://api.sketchfab.com/v3/tags/vr"
+    },
+    {
+      "name": "ar",
+      "slug": "ar",
+      "uri": "https://api.sketchfab.com/v3/tags/ar"
+    },
+    {
+      "name": "historico",
+      "slug": "historico",
+      "uri": "https://api.sketchfab.com/v3/tags/historico"
+    },
+    {
+      "name": "replica",
+      "slug": "replica",
+      "uri": "https://api.sketchfab.com/v3/tags/replica"
+    },
+    {
+      "name": "naval",
+      "slug": "naval",
+      "uri": "https://api.sketchfab.com/v3/tags/naval"
+    },
+    {
+      "name": "first",
+      "slug": "first",
+      "uri": "https://api.sketchfab.com/v3/tags/first"
+    },
+    {
+      "name": "galleon",
+      "slug": "galleon",
+      "uri": "https://api.sketchfab.com/v3/tags/galleon"
+    },
+    {
+      "name": "Barco",
+      "slug": "barco",
+      "uri": "https://api.sketchfab.com/v3/tags/barco"
+    },
+    {
+      "name": "Maritime",
+      "slug": "maritime",
+      "uri": "https://api.sketchfab.com/v3/tags/maritime"
+    },
+    {
+      "name": "historica",
+      "slug": "historica",
+      "uri": "https://api.sketchfab.com/v3/tags/historica"
+    },
+    {
+      "name": "velero",
+      "slug": "velero",
+      "uri": "https://api.sketchfab.com/v3/tags/velero"
+    },
+    {
+      "name": "navegacion",
+      "slug": "navegacion",
+      "uri": "https://api.sketchfab.com/v3/tags/navegacion"
+    },
+    {
+      "name": "magallanes",
+      "slug": "magallanes",
+      "uri": "https://api.sketchfab.com/v3/tags/magallanes"
+    },
+    {
+      "name": "circumnavigation",
+      "slug": "circumnavigation",
+      "uri": "https://api.sketchfab.com/v3/tags/circumnavigation"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "uri": "https://api.sketchfab.com/v3/tags/3d"
+    },
+    {
+      "name": "blender",
+      "slug": "blender",
+      "uri": "https://api.sketchfab.com/v3/tags/blender"
+    },
+    {
+      "name": "model",
+      "slug": "model",
+      "uri": "https://api.sketchfab.com/v3/tags/model"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "sketchfab",
+      "slug": "sketchfab",
+      "uri": "https://api.sketchfab.com/v3/tags/sketchfab"
+    },
+    {
+      "name": "history",
+      "slug": "history",
+      "uri": "https://api.sketchfab.com/v3/tags/history"
+    },
+    {
+      "name": "exploracion",
+      "slug": "exploracion",
+      "uri": "https://api.sketchfab.com/v3/tags/exploracion"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "8f9a40358306483ab9e9aa129cfa621d",
+        "width": 1920,
+        "height": 1080,
+        "size": 85135,
+        "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/21762b6a915e4303b329cc6819426e4a.jpeg"
+      },
+      {
+        "uid": "39474d46281c4e88bfb8ba895eecf411",
+        "width": 1024,
+        "height": 576,
+        "size": 27829,
+        "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/230deb4e91dd40bf99fb2e071adbaf3c.jpeg"
+      },
+      {
+        "uid": "908a107dd9cb47849912c1bb695aa0e4",
+        "width": 720,
+        "height": 405,
+        "size": 16151,
+        "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/e86c75be03aa409183b50d2e24698288.jpeg"
+      },
+      {
+        "uid": "47a83df857f7459b936f5cc1f9f0db43",
+        "width": 256,
+        "height": 144,
+        "size": 3261,
+        "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/af823ffa90be42bf99ea442e3f069f01.jpeg"
+      },
+      {
+        "uid": "76c112f1e3d14cad99a1869d494edb9c",
+        "width": 64,
+        "height": 36,
+        "size": 949,
+        "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/3a2d5f8aa6eb4ea4b71ba76ad234d8e8.jpeg"
+      }
+    ]
+  },
+  "uid": "d35e8d1b434747efa10f7c48cdb2b8de",
+  "uri": "https://api.sketchfab.com/v3/models/d35e8d1b434747efa10f7c48cdb2b8de",
+  "user": {
+    "uid": "b0e15aa850ea4858b5e0705ae6f7ce9f",
+    "username": "soysascha",
+    "displayName": "soysascha",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/soysascha",
+    "avatar": {
+      "uid": "a25baa2540a14d8c829ebf6a77cfafb8",
+      "uri": "https://api.sketchfab.com/v3/avatars/a25baa2540a14d8c829ebf6a77cfafb8",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 902,
+          "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/fb43e85dc312425e9ac7e343d10f9ea0.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1217,
+          "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/c84c20ef3a8942bab76de0d8670f7485.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2458,
+          "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/a6ad2235162e46bab015d54b4f098c33.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2711,
+          "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/a624fd21d31744e3a29292f78e3978a3.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/b0e15aa850ea4858b5e0705ae6f7ce9f"
+  },
+  "vertexCount": 921334,
+  "viewCount": 355,
+  "viewerUrl": "https://sketchfab.com/3d-models/nao-victoria-galleon-ship-d35e8d1b434747efa10f7c48cdb2b8de",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "La Nao Victoria fue una de las cinco embarcaciones de la expedición de Magallanes‑Elcano (1519–1522) y la única en completar la primera circunnavegación del mundo.",
+  "price": null,
+  "downloadCount": 30,
+  "editorUrl": "https://sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-03-22T21:06:03.415209",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

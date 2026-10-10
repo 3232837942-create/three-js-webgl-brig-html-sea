@@ -1,0 +1,172 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 2,
+  "createdAt": "2024-09-13T07:18:59.599275",
+  "embedUrl": "https://sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/embed",
+  "faceCount": 503581,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 25,
+  "name": "Merchant Schooner",
+  "publishedAt": "2024-09-13T07:29:57.803822",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "sailboat",
+      "slug": "sailboat",
+      "uri": "https://api.sketchfab.com/v3/tags/sailboat"
+    },
+    {
+      "name": "Schooner",
+      "slug": "schooner",
+      "uri": "https://api.sketchfab.com/v3/tags/schooner"
+    },
+    {
+      "name": "sailship",
+      "slug": "sailship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailship"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    },
+    {
+      "name": "merchant-ship",
+      "slug": "merchant-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/merchant-ship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "f38b63e5d3264f708aac0a3094feedbf",
+        "width": 1920,
+        "height": 1080,
+        "size": 151845,
+        "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/77519404fa8540f9a41731b7cd23d570.jpeg"
+      },
+      {
+        "uid": "90650377c1dc43d4a021d635b35efa0a",
+        "width": 1024,
+        "height": 576,
+        "size": 52216,
+        "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/3c225ff1149147c191297ad726adc29f.jpeg"
+      },
+      {
+        "uid": "20766ff3c99548cab655f7fd0e9c23f3",
+        "width": 720,
+        "height": 405,
+        "size": 30447,
+        "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/c0195fe467ed4670983b63f6222441a5.jpeg"
+      },
+      {
+        "uid": "aec3709f170e4b469ae352fb61beb03e",
+        "width": 256,
+        "height": 144,
+        "size": 6067,
+        "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/69435167d071419da5c7dcf6edd2ea8c.jpeg"
+      },
+      {
+        "uid": "4d569acf0f884ce7bd813ff9d72f079c",
+        "width": 64,
+        "height": 36,
+        "size": 1246,
+        "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/63da85207ad44c30921f0eca9ee9fee3.jpeg"
+      }
+    ]
+  },
+  "uid": "4a5a10c4049e4ed98ce5bcbc831a0ddc",
+  "uri": "https://api.sketchfab.com/v3/models/4a5a10c4049e4ed98ce5bcbc831a0ddc",
+  "user": {
+    "uid": "3709544d29e542d2989244e0670b7a52",
+    "username": "agt14032013",
+    "displayName": "gogiart",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/agt14032013",
+    "avatar": {
+      "uid": "be989a2104b047cc882c39685069745e",
+      "uri": "https://api.sketchfab.com/v3/avatars/be989a2104b047cc882c39685069745e",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 875,
+          "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/d874b21593b8463c8dd88e8539ffc5d6.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1420,
+          "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/5c405cf3bf684f37bf447b11dd52874e.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3355,
+          "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/0a0328115a0441068e3ea5455296915a.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3884,
+          "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/09692fe79b4641d5a31627f462575c74.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/3709544d29e542d2989244e0670b7a52"
+  },
+  "vertexCount": 257214,
+  "viewCount": 1155,
+  "viewerUrl": "https://sketchfab.com/3d-models/merchant-schooner-4a5a10c4049e4ed98ce5bcbc831a0ddc",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "",
+  "price": null,
+  "downloadCount": 262,
+  "editorUrl": "https://sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-09-13T07:30:30.025923",
+  "pbrType": null,
+  "textureCount": 16,
+  "materialCount": 20
+}

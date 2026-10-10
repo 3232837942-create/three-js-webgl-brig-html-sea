@@ -1,0 +1,184 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+      "name": "Furniture & Home",
+      "slug": "furniture-home",
+      "uri": "https://api.sketchfab.com/v3/categories/606f202e5a3c4e62bf9aab1cd9f63e1b",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/c999ae9e0525ccfb8fd8953190d5307d-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/606f202e5a3c4e62bf9aab1cd9f63e1b/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 15,
+  "createdAt": "2017-11-10T17:25:39.719798",
+  "embedUrl": "https://sketchfab.com/models/ac65e0168e8c423db9c9fdc71397c84e/embed",
+  "faceCount": 250000,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+    "label": "CC Attribution-NonCommercial",
+    "fullName": "Creative Commons Attribution-NonCommercial",
+    "requirements": "Author must be credited. No commercial use.",
+    "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "slug": "by-nc"
+  },
+  "likeCount": 845,
+  "name": "Sailing Ship Model",
+  "publishedAt": "2017-11-10T17:38:03.502526",
+  "soundCount": 0,
+  "staffpickedAt": "2017-11-14T09:15:02.311780",
+  "tags": [
+    {
+      "name": "meshlab",
+      "slug": "meshlab",
+      "uri": "https://api.sketchfab.com/v3/tags/meshlab"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "photogrammetry",
+      "slug": "photogrammetry",
+      "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+    },
+    {
+      "name": "3dscan",
+      "slug": "3dscan",
+      "uri": "https://api.sketchfab.com/v3/tags/3dscan"
+    },
+    {
+      "name": "wood",
+      "slug": "wood",
+      "uri": "https://api.sketchfab.com/v3/tags/wood"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "029e86b00def45378d8d15dc58555d7f",
+        "width": 1024,
+        "height": 576,
+        "size": 59075,
+        "url": "https://media.sketchfab.com/models/ac65e0168e8c423db9c9fdc71397c84e/thumbnails/01c205ad8d3b42188479ab84d00d9d58/1024x576.jpeg"
+      },
+      {
+        "uid": "ec16f9c158d4441a91d519f6f92ece11",
+        "width": 720,
+        "height": 405,
+        "size": 34394,
+        "url": "https://media.sketchfab.com/models/ac65e0168e8c423db9c9fdc71397c84e/thumbnails/01c205ad8d3b42188479ab84d00d9d58/720x405.jpeg"
+      },
+      {
+        "uid": "354f8e1d6ff340ce8d492c0b4d14c4de",
+        "width": 256,
+        "height": 144,
+        "size": 6520,
+        "url": "https://media.sketchfab.com/models/ac65e0168e8c423db9c9fdc71397c84e/thumbnails/01c205ad8d3b42188479ab84d00d9d58/256x144.jpeg"
+      },
+      {
+        "uid": "79399af1a4cd4abaaa332ac5e651e9ca",
+        "width": 64,
+        "height": 36,
+        "size": 1329,
+        "url": "https://media.sketchfab.com/models/ac65e0168e8c423db9c9fdc71397c84e/thumbnails/01c205ad8d3b42188479ab84d00d9d58/64x36.jpeg"
+      }
+    ]
+  },
+  "uid": "ac65e0168e8c423db9c9fdc71397c84e",
+  "uri": "https://api.sketchfab.com/v3/models/ac65e0168e8c423db9c9fdc71397c84e",
+  "user": {
+    "uid": "31356005ae604b7594b7f7d6ffb620d4",
+    "username": "spogna",
+    "displayName": "Andrea Spognetta (Spogna)",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/spogna",
+    "avatar": {
+      "uid": "4878eb622af9437196e0db819da1d522",
+      "uri": "https://api.sketchfab.com/v3/avatars/4878eb622af9437196e0db819da1d522",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 781,
+          "url": "https://media.sketchfab.com/avatars/4878eb622af9437196e0db819da1d522/e983bf9b8a514bb9ae7a338d42ed70eb.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1259,
+          "url": "https://media.sketchfab.com/avatars/4878eb622af9437196e0db819da1d522/e27db1126a374dbc8e29944332fb42a3.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3235,
+          "url": "https://media.sketchfab.com/avatars/4878eb622af9437196e0db819da1d522/0559ec81fdbb468aa8b644b6c44d6ac9.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3791,
+          "url": "https://media.sketchfab.com/avatars/4878eb622af9437196e0db819da1d522/65d0b988b7b54567860d6cdd10c1c623.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/31356005ae604b7594b7f7d6ffb620d4"
+  },
+  "vertexCount": 124308,
+  "viewCount": 49685,
+  "viewerUrl": "https://sketchfab.com/3d-models/sailing-ship-model-ac65e0168e8c423db9c9fdc71397c84e",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "232 photos\nH:22cm W:22cm",
+  "price": null,
+  "downloadCount": 9645,
+  "editorUrl": "https://sketchfab.com/models/ac65e0168e8c423db9c9fdc71397c84e/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-20T14:42:51.860049",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

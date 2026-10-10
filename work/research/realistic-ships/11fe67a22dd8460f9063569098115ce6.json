@@ -1,0 +1,341 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2020-05-12T14:08:11.772831",
+  "embedUrl": "https://sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/embed",
+  "faceCount": 452081,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 46,
+  "name": "Model pracovní lodi - 1912 - Barge model",
+  "publishedAt": "2020-05-12T14:48:24.787960",
+  "soundCount": 1,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "in",
+      "slug": "in",
+      "uri": "https://api.sketchfab.com/v3/tags/in"
+    },
+    {
+      "name": "wooden",
+      "slug": "wooden",
+      "uri": "https://api.sketchfab.com/v3/tags/wooden"
+    },
+    {
+      "name": "yacht",
+      "slug": "yacht",
+      "uri": "https://api.sketchfab.com/v3/tags/yacht"
+    },
+    {
+      "name": "sail",
+      "slug": "sail",
+      "uri": "https://api.sketchfab.com/v3/tags/sail"
+    },
+    {
+      "name": "3d-scan",
+      "slug": "3d-scan",
+      "uri": "https://api.sketchfab.com/v3/tags/3d-scan"
+    },
+    {
+      "name": "barge",
+      "slug": "barge",
+      "uri": "https://api.sketchfab.com/v3/tags/barge"
+    },
+    {
+      "name": "hull",
+      "slug": "hull",
+      "uri": "https://api.sketchfab.com/v3/tags/hull"
+    },
+    {
+      "name": "ms",
+      "slug": "ms",
+      "uri": "https://api.sketchfab.com/v3/tags/ms"
+    },
+    {
+      "name": "german",
+      "slug": "german",
+      "uri": "https://api.sketchfab.com/v3/tags/german"
+    },
+    {
+      "name": "class",
+      "slug": "class",
+      "uri": "https://api.sketchfab.com/v3/tags/class"
+    },
+    {
+      "name": "antique",
+      "slug": "antique",
+      "uri": "https://api.sketchfab.com/v3/tags/antique"
+    },
+    {
+      "name": "sailor",
+      "slug": "sailor",
+      "uri": "https://api.sketchfab.com/v3/tags/sailor"
+    },
+    {
+      "name": "warfare",
+      "slug": "warfare",
+      "uri": "https://api.sketchfab.com/v3/tags/warfare"
+    },
+    {
+      "name": "props",
+      "slug": "props",
+      "uri": "https://api.sketchfab.com/v3/tags/props"
+    },
+    {
+      "name": "museum",
+      "slug": "museum",
+      "uri": "https://api.sketchfab.com/v3/tags/museum"
+    },
+    {
+      "name": "realistic",
+      "slug": "realistic",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic"
+    },
+    {
+      "name": "Repair",
+      "slug": "repair",
+      "uri": "https://api.sketchfab.com/v3/tags/repair"
+    },
+    {
+      "name": "Frigate",
+      "slug": "frigate",
+      "uri": "https://api.sketchfab.com/v3/tags/frigate"
+    },
+    {
+      "name": "archives",
+      "slug": "archives",
+      "uri": "https://api.sketchfab.com/v3/tags/archives"
+    },
+    {
+      "name": "elbe",
+      "slug": "elbe",
+      "uri": "https://api.sketchfab.com/v3/tags/elbe"
+    },
+    {
+      "name": "kaiser",
+      "slug": "kaiser",
+      "uri": "https://api.sketchfab.com/v3/tags/kaiser"
+    },
+    {
+      "name": "usti",
+      "slug": "usti",
+      "uri": "https://api.sketchfab.com/v3/tags/usti"
+    },
+    {
+      "name": "nad",
+      "slug": "nad",
+      "uri": "https://api.sketchfab.com/v3/tags/nad"
+    },
+    {
+      "name": "medievalfantasyassets",
+      "slug": "medievalfantasyassets",
+      "uri": "https://api.sketchfab.com/v3/tags/medievalfantasyassets"
+    },
+    {
+      "name": "sailing-ship",
+      "slug": "sailing-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing-ship"
+    },
+    {
+      "name": "realitycapture",
+      "slug": "realitycapture",
+      "uri": "https://api.sketchfab.com/v3/tags/realitycapture"
+    },
+    {
+      "name": "photogrammetry",
+      "slug": "photogrammetry",
+      "uri": "https://api.sketchfab.com/v3/tags/photogrammetry"
+    },
+    {
+      "name": "blender",
+      "slug": "blender",
+      "uri": "https://api.sketchfab.com/v3/tags/blender"
+    },
+    {
+      "name": "model",
+      "slug": "model",
+      "uri": "https://api.sketchfab.com/v3/tags/model"
+    },
+    {
+      "name": "gameasset",
+      "slug": "gameasset",
+      "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "bottle",
+      "slug": "bottle",
+      "uri": "https://api.sketchfab.com/v3/tags/bottle"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    },
+    {
+      "name": "labe",
+      "slug": "labe",
+      "uri": "https://api.sketchfab.com/v3/tags/labe"
+    },
+    {
+      "name": "musetech",
+      "slug": "musetech",
+      "uri": "https://api.sketchfab.com/v3/tags/musetech"
+    },
+    {
+      "name": "educatorsinvr",
+      "slug": "educatorsinvr",
+      "uri": "https://api.sketchfab.com/v3/tags/educatorsinvr"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "d21c3b5ae7fc4e2fa1d27a764b4463eb",
+        "width": 1920,
+        "height": 1080,
+        "size": 423401,
+        "url": "https://media.sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/thumbnails/58fce0cae9fc4d08b432617082a27702/3fb3cadab1344be88b523b2f6a2998a4.jpeg"
+      },
+      {
+        "uid": "e361b5d576d048bc9633d38edfe451af",
+        "width": 1024,
+        "height": 576,
+        "size": 68028,
+        "url": "https://media.sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/thumbnails/58fce0cae9fc4d08b432617082a27702/379990d1d78d45de84b84a9924a2fdc9.jpeg"
+      },
+      {
+        "uid": "252e5b0b546b4236b2a18b7c01103885",
+        "width": 720,
+        "height": 405,
+        "size": 31116,
+        "url": "https://media.sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/thumbnails/58fce0cae9fc4d08b432617082a27702/49afccca7fa14f6a916390fe867e7866.jpeg"
+      },
+      {
+        "uid": "e22d7c2d1c3b4732ad4c0d643ed91605",
+        "width": 256,
+        "height": 144,
+        "size": 4543,
+        "url": "https://media.sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/thumbnails/58fce0cae9fc4d08b432617082a27702/8d659889c7d74204b41c9389014a7141.jpeg"
+      },
+      {
+        "uid": "87398ea2210a4a16a156375e3efd5a03",
+        "width": 64,
+        "height": 36,
+        "size": 742,
+        "url": "https://media.sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/thumbnails/58fce0cae9fc4d08b432617082a27702/6dde940290c9407d8814caa61870daca.jpeg"
+      }
+    ]
+  },
+  "uid": "11fe67a22dd8460f9063569098115ce6",
+  "uri": "https://api.sketchfab.com/v3/models/11fe67a22dd8460f9063569098115ce6",
+  "user": {
+    "uid": "01c3a3d216ed4051b1f85787bcf76fba",
+    "username": "matousekfoto",
+    "displayName": "matousekfoto",
+    "account": "pro",
+    "profileUrl": "https://sketchfab.com/matousekfoto",
+    "avatar": {
+      "uid": "75a0bb33b625418eadeeabf5171a6e5f",
+      "uri": "https://api.sketchfab.com/v3/avatars/75a0bb33b625418eadeeabf5171a6e5f",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 716,
+          "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/c8424889ac9b489da27721a6e38780a3.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1089,
+          "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/f7656e9c4430494fb0342c832dfeb9b1.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2575,
+          "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/b99c14eaac7a4c10be7c1c93e9bb676e.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2950,
+          "url": "https://media.sketchfab.com/avatars/75a0bb33b625418eadeeabf5171a6e5f/380cd8c41e11417fb49f28d709131be6.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/01c3a3d216ed4051b1f85787bcf76fba"
+  },
+  "vertexCount": 226739,
+  "viewCount": 1845,
+  "viewerUrl": "https://sketchfab.com/3d-models/model-pracovni-lodi-1912-barge-model-11fe67a22dd8460f9063569098115ce6",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "**Model pracovní lodi - 1912 - Barge model**\n\n---\nBarge river construction and repair boat ship wooden model, inspired by a real boat working at Elbe river, 1912 - antique museum item\n\nkomentář čte kurátor Mgr. Martin Krsek\n\nModel Commisioned by the Municipal Museum of Ústí nad Labem,\nCzech audio commentary\n\nphotogrammetry (360 x 24MP), Blender edit https://sketchfab.com/jaromirharna",
+  "price": null,
+  "downloadCount": 3,
+  "editorUrl": "https://sketchfab.com/models/11fe67a22dd8460f9063569098115ce6/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-08-31T08:09:27.972861",
+  "pbrType": null,
+  "textureCount": 3,
+  "materialCount": 8
+}

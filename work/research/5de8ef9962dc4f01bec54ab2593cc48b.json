@@ -1,0 +1,242 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2018-06-05T00:40:03.264258",
+  "embedUrl": "https://sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/embed",
+  "faceCount": 1395924,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 9,
+  "name": "Pirate Ship 02 - Interior",
+  "publishedAt": "2018-06-05T00:50:55.943262",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "troll",
+      "slug": "troll",
+      "uri": "https://api.sketchfab.com/v3/tags/troll"
+    },
+    {
+      "name": "cartoony",
+      "slug": "cartoony",
+      "uri": "https://api.sketchfab.com/v3/tags/cartoony"
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "uri": "https://api.sketchfab.com/v3/tags/ocean"
+    },
+    {
+      "name": "treasure",
+      "slug": "treasure",
+      "uri": "https://api.sketchfab.com/v3/tags/treasure"
+    },
+    {
+      "name": "port",
+      "slug": "port",
+      "uri": "https://api.sketchfab.com/v3/tags/port"
+    },
+    {
+      "name": "Cannon",
+      "slug": "cannon",
+      "uri": "https://api.sketchfab.com/v3/tags/cannon"
+    },
+    {
+      "name": "MayaModel",
+      "slug": "mayamodel",
+      "uri": "https://api.sketchfab.com/v3/tags/mayamodel"
+    },
+    {
+      "name": "pirateship",
+      "slug": "pirateship",
+      "uri": "https://api.sketchfab.com/v3/tags/pirateship"
+    },
+    {
+      "name": "Maya3D",
+      "slug": "maya3d",
+      "uri": "https://api.sketchfab.com/v3/tags/maya3d"
+    },
+    {
+      "name": "piratecannon",
+      "slug": "piratecannon",
+      "uri": "https://api.sketchfab.com/v3/tags/piratecannon"
+    },
+    {
+      "name": "ship-pirate",
+      "slug": "ship-pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/ship-pirate"
+    },
+    {
+      "name": "pirateport",
+      "slug": "pirateport",
+      "uri": "https://api.sketchfab.com/v3/tags/pirateport"
+    },
+    {
+      "name": "maya",
+      "slug": "maya",
+      "uri": "https://api.sketchfab.com/v3/tags/maya"
+    },
+    {
+      "name": "cartoon",
+      "slug": "cartoon",
+      "uri": "https://api.sketchfab.com/v3/tags/cartoon"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "3dmodel",
+      "slug": "3dmodel",
+      "uri": "https://api.sketchfab.com/v3/tags/3dmodel"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "pirates",
+      "slug": "pirates",
+      "uri": "https://api.sketchfab.com/v3/tags/pirates"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "542673837a38423981036285a7f7c20d",
+        "width": 1920,
+        "height": 1080,
+        "size": 192983,
+        "url": "https://media.sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/thumbnails/85b2aacb3caf4590b83b038a97d6e75e/6bc7fa8508734a3fb865c4166ce587ba.jpeg"
+      },
+      {
+        "uid": "75a6d0e9f89842b09bab0eedc014bfef",
+        "width": 1024,
+        "height": 576,
+        "size": 30651,
+        "url": "https://media.sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/thumbnails/85b2aacb3caf4590b83b038a97d6e75e/8051d5c465b5410f8a648eb0b7e6c873.jpeg"
+      },
+      {
+        "uid": "47f55fbe55244b3d8d6322ed343f624e",
+        "width": 720,
+        "height": 405,
+        "size": 16335,
+        "url": "https://media.sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/thumbnails/85b2aacb3caf4590b83b038a97d6e75e/5fb453e215a4403ab2dc946bb60e6c76.jpeg"
+      },
+      {
+        "uid": "347987d0495e468aade5f1d89eaf027f",
+        "width": 256,
+        "height": 144,
+        "size": 3264,
+        "url": "https://media.sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/thumbnails/85b2aacb3caf4590b83b038a97d6e75e/811936705ead4550911e3408f3b71894.jpeg"
+      },
+      {
+        "uid": "8c1572f306114f88afc0fb2f9eb2bc22",
+        "width": 64,
+        "height": 36,
+        "size": 714,
+        "url": "https://media.sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/thumbnails/85b2aacb3caf4590b83b038a97d6e75e/e6d70e5f764149bbbe97a697170c6d82.jpeg"
+      }
+    ]
+  },
+  "uid": "5de8ef9962dc4f01bec54ab2593cc48b",
+  "uri": "https://api.sketchfab.com/v3/models/5de8ef9962dc4f01bec54ab2593cc48b",
+  "user": {
+    "uid": "1397436adf5642209318d30ee26c3d2d",
+    "username": "pepeorejel",
+    "displayName": "Pepe Orejel",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/pepeorejel",
+    "avatar": {
+      "uid": "b58fd3e2429746dba9b93fb62ee00224",
+      "uri": "https://api.sketchfab.com/v3/avatars/b58fd3e2429746dba9b93fb62ee00224",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 799,
+          "url": "https://media.sketchfab.com/avatars/b58fd3e2429746dba9b93fb62ee00224/fa852b57814f4dc083a621ce41d1e169.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1289,
+          "url": "https://media.sketchfab.com/avatars/b58fd3e2429746dba9b93fb62ee00224/87542a85b166447e8f8bad47431c6bf9.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3379,
+          "url": "https://media.sketchfab.com/avatars/b58fd3e2429746dba9b93fb62ee00224/3c7aaaa82c06490ea3e454eb315670a0.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4041,
+          "url": "https://media.sketchfab.com/avatars/b58fd3e2429746dba9b93fb62ee00224/16c451c0f97042b2ab1049f68e859973.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/1397436adf5642209318d30ee26c3d2d"
+  },
+  "vertexCount": 708507,
+  "viewCount": 1545,
+  "viewerUrl": "https://sketchfab.com/3d-models/pirate-ship-02-interior-5de8ef9962dc4f01bec54ab2593cc48b",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Look, pirates! I've always enjoyed stories about crazy adventures where you get to explore all kinds of places. That's why I decided to modeled this ship. Hope you aprecciate it. Done in Autodesk Maya.",
+  "price": null,
+  "downloadCount": 172,
+  "editorUrl": "https://sketchfab.com/models/5de8ef9962dc4f01bec54ab2593cc48b/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-17T14:22:15.036647",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 4
+}

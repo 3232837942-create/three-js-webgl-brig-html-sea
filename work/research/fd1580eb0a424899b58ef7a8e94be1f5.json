@@ -1,0 +1,216 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 3,
+  "createdAt": "2019-06-21T00:44:49.463666",
+  "embedUrl": "https://sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/embed",
+  "faceCount": 35916,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 70,
+  "name": "Traders Tallship",
+  "publishedAt": "2019-06-21T01:11:32.987221",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "sail",
+      "slug": "sail",
+      "uri": "https://api.sketchfab.com/v3/tags/sail"
+    },
+    {
+      "name": "trade",
+      "slug": "trade",
+      "uri": "https://api.sketchfab.com/v3/tags/trade"
+    },
+    {
+      "name": "tallship",
+      "slug": "tallship",
+      "uri": "https://api.sketchfab.com/v3/tags/tallship"
+    },
+    {
+      "name": "mast",
+      "slug": "mast",
+      "uri": "https://api.sketchfab.com/v3/tags/mast"
+    },
+    {
+      "name": "Blender-3D",
+      "slug": "blender-3d",
+      "uri": "https://api.sketchfab.com/v3/tags/blender-3d"
+    },
+    {
+      "name": "downloadable",
+      "slug": "downloadable",
+      "uri": "https://api.sketchfab.com/v3/tags/downloadable"
+    },
+    {
+      "name": "lowpoly",
+      "slug": "lowpoly",
+      "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+    },
+    {
+      "name": "piano",
+      "slug": "piano",
+      "uri": "https://api.sketchfab.com/v3/tags/piano"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "6f064cf77eff43c799e642db78bb3036",
+        "width": 1920,
+        "height": 1080,
+        "size": 77942,
+        "url": "https://media.sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/thumbnails/a4b5161d835d498e984d995dc544e4ab/ba43089bc4af495ab4fbfd71f62ebc6b.jpeg"
+      },
+      {
+        "uid": "4cfa1e8fc3b746faa4bb8eacb8c38801",
+        "width": 1024,
+        "height": 576,
+        "size": 26075,
+        "url": "https://media.sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/thumbnails/a4b5161d835d498e984d995dc544e4ab/813914ffe47f4d468215aa207e5a45ba.jpeg"
+      },
+      {
+        "uid": "0b864df8a20949f9808561dbb6e46a83",
+        "width": 720,
+        "height": 405,
+        "size": 16058,
+        "url": "https://media.sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/thumbnails/a4b5161d835d498e984d995dc544e4ab/69cc35ab047f45aebeee97f13d6beaf4.jpeg"
+      },
+      {
+        "uid": "70908939df574c0ebc8795c668cfe426",
+        "width": 256,
+        "height": 144,
+        "size": 3751,
+        "url": "https://media.sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/thumbnails/a4b5161d835d498e984d995dc544e4ab/dd925e8ae7014f8ab25ecaa93d0ae4f4.jpeg"
+      },
+      {
+        "uid": "a8264af518e84440a209ee70fc8ef4d8",
+        "width": 64,
+        "height": 36,
+        "size": 770,
+        "url": "https://media.sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/thumbnails/a4b5161d835d498e984d995dc544e4ab/8ba0ee2b136f41fca4bf98c42ccdaeb7.jpeg"
+      }
+    ]
+  },
+  "uid": "fd1580eb0a424899b58ef7a8e94be1f5",
+  "uri": "https://api.sketchfab.com/v3/models/fd1580eb0a424899b58ef7a8e94be1f5",
+  "user": {
+    "uid": "1d0b3c072e32403d916e3330e1ccc6c7",
+    "username": "iedalton",
+    "displayName": "iedalton",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/iedalton",
+    "avatar": {
+      "uid": "c19bc67ddd8940e8b352efd2fd16a9e2",
+      "uri": "https://api.sketchfab.com/v3/avatars/c19bc67ddd8940e8b352efd2fd16a9e2",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 647,
+          "url": "https://media.sketchfab.com/avatars/c19bc67ddd8940e8b352efd2fd16a9e2/cbc139d82e3b41a38a9c9b5dca359d8c.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1071,
+          "url": "https://media.sketchfab.com/avatars/c19bc67ddd8940e8b352efd2fd16a9e2/44b245cf70824d2eade99e4e6fc7c956.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2443,
+          "url": "https://media.sketchfab.com/avatars/c19bc67ddd8940e8b352efd2fd16a9e2/d60545dfa87b43048549956cc7278450.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2780,
+          "url": "https://media.sketchfab.com/avatars/c19bc67ddd8940e8b352efd2fd16a9e2/9b9bc469409a47bab49dce436633f785.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/1d0b3c072e32403d916e3330e1ccc6c7"
+  },
+  "vertexCount": 21301,
+  "viewCount": 3655,
+  "viewerUrl": "https://sketchfab.com/3d-models/traders-tallship-fd1580eb0a424899b58ef7a8e94be1f5",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Small single mast sailing ship for your small trade ventures",
+  "price": null,
+  "downloadCount": 1053,
+  "editorUrl": "https://sketchfab.com/models/fd1580eb0a424899b58ef7a8e94be1f5/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-19T16:05:12.053259",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 10
+}

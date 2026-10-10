@@ -1,0 +1,221 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2026-08-23T09:39:28.099839",
+  "embedUrl": "https://sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/embed",
+  "faceCount": 108338,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 2,
+  "name": "Uluburun, Bronze Age Merchant - Stormworks",
+  "publishedAt": "2026-08-23T13:18:18.826120",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "ancient",
+      "slug": "ancient",
+      "uri": "https://api.sketchfab.com/v3/tags/ancient"
+    },
+    {
+      "name": "bronze",
+      "slug": "bronze",
+      "uri": "https://api.sketchfab.com/v3/tags/bronze"
+    },
+    {
+      "name": "sail",
+      "slug": "sail",
+      "uri": "https://api.sketchfab.com/v3/tags/sail"
+    },
+    {
+      "name": "merchant",
+      "slug": "merchant",
+      "uri": "https://api.sketchfab.com/v3/tags/merchant"
+    },
+    {
+      "name": "cargo",
+      "slug": "cargo",
+      "uri": "https://api.sketchfab.com/v3/tags/cargo"
+    },
+    {
+      "name": "age",
+      "slug": "age",
+      "uri": "https://api.sketchfab.com/v3/tags/age"
+    },
+    {
+      "name": "Mediterranean",
+      "slug": "mediterranean",
+      "uri": "https://api.sketchfab.com/v3/tags/mediterranean"
+    },
+    {
+      "name": "mycenaean",
+      "slug": "mycenaean",
+      "uri": "https://api.sketchfab.com/v3/tags/mycenaean"
+    },
+    {
+      "name": "canaanite",
+      "slug": "canaanite",
+      "uri": "https://api.sketchfab.com/v3/tags/canaanite"
+    },
+    {
+      "name": "cypriote",
+      "slug": "cypriote",
+      "uri": "https://api.sketchfab.com/v3/tags/cypriote"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "02409ed79da345f197c55400b4aa9b0d",
+        "width": 1920,
+        "height": 1080,
+        "size": 238432,
+        "url": "https://media.sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/thumbnails/37b9c8f7bc8b44b8979e9e75c34bf050/04251101668847e59709200e7bd5dcbd.jpeg"
+      },
+      {
+        "uid": "f5dfbe78d8934640afd6dfc6ab5c5e75",
+        "width": 1024,
+        "height": 576,
+        "size": 60848,
+        "url": "https://media.sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/thumbnails/37b9c8f7bc8b44b8979e9e75c34bf050/27eb6071634d4176b111a15be421d7d8.jpeg"
+      },
+      {
+        "uid": "f859f344979a44929283f3d402127b36",
+        "width": 720,
+        "height": 405,
+        "size": 35388,
+        "url": "https://media.sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/thumbnails/37b9c8f7bc8b44b8979e9e75c34bf050/226afbc80f53448e8b4898da00d5fc14.jpeg"
+      },
+      {
+        "uid": "0a50a7c6166c4ac1b7af58a0ff3cd86a",
+        "width": 256,
+        "height": 144,
+        "size": 7036,
+        "url": "https://media.sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/thumbnails/37b9c8f7bc8b44b8979e9e75c34bf050/78eb03cb0b3441169f7c1657ccffe93f.jpeg"
+      },
+      {
+        "uid": "c822c5a2da5349de800159be8f907993",
+        "width": 64,
+        "height": 36,
+        "size": 1232,
+        "url": "https://media.sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/thumbnails/37b9c8f7bc8b44b8979e9e75c34bf050/67d7c38fccae4fd995bb6b89d22d0d2f.jpeg"
+      }
+    ]
+  },
+  "uid": "9208d2cc50214a4aad3c8fc137050292",
+  "uri": "https://api.sketchfab.com/v3/models/9208d2cc50214a4aad3c8fc137050292",
+  "user": {
+    "uid": "429c8bcc1b1e45fa9445018f4876293d",
+    "username": "ThalesMML",
+    "displayName": "Thales",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/ThalesMML",
+    "avatar": {
+      "uid": "0b8b9fffea4340db9d2847e26585f4b0",
+      "uri": "https://api.sketchfab.com/v3/avatars/0b8b9fffea4340db9d2847e26585f4b0",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1076,
+          "url": "https://media.sketchfab.com/avatars/0b8b9fffea4340db9d2847e26585f4b0/76eba12f0bc64c87a11f0794587f1155.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1417,
+          "url": "https://media.sketchfab.com/avatars/0b8b9fffea4340db9d2847e26585f4b0/28ae0af1ca404c8abd8275d7b4df00df.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2930,
+          "url": "https://media.sketchfab.com/avatars/0b8b9fffea4340db9d2847e26585f4b0/59aa05611e634a1d92c923abda1a99e7.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3547,
+          "url": "https://media.sketchfab.com/avatars/0b8b9fffea4340db9d2847e26585f4b0/aa2e522b0c364d399f3eed8bbd320899.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/429c8bcc1b1e45fa9445018f4876293d"
+  },
+  "vertexCount": 47913,
+  "viewCount": 217,
+  "viewerUrl": "https://sketchfab.com/3d-models/uluburun-bronze-age-merchant-stormworks-9208d2cc50214a4aad3c8fc137050292",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "A Canaanite merchant vessel sailed the eastern Mediterranean around 1300 BC, carrying one of the richest cargos ever found from the Bronze Age: ten tons of Cypriot copper, a ton of tin, Egyptian glass, ivory, gold, and luxury goods from across the Near East and Aegean. Bound most likely for a Mycenaean port, she sank off the rocky coast of Uluburun and lay undisturbed for over 3,300 years.\n\nWhy the Uluburun Ship Matters\nIt is the oldest known seagoing shipwreck with a largely intact cargo and the earliest clear evidence of advanced mortise-and-tenon hull construction. More than any other single discovery, Uluburun shows how deeply interconnected the Late Bronze Age world truly was — a floating crossroads of trade, diplomacy, and technology linking Cyprus, the Levant, Egypt, and the Aegean.",
+  "price": null,
+  "downloadCount": 9,
+  "editorUrl": "https://sketchfab.com/models/9208d2cc50214a4aad3c8fc137050292/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-08-23T13:18:18.919227",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 1
+}

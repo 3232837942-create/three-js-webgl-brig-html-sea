@@ -1,0 +1,2568 @@
+{
+  "cursors": {
+    "next": "bz0yNA==",
+    "previous": null
+  },
+  "next": "https://sketchfab.com/i/search?count=24&cursor=bz0yNA%3D%3D&downloadable=true&q=brig&type=models",
+  "previous": null,
+  "results": [
+    {
+      "uid": "beb32d3a434d484397fc060642d12d2d",
+      "slug": "wilson-combat-beretta-92g-brig-tac",
+      "name": "Wilson Combat Beretta 92G Brig-Tac",
+      "staffpickedAt": null,
+      "viewCount": 1864,
+      "likeCount": 80,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/wilson-combat-beretta-92g-brig-tac-beb32d3a434d484397fc060642d12d2d",
+      "embedUrl": "https://sketchfab.com/models/beb32d3a434d484397fc060642d12d2d/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 316,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2019-09-09T12:00:15.462734",
+      "thumbnails": {
+        "uid": "5579fb274e9340818bb53db511d08aa3",
+        "images": [
+          {
+            "uid": "f745e0f0799c4673ba8f0a9089cd6dc9",
+            "size": 237722,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/beb32d3a434d484397fc060642d12d2d/thumbnails/5579fb274e9340818bb53db511d08aa3/7a31e4108c954a019cc84ff02dccea92.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "10ea08b4dbd347bf8b42d5da4cb93f2d",
+            "size": 75451,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/beb32d3a434d484397fc060642d12d2d/thumbnails/5579fb274e9340818bb53db511d08aa3/b6d35fdc161b482cba600fd3b52e0f26.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "0957daa340894c6cbb61a98da0f234e1",
+            "size": 43709,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/beb32d3a434d484397fc060642d12d2d/thumbnails/5579fb274e9340818bb53db511d08aa3/83ce7c18785c414ca1f525596d3ee087.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "34d80535939e48c882c30551224e1ba8",
+            "size": 8654,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/beb32d3a434d484397fc060642d12d2d/thumbnails/5579fb274e9340818bb53db511d08aa3/be7bd261e40e41be9940bbe04d597f74.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "93f63e522f844848a43027e11e44e509",
+            "size": 1500,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/beb32d3a434d484397fc060642d12d2d/thumbnails/5579fb274e9340818bb53db511d08aa3/2d325d374c984de5b0ca33709aceafaf.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "714994dc719546c99c426a6920beb543",
+        "displayName": "eNse7en",
+        "account": "basic",
+        "username": "ense7en",
+        "avatars": {
+          "uid": "57ac22c2b5384b2f9633c58aad7be056",
+          "images": [
+            {
+              "size": 1397,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/57ac22c2b5384b2f9633c58aad7be056/b9b31abdf1c241578f310173f6f2378e.png",
+              "height": 32
+            },
+            {
+              "size": 3174,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/57ac22c2b5384b2f9633c58aad7be056/fb4724a219e1464e87fbf04537ae67f1.png",
+              "height": 48
+            },
+            {
+              "size": 7240,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/57ac22c2b5384b2f9633c58aad7be056/9394e4d53af041e492515eda4532d0f5.png",
+              "height": 90
+            },
+            {
+              "size": 8317,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/57ac22c2b5384b2f9633c58aad7be056/8ca195cb5716459c9d389605d000f03d.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/ense7en"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "78442db063634fb480a2ca20219a3c8b",
+      "slug": "neridean-brig",
+      "name": "Neridean Brig",
+      "staffpickedAt": null,
+      "viewCount": 322,
+      "likeCount": 2,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/neridean-brig-78442db063634fb480a2ca20219a3c8b",
+      "embedUrl": "https://sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 45,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2020-04-08T21:35:46.174895",
+      "thumbnails": {
+        "uid": "01bc1918f7914b278d31688874705476",
+        "images": [
+          {
+            "uid": "1114faf20d7a445baa48c63e3ebe43e4",
+            "size": 23461,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/5d7650b9df034becbfce14ccb0d28f31.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "47863a113b694addbb686257777d829a",
+            "size": 8504,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/9b87fd124f8b47989801a3aed841264f.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "345d4c87ec7a4f5d9bb699b61c0d3e8d",
+            "size": 5118,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/16bc19ad2f7f442b9ce42e0ccd5821d4.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "4751e650ba274b31b96c8a29185186c0",
+            "size": 1306,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/05bbfb7b2b7a4742818f5de4901074f7.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "3adee7bda9884814882e66e0331e4c18",
+            "size": 436,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/a6f8b4eafb6349218b0dfeaf39771384.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0da7939684374aafa0cda233bc0b2d83",
+        "displayName": "Solterman",
+        "account": "basic",
+        "username": "Solterman",
+        "avatars": {
+          "uid": "7631b6955081422cb95034771603c0c2",
+          "images": [
+            {
+              "size": 735,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/ace7614cc5c947a484d12f948815577e.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1143,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/f8be2a2c1a07428db1fdbb4f09f453e2.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2595,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/4154f2e499f447488b894beae25d1afa.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2989,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/190baaa1f06e48cab6ff2222c5d4e9a3.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/Solterman"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "4c31d80eca2d426893d66a61db5fdbb5",
+      "slug": "ryleks-raiders-laboror-class-brig",
+      "name": "Rylek's Raiders: Laboror Class Brig",
+      "staffpickedAt": null,
+      "viewCount": 2186,
+      "likeCount": 22,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/ryleks-raiders-laboror-class-brig-4c31d80eca2d426893d66a61db5fdbb5",
+      "embedUrl": "https://sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 60,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-11-17T03:14:49.663719",
+      "thumbnails": {
+        "uid": "15af9b85144d43f3a05ab6cdc147f0bf",
+        "images": [
+          {
+            "uid": "f5f99d2744ec47a396cb89eec4940a03",
+            "size": 94336,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/e1158f5784894aec851442be71d1a0fe.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "b4d338a0723b422b880d36309118b1e9",
+            "size": 29610,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/77cd0366a49c4450b008afb343db5d86.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "48e1be33bc91497ab32e2c44e80c5e98",
+            "size": 16978,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/f0000cd674594237b8e2dfd642682380.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "eb258d6fa13c48acbd342f741fe003b2",
+            "size": 3655,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/0874967c8c794d99a84439c9984f9c32.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "866cf9d01991467ab24177d52762752e",
+            "size": 971,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/542ffd79e6554b31a810b39ca472cac3.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "976da321987a4224b4e3cee211412dd2",
+        "displayName": "Gwyvern",
+        "account": "basic",
+        "username": "Gwyvern",
+        "avatars": {
+          "uid": "c60a0a198a6949c8b2efbca51b80a5b0",
+          "images": [
+            {
+              "size": 2492,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/d3357908788b4355aa02704f6a93f6df.png",
+              "height": 32
+            },
+            {
+              "size": 5248,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/0d745247c41048afbe422eac013b1204.png",
+              "height": 48
+            },
+            {
+              "size": 16625,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/810881e27b8d4010b09c4b268c42c202.png",
+              "height": 90
+            },
+            {
+              "size": 20066,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/54452f5e8f9e4ce09d8590607baaa505.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/Gwyvern"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "d427266544754cb5b98b6277d1d72b86",
+      "slug": "brig-mahoning-built-1847",
+      "name": "Brig Mahoning (Built 1847)",
+      "staffpickedAt": null,
+      "viewCount": 252,
+      "likeCount": 6,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/brig-mahoning-built-1847-d427266544754cb5b98b6277d1d72b86",
+      "embedUrl": "https://sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 276,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-09-02T21:47:07.893441",
+      "thumbnails": {
+        "uid": "86f9971b92254542837c7aa76068010a",
+        "images": [
+          {
+            "uid": "f7ab5c00393148608d0f177fb8f8b378",
+            "size": 206811,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/3a96a9cd55004a19b3895ab0eaa003d9.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "f1200f3541a64cb1a66fa4b8e6ba75a2",
+            "size": 62622,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/261d03bfe3864c5ba278c1eff6a172e9.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "f7dc8ade2cf34470af7d282ef3973497",
+            "size": 34717,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/08c4f8fe3cb64f95b24f80e6e9042238.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "f02b6509a73c42ad99fd8aab4dbce2e7",
+            "size": 6476,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/f542fa37bb334e32be5f8a47a5f4a031.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1a6e16dc5432409d9c5b3b49d9b0e189",
+            "size": 1284,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/8c0b5095099348198d15a1374fa531bb.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0e5f39bb02f2479d81712a500351f1ac",
+        "displayName": "Wisconsin Shipwreck Coast NMS",
+        "account": "prem",
+        "username": "wishipwreckcoast",
+        "avatars": {
+          "uid": "1f7bd49f6ec94c1ca998f8a5fb89f75b",
+          "images": [
+            {
+              "size": 972,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/b113862bbce54246bea5bdf0facfebdf.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1208,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/6177d20ef5bf41c99f6a35ded1c1edc6.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2334,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/d87b4dddd5ad4ec6a477eb9fe67800e2.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2593,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/38219abb7949490083458f4402eb964d.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/wishipwreckcoast"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "babc260ab85044dfa96981725742bc09",
+      "slug": "lowpoly-sailing-ships",
+      "name": "Lowpoly sailing ships",
+      "staffpickedAt": null,
+      "viewCount": 3995,
+      "likeCount": 26,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/lowpoly-sailing-ships-babc260ab85044dfa96981725742bc09",
+      "embedUrl": "https://sketchfab.com/models/babc260ab85044dfa96981725742bc09/embed",
+      "publicCommentCount": 3,
+      "downloadType": "store",
+      "downloadCount": 33,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2021-10-04T15:17:09.501647",
+      "thumbnails": {
+        "uid": "98065f9bc7c84053aea563cb76189e57",
+        "images": [
+          {
+            "uid": "7d0d755a209f44eb94d44f9c44b2fbea",
+            "size": 188640,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/96d7b143ffe64c5393347c2f8d6dd070.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "48365b2a4b5c40c5a1bc2e9e87f7e17a",
+            "size": 68244,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/68d5f41a89234a71be5b1d693182b390.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "99fc389fe35a42ffb9c7a32f305810e7",
+            "size": 41216,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/8346c5e5fb22408b97a3acbb63f5922b.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "fd5765b288114e0a98468125a572aa13",
+            "size": 8658,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/9a4077f1aff34103b9d9d4a89e6c1fd6.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1cb0d7427f654b7390077d97262f1bb0",
+            "size": 1542,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/ce7a449c32c843808b80e15b03b92483.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0a074156ec364840abdefc5c366e20da",
+        "displayName": "Apokalips123",
+        "account": "basic",
+        "username": "semarumov",
+        "avatars": {
+          "uid": "811bbe49a4b54caf97136e0ef6d74e77",
+          "images": [
+            {
+              "size": 657,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/d98c653dd4004b99b263eee7eca00bea.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1025,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/412fa7fba6be456fae345b4bd6e4ef5d.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2481,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/075bfb262f2448b98cbd1da7631e29fd.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2626,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/848c482dc17b4dde9805202c254add58.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/semarumov"
+      },
+      "price": 450,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "c1cde763ac0e4bd6b970f83500b09b98",
+      "slug": "brigs-washing",
+      "name": "Brigs washing",
+      "staffpickedAt": null,
+      "viewCount": 19,
+      "likeCount": 1,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/brigs-washing-c1cde763ac0e4bd6b970f83500b09b98",
+      "embedUrl": "https://sketchfab.com/models/c1cde763ac0e4bd6b970f83500b09b98/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 10,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-10-07T21:00:36.847555",
+      "thumbnails": {
+        "uid": "2b126704653f4bf297ed1f082b3039ee",
+        "images": [
+          {
+            "uid": "b52868b6d0f44b0ca8ecea204d49df36",
+            "size": 371216,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/c1cde763ac0e4bd6b970f83500b09b98/thumbnails/2b126704653f4bf297ed1f082b3039ee/7fb498efc1c54d348bb397a02cb0938d.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "d87a8de5833d4cedbc8267818610e4fd",
+            "size": 85372,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/c1cde763ac0e4bd6b970f83500b09b98/thumbnails/2b126704653f4bf297ed1f082b3039ee/0278cd8dd962465cbea12f3f465db7f0.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "811f4194453e48f89ad7bcffdb3b0572",
+            "size": 47346,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/c1cde763ac0e4bd6b970f83500b09b98/thumbnails/2b126704653f4bf297ed1f082b3039ee/dd1cb8ef7d274c3283c6c014ed9d17cf.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "3b1f99250e454dd1a69305662edabd84",
+            "size": 8562,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/c1cde763ac0e4bd6b970f83500b09b98/thumbnails/2b126704653f4bf297ed1f082b3039ee/c1648a230aa54e8681309bcb0a12ff36.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "9c9bcfc2b4144f4d880ff48ab781e9fa",
+            "size": 1446,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/c1cde763ac0e4bd6b970f83500b09b98/thumbnails/2b126704653f4bf297ed1f082b3039ee/886e410c4a354f3f907b45f14291d343.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "a926d9bcf89546dbaa38515b1d4012c1",
+        "displayName": "Cubes: City Studio",
+        "account": "basic",
+        "username": "citystudio",
+        "avatars": {
+          "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+          "images": [
+            {
+              "size": 680,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1253,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2797,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3215,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/citystudio"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": []
+    },
+    {
+      "uid": "9044462ffcac434c94868ae4de74206b",
+      "slug": "milestone-brig-furkapass-km-07",
+      "name": "Milestone Brig - Furkapass km 07",
+      "staffpickedAt": null,
+      "viewCount": 14,
+      "likeCount": 1,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-07-9044462ffcac434c94868ae4de74206b",
+      "embedUrl": "https://sketchfab.com/models/9044462ffcac434c94868ae4de74206b/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 20,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T09:40:15.501383",
+      "thumbnails": {
+        "uid": "7cb1555008934d049f19b0c5eedc4d86",
+        "images": [
+          {
+            "uid": "a813889698294e938490cc84690a2cf0",
+            "size": 246819,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/9044462ffcac434c94868ae4de74206b/thumbnails/7cb1555008934d049f19b0c5eedc4d86/54ed3f9a44c4406aa4a32bac4339d905.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "d7e0c20934584772894a6a604538b7bb",
+            "size": 72691,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/9044462ffcac434c94868ae4de74206b/thumbnails/7cb1555008934d049f19b0c5eedc4d86/89f54e8148df4edd81faa0b175ddadc6.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "07b3160b82d8420b9526ed115a773098",
+            "size": 36779,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/9044462ffcac434c94868ae4de74206b/thumbnails/7cb1555008934d049f19b0c5eedc4d86/ccfd088db0264388aca08114f507d6f9.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "7bf29894bef84439bfc44f783b626c50",
+            "size": 5035,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/9044462ffcac434c94868ae4de74206b/thumbnails/7cb1555008934d049f19b0c5eedc4d86/b370beb96fb549e785ba6e5ac63d6b51.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "d564d59661504845b71309145e55b2b0",
+            "size": 1057,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/9044462ffcac434c94868ae4de74206b/thumbnails/7cb1555008934d049f19b0c5eedc4d86/b33b440d9378493c9bb2cbca019cdf40.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "f527358d07724fa0aa7c160b0699f8bf",
+      "slug": "brig",
+      "name": "Brig",
+      "staffpickedAt": null,
+      "viewCount": 67,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/brig-f527358d07724fa0aa7c160b0699f8bf",
+      "embedUrl": "https://sketchfab.com/models/f527358d07724fa0aa7c160b0699f8bf/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 17,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2017-10-27T02:23:24.768138",
+      "thumbnails": {
+        "uid": "7ee935a720bc4b38a0d79f0ec7f96cc9",
+        "images": [
+          {
+            "uid": "f03e578e726c48c990bb1dbef003fc3d",
+            "size": 1017,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/f527358d07724fa0aa7c160b0699f8bf/thumbnails/7ee935a720bc4b38a0d79f0ec7f96cc9/64x36.jpeg",
+            "height": 36
+          },
+          {
+            "uid": "b1f6f19f09fb4cfa87854ff60b58102b",
+            "size": 3644,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/f527358d07724fa0aa7c160b0699f8bf/thumbnails/7ee935a720bc4b38a0d79f0ec7f96cc9/256x144.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "6343130d97434da19f8d396056683f64",
+            "size": 18584,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/f527358d07724fa0aa7c160b0699f8bf/thumbnails/7ee935a720bc4b38a0d79f0ec7f96cc9/720x405.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "d2dddec18d434467a26f5db782f59561",
+            "size": 41978,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/f527358d07724fa0aa7c160b0699f8bf/thumbnails/7ee935a720bc4b38a0d79f0ec7f96cc9/1024x576.jpeg",
+            "height": 576
+          }
+        ]
+      },
+      "user": {
+        "uid": "09a4c4df8b1445759bdab7eea54911ab",
+        "displayName": "jarvissheffield",
+        "account": "basic",
+        "username": "jarvissheffield",
+        "avatars": {
+          "uid": "189b497495734f93afa3c6d32771d183",
+          "images": [
+            {
+              "size": 755,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/189b497495734f93afa3c6d32771d183/fb20ae3f99cf4787be5e1b146861298b.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1203,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/189b497495734f93afa3c6d32771d183/87d3a793cab944f8a7306f61a03719fe.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2865,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/189b497495734f93afa3c6d32771d183/2cf571bfdc8a4fe892615cef5e702283.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3390,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/189b497495734f93afa3c6d32771d183/d4a3effc09d54c6e9f8429fe0a438026.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/jarvissheffield"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": []
+    },
+    {
+      "uid": "efa95a89cf664d428372fbd3826aa074",
+      "slug": "brigs-rubble-field-2",
+      "name": "Brigs_rubble Field 2",
+      "staffpickedAt": null,
+      "viewCount": 11,
+      "likeCount": 1,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/brigs-rubble-field-2-efa95a89cf664d428372fbd3826aa074",
+      "embedUrl": "https://sketchfab.com/models/efa95a89cf664d428372fbd3826aa074/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 9,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-10-07T20:56:36.623774",
+      "thumbnails": {
+        "uid": "3cd0274486e2453cb9893e44dde28eb2",
+        "images": [
+          {
+            "uid": "3f15484809bc4ff89e8deea36f206e34",
+            "size": 58424,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/efa95a89cf664d428372fbd3826aa074/thumbnails/3cd0274486e2453cb9893e44dde28eb2/ef9cd399c940465bae3d66c16527cfaf.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "3f70241d4ca0448ba0de702b3ec26958",
+            "size": 17989,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/efa95a89cf664d428372fbd3826aa074/thumbnails/3cd0274486e2453cb9893e44dde28eb2/18a28b5ecfb74f8095eb51fbb777650f.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "e2578693e4ff467d8e7a5f4e933a3c8a",
+            "size": 9974,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/efa95a89cf664d428372fbd3826aa074/thumbnails/3cd0274486e2453cb9893e44dde28eb2/dc3646ab796e45628547f2abb27e748a.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "c4005f2d1e65420f8822732a1303ea69",
+            "size": 2017,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/efa95a89cf664d428372fbd3826aa074/thumbnails/3cd0274486e2453cb9893e44dde28eb2/d1ea1d874f1f4a519ffa1f5bc9876f41.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "d6862475cd414b0b85a3da923b7b3896",
+            "size": 797,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/efa95a89cf664d428372fbd3826aa074/thumbnails/3cd0274486e2453cb9893e44dde28eb2/c0b599a84a2a40d697214ab71a997d28.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "a926d9bcf89546dbaa38515b1d4012c1",
+        "displayName": "Cubes: City Studio",
+        "account": "basic",
+        "username": "citystudio",
+        "avatars": {
+          "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+          "images": [
+            {
+              "size": 680,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1253,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2797,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3215,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/citystudio"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": []
+    },
+    {
+      "uid": "eb64cc5cb7f545ba99eae3fb3c9028c0",
+      "slug": "milestone-brig-furkapass-km-45",
+      "name": "Milestone Brig - Furkapass km 45",
+      "staffpickedAt": null,
+      "viewCount": 26,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-45-eb64cc5cb7f545ba99eae3fb3c9028c0",
+      "embedUrl": "https://sketchfab.com/models/eb64cc5cb7f545ba99eae3fb3c9028c0/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 18,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-10T14:45:10.124417",
+      "thumbnails": {
+        "uid": "81d670d0d9c74d8cb6c1a31fc4102f97",
+        "images": [
+          {
+            "uid": "06491a0f794f4860bd65c59f2380486c",
+            "size": 270183,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/eb64cc5cb7f545ba99eae3fb3c9028c0/thumbnails/81d670d0d9c74d8cb6c1a31fc4102f97/d6af546f38454ff9b61fda48b249644a.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "805a48f86034486cb8ae375c5ad12564",
+            "size": 79193,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/eb64cc5cb7f545ba99eae3fb3c9028c0/thumbnails/81d670d0d9c74d8cb6c1a31fc4102f97/7add5523548f483cb94184b9ad01d8f2.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "7329aba4749844f49b3a46392f543f25",
+            "size": 39917,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/eb64cc5cb7f545ba99eae3fb3c9028c0/thumbnails/81d670d0d9c74d8cb6c1a31fc4102f97/31f5e1feef40479b8efd399195af1799.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "529ad368ccb04a568cabb66706dfe0f5",
+            "size": 5194,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/eb64cc5cb7f545ba99eae3fb3c9028c0/thumbnails/81d670d0d9c74d8cb6c1a31fc4102f97/af926fd0cd644c4f8fe10563a704ebc1.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "be73d9190fbb48c9b85762a19bfb78e1",
+            "size": 1064,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/eb64cc5cb7f545ba99eae3fb3c9028c0/thumbnails/81d670d0d9c74d8cb6c1a31fc4102f97/583e7c8dfec645958b99f5f2ea0fd396.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "f2de0d8077914e95a71dcc8920d6e321",
+      "slug": "milestone-brig-furkapass-km-18",
+      "name": "Milestone Brig - Furkapass km 18",
+      "staffpickedAt": null,
+      "viewCount": 7,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-18-f2de0d8077914e95a71dcc8920d6e321",
+      "embedUrl": "https://sketchfab.com/models/f2de0d8077914e95a71dcc8920d6e321/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 8,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T12:09:27.657446",
+      "thumbnails": {
+        "uid": "f68061e267b342dcbb624bfb51043754",
+        "images": [
+          {
+            "uid": "530c76981a884e608a949a90dcdb2b10",
+            "size": 176329,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/f2de0d8077914e95a71dcc8920d6e321/thumbnails/f68061e267b342dcbb624bfb51043754/3f485a076ccc4be2a16c7fe4fc39bd00.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "6c79fd099659405fae869a2d72d6a574",
+            "size": 49317,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/f2de0d8077914e95a71dcc8920d6e321/thumbnails/f68061e267b342dcbb624bfb51043754/6cbf10d464424c90a2cdbb3b0cec2d70.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "4daae39166c14f75b67ea04cf2801516",
+            "size": 25386,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/f2de0d8077914e95a71dcc8920d6e321/thumbnails/f68061e267b342dcbb624bfb51043754/db4cbab31a034bd1ab765bfc3181fd45.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "f6eff743ac804ecf90eeecc0b5f879a8",
+            "size": 3919,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/f2de0d8077914e95a71dcc8920d6e321/thumbnails/f68061e267b342dcbb624bfb51043754/9be296ddc566469182935f2a0e5a6ca0.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1fb2d7baf7a64f1eb07bfea99208f19c",
+            "size": 988,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/f2de0d8077914e95a71dcc8920d6e321/thumbnails/f68061e267b342dcbb624bfb51043754/75edbf5998e042e088d7c84d54356391.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "c6fe421a335b4d0383fa091b87a2efd5",
+      "slug": "milestone-brig-simplon-gondo-km-04",
+      "name": "Milestone Brig-Simplon-Gondo km 04",
+      "staffpickedAt": null,
+      "viewCount": 8,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-simplon-gondo-km-04-c6fe421a335b4d0383fa091b87a2efd5",
+      "embedUrl": "https://sketchfab.com/models/c6fe421a335b4d0383fa091b87a2efd5/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 8,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T13:34:25.111240",
+      "thumbnails": {
+        "uid": "7f9a3b84407a4654b875e581285eb86b",
+        "images": [
+          {
+            "uid": "a9ce38e133e5415991deb49632c11138",
+            "size": 157622,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/c6fe421a335b4d0383fa091b87a2efd5/thumbnails/7f9a3b84407a4654b875e581285eb86b/7ca4c07c671b45d5b0ce5f7379c21228.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "ebac66b8c9de40b1990ed1fe6d00fe22",
+            "size": 45281,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/c6fe421a335b4d0383fa091b87a2efd5/thumbnails/7f9a3b84407a4654b875e581285eb86b/b9ff8e4cbd5c4e1aa86c9deed8c26b4a.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "33fdd1a458934b12ab8a1edb39737ba9",
+            "size": 23148,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/c6fe421a335b4d0383fa091b87a2efd5/thumbnails/7f9a3b84407a4654b875e581285eb86b/c2f9bdc02ac94d2194c991e2e9f8e97a.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "518b3f6ad29e4e8797a1b49498b35daa",
+            "size": 3310,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/c6fe421a335b4d0383fa091b87a2efd5/thumbnails/7f9a3b84407a4654b875e581285eb86b/00ad0f6af1644824bfc33c0d4c3815c1.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "27552ec160b249fbad79853465602dab",
+            "size": 944,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/c6fe421a335b4d0383fa091b87a2efd5/thumbnails/7f9a3b84407a4654b875e581285eb86b/b655bdee5ea64d39bded10d22f77e6c6.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "6c0eaf76a59340058ac005a78aa1ddb3",
+      "slug": "milestone-brig-furkapass-km-19",
+      "name": "Milestone Brig - Furkapass km 19",
+      "staffpickedAt": null,
+      "viewCount": 5,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-19-6c0eaf76a59340058ac005a78aa1ddb3",
+      "embedUrl": "https://sketchfab.com/models/6c0eaf76a59340058ac005a78aa1ddb3/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 8,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T12:25:24.316010",
+      "thumbnails": {
+        "uid": "d161d8dc71e3430baaaf084b7412e55b",
+        "images": [
+          {
+            "uid": "9570500fd8b14e9387f732a79f7dc4a9",
+            "size": 183666,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/6c0eaf76a59340058ac005a78aa1ddb3/thumbnails/d161d8dc71e3430baaaf084b7412e55b/e36a24a68e1a4325a032f1c507e3fa3c.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "8f971d87190c41e0ab26bffca7950fc7",
+            "size": 52841,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/6c0eaf76a59340058ac005a78aa1ddb3/thumbnails/d161d8dc71e3430baaaf084b7412e55b/029040f3f6a54072bcfe12b60392218e.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "5d94742f24d44773bd682c2c13f9c4c9",
+            "size": 26962,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/6c0eaf76a59340058ac005a78aa1ddb3/thumbnails/d161d8dc71e3430baaaf084b7412e55b/96ea7579ff724d67a54d3aa7aba9c4ea.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "6ce756864acb411b9af8772bb09c39a6",
+            "size": 3965,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/6c0eaf76a59340058ac005a78aa1ddb3/thumbnails/d161d8dc71e3430baaaf084b7412e55b/5232cd606d3e48d4b8f0669df3476198.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "9235d711aa564067aa8f3167b74a27e8",
+            "size": 928,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/6c0eaf76a59340058ac005a78aa1ddb3/thumbnails/d161d8dc71e3430baaaf084b7412e55b/d18e5c0341f24e9c8c81a60bf0f8388e.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "05c665270f904f9ca78243cca1bdf1d4",
+      "slug": "milestone-brig-furkapass-km-28",
+      "name": "Milestone Brig - Furkapass km 28",
+      "staffpickedAt": null,
+      "viewCount": 24,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-28-05c665270f904f9ca78243cca1bdf1d4",
+      "embedUrl": "https://sketchfab.com/models/05c665270f904f9ca78243cca1bdf1d4/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 13,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-10T09:50:36.826203",
+      "thumbnails": {
+        "uid": "6668100fa4e9492a84100f34822f44cd",
+        "images": [
+          {
+            "uid": "4f506f6e9ea242c2b78fc2ee40eff760",
+            "size": 307316,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/05c665270f904f9ca78243cca1bdf1d4/thumbnails/6668100fa4e9492a84100f34822f44cd/bed5b68d40f14d4197104d4e7d520f00.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "191bab7fc8b14856b69ed910770b3677",
+            "size": 90867,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/05c665270f904f9ca78243cca1bdf1d4/thumbnails/6668100fa4e9492a84100f34822f44cd/a1222ffa764542b4b4e7b74214137e0b.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "802139fa35524b939c59414401831cae",
+            "size": 46175,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/05c665270f904f9ca78243cca1bdf1d4/thumbnails/6668100fa4e9492a84100f34822f44cd/75aa058cb8d146e59c188d0d44779342.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "cf948c7f00c74f489eac7eab4b6faa5e",
+            "size": 5917,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/05c665270f904f9ca78243cca1bdf1d4/thumbnails/6668100fa4e9492a84100f34822f44cd/7e15db672a494fa6827458a1b96a0633.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "64ee4393b97d48228b45829aa913c2b0",
+            "size": 1125,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/05c665270f904f9ca78243cca1bdf1d4/thumbnails/6668100fa4e9492a84100f34822f44cd/8fd6baccc1854a199964ebffda8d63e8.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "e825e80dc095429ab5b36623420d67d7",
+      "slug": "milestone-brig-simplon-gondo-km-05",
+      "name": "Milestone Brig-Simplon-Gondo km 05",
+      "staffpickedAt": null,
+      "viewCount": 10,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-simplon-gondo-km-05-e825e80dc095429ab5b36623420d67d7",
+      "embedUrl": "https://sketchfab.com/models/e825e80dc095429ab5b36623420d67d7/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 8,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T13:55:06.367514",
+      "thumbnails": {
+        "uid": "c2b9ed78c8034089adc57d1ea3e69a90",
+        "images": [
+          {
+            "uid": "61dc136f53c84e76a3d76942850f96c9",
+            "size": 317244,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/e825e80dc095429ab5b36623420d67d7/thumbnails/c2b9ed78c8034089adc57d1ea3e69a90/041c3d1a4c014712a3899a82167df83f.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "50fed8eba7744d1bbc27944b07b14b6a",
+            "size": 93658,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/e825e80dc095429ab5b36623420d67d7/thumbnails/c2b9ed78c8034089adc57d1ea3e69a90/f82044f4ba0745478733ec3a35ea0f11.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "bf09c3c8029d48f3bf03ef5356bf5cb2",
+            "size": 47923,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/e825e80dc095429ab5b36623420d67d7/thumbnails/c2b9ed78c8034089adc57d1ea3e69a90/168dbc6f2c92400fbac87e4d0914645e.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "c910201a226641dbae7dadd544d7ba75",
+            "size": 6633,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/e825e80dc095429ab5b36623420d67d7/thumbnails/c2b9ed78c8034089adc57d1ea3e69a90/41f5ebe596b245ca9a9811e3663679b2.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "dcaaf67ddafd46e181aa764cb4c6bdef",
+            "size": 1187,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/e825e80dc095429ab5b36623420d67d7/thumbnails/c2b9ed78c8034089adc57d1ea3e69a90/5bde0a4221634c3b8216febad1baa8dc.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "9ae16bba61d44d718cbbc2b105c389da",
+      "slug": "milestone-brig-furkapass-km-34",
+      "name": "Milestone Brig - Furkapass km 34",
+      "staffpickedAt": null,
+      "viewCount": 6,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-34-9ae16bba61d44d718cbbc2b105c389da",
+      "embedUrl": "https://sketchfab.com/models/9ae16bba61d44d718cbbc2b105c389da/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 8,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T12:42:36.614240",
+      "thumbnails": {
+        "uid": "c59fe193cd144dea9597caf0bb9994f6",
+        "images": [
+          {
+            "uid": "339727af6794474b83d9244bffe03f08",
+            "size": 195257,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/9ae16bba61d44d718cbbc2b105c389da/thumbnails/c59fe193cd144dea9597caf0bb9994f6/74b71902e0f0447ab2d63694657cabbc.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "45fca721fea44de08ac2411e73a5900e",
+            "size": 52337,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/9ae16bba61d44d718cbbc2b105c389da/thumbnails/c59fe193cd144dea9597caf0bb9994f6/cd0ddeec7091463bb24fadfbd3e5d964.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "109824b54cfa4a438c618288f1d9244d",
+            "size": 26611,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/9ae16bba61d44d718cbbc2b105c389da/thumbnails/c59fe193cd144dea9597caf0bb9994f6/cf11c60a6c334f06bb6f300a668af367.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "d986858568e3485ba987b9348c27512d",
+            "size": 4304,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/9ae16bba61d44d718cbbc2b105c389da/thumbnails/c59fe193cd144dea9597caf0bb9994f6/52556fd0ca914f6aa17ff5e3e5e6032e.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "ed90c28300af4fb4aedf1c6aeab78f67",
+            "size": 1079,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/9ae16bba61d44d718cbbc2b105c389da/thumbnails/c59fe193cd144dea9597caf0bb9994f6/1b00c80996164da189a7edefc97388b9.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "bacef5528ad744e5b5f15761d189dc9e",
+      "slug": "ship-steering-wheel",
+      "name": "Ship Steering Wheel",
+      "staffpickedAt": null,
+      "viewCount": 2214,
+      "likeCount": 49,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/ship-steering-wheel-bacef5528ad744e5b5f15761d189dc9e",
+      "embedUrl": "https://sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 442,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-06-02T10:25:29.283619",
+      "thumbnails": {
+        "uid": "06a10d0c9cd34f5cb906314c600e7d9f",
+        "images": [
+          {
+            "uid": "a8a2d09526fd4a399ff1bcb32af51ee2",
+            "size": 171539,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/2af51511aec24ef281be97bbeea2f317.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "89f38d85effb40798120489cdcad5ab3",
+            "size": 53002,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/79ee68dfebc94a19b9a5911357e40bd8.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "5dfc0913d15e41a1815a47e22b9ebadc",
+            "size": 29745,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/e2f0fdda0dcf4e6089b1ebc973d8ec58.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "f7cbe0156419436fa84d6f61945cff43",
+            "size": 5790,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/5226f1f66db142b8819390e25d22aca0.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1c090ebe9f864ea5b5516886da1840e7",
+            "size": 1241,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/b4c6a10258ec4c979b421f307aeba002.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f285c5cc9c544c68b54912593077598e",
+        "displayName": "pirate8888",
+        "account": "basic",
+        "username": "pirate8888",
+        "avatars": {
+          "uid": "69986a00ba4a44b399c506124e0a1bfa",
+          "images": [
+            {
+              "size": 1135,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/01d92d6ae21c488592843307c58545f7.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1649,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/20f9c3bf264a4aee8a04c00bcc971f73.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3798,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/94e3c4c133f6485baf1b97d36060077b.jpeg",
+              "height": 90
+            },
+            {
+              "size": 4299,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/12f9749cd3bd4d769b69f5cb550d4857.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/pirate8888"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "ba4b0c94c08e4c208f81071b86f407a1",
+      "slug": "milestone-brig-furkapass-km-30",
+      "name": "Milestone Brig - Furkapass km 30",
+      "staffpickedAt": null,
+      "viewCount": 20,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-30-ba4b0c94c08e4c208f81071b86f407a1",
+      "embedUrl": "https://sketchfab.com/models/ba4b0c94c08e4c208f81071b86f407a1/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 17,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-09T10:09:22.877508",
+      "thumbnails": {
+        "uid": "b1038ea589c448ed9efd32e3d384d3e2",
+        "images": [
+          {
+            "uid": "a785eccd030348f3b8564f91bbe15711",
+            "size": 301590,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/ba4b0c94c08e4c208f81071b86f407a1/thumbnails/b1038ea589c448ed9efd32e3d384d3e2/456769f398f142488bcaf95e3bec9444.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "ea86035214b447ab98f34e97c0235fc0",
+            "size": 87555,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/ba4b0c94c08e4c208f81071b86f407a1/thumbnails/b1038ea589c448ed9efd32e3d384d3e2/edadca124d264d108d3713c00151c22d.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "17102ad31b5b48bba3e0e7c20bca40b1",
+            "size": 43843,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/ba4b0c94c08e4c208f81071b86f407a1/thumbnails/b1038ea589c448ed9efd32e3d384d3e2/1a4d68c7a44641d6a713765006172ca7.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "545fb1e1eebc469aa2a8c7420f27e54b",
+            "size": 5535,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/ba4b0c94c08e4c208f81071b86f407a1/thumbnails/b1038ea589c448ed9efd32e3d384d3e2/e2164bb5d401479bad61fe3681e68369.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "24d0fbd67dbc403fbd7f8a56a6259693",
+            "size": 1100,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/ba4b0c94c08e4c208f81071b86f407a1/thumbnails/b1038ea589c448ed9efd32e3d384d3e2/fc2a252c5f724223804ee28d3bc0ce4e.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "42d9fb71e09f458fbde940f7cfd2e17a",
+      "slug": "milestone-brig-furkapass-km-08",
+      "name": "Milestone Brig - Furkapass km 08",
+      "staffpickedAt": null,
+      "viewCount": 5,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-08-42d9fb71e09f458fbde940f7cfd2e17a",
+      "embedUrl": "https://sketchfab.com/models/42d9fb71e09f458fbde940f7cfd2e17a/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 7,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-14T11:50:47.948691",
+      "thumbnails": {
+        "uid": "cbbb6ecda5a748f7aa3bf586749501ed",
+        "images": [
+          {
+            "uid": "203480e24b2b4b56b29936b48a76b064",
+            "size": 147592,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/42d9fb71e09f458fbde940f7cfd2e17a/thumbnails/cbbb6ecda5a748f7aa3bf586749501ed/b946f4d714b64b0cb1f3672b7bdc40d3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "57c2789640a3427e85a8fcfe66ffe719",
+            "size": 44288,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/42d9fb71e09f458fbde940f7cfd2e17a/thumbnails/cbbb6ecda5a748f7aa3bf586749501ed/6406809801c54bd49356d7d4ae1864c2.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "79be7f664fe1463fb91932f551c78bee",
+            "size": 23508,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/42d9fb71e09f458fbde940f7cfd2e17a/thumbnails/cbbb6ecda5a748f7aa3bf586749501ed/458fe39036124228b25f95753b21cd8d.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "7c4dc312d99340bda0e4f33175910f13",
+            "size": 3806,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/42d9fb71e09f458fbde940f7cfd2e17a/thumbnails/cbbb6ecda5a748f7aa3bf586749501ed/356250412f77476ea023ffd382a6c1bc.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "db61f4e776734dacbe820ed1635567a2",
+            "size": 983,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/42d9fb71e09f458fbde940f7cfd2e17a/thumbnails/cbbb6ecda5a748f7aa3bf586749501ed/749497e10d54435eb243f60e56c4ef78.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "20520a8a18be48cbb4da0eef708b57c0",
+      "slug": "milestone-brig-furkapass-km-52",
+      "name": "Milestone Brig - Furkapass km 52",
+      "staffpickedAt": null,
+      "viewCount": 7,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-52-20520a8a18be48cbb4da0eef708b57c0",
+      "embedUrl": "https://sketchfab.com/models/20520a8a18be48cbb4da0eef708b57c0/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 4,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-06-01T07:32:04.477285",
+      "thumbnails": {
+        "uid": "285cefefff1c4ec2b4684c96541321db",
+        "images": [
+          {
+            "uid": "702e2c6536f8445cb491a50136aed82a",
+            "size": 163020,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/20520a8a18be48cbb4da0eef708b57c0/thumbnails/285cefefff1c4ec2b4684c96541321db/57c60cf94bf5478c80d70c9d883bc77d.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "01ecdb69871f40a1b7ff181ec5652665",
+            "size": 46084,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/20520a8a18be48cbb4da0eef708b57c0/thumbnails/285cefefff1c4ec2b4684c96541321db/e201f508c061479ea8ca9ba378e4074c.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "ef4db467485d45978117de4878981d18",
+            "size": 23749,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/20520a8a18be48cbb4da0eef708b57c0/thumbnails/285cefefff1c4ec2b4684c96541321db/d424fcaeb1cf451b8522efc5b88d6569.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "e6f85382504140d9910512a11098d165",
+            "size": 3836,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/20520a8a18be48cbb4da0eef708b57c0/thumbnails/285cefefff1c4ec2b4684c96541321db/4ede17a9459b4ccc9743554db7eea22e.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "fa1c11894e494e7da18b8e04c18f0326",
+            "size": 968,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/20520a8a18be48cbb4da0eef708b57c0/thumbnails/285cefefff1c4ec2b4684c96541321db/df6e776a64914c79894a53b0b44e81b9.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "64090717233749b18ed061ada7fd66a5",
+      "slug": "milestone-brig-furkapass-km-55",
+      "name": "Milestone Brig - Furkapass km 55",
+      "staffpickedAt": null,
+      "viewCount": 6,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-55-64090717233749b18ed061ada7fd66a5",
+      "embedUrl": "https://sketchfab.com/models/64090717233749b18ed061ada7fd66a5/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 4,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-06-01T07:59:20.885281",
+      "thumbnails": {
+        "uid": "f156a0cde62541c8afb21be226bf2fb3",
+        "images": [
+          {
+            "uid": "056d0852525f4e19b4224800656395c7",
+            "size": 423745,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/64090717233749b18ed061ada7fd66a5/thumbnails/f156a0cde62541c8afb21be226bf2fb3/6a10ed2c612d4b37b18303c1c7801e58.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "e6ab538f214d4b0fb7fb16b27191c6f8",
+            "size": 122018,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/64090717233749b18ed061ada7fd66a5/thumbnails/f156a0cde62541c8afb21be226bf2fb3/a2bc595f87f940afac6be9cfec9ad42a.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "24bcc2809cb74d1fb03ab8e2383c3079",
+            "size": 61769,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/64090717233749b18ed061ada7fd66a5/thumbnails/f156a0cde62541c8afb21be226bf2fb3/a4e10c760f91405b91198dcad8382bfc.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "d0c1e10afedc4ca29e0c8cb68b743c9c",
+            "size": 8035,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/64090717233749b18ed061ada7fd66a5/thumbnails/f156a0cde62541c8afb21be226bf2fb3/fba4905d06744e5e88124bd0672dbfbb.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "809271438f084cae802d42b40fe4dd6f",
+            "size": 1236,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/64090717233749b18ed061ada7fd66a5/thumbnails/f156a0cde62541c8afb21be226bf2fb3/4dff59cdbefe42c2873a6d76aa1d19dc.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "7aaec5df6a1745539f32e1f0687f1f8b",
+      "slug": "milestone-brig-simplon-gondo-km-15",
+      "name": "Milestone Brig-Simplon-Gondo km 15",
+      "staffpickedAt": null,
+      "viewCount": 3,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-simplon-gondo-km-15-7aaec5df6a1745539f32e1f0687f1f8b",
+      "embedUrl": "https://sketchfab.com/models/7aaec5df6a1745539f32e1f0687f1f8b/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 3,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-05-29T10:09:59.285391",
+      "thumbnails": {
+        "uid": "c15f0bda2c414451bd6f6e0612740486",
+        "images": [
+          {
+            "uid": "2f102ec5269a488abdc4fba47b94912d",
+            "size": 123702,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/7aaec5df6a1745539f32e1f0687f1f8b/thumbnails/c15f0bda2c414451bd6f6e0612740486/45e17d3353414a0a90dce3f46b0586a2.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "97cc9e5425084448b6db00698785f4c7",
+            "size": 35210,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/7aaec5df6a1745539f32e1f0687f1f8b/thumbnails/c15f0bda2c414451bd6f6e0612740486/a0d275439a85469d86c5a1b51cb80c37.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "02b582660830476e94e0b621a01db476",
+            "size": 18346,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/7aaec5df6a1745539f32e1f0687f1f8b/thumbnails/c15f0bda2c414451bd6f6e0612740486/691a572c24774408962b10ee33a4be4f.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "d47c9c2b3ab94748b0072dc6026febf5",
+            "size": 3079,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/7aaec5df6a1745539f32e1f0687f1f8b/thumbnails/c15f0bda2c414451bd6f6e0612740486/eec3da825ef24f138d381c4376fa4c95.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "00f214f1298b460485f60f82a0eef93a",
+            "size": 913,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/7aaec5df6a1745539f32e1f0687f1f8b/thumbnails/c15f0bda2c414451bd6f6e0612740486/6d64b2d452c742dc8bda8c26fe1d680d.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "52c27f4d3b71492bbf1a55868789d433",
+      "slug": "milestone-brig-furkapass-km-37",
+      "name": "Milestone Brig - Furkapass km 37",
+      "staffpickedAt": null,
+      "viewCount": 26,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-37-52c27f4d3b71492bbf1a55868789d433",
+      "embedUrl": "https://sketchfab.com/models/52c27f4d3b71492bbf1a55868789d433/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 18,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-10T14:14:22.336658",
+      "thumbnails": {
+        "uid": "a37da6478f764e31b2f54b4dd669e53d",
+        "images": [
+          {
+            "uid": "22087f2665b540a0b4207eaca6de3565",
+            "size": 320795,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/52c27f4d3b71492bbf1a55868789d433/thumbnails/a37da6478f764e31b2f54b4dd669e53d/9c4bd833e2bf4cf296433731909a559c.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "4dab78183d82414c98a958f907e50957",
+            "size": 95038,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/52c27f4d3b71492bbf1a55868789d433/thumbnails/a37da6478f764e31b2f54b4dd669e53d/69402ff178674113acd8c64719d004c8.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "35c7af418ba640728229f751c892eae6",
+            "size": 47676,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/52c27f4d3b71492bbf1a55868789d433/thumbnails/a37da6478f764e31b2f54b4dd669e53d/2b53f550f73c4d96be21859d24b65524.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "133bacd9d8174464a220942fca5e3612",
+            "size": 6018,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/52c27f4d3b71492bbf1a55868789d433/thumbnails/a37da6478f764e31b2f54b4dd669e53d/e3894f8fcdc54d07ae53560b2d32994b.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "67a7d4279f684b9c9d3e30746b092980",
+            "size": 1097,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/52c27f4d3b71492bbf1a55868789d433/thumbnails/a37da6478f764e31b2f54b4dd669e53d/b7a8f1434692492f8209b533470c7c55.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "0d9c0e82dc1d4567aef3750ad524f54f",
+      "slug": "milestone-brig-furkapass-km-44",
+      "name": "Milestone Brig - Furkapass km 44",
+      "staffpickedAt": null,
+      "viewCount": 21,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/milestone-brig-furkapass-km-44-0d9c0e82dc1d4567aef3750ad524f54f",
+      "embedUrl": "https://sketchfab.com/models/0d9c0e82dc1d4567aef3750ad524f54f/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 19,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-10T14:33:46.706502",
+      "thumbnails": {
+        "uid": "81e9ccba60344f60b79aeedfa74748a6",
+        "images": [
+          {
+            "uid": "34a75de51c34434e938c430343990d0d",
+            "size": 391782,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/0d9c0e82dc1d4567aef3750ad524f54f/thumbnails/81e9ccba60344f60b79aeedfa74748a6/b4786c40966146e1a0958ccada951934.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "f8e9907d924c4192b5b2893c6faef5c9",
+            "size": 119407,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/0d9c0e82dc1d4567aef3750ad524f54f/thumbnails/81e9ccba60344f60b79aeedfa74748a6/07868c10f4984841bff33d1432d9022d.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "4317ca8bacd24aad98af952ba954b813",
+            "size": 60896,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/0d9c0e82dc1d4567aef3750ad524f54f/thumbnails/81e9ccba60344f60b79aeedfa74748a6/7e540c672aaf420bab8988fef1269123.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "672aec5d84cd4bd1bc436469fc54f646",
+            "size": 7661,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/0d9c0e82dc1d4567aef3750ad524f54f/thumbnails/81e9ccba60344f60b79aeedfa74748a6/9f1123fa7fd649f2a6bd7f7b2ae1537e.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "0870e3405ff84b0f9843fed3a9d5f32c",
+            "size": 1221,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/0d9c0e82dc1d4567aef3750ad524f54f/thumbnails/81e9ccba60344f60b79aeedfa74748a6/7d61e0a1cca04fe092d6565e569e4edc.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8b99a8201b384388916a76203b95d8e2",
+        "displayName": "clwacker",
+        "account": "basic",
+        "username": "clwacker",
+        "avatars": {
+          "uid": "df80a14c61ec4df4a758a3db0653672b",
+          "images": [
+            {
+              "size": 1521,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9294d8169ffa41dbb203b980c3343f31.png",
+              "height": 32
+            },
+            {
+              "size": 1481,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/d3cba5f5fa7f4497bdbe437d5e0d4ee8.png",
+              "height": 48
+            },
+            {
+              "size": 3309,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/641eb10f5c2c420283fd1b92b8d4dbbf.png",
+              "height": 90
+            },
+            {
+              "size": 3640,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/df80a14c61ec4df4a758a3db0653672b/9b1cd22cb7d34d35b5aaa043d674f1e4.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/clwacker"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    }
+  ]
+}

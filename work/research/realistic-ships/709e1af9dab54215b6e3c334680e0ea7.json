@@ -1,0 +1,172 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-05-06T23:04:19.592463",
+  "embedUrl": "https://sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/embed",
+  "faceCount": 12351,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 4,
+  "name": "Pirate Cannon",
+  "publishedAt": "2025-05-06T23:06:40.810653",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "Cannon",
+      "slug": "cannon",
+      "uri": "https://api.sketchfab.com/v3/tags/cannon"
+    },
+    {
+      "name": "piratecannon",
+      "slug": "piratecannon",
+      "uri": "https://api.sketchfab.com/v3/tags/piratecannon"
+    },
+    {
+      "name": "substancepainter",
+      "slug": "substancepainter",
+      "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+    },
+    {
+      "name": "substance",
+      "slug": "substance",
+      "uri": "https://api.sketchfab.com/v3/tags/substance"
+    },
+    {
+      "name": "weapon",
+      "slug": "weapon",
+      "uri": "https://api.sketchfab.com/v3/tags/weapon"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "95f1c2fb167b461f9549d38f1e4a327c",
+        "width": 1920,
+        "height": 1080,
+        "size": 257824,
+        "url": "https://media.sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/thumbnails/44f0b16d53a24af083dba328894c01de/672664b77f304ecfb1811ec3cbf9c28b.jpeg"
+      },
+      {
+        "uid": "a452c73c68ef4bf5925732afe3c3576b",
+        "width": 1024,
+        "height": 576,
+        "size": 68134,
+        "url": "https://media.sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/thumbnails/44f0b16d53a24af083dba328894c01de/8ffd5422037b4fb399e8431494c10bca.jpeg"
+      },
+      {
+        "uid": "297348d08f3342418925f40f1597f086",
+        "width": 720,
+        "height": 405,
+        "size": 32163,
+        "url": "https://media.sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/thumbnails/44f0b16d53a24af083dba328894c01de/6e1c9c7e5d3d4f11b4d951c832a2b236.jpeg"
+      },
+      {
+        "uid": "5898b6a5302347f58d9909c6533716ec",
+        "width": 256,
+        "height": 144,
+        "size": 4664,
+        "url": "https://media.sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/thumbnails/44f0b16d53a24af083dba328894c01de/4aeb643f47a145cfb1c009e27a7b5392.jpeg"
+      },
+      {
+        "uid": "6fbdcaeb1ea34814a551777c35d85295",
+        "width": 64,
+        "height": 36,
+        "size": 1037,
+        "url": "https://media.sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/thumbnails/44f0b16d53a24af083dba328894c01de/d8769882a05e4f8c80cf0163ad4bccc4.jpeg"
+      }
+    ]
+  },
+  "uid": "709e1af9dab54215b6e3c334680e0ea7",
+  "uri": "https://api.sketchfab.com/v3/models/709e1af9dab54215b6e3c334680e0ea7",
+  "user": {
+    "uid": "aba7f1a066b9430aa18341cd03c879c2",
+    "username": "william.p7",
+    "displayName": "William Prosser",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/william.p7",
+    "avatar": {
+      "uid": "b597e6f3667b4012a86ef5a3a3ce31d4",
+      "uri": "https://api.sketchfab.com/v3/avatars/b597e6f3667b4012a86ef5a3a3ce31d4",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 749,
+          "url": "https://media.sketchfab.com/avatars/b597e6f3667b4012a86ef5a3a3ce31d4/ab1d186af4c941ffbe091950e6cf32c3.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 847,
+          "url": "https://media.sketchfab.com/avatars/b597e6f3667b4012a86ef5a3a3ce31d4/d4ddface8c4443d89be83430480d300e.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 1429,
+          "url": "https://media.sketchfab.com/avatars/b597e6f3667b4012a86ef5a3a3ce31d4/56e6e109a55044ff80b34d260d772554.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 1587,
+          "url": "https://media.sketchfab.com/avatars/b597e6f3667b4012a86ef5a3a3ce31d4/f17cebcdd75f46d0afc1a7113907276e.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/aba7f1a066b9430aa18341cd03c879c2"
+  },
+  "vertexCount": 5478,
+  "viewCount": 130,
+  "viewerUrl": "https://sketchfab.com/3d-models/pirate-cannon-709e1af9dab54215b6e3c334680e0ea7",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Pirate Cannon – 3D Model\nThis 3D model depicts a classic pirate-era cannon, commonly used on 17th- and 18th-century sailing ships. The design features a cast iron barrel mounted on a sturdy wooden carriage with four wheels for mobility. Details include metal hooks and realistic surface textures.",
+  "price": null,
+  "downloadCount": 39,
+  "editorUrl": "https://sketchfab.com/models/709e1af9dab54215b6e3c334680e0ea7/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "SubstancePainter",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-05-22T13:28:58.483592",
+  "pbrType": "metalness",
+  "textureCount": 34,
+  "materialCount": 9
+}

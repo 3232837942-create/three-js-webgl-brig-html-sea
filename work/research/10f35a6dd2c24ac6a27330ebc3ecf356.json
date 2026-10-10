@@ -1,0 +1,211 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 3,
+  "createdAt": "2023-09-05T12:06:47.634293",
+  "embedUrl": "https://sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/embed",
+  "faceCount": 175528,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 105,
+  "name": "Pirate_ship",
+  "publishedAt": "2023-09-08T14:15:39.935145",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "canon",
+      "slug": "canon",
+      "uri": "https://api.sketchfab.com/v3/tags/canon"
+    },
+    {
+      "name": "realistic",
+      "slug": "realistic",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic"
+    },
+    {
+      "name": "18th-century",
+      "slug": "18th-century",
+      "uri": "https://api.sketchfab.com/v3/tags/18th-century"
+    },
+    {
+      "name": "handpainted",
+      "slug": "handpainted",
+      "uri": "https://api.sketchfab.com/v3/tags/handpainted"
+    },
+    {
+      "name": "asset",
+      "slug": "asset",
+      "uri": "https://api.sketchfab.com/v3/tags/asset"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "stylized",
+      "slug": "stylized",
+      "uri": "https://api.sketchfab.com/v3/tags/stylized"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "noai",
+      "slug": "noai",
+      "uri": "https://api.sketchfab.com/v3/tags/noai"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "c15cd972de4a40ab83013cea904b8275",
+        "width": 1920,
+        "height": 1080,
+        "size": 221107,
+        "url": "https://media.sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/thumbnails/c0eb5dc7c0ee42918e38a3aa7ebfd4ff/18b6bea7afb841949bb3635ee51dbc36.jpeg"
+      },
+      {
+        "uid": "9525fa40843741f78d2ba676cc00ccdc",
+        "width": 1024,
+        "height": 576,
+        "size": 43168,
+        "url": "https://media.sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/thumbnails/c0eb5dc7c0ee42918e38a3aa7ebfd4ff/21464411ba41429c98349bd4fdb857e7.jpeg"
+      },
+      {
+        "uid": "493dcab535ce4353af55b7876fec73a6",
+        "width": 720,
+        "height": 405,
+        "size": 24668,
+        "url": "https://media.sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/thumbnails/c0eb5dc7c0ee42918e38a3aa7ebfd4ff/346d1d03d2a04fe3a3e68d4d5f80a753.jpeg"
+      },
+      {
+        "uid": "8a650612b9364a17b9a30e799a457a89",
+        "width": 256,
+        "height": 144,
+        "size": 5127,
+        "url": "https://media.sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/thumbnails/c0eb5dc7c0ee42918e38a3aa7ebfd4ff/89a46dcfad924656ba5140e425b645dc.jpeg"
+      },
+      {
+        "uid": "377b9afabaae4f65a17673a22128eb93",
+        "width": 64,
+        "height": 36,
+        "size": 1150,
+        "url": "https://media.sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/thumbnails/c0eb5dc7c0ee42918e38a3aa7ebfd4ff/fbcf13b96d4649019d369c7a2955c724.jpeg"
+      }
+    ]
+  },
+  "uid": "10f35a6dd2c24ac6a27330ebc3ecf356",
+  "uri": "https://api.sketchfab.com/v3/models/10f35a6dd2c24ac6a27330ebc3ecf356",
+  "user": {
+    "uid": "d2b5695956ad4e11a6abc585516c08b0",
+    "username": "k_cookie",
+    "displayName": "Kimagure_Cookie",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/k_cookie",
+    "avatar": {
+      "uid": "f61217a5dfd44cce8c7797c4c03f3eed",
+      "uri": "https://api.sketchfab.com/v3/avatars/f61217a5dfd44cce8c7797c4c03f3eed",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1982,
+          "url": "https://media.sketchfab.com/avatars/f61217a5dfd44cce8c7797c4c03f3eed/f67592782a504be78c61d33ae90efdc1.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 3707,
+          "url": "https://media.sketchfab.com/avatars/f61217a5dfd44cce8c7797c4c03f3eed/f2c661f0fa1c4bc4b182b11fbb1a1695.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 10481,
+          "url": "https://media.sketchfab.com/avatars/f61217a5dfd44cce8c7797c4c03f3eed/bb48248c07ff4667aa86192f75b565b6.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 12736,
+          "url": "https://media.sketchfab.com/avatars/f61217a5dfd44cce8c7797c4c03f3eed/c7ee49b8631a432ead367b9ae97bc91f.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/d2b5695956ad4e11a6abc585516c08b0"
+  },
+  "vertexCount": 93631,
+  "viewCount": 8732,
+  "viewerUrl": "https://sketchfab.com/3d-models/pirate-ship-10f35a6dd2c24ac6a27330ebc3ecf356",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Decided to give hand painted textures a go last year. For some reason its still incomplete even after an year.\nThe goal was to create a stylized pirate ship, but don't think it was necessary to hand paint everything. \nAnyway I don't know if I could call it stylized or not...I will leave it at this point.\nfollowed grant abbits stylized plank handpainting tutorial and also started to use krita in the middle.",
+  "price": null,
+  "downloadCount": 1947,
+  "editorUrl": "https://sketchfab.com/models/10f35a6dd2c24ac6a27330ebc3ecf356/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-10-22T16:02:50.363789",
+  "pbrType": "metalness",
+  "textureCount": 21,
+  "materialCount": 61
+}

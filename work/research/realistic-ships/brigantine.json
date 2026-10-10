@@ -1,0 +1,1215 @@
+{
+  "cursors": {
+    "next": null,
+    "previous": null
+  },
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uid": "905f004474d644f8b761a74c28362f79",
+      "slug": "stylized-low-poly-pirate-ship-brigantine",
+      "name": "Stylized Low Poly Pirate Ship Brigantine",
+      "staffpickedAt": null,
+      "viewCount": 955,
+      "likeCount": 7,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/stylized-low-poly-pirate-ship-brigantine-905f004474d644f8b761a74c28362f79",
+      "embedUrl": "https://sketchfab.com/models/905f004474d644f8b761a74c28362f79/embed",
+      "publicCommentCount": 0,
+      "downloadType": "store",
+      "downloadCount": 1,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-09-07T13:26:47.460689",
+      "thumbnails": {
+        "uid": "30759a7fd9f84efbaab3cbd26df6ddb7",
+        "images": [
+          {
+            "uid": "91955a92a938483ea2429ecdb97331d3",
+            "size": 222315,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/905f004474d644f8b761a74c28362f79/thumbnails/30759a7fd9f84efbaab3cbd26df6ddb7/10ed903e3f8c427790a14c4013ea8874.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "a9508c0c79714e6ba1da08f3a08c63e6",
+            "size": 40967,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/905f004474d644f8b761a74c28362f79/thumbnails/30759a7fd9f84efbaab3cbd26df6ddb7/c9afa66d2a3b4fb59bf023b5a45ec11a.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "6c2df93a5fcf4f748f64f0fb6cdc83e2",
+            "size": 24458,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/905f004474d644f8b761a74c28362f79/thumbnails/30759a7fd9f84efbaab3cbd26df6ddb7/d706ce5da98f47ac8277dd9414243382.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "6390909d59b84cf29f7bad88f64e5312",
+            "size": 5640,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/905f004474d644f8b761a74c28362f79/thumbnails/30759a7fd9f84efbaab3cbd26df6ddb7/f098b28b12f6437691a9a4208eb486b1.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "768238231dba44179fd88c0b699b55a6",
+            "size": 1261,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/905f004474d644f8b761a74c28362f79/thumbnails/30759a7fd9f84efbaab3cbd26df6ddb7/5945a1fb14eb43868156050b906604d9.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "9ac8642f1778411ba1338861593d5ab5",
+        "displayName": "Raging Rocket",
+        "account": "basic",
+        "username": "RagingRocket",
+        "avatars": {
+          "uid": "fb6b6d66e53d4546839f5ea8375182fd",
+          "images": [
+            {
+              "size": 963,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/9b8127097a134117a7f829cd5bc87f5d.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1347,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/32b567c810924182a85b24202bd302a7.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2701,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/8508b284529f44dd9c3a012532d307ea.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3030,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/10a54525b02843d590e988c43f4be956.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/RagingRocket"
+      },
+      "price": 1300,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        }
+      ]
+    },
+    {
+      "uid": "261db7416a97417b96d81f464a536e48",
+      "slug": "apex-legends-car-smg-brigantine",
+      "name": "Apex Legends CAR SMG Brigantine",
+      "staffpickedAt": null,
+      "viewCount": 11,
+      "likeCount": 2,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/apex-legends-car-smg-brigantine-261db7416a97417b96d81f464a536e48",
+      "embedUrl": "https://sketchfab.com/models/261db7416a97417b96d81f464a536e48/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 6,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-08-31T10:23:30.103742",
+      "thumbnails": {
+        "uid": "e2a386ab30974aa8a8688cbdf0086ca2",
+        "images": [
+          {
+            "uid": "580e48c0dcec40bca0cdae7b3ec5158f",
+            "size": 241552,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/4329e338b36b4f45b66cdd27bab01edf.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "733740df668140888da59a5f0861bc26",
+            "size": 62813,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/f2727938feb74309afb273022b010d99.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "87b3abc1411b40e48bd7f043c4984ca5",
+            "size": 34166,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/4a771e15a8fe4a7096444be3b4d9adb6.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "16fb0c2b5db8411481cd766d48902ead",
+            "size": 6501,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/94cdc21122e1422ca88a107ce9b6e118.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "a81a8ea7419140d8b773e8c06e57763b",
+            "size": 1267,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/69fc7d75f0e54151bf9b63a593476d02.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "67f5b83ee408430b8132ea92ce57310d",
+        "displayName": "零宽不连字",
+        "account": "basic",
+        "username": "LkblZ",
+        "avatars": {
+          "uid": "6e6c2f97c1cc47608edd443cc0479311",
+          "images": [
+            {
+              "size": 1152,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/f2cf18458d134291bccb9ff19c6f330d.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1665,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/5bb137e4e58145bda76478a434b87d77.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3806,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/ea5b7ac4d09641a9a7a90be1239dae85.jpeg",
+              "height": 90
+            },
+            {
+              "size": 4385,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/95298dbd29314883b433a4cbb34c3a23.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/LkblZ"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "2f779c511c1146f68a788180e03c5e63",
+      "slug": "stylized-low-poly-pirate-ship-pack",
+      "name": "Stylized Low Poly Pirate Ship Pack",
+      "staffpickedAt": null,
+      "viewCount": 5931,
+      "likeCount": 35,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/stylized-low-poly-pirate-ship-pack-2f779c511c1146f68a788180e03c5e63",
+      "embedUrl": "https://sketchfab.com/models/2f779c511c1146f68a788180e03c5e63/embed",
+      "publicCommentCount": 2,
+      "downloadType": "store",
+      "downloadCount": 6,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-09-07T13:48:26.234227",
+      "thumbnails": {
+        "uid": "134361ee488b47f08d9f07bfa7946fa0",
+        "images": [
+          {
+            "uid": "8d7167acf5424b4f82a627d7b6990c48",
+            "size": 243408,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/2f779c511c1146f68a788180e03c5e63/thumbnails/134361ee488b47f08d9f07bfa7946fa0/1cfa65f79e1942b1a425abb55bb23f6a.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "16ad4226892745668dcce68c58e89216",
+            "size": 53418,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/2f779c511c1146f68a788180e03c5e63/thumbnails/134361ee488b47f08d9f07bfa7946fa0/e8fa985b9b1a4ed4a88c7fe03e3006e4.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "84f8ab12689c448bae151b31099f08b4",
+            "size": 31899,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/2f779c511c1146f68a788180e03c5e63/thumbnails/134361ee488b47f08d9f07bfa7946fa0/94d3582e65f14c89b0a421b6abd03327.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "7748423601284ecfac6a566479922aa4",
+            "size": 7005,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/2f779c511c1146f68a788180e03c5e63/thumbnails/134361ee488b47f08d9f07bfa7946fa0/72296e5fbdad4e8b8ed649092a3b0be4.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "c4b744bef24b4c968e240a02ac7dacef",
+            "size": 1431,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/2f779c511c1146f68a788180e03c5e63/thumbnails/134361ee488b47f08d9f07bfa7946fa0/8196cc13dc11472e815435ddfdf8db10.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "9ac8642f1778411ba1338861593d5ab5",
+        "displayName": "Raging Rocket",
+        "account": "basic",
+        "username": "RagingRocket",
+        "avatars": {
+          "uid": "fb6b6d66e53d4546839f5ea8375182fd",
+          "images": [
+            {
+              "size": 963,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/9b8127097a134117a7f829cd5bc87f5d.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1347,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/32b567c810924182a85b24202bd302a7.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2701,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/8508b284529f44dd9c3a012532d307ea.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3030,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/fb6b6d66e53d4546839f5ea8375182fd/10a54525b02843d590e988c43f4be956.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/RagingRocket"
+      },
+      "price": 3200,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        }
+      ]
+    },
+    {
+      "uid": "ae0a8c818e944869ab22a6d1452cfca5",
+      "slug": "armstrong-gun",
+      "name": "Armstrong Gun",
+      "staffpickedAt": null,
+      "viewCount": 1244,
+      "likeCount": 24,
+      "animationCount": 1,
+      "viewerUrl": "https://sketchfab.com/3d-models/armstrong-gun-ae0a8c818e944869ab22a6d1452cfca5",
+      "embedUrl": "https://sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 195,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2016-05-31T13:26:24.949926",
+      "thumbnails": {
+        "uid": "eb57a6c95ade4df98dce2c4447fd8363",
+        "images": [
+          {
+            "uid": "2506ab1fc01849e99e8037ab2bba4b73",
+            "size": 111038,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/23794c000343404a9d36f4bcc66260c1.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "e99ac52fcef84e65a19ccb64e4ea8b10",
+            "size": 42077,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/0ca035a5799f435a99be9426d951e520.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "d0b3bbe929c742199cc423bb5db998f6",
+            "size": 25453,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/c7eb25c52e6d41fe95e73b2767175f34.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "e91cda0ec9ed4cb28cd0ef72d3ec8baf",
+            "size": 5360,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/7ea09d6ba7ff44f2907079b9eef5398d.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "13dfcfbae70d4bf4b93466dcb0f51104",
+            "size": 905,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/eca2354029aa4fd3ba0e7ab9d1ec846a.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0d4d7addcade478a8db5b551ea1822a6",
+        "displayName": "Brigantine Studios",
+        "account": "basic",
+        "username": "robertnutter",
+        "avatars": {
+          "uid": "f33638834c6646108f7761acaa853d56",
+          "images": [
+            {
+              "size": 939,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/47ac3dc8a56642149e5a807801b218e2.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1249,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/ef454ca73a414151a62aa9e8c4afa73e.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2865,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/c32b52baa8804d699a37f508f2f1c957.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3310,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/012fe2172cdf448f95002556157dec37.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/robertnutter"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "e9b7bdd241e745a8a4b98dd2bfc1c925",
+      "slug": "casa-de-braganca",
+      "name": "Casa de Braganca",
+      "staffpickedAt": null,
+      "viewCount": 870,
+      "likeCount": 19,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/casa-de-braganca-e9b7bdd241e745a8a4b98dd2bfc1c925",
+      "embedUrl": "https://sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 166,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-05-16T10:44:15.190931",
+      "thumbnails": {
+        "uid": "5cf939ad41d947ceadc2184ebcba0380",
+        "images": [
+          {
+            "uid": "2d8af49b59374bae9ef425b76094d3f3",
+            "size": 267950,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/e446e9a25fac48659998410b350b3d80.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "a930dd80423447b28f98f3eb46e489a4",
+            "size": 76770,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/5078e1a1fb514ce8a8d8c94be234f36f.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "f7a875b45ac5457e86a01603d1f7d674",
+            "size": 40796,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/9a25feb69ed84c5f92ccbaa75026e72f.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "4ecd4f7397b544e4bd8e9043e7672c9f",
+            "size": 7042,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/1e6ea9eeb4bb4b03a96bf6ccd034e6ca.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "fd279de1b96d458baecbc86554904527",
+            "size": 1316,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/e9b7bdd241e745a8a4b98dd2bfc1c925/thumbnails/5cf939ad41d947ceadc2184ebcba0380/660c4d75379a4e57a58727af3f2b8ba0.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "9870ea520e01438b8945cb896871bb73",
+        "displayName": "VirtualPhoto3D",
+        "account": "basic",
+        "username": "johnagotinho",
+        "avatars": {
+          "uid": "838a212d1fb847979998978d358c0c88",
+          "images": [
+            {
+              "size": 2311,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/d3c648949ddd475fb443f59af6f888dc.png",
+              "height": 32
+            },
+            {
+              "size": 4612,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/25bf267807134dc88d2884e78700182b.png",
+              "height": 48
+            },
+            {
+              "size": 13420,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/3c0394f777c647e99e7e28e65f60cd65.png",
+              "height": 90
+            },
+            {
+              "size": 15927,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/838a212d1fb847979998978d358c0c88/f6429a4e367a488181340f1e2b2fa703.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/johnagotinho"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "f825c721edb541dbbc8cd210123616c7",
+          "name": "Architecture",
+          "slug": "architecture"
+        },
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "0fbda14eb9c0493da01a713ff810ef1e",
+      "slug": "brigandine-armor",
+      "name": "Brigandine armor",
+      "staffpickedAt": null,
+      "viewCount": 1930,
+      "likeCount": 69,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/brigandine-armor-0fbda14eb9c0493da01a713ff810ef1e",
+      "embedUrl": "https://sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 365,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2021-09-11T20:24:51.964179",
+      "thumbnails": {
+        "uid": "76c4c39092bc4bb3a93f4c03f9ecb071",
+        "images": [
+          {
+            "uid": "557e46f5d03147e38c0b7c0099b9d4ef",
+            "size": 442070,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/cb46052bc4984d64923906901186d009.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "2ff72ba2e46447e8a3f1b2c9e5176f76",
+            "size": 65278,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/2af7a4ca5a184dab83ab56277d4b4145.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "731c14589ef44892971fec2cd96c6aa4",
+            "size": 33352,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/789ee09b38ca4ae983aca06b0f1bab23.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "2cec6ba425864e13acf646aab8caab32",
+            "size": 6983,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/49e486617b1f4281951ef818065314a7.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1b60ea70e40a40bcb1edf4760e4af4fa",
+            "size": 1470,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/5b90adb2f6cb4dbabe7fadb54a911a88.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "edc90dc21d484782a02bf1350dd604db",
+        "displayName": "Kelisei Ventura",
+        "account": "basic",
+        "username": "frankestudios71",
+        "avatars": {
+          "uid": "f67b9900b9f84b928ea8faac1b9d2b2a",
+          "images": [
+            {
+              "size": 1093,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/3bcb60036c534e93a920e8b41b16161b.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1547,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/e90b87dbeef54a72bb177c6a64363a29.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3202,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/edc3e32ead2c4a65977c181dd45b1b50.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3724,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/22a2475cd57046a994fbf8d8db37f266.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/frankestudios71"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "c38d3fd61597472e9ad841891a41163b",
+      "slug": "medieval-brigandine-armour",
+      "name": "Medieval Brigandine Armour",
+      "staffpickedAt": null,
+      "viewCount": 2210,
+      "likeCount": 25,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/medieval-brigandine-armour-c38d3fd61597472e9ad841891a41163b",
+      "embedUrl": "https://sketchfab.com/models/c38d3fd61597472e9ad841891a41163b/embed",
+      "publicCommentCount": 0,
+      "downloadType": "store",
+      "downloadCount": 12,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2021-07-17T10:10:40.195437",
+      "thumbnails": {
+        "uid": "19e42c94aea64040bd0e17ddb342c2e3",
+        "images": [
+          {
+            "uid": "8f7dc216192142569dd82193ac22242e",
+            "size": 166910,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/c38d3fd61597472e9ad841891a41163b/thumbnails/19e42c94aea64040bd0e17ddb342c2e3/b8cb25c402a74edca18794901778550d.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "50f40fd4ee374952b0c72d121416cf17",
+            "size": 48694,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/c38d3fd61597472e9ad841891a41163b/thumbnails/19e42c94aea64040bd0e17ddb342c2e3/c1241b034ee6490bad51a3e898bd143f.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "0b39cbdc1c2b4d719504e7032def1c26",
+            "size": 28322,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/c38d3fd61597472e9ad841891a41163b/thumbnails/19e42c94aea64040bd0e17ddb342c2e3/7c6dd444b48b4953822ca96f674fa28e.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "1cade423434e4c488ce419c90cf50118",
+            "size": 5133,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/c38d3fd61597472e9ad841891a41163b/thumbnails/19e42c94aea64040bd0e17ddb342c2e3/6d60706c7482466291f0d9869cc6eb3c.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "966a3afdded746b98204909ab5646b84",
+            "size": 1110,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/c38d3fd61597472e9ad841891a41163b/thumbnails/19e42c94aea64040bd0e17ddb342c2e3/a3235d649ea94bdba190f836813b7ee5.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "411c3f2336d54872af1384cbc8181c7a",
+        "displayName": "XYZ 3Dassets",
+        "account": "basic",
+        "username": "XYZ3Dassets",
+        "avatars": {
+          "uid": "88c354ab7ada4966a53d6f4f13c370ce",
+          "images": [
+            {
+              "size": 823,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/88c354ab7ada4966a53d6f4f13c370ce/4e23f2a028db458eaac78d5ecd981f9c.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1189,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/88c354ab7ada4966a53d6f4f13c370ce/87d22e656cde4f8182a450c0ef8bc890.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2738,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/88c354ab7ada4966a53d6f4f13c370ce/b31e5c742a90452699c5f12183a50255.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3044,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/88c354ab7ada4966a53d6f4f13c370ce/d94a0c796c33483a865d809f18678d3b.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/XYZ3Dassets"
+      },
+      "price": 1200,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "c79e2d1129034dde86f6ec404d7f16f1",
+      "slug": "cuirass",
+      "name": "Cuirass",
+      "staffpickedAt": null,
+      "viewCount": 1574,
+      "likeCount": 24,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/cuirass-c79e2d1129034dde86f6ec404d7f16f1",
+      "embedUrl": "https://sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 378,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-01-21T13:02:51.862095",
+      "thumbnails": {
+        "uid": "c555306b1bcd4493bf61c96a519a52b0",
+        "images": [
+          {
+            "uid": "96c1b51d657c4006a9a686eb5f681af0",
+            "size": 246523,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/d55b85f3ddb04bffa6efd49e6f3b3fc1.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "8fbf2faf159c4c189537845f2847919d",
+            "size": 53714,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/7c310316403345ee9b0f89240c908346.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "6b4a00697d9b45f2871614f92e25e7a0",
+            "size": 25430,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/6046d5eec9e34edd90799fb393b06bcf.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "e87b7289ce6540218b0a396afef2a86b",
+            "size": 4138,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/623d5664bb6e4f49a474838617df3a42.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "b78da5e766d642eca8fe967c6036cfd6",
+            "size": 1042,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/4f4fb43ae88e4dfd8b909572e569165c.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "e6f13345cfbb4ca98c0ca5a9c9b00b87",
+        "displayName": "FractalSpace",
+        "account": "basic",
+        "username": "fractalspace",
+        "avatars": {
+          "uid": "e87ffb42983d4cc080acb601dfda2ca7",
+          "images": [
+            {
+              "size": 1408,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/53ea216b754c42a99c3c10b3d6dbcae8.png",
+              "height": 32
+            },
+            {
+              "size": 2544,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/a7927c4edb5d48c1bd6d7542109ebfae.png",
+              "height": 48
+            },
+            {
+              "size": 6940,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/7178ac56756540ee9270439297bddc6b.png",
+              "height": 90
+            },
+            {
+              "size": 8262,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/cb6a4882fc57475a9bb99b40de5e2aca.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/fractalspace"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+          "name": "Fashion & Style",
+          "slug": "fashion-style"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "c5f7cf24f79142b1aad423021a486dc9",
+      "slug": "aragonese-infantry",
+      "name": "Aragonese Infantry",
+      "staffpickedAt": null,
+      "viewCount": 20633,
+      "likeCount": 182,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/aragonese-infantry-c5f7cf24f79142b1aad423021a486dc9",
+      "embedUrl": "https://sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/embed",
+      "publicCommentCount": 4,
+      "downloadType": "free",
+      "downloadCount": 905,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2020-06-16T07:08:46.955730",
+      "thumbnails": {
+        "uid": "0847f077b02048d292c30f34168b5a34",
+        "images": [
+          {
+            "uid": "7e6867e0ea6e413099c1ef8e7ed2989e",
+            "size": 379527,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/37c9b287531f482a9b94c33840b111f3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "98f8078efc4a4dcebff9c4536e43ed68",
+            "size": 88606,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/943be12b291c4f169a5732fd748736b0.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "c48bfb1c09b84c7f9b192bd013488a0b",
+            "size": 47725,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/3dff0e1367d44a519173cde6d255bb19.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "6826e4040bc2415c8ba2e4a32245fb80",
+            "size": 8023,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/99b603056a0240b99b9736ae3ce4ce36.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "e0fbd934419a426e98633f531e04641f",
+            "size": 1055,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/9c85571c285742efb3ed5ee3debc0d7c.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "9ac60d03cab745bba1de754c9d6486f8",
+        "displayName": "mylae",
+        "account": "basic",
+        "username": "mylae",
+        "avatars": {
+          "uid": "f4179b70a416416da8f043d098515ea9",
+          "images": [
+            {
+              "size": 614,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/f8f10ef7811a4fa0afd3bac787e53a10.jpeg",
+              "height": 32
+            },
+            {
+              "size": 900,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/6331d8a35db644138b4968151382af6b.jpeg",
+              "height": 48
+            },
+            {
+              "size": 1956,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/1796f83a863b4ca79e2c306dd0a0d50e.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2252,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/8eb0d678763e4cd1b9fba397a33e6c1d.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/mylae"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "1318e67490854e1199a7f97d976d56c2",
+      "slug": "mystic-gambler-brigandine",
+      "name": "Mystic Gambler Brigandine",
+      "staffpickedAt": null,
+      "viewCount": 18,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/mystic-gambler-brigandine-1318e67490854e1199a7f97d976d56c2",
+      "embedUrl": "https://sketchfab.com/models/1318e67490854e1199a7f97d976d56c2/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 11,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-10-31T07:05:04.449960",
+      "thumbnails": {
+        "uid": "4c57687b657445e1b46c83b35e494ad4",
+        "images": [
+          {
+            "uid": "7719c97744d34f20b8170797e63cea2c",
+            "size": 5925,
+            "width": 448,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/448.jpg",
+            "height": 280
+          },
+          {
+            "uid": "a6b20474be7c402db8f8a5a6b9ff4730",
+            "size": 2275,
+            "width": 200,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/200x200.jpg",
+            "height": 200
+          },
+          {
+            "uid": "98095b18341b4f49affb313ad9843d70",
+            "size": 841,
+            "width": 100,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/100x100.jpg",
+            "height": 100
+          },
+          {
+            "uid": "af9d9afad4f1427a8a6e68dffa18c236",
+            "size": 421,
+            "width": 50,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/50x50.jpg",
+            "height": 50
+          },
+          {
+            "uid": "b0855968e7eb4421b1d57761d0f2e2f1",
+            "size": 12257,
+            "width": 640,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/640.jpg",
+            "height": 400
+          },
+          {
+            "uid": "4cfc787dbb4a4a0190430bca9721c6cf",
+            "size": 28643,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/1024.jpg",
+            "height": 640
+          },
+          {
+            "uid": "bdbd1b7885db45ba959aede0fd468199",
+            "size": 21153,
+            "width": 854,
+            "url": "https://media.sketchfab.com/thumbnails/4c57687b657445e1b46c83b35e494ad4/854.jpg",
+            "height": 534
+          }
+        ]
+      },
+      "user": {
+        "uid": "f3a11261254e4ac6adf0705c9d9accce",
+        "displayName": "antromar3",
+        "account": "basic",
+        "username": "antromar3",
+        "avatars": {
+          "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+          "images": [
+            {
+              "size": 680,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1253,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2797,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3215,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/antromar3"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": true,
+      "org": null,
+      "visibility": "public",
+      "categories": []
+    },
+    {
+      "uid": "eb2a27dbbc61477ab019645458b23042",
+      "slug": "plaster-mold-for-commemorative-medal",
+      "name": "Plaster mold for commemorative medal",
+      "staffpickedAt": null,
+      "viewCount": 76,
+      "likeCount": 4,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/plaster-mold-for-commemorative-medal-eb2a27dbbc61477ab019645458b23042",
+      "embedUrl": "https://sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 35,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2023-05-16T16:14:41.067485",
+      "thumbnails": {
+        "uid": "37d7c72c65504d899c35fba4fb2ea6c5",
+        "images": [
+          {
+            "uid": "9df3d8b83b8b46e28c9e25e7324dbf9c",
+            "size": 101058,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/ec6690a501d04edb9ca072d0fc9f57e6.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "e423bde84a8241c995a71a08a535cc7c",
+            "size": 32732,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/8e8e46c0c3ed4e64a8d9ecec0a186678.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "69c94b652ef349aeaa36f215ec933b35",
+            "size": 18405,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/f44b11c21cbb43b8906bbd88d4807964.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "b370ea20dd1747dea2431e826c76994b",
+            "size": 3639,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/43a69fc4f32143c286b7b90468ce5380.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "2a280bfbf27844ae80bac4d256b4319d",
+            "size": 1113,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/eb2a27dbbc61477ab019645458b23042/thumbnails/37d7c72c65504d899c35fba4fb2ea6c5/ca3a9cdf5c81480bba2472fb107fa9e8.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "c6c27d4322fe41c4a157d96f56c47fd3",
+        "displayName": "Global Digital Heritage and GDH-Afrika",
+        "account": "prem",
+        "username": "GlobalDigitalHeritage",
+        "avatars": {
+          "uid": "be1e31eb0c1e47d7a3eda6ecb7f6211b",
+          "images": [
+            {
+              "size": 1148,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/048fd93d0fc44a05b7b0b573d6f68f14.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1639,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/aed12b256e7246bdaac23a9e7c8a3af5.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3452,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/d367232573314438948472d97ccc8aa9.jpeg",
+              "height": 90
+            },
+            {
+              "size": 4004,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/be1e31eb0c1e47d7a3eda6ecb7f6211b/7c5a7134a0aa432a874fbe51a30f9b6d.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/GlobalDigitalHeritage"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2022-11-17T03:12:31.579414",
+  "embedUrl": "https://sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/embed",
+  "faceCount": 4064,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 22,
+  "name": "Rylek's Raiders: Laboror Class Brig",
+  "publishedAt": "2022-11-17T03:14:49.663719",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "Destroyer",
+      "slug": "destroyer",
+      "uri": "https://api.sketchfab.com/v3/tags/destroyer"
+    },
+    {
+      "name": "substancepainter",
+      "slug": "substancepainter",
+      "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+    },
+    {
+      "name": "substance",
+      "slug": "substance",
+      "uri": "https://api.sketchfab.com/v3/tags/substance"
+    },
+    {
+      "name": "scifi",
+      "slug": "scifi",
+      "uri": "https://api.sketchfab.com/v3/tags/scifi"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "space",
+      "slug": "space",
+      "uri": "https://api.sketchfab.com/v3/tags/space"
+    },
+    {
+      "name": "spaceship",
+      "slug": "spaceship",
+      "uri": "https://api.sketchfab.com/v3/tags/spaceship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "f5f99d2744ec47a396cb89eec4940a03",
+        "width": 1920,
+        "height": 1080,
+        "size": 94336,
+        "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/e1158f5784894aec851442be71d1a0fe.jpeg"
+      },
+      {
+        "uid": "b4d338a0723b422b880d36309118b1e9",
+        "width": 1024,
+        "height": 576,
+        "size": 29610,
+        "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/77cd0366a49c4450b008afb343db5d86.jpeg"
+      },
+      {
+        "uid": "48e1be33bc91497ab32e2c44e80c5e98",
+        "width": 720,
+        "height": 405,
+        "size": 16978,
+        "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/f0000cd674594237b8e2dfd642682380.jpeg"
+      },
+      {
+        "uid": "eb258d6fa13c48acbd342f741fe003b2",
+        "width": 256,
+        "height": 144,
+        "size": 3655,
+        "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/0874967c8c794d99a84439c9984f9c32.jpeg"
+      },
+      {
+        "uid": "866cf9d01991467ab24177d52762752e",
+        "width": 64,
+        "height": 36,
+        "size": 971,
+        "url": "https://media.sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/thumbnails/15af9b85144d43f3a05ab6cdc147f0bf/542ffd79e6554b31a810b39ca472cac3.jpeg"
+      }
+    ]
+  },
+  "uid": "4c31d80eca2d426893d66a61db5fdbb5",
+  "uri": "https://api.sketchfab.com/v3/models/4c31d80eca2d426893d66a61db5fdbb5",
+  "user": {
+    "uid": "976da321987a4224b4e3cee211412dd2",
+    "username": "Gwyvern",
+    "displayName": "Gwyvern",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Gwyvern",
+    "avatar": {
+      "uid": "c60a0a198a6949c8b2efbca51b80a5b0",
+      "uri": "https://api.sketchfab.com/v3/avatars/c60a0a198a6949c8b2efbca51b80a5b0",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 2492,
+          "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/d3357908788b4355aa02704f6a93f6df.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 5248,
+          "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/0d745247c41048afbe422eac013b1204.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 16625,
+          "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/810881e27b8d4010b09c4b268c42c202.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 20066,
+          "url": "https://media.sketchfab.com/avatars/c60a0a198a6949c8b2efbca51b80a5b0/54452f5e8f9e4ce09d8590607baaa505.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/976da321987a4224b4e3cee211412dd2"
+  },
+  "vertexCount": 2225,
+  "viewCount": 2186,
+  "viewerUrl": "https://sketchfab.com/3d-models/ryleks-raiders-laboror-class-brig-4c31d80eca2d426893d66a61db5fdbb5",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Perhaps the last ship for the initial release.",
+  "price": null,
+  "downloadCount": 60,
+  "editorUrl": "https://sketchfab.com/models/4c31d80eca2d426893d66a61db5fdbb5/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "SubstancePainter",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-02-27T14:56:34.588282",
+  "pbrType": "metalness",
+  "textureCount": 24,
+  "materialCount": 4
+}

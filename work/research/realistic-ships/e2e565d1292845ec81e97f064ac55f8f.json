@@ -1,0 +1,176 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "e56c5de1e9344241909de76c5886f551",
+      "name": "Art & Abstract",
+      "slug": "art-abstract",
+      "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2025-10-05T16:58:13.614192",
+  "embedUrl": "https://sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/embed",
+  "faceCount": 217691,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 39,
+  "name": "Saintisima And Trinidad War Ship",
+  "publishedAt": "2025-10-05T17:03:00.994745",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "2b498021a6be40db8f619c3fcf1ff5a9",
+        "width": 1920,
+        "height": 1080,
+        "size": 256641,
+        "url": "https://media.sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/thumbnails/a4149bfdd09647f590fc7040f5f662a8/ea62bb5050a64341830eb1dfe3bbb1e0.jpeg"
+      },
+      {
+        "uid": "6f48cf35db6840ddab84362501861432",
+        "width": 1024,
+        "height": 576,
+        "size": 84696,
+        "url": "https://media.sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/thumbnails/a4149bfdd09647f590fc7040f5f662a8/98469bd06e5d4678bbec138b2fc07346.jpeg"
+      },
+      {
+        "uid": "3124b9524e3c46a3aab70b4bf420d377",
+        "width": 720,
+        "height": 405,
+        "size": 49908,
+        "url": "https://media.sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/thumbnails/a4149bfdd09647f590fc7040f5f662a8/ee88b07ca44a407dbfa64809996885fb.jpeg"
+      },
+      {
+        "uid": "c6a0cbf8260e4d75bd6eaa035be18e5e",
+        "width": 256,
+        "height": 144,
+        "size": 9948,
+        "url": "https://media.sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/thumbnails/a4149bfdd09647f590fc7040f5f662a8/4a49e02cbe074bddbc5d262b5424e7cc.jpeg"
+      },
+      {
+        "uid": "65961e1e9209430ba6e8bba4d77e6a47",
+        "width": 64,
+        "height": 36,
+        "size": 1690,
+        "url": "https://media.sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/thumbnails/a4149bfdd09647f590fc7040f5f662a8/df52e58856b5486798db28715bc42b22.jpeg"
+      }
+    ]
+  },
+  "uid": "e2e565d1292845ec81e97f064ac55f8f",
+  "uri": "https://api.sketchfab.com/v3/models/e2e565d1292845ec81e97f064ac55f8f",
+  "user": {
+    "uid": "b7f38ef0fe6640299349b309e138b6f6",
+    "username": "mixmamo.studio",
+    "displayName": "Mixmamo.studio:   An effortless 3D collections.",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/mixmamo.studio",
+    "avatar": {
+      "uid": "4266febe58384a54b920b298c916eb6c",
+      "uri": "https://api.sketchfab.com/v3/avatars/4266febe58384a54b920b298c916eb6c",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1989,
+          "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/c148562fe23b4622a0bc72d4c6474d97.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 3662,
+          "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/d0cf34d95bcf4e908663e7c423c07fdd.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 9876,
+          "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/7ac2cb7bcb5847348f5d7b85aa92bf0f.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 11715,
+          "url": "https://media.sketchfab.com/avatars/4266febe58384a54b920b298c916eb6c/e5e49dd167fb476aafe2961bb849d4e0.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/b7f38ef0fe6640299349b309e138b6f6"
+  },
+  "vertexCount": 136085,
+  "viewCount": 2639,
+  "viewerUrl": "https://sketchfab.com/3d-models/saintisima-and-trinidad-war-ship-e2e565d1292845ec81e97f064ac55f8f",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "The Nuestra Señora de la Santísima Trinidad was a Spanish ship of the line launched in 1769, renowned as the largest and most powerful warship of the age of sail.\n\nBuilt in Havana, Cuba, it was a revolutionary vessel for its time, featuring three gun decks and a three-rudder system for improved control.",
+  "price": null,
+  "downloadCount": 450,
+  "editorUrl": "https://sketchfab.com/models/e2e565d1292845ec81e97f064ac55f8f/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-10-05T17:36:43.945814",
+  "pbrType": null,
+  "textureCount": 31,
+  "materialCount": 65
+}

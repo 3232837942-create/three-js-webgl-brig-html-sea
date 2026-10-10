@@ -1,0 +1,150 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 3,
+  "createdAt": "2017-06-19T11:11:29.839682",
+  "embedUrl": "https://sketchfab.com/models/75064ac0d7754ce3a332efd0592e9d78/embed",
+  "faceCount": 152434,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/bbfe3f7dbcdd4122b966b85b9786a989",
+    "label": "CC Attribution-NonCommercial",
+    "fullName": "Creative Commons Attribution-NonCommercial",
+    "requirements": "Author must be credited. No commercial use.",
+    "url": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "slug": "by-nc"
+  },
+  "likeCount": 86,
+  "name": "Pirate/ Sailing Ship",
+  "publishedAt": "2017-06-19T11:21:25.868067",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "pirateship",
+      "slug": "pirateship",
+      "uri": "https://api.sketchfab.com/v3/tags/pirateship"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirates",
+      "slug": "pirates",
+      "uri": "https://api.sketchfab.com/v3/tags/pirates"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "e7838c9305f342fd952c2a21f0cf2964",
+        "width": 1024,
+        "height": 576,
+        "size": 55397,
+        "url": "https://media.sketchfab.com/models/75064ac0d7754ce3a332efd0592e9d78/thumbnails/c6be69b03a6c4578ab2e9c17c277e377/1024x576.jpeg"
+      },
+      {
+        "uid": "e3c639fcd01442308d869082c41ee604",
+        "width": 720,
+        "height": 405,
+        "size": 30589,
+        "url": "https://media.sketchfab.com/models/75064ac0d7754ce3a332efd0592e9d78/thumbnails/c6be69b03a6c4578ab2e9c17c277e377/720x405.jpeg"
+      },
+      {
+        "uid": "d16ce8d10692499ea2482f4a5f2fcd3a",
+        "width": 256,
+        "height": 144,
+        "size": 6226,
+        "url": "https://media.sketchfab.com/models/75064ac0d7754ce3a332efd0592e9d78/thumbnails/c6be69b03a6c4578ab2e9c17c277e377/256x144.jpeg"
+      },
+      {
+        "uid": "c6554c97a53e4a388a9b8b5f47da23f1",
+        "width": 64,
+        "height": 36,
+        "size": 1260,
+        "url": "https://media.sketchfab.com/models/75064ac0d7754ce3a332efd0592e9d78/thumbnails/c6be69b03a6c4578ab2e9c17c277e377/64x36.jpeg"
+      }
+    ]
+  },
+  "uid": "75064ac0d7754ce3a332efd0592e9d78",
+  "uri": "https://api.sketchfab.com/v3/models/75064ac0d7754ce3a332efd0592e9d78",
+  "user": {
+    "uid": "842f13a81ec8496c8d867d24b113ec48",
+    "username": "BConnolly",
+    "displayName": "BConnolly",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/BConnolly",
+    "avatar": {
+      "uid": "1e4f5176f08b4f8281bdbbbaae934339",
+      "uri": "https://api.sketchfab.com/v3/avatars/1e4f5176f08b4f8281bdbbbaae934339",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 723,
+          "url": "https://media.sketchfab.com/avatars/1e4f5176f08b4f8281bdbbbaae934339/a0a8dc5f9d0e4d06bddeb975599f379f.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1175,
+          "url": "https://media.sketchfab.com/avatars/1e4f5176f08b4f8281bdbbbaae934339/a1724ed8888b4bf0ab090d005d38f62f.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3040,
+          "url": "https://media.sketchfab.com/avatars/1e4f5176f08b4f8281bdbbbaae934339/41adbf7914a34a71b0bbc04d41546287.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3621,
+          "url": "https://media.sketchfab.com/avatars/1e4f5176f08b4f8281bdbbbaae934339/9511cccd690e4b32aa342619c1bc9406.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/842f13a81ec8496c8d867d24b113ec48"
+  },
+  "vertexCount": 82499,
+  "viewCount": 7814,
+  "viewerUrl": "https://sketchfab.com/3d-models/pirate-sailing-ship-75064ac0d7754ce3a332efd0592e9d78",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Followed along and changed a few things with a tutorial on Youtube in order to create this ship.\n\nhttps://www.youtube.com/channel/UCGiAo6du8aclYIyka5imdHg",
+  "price": null,
+  "downloadCount": 1906,
+  "editorUrl": "https://sketchfab.com/models/75064ac0d7754ce3a332efd0592e9d78/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-17T05:11:10.726662",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 12
+}

@@ -1,0 +1,177 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2026-07-17T08:47:24.064743",
+  "embedUrl": "https://sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/embed",
+  "faceCount": 206409,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 53,
+  "name": "Ship_pinnace_aft_diff",
+  "publishedAt": "2026-07-17T08:54:13.547665",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "pirateship",
+      "slug": "pirateship",
+      "uri": "https://api.sketchfab.com/v3/tags/pirateship"
+    },
+    {
+      "name": "woodenship",
+      "slug": "woodenship",
+      "uri": "https://api.sketchfab.com/v3/tags/woodenship"
+    },
+    {
+      "name": "pirates",
+      "slug": "pirates",
+      "uri": "https://api.sketchfab.com/v3/tags/pirates"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    },
+    {
+      "name": "meansoftransport",
+      "slug": "meansoftransport",
+      "uri": "https://api.sketchfab.com/v3/tags/meansoftransport"
+    },
+    {
+      "name": "maritimemeans",
+      "slug": "maritimemeans",
+      "uri": "https://api.sketchfab.com/v3/tags/maritimemeans"
+    },
+    {
+      "name": "seatransport",
+      "slug": "seatransport",
+      "uri": "https://api.sketchfab.com/v3/tags/seatransport"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "f30660c347234c2797afc99335eb6b62",
+        "width": 1920,
+        "height": 1080,
+        "size": 194286,
+        "url": "https://media.sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/thumbnails/b43463470c4d424c85793d50e7e81fef/26f512a19d254e2ab1409b4e2b6af1c8.jpeg"
+      },
+      {
+        "uid": "7b07c6778ad94ea5937408e068288de9",
+        "width": 1024,
+        "height": 576,
+        "size": 62796,
+        "url": "https://media.sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/thumbnails/b43463470c4d424c85793d50e7e81fef/16a4b528578a4c09a345dda42fbf3a16.jpeg"
+      },
+      {
+        "uid": "f781eb096ef84425a126a3350dae2c49",
+        "width": 720,
+        "height": 405,
+        "size": 35783,
+        "url": "https://media.sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/thumbnails/b43463470c4d424c85793d50e7e81fef/f251e3c959da400b85ba1b746d18b70e.jpeg"
+      },
+      {
+        "uid": "411d0ffd17804912ab98e4bf1ee9ef1b",
+        "width": 256,
+        "height": 144,
+        "size": 6935,
+        "url": "https://media.sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/thumbnails/b43463470c4d424c85793d50e7e81fef/d0b90c0f67f54a888fc36d9a73811f16.jpeg"
+      },
+      {
+        "uid": "eb3d1ebf914f41048cb519e761b41386",
+        "width": 64,
+        "height": 36,
+        "size": 1312,
+        "url": "https://media.sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/thumbnails/b43463470c4d424c85793d50e7e81fef/c2552283e3f94ca0a26c5c340580639b.jpeg"
+      }
+    ]
+  },
+  "uid": "81cfa4b8b8974fe687aca30dabe6ee2b",
+  "uri": "https://api.sketchfab.com/v3/models/81cfa4b8b8974fe687aca30dabe6ee2b",
+  "user": {
+    "uid": "a7c6200bbbaa442fab940d55ff0fe97c",
+    "username": "adamdmaxadam",
+    "displayName": "adamdmaxadam",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/adamdmaxadam",
+    "avatar": {
+      "uid": "984aacdbc6ea4c969d8a4c9af4fbf343",
+      "uri": "https://api.sketchfab.com/v3/avatars/984aacdbc6ea4c969d8a4c9af4fbf343",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 2872,
+          "url": "https://media.sketchfab.com/avatars/984aacdbc6ea4c969d8a4c9af4fbf343/576c397080e24558854b2d9ff199366d.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 6146,
+          "url": "https://media.sketchfab.com/avatars/984aacdbc6ea4c969d8a4c9af4fbf343/4511c9c6e458424b876424bd5cebeaa8.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 19993,
+          "url": "https://media.sketchfab.com/avatars/984aacdbc6ea4c969d8a4c9af4fbf343/c8a9eb00dbbb44db8607194f9b627f6d.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 24341,
+          "url": "https://media.sketchfab.com/avatars/984aacdbc6ea4c969d8a4c9af4fbf343/9c1c2fa2c11b4891986a2c6d163d9055.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/a7c6200bbbaa442fab940d55ff0fe97c"
+  },
+  "vertexCount": 117285,
+  "viewCount": 4384,
+  "viewerUrl": "https://sketchfab.com/3d-models/ship-pinnace-aft-diff-81cfa4b8b8974fe687aca30dabe6ee2b",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "An excellent, realistic pirate ship for games and scenes, equipped with all the colors, cinematic details, and incredible detail.",
+  "price": null,
+  "downloadCount": 940,
+  "editorUrl": "https://sketchfab.com/models/81cfa4b8b8974fe687aca30dabe6ee2b/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-07-17T09:46:15.151958",
+  "pbrType": "metalness",
+  "textureCount": 26,
+  "materialCount": 8
+}

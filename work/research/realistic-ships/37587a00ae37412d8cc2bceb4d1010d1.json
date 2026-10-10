@@ -1,0 +1,242 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2024-02-15T14:28:07.223112",
+  "embedUrl": "https://sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/embed",
+  "faceCount": 337,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 1,
+  "name": "3D Model of a Classic Wooden Boat",
+  "publishedAt": "2024-02-15T14:41:30.580942",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "transportation",
+      "slug": "transportation",
+      "uri": "https://api.sketchfab.com/v3/tags/transportation"
+    },
+    {
+      "name": "wooden",
+      "slug": "wooden",
+      "uri": "https://api.sketchfab.com/v3/tags/wooden"
+    },
+    {
+      "name": "yacht",
+      "slug": "yacht",
+      "uri": "https://api.sketchfab.com/v3/tags/yacht"
+    },
+    {
+      "name": "lake",
+      "slug": "lake",
+      "uri": "https://api.sketchfab.com/v3/tags/lake"
+    },
+    {
+      "name": "adventure",
+      "slug": "adventure",
+      "uri": "https://api.sketchfab.com/v3/tags/adventure"
+    },
+    {
+      "name": "vessel",
+      "slug": "vessel",
+      "uri": "https://api.sketchfab.com/v3/tags/vessel"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "classic",
+      "slug": "classic",
+      "uri": "https://api.sketchfab.com/v3/tags/classic"
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "uri": "https://api.sketchfab.com/v3/tags/ocean"
+    },
+    {
+      "name": "sailboat",
+      "slug": "sailboat",
+      "uri": "https://api.sketchfab.com/v3/tags/sailboat"
+    },
+    {
+      "name": "traditional",
+      "slug": "traditional",
+      "uri": "https://api.sketchfab.com/v3/tags/traditional"
+    },
+    {
+      "name": "Maritime",
+      "slug": "maritime",
+      "uri": "https://api.sketchfab.com/v3/tags/maritime"
+    },
+    {
+      "name": "nautical",
+      "slug": "nautical",
+      "uri": "https://api.sketchfab.com/v3/tags/nautical"
+    },
+    {
+      "name": "watercraft",
+      "slug": "watercraft",
+      "uri": "https://api.sketchfab.com/v3/tags/watercraft"
+    },
+    {
+      "name": "recreation",
+      "slug": "recreation",
+      "uri": "https://api.sketchfab.com/v3/tags/recreation"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "uri": "https://api.sketchfab.com/v3/tags/3d"
+    },
+    {
+      "name": "model",
+      "slug": "model",
+      "uri": "https://api.sketchfab.com/v3/tags/model"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "f424ade135f54a8897efb88ad8025c36",
+        "width": 1920,
+        "height": 1080,
+        "size": 50020,
+        "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/135aa963029f4798b0ecd6cf44ffb202.jpeg"
+      },
+      {
+        "uid": "992da62873644380a2f4ae4f46ba7b48",
+        "width": 1024,
+        "height": 576,
+        "size": 16744,
+        "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/7457c599a83748b2955e25dc3cd7aba8.jpeg"
+      },
+      {
+        "uid": "46343197b5f54840b0073e8a7a42966f",
+        "width": 720,
+        "height": 405,
+        "size": 9772,
+        "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/ef455c2cdd524b16a3cb7693799d5ac1.jpeg"
+      },
+      {
+        "uid": "dfc717e4cbe8401184e4cc66e10bfee7",
+        "width": 256,
+        "height": 144,
+        "size": 2545,
+        "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/2f57c48f77d342c48f3f05e693746564.jpeg"
+      },
+      {
+        "uid": "d3101537b9a640a3bd19b0ca11c7f687",
+        "width": 64,
+        "height": 36,
+        "size": 900,
+        "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/9928ab57926044de8dd83df09544ef88.jpeg"
+      }
+    ]
+  },
+  "uid": "37587a00ae37412d8cc2bceb4d1010d1",
+  "uri": "https://api.sketchfab.com/v3/models/37587a00ae37412d8cc2bceb4d1010d1",
+  "user": {
+    "uid": "17bea8b46214477f8983533036c9a03a",
+    "username": "M.Tanveer",
+    "displayName": "M.Tanveer",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/M.Tanveer",
+    "avatar": {
+      "uid": "78fa317e46024a5283765aa34df5e508",
+      "uri": "https://api.sketchfab.com/v3/avatars/78fa317e46024a5283765aa34df5e508",
+      "images": [
+        {
+          "width": 100,
+          "height": 100,
+          "size": 6421,
+          "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2518,
+          "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 5653,
+          "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg"
+        },
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1350,
+          "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/17bea8b46214477f8983533036c9a03a"
+  },
+  "vertexCount": 215,
+  "viewCount": 156,
+  "viewerUrl": "https://sketchfab.com/3d-models/3d-model-of-a-classic-wooden-boat-37587a00ae37412d8cc2bceb4d1010d1",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This meticulously crafted 3D model captures the timeless elegance and robust craftsmanship of a traditional wooden boat. With its sleek lines and sturdy build, this boat is perfect for recreating tranquil scenes on serene lakes or adventurous voyages across vast oceans.\n\nKey Features:\n\nDetailed hull design with authentic wood textures\nRealistic rigging and sails for an immersive sailing experience\nCustomizable elements for personalization\nSuitable for use in animations, games, or architectural visualizations\nWhether you're a maritime enthusiast, a game developer, or an architect seeking to add realism to your projects, this boat model offers unparalleled authenticity and versatility. Dive into the world of maritime exploration and bring your creative visions to life with this stunning 3D model.",
+  "price": null,
+  "downloadCount": 33,
+  "editorUrl": "https://sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-02-18T06:51:12.499562",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 2
+}

@@ -1,0 +1,201 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 4,
+  "createdAt": "2020-06-16T06:52:42.795540",
+  "embedUrl": "https://sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/embed",
+  "faceCount": 19372,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/34b725081a6a4184957efaec2cb84ed3",
+    "label": "CC Attribution-NonCommercial-NoDerivs",
+    "fullName": "CC Attribution-NonCommercial-NoDerivs",
+    "requirements": "Author must be credited. No commercial use. Modified versions can not be distributed.",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "slug": "by-nc-nd"
+  },
+  "likeCount": 182,
+  "name": "Aragonese Infantry",
+  "publishedAt": "2020-06-16T07:08:46.955730",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "mod",
+      "slug": "mod",
+      "uri": "https://api.sketchfab.com/v3/tags/mod"
+    },
+    {
+      "name": "infantry",
+      "slug": "infantry",
+      "uri": "https://api.sketchfab.com/v3/tags/infantry"
+    },
+    {
+      "name": "diorama",
+      "slug": "diorama",
+      "uri": "https://api.sketchfab.com/v3/tags/diorama"
+    },
+    {
+      "name": "m2tw",
+      "slug": "m2tw",
+      "uri": "https://api.sketchfab.com/v3/tags/m2tw"
+    },
+    {
+      "name": "aragonese",
+      "slug": "aragonese",
+      "uri": "https://api.sketchfab.com/v3/tags/aragonese"
+    },
+    {
+      "name": "machiavello",
+      "slug": "machiavello",
+      "uri": "https://api.sketchfab.com/v3/tags/machiavello"
+    },
+    {
+      "name": "game",
+      "slug": "game",
+      "uri": "https://api.sketchfab.com/v3/tags/game"
+    },
+    {
+      "name": "lowpoly",
+      "slug": "lowpoly",
+      "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "7e6867e0ea6e413099c1ef8e7ed2989e",
+        "width": 1920,
+        "height": 1080,
+        "size": 379527,
+        "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/37c9b287531f482a9b94c33840b111f3.jpeg"
+      },
+      {
+        "uid": "98f8078efc4a4dcebff9c4536e43ed68",
+        "width": 1024,
+        "height": 576,
+        "size": 88606,
+        "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/943be12b291c4f169a5732fd748736b0.jpeg"
+      },
+      {
+        "uid": "c48bfb1c09b84c7f9b192bd013488a0b",
+        "width": 720,
+        "height": 405,
+        "size": 47725,
+        "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/3dff0e1367d44a519173cde6d255bb19.jpeg"
+      },
+      {
+        "uid": "6826e4040bc2415c8ba2e4a32245fb80",
+        "width": 256,
+        "height": 144,
+        "size": 8023,
+        "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/99b603056a0240b99b9736ae3ce4ce36.jpeg"
+      },
+      {
+        "uid": "e0fbd934419a426e98633f531e04641f",
+        "width": 64,
+        "height": 36,
+        "size": 1055,
+        "url": "https://media.sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/thumbnails/0847f077b02048d292c30f34168b5a34/9c85571c285742efb3ed5ee3debc0d7c.jpeg"
+      }
+    ]
+  },
+  "uid": "c5f7cf24f79142b1aad423021a486dc9",
+  "uri": "https://api.sketchfab.com/v3/models/c5f7cf24f79142b1aad423021a486dc9",
+  "user": {
+    "uid": "9ac60d03cab745bba1de754c9d6486f8",
+    "username": "mylae",
+    "displayName": "mylae",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/mylae",
+    "avatar": {
+      "uid": "f4179b70a416416da8f043d098515ea9",
+      "uri": "https://api.sketchfab.com/v3/avatars/f4179b70a416416da8f043d098515ea9",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 614,
+          "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/f8f10ef7811a4fa0afd3bac787e53a10.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 900,
+          "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/6331d8a35db644138b4968151382af6b.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 1956,
+          "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/1796f83a863b4ca79e2c306dd0a0d50e.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2252,
+          "url": "https://media.sketchfab.com/avatars/f4179b70a416416da8f043d098515ea9/8eb0d678763e4cd1b9fba397a33e6c1d.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/9ac60d03cab745bba1de754c9d6486f8"
+  },
+  "vertexCount": 11080,
+  "viewCount": 20633,
+  "viewerUrl": "https://sketchfab.com/3d-models/aragonese-infantry-c5f7cf24f79142b1aad423021a486dc9",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "[Medieval 2 Total War - Machiavello mod](http://www.twcenter.net/forums/forumdisplay.php?2240-Machiavello-Total-War-(MachTW)) | Model for an Aragonese Infantry. Around mid-XV century, a number of Iberian soldiers followed [Alfonso V](https://en.wikipedia.org/wiki/Alfonso_V_of_Aragon) in his conquest of the Kingdom of Naples. They usually had a shield - usually an [Adarga](https://en.wikipedia.org/wiki/Adarga) - a couple of javelins and a lance, as well as a sword or knife, and on the head a hat, cap or helmet. Contemporary sources depicts them with brigandine or haubergeon, sometime having pieces of leg armour, relatively lightly armoured in respect to heavier Italian counterparts, but more dedicated to a proactive assault role, forerunner of the sword-and-buckler infantry later developed in Spain.",
+  "price": null,
+  "downloadCount": 905,
+  "editorUrl": "https://sketchfab.com/models/c5f7cf24f79142b1aad423021a486dc9/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-19T22:42:19.093914",
+  "pbrType": "metalness",
+  "textureCount": 10,
+  "materialCount": 6
+}

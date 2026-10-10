@@ -1,0 +1,186 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 5,
+  "createdAt": "2020-04-08T18:28:25.741114",
+  "embedUrl": "https://sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/embed",
+  "faceCount": 1869196,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 72,
+  "name": "Sea of Thieves Man of war WIP",
+  "publishedAt": "2020-04-08T18:39:07.833827",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "seaofthieves",
+      "slug": "seaofthieves",
+      "uri": "https://api.sketchfab.com/v3/tags/seaofthieves"
+    },
+    {
+      "name": "sot",
+      "slug": "sot",
+      "uri": "https://api.sketchfab.com/v3/tags/sot"
+    },
+    {
+      "name": "manofwar",
+      "slug": "manofwar",
+      "uri": "https://api.sketchfab.com/v3/tags/manofwar"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "5aed69c650b2460cbd56fa4e7b3c044c",
+        "width": 1920,
+        "height": 1080,
+        "size": 37608,
+        "url": "https://media.sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/thumbnails/89a8b6f97d6a442bb59c86d5cfb39a4f/0e47f976f3f745d58b424908cdff0f4f.jpeg"
+      },
+      {
+        "uid": "35ceab3c9a104a8c9178834cf47e4a93",
+        "width": 1024,
+        "height": 576,
+        "size": 12621,
+        "url": "https://media.sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/thumbnails/89a8b6f97d6a442bb59c86d5cfb39a4f/ae191b30e30a4b05ac31c170ec55ad38.jpeg"
+      },
+      {
+        "uid": "9f0f4dc68f7d4f6d8136896cdaff5863",
+        "width": 720,
+        "height": 405,
+        "size": 7490,
+        "url": "https://media.sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/thumbnails/89a8b6f97d6a442bb59c86d5cfb39a4f/60e8f17b303e487f861e2fa811246aee.jpeg"
+      },
+      {
+        "uid": "bd45221405b34ee08570c10928025765",
+        "width": 256,
+        "height": 144,
+        "size": 1531,
+        "url": "https://media.sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/thumbnails/89a8b6f97d6a442bb59c86d5cfb39a4f/dca6dcfa76ab47739166bcb7977cb11c.jpeg"
+      },
+      {
+        "uid": "080ed31e980941499199f459ba3517e7",
+        "width": 64,
+        "height": 36,
+        "size": 474,
+        "url": "https://media.sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/thumbnails/89a8b6f97d6a442bb59c86d5cfb39a4f/d3afba8fa55b46818d7f4527eb95b587.jpeg"
+      }
+    ]
+  },
+  "uid": "c806dfee11ed4908956ee3daa6f5d19c",
+  "uri": "https://api.sketchfab.com/v3/models/c806dfee11ed4908956ee3daa6f5d19c",
+  "user": {
+    "uid": "458f2306fa0445578f216a26f5fc8d88",
+    "username": "Omega_Gaming_",
+    "displayName": "Omega_Gaming_",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Omega_Gaming_",
+    "avatar": {
+      "uid": "51af6a870cce449eb75b0345feebaebb",
+      "uri": "https://api.sketchfab.com/v3/avatars/51af6a870cce449eb75b0345feebaebb",
+      "images": [
+        {
+          "width": 90,
+          "height": 90,
+          "size": 5719,
+          "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 6496,
+          "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg"
+        },
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1359,
+          "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2584,
+          "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/458f2306fa0445578f216a26f5fc8d88"
+  },
+  "vertexCount": 957151,
+  "viewCount": 7886,
+  "viewerUrl": "https://sketchfab.com/3d-models/sea-of-thieves-man-of-war-wip-c806dfee11ed4908956ee3daa6f5d19c",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "another update on my model for my idea of a Man of War for Sea of thieves\nit is styled off of a fluyt ​type of ship but with a sea of thieves style to it\n\n\nupdate: added some extra detail and railing to the balcony.\n\nNew update: added trim to the outside hull, and modeled a new capstan.\n\nanother new update: added interrior detail and exterior detail's, and ladders to the main deck and the crows nest.\n\nhello NedyAnodegamra, I've seen the VRC world ;)",
+  "price": null,
+  "downloadCount": 843,
+  "editorUrl": "https://sketchfab.com/models/c806dfee11ed4908956ee3daa6f5d19c/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-10-09T23:16:16.988311",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 71
+}

@@ -1,0 +1,246 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+      "name": "Places & Travel",
+      "slug": "places-travel",
+      "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 2,
+  "createdAt": "2026-06-12T20:45:00.717343",
+  "embedUrl": "https://sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/embed",
+  "faceCount": 69162,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+    "label": "Free Standard",
+    "fullName": "Free Standard",
+    "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+    "url": "https://sketchfab.com/licenses",
+    "slug": "free-st"
+  },
+  "likeCount": 160,
+  "name": "Dutch Ship Medium",
+  "publishedAt": "2026-06-12T20:55:52.567139",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "dutch",
+      "slug": "dutch",
+      "uri": "https://api.sketchfab.com/v3/tags/dutch"
+    },
+    {
+      "name": "wooden",
+      "slug": "wooden",
+      "uri": "https://api.sketchfab.com/v3/tags/wooden"
+    },
+    {
+      "name": "sail",
+      "slug": "sail",
+      "uri": "https://api.sketchfab.com/v3/tags/sail"
+    },
+    {
+      "name": "ships",
+      "slug": "ships",
+      "uri": "https://api.sketchfab.com/v3/tags/ships"
+    },
+    {
+      "name": "medium",
+      "slug": "medium",
+      "uri": "https://api.sketchfab.com/v3/tags/medium"
+    },
+    {
+      "name": "cove",
+      "slug": "cove",
+      "uri": "https://api.sketchfab.com/v3/tags/cove"
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "uri": "https://api.sketchfab.com/v3/tags/ocean"
+    },
+    {
+      "name": "colonial",
+      "slug": "colonial",
+      "uri": "https://api.sketchfab.com/v3/tags/colonial"
+    },
+    {
+      "name": "old",
+      "slug": "old",
+      "uri": "https://api.sketchfab.com/v3/tags/old"
+    },
+    {
+      "name": "Maritime",
+      "slug": "maritime",
+      "uri": "https://api.sketchfab.com/v3/tags/maritime"
+    },
+    {
+      "name": "comercial",
+      "slug": "comercial",
+      "uri": "https://api.sketchfab.com/v3/tags/comercial"
+    },
+    {
+      "name": "smugglers",
+      "slug": "smugglers",
+      "uri": "https://api.sketchfab.com/v3/tags/smugglers"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "wood",
+      "slug": "wood",
+      "uri": "https://api.sketchfab.com/v3/tags/wood"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "pirates",
+      "slug": "pirates",
+      "uri": "https://api.sketchfab.com/v3/tags/pirates"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "f6295a1957b1473390801e1f18c4c28c",
+        "width": 1920,
+        "height": 1080,
+        "size": 581336,
+        "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/03adb48db63c46efad27aeb80ceb2ae9.jpeg"
+      },
+      {
+        "uid": "6a45a2e3a7d04c99ac7b011163f8ca23",
+        "width": 1024,
+        "height": 576,
+        "size": 99172,
+        "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/0b386004020946dfa0d2303a6ddea18b.jpeg"
+      },
+      {
+        "uid": "327990d5f037446aaa86b02c1283b16c",
+        "width": 720,
+        "height": 405,
+        "size": 49673,
+        "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/1c8e9cc16d0d4dc69e3fdd65fbd36f21.jpeg"
+      },
+      {
+        "uid": "22f322e834ce4dc4a49576af69e9b2aa",
+        "width": 256,
+        "height": 144,
+        "size": 8173,
+        "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/997269ec87304b4fa9b7c4f934d34a75.jpeg"
+      },
+      {
+        "uid": "96a3664fc2b341ac956b8ec9d744b70b",
+        "width": 64,
+        "height": 36,
+        "size": 1355,
+        "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/e59550f77679491f987dc15bdcbd77d1.jpeg"
+      }
+    ]
+  },
+  "uid": "e9636c857e9e4f8690574ac3a74f8cba",
+  "uri": "https://api.sketchfab.com/v3/models/e9636c857e9e4f8690574ac3a74f8cba",
+  "user": {
+    "uid": "e06051ab6545413ea5513fc2b9723add",
+    "username": "cacybernetic",
+    "displayName": "Console Art Cybernetic",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/cacybernetic",
+    "avatar": {
+      "uid": "92083ab766fd4503a0e3cfc8f2e1bc7a",
+      "uri": "https://api.sketchfab.com/v3/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1105,
+          "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/603900b752284bb8ba6d4d671fe3c7eb.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1490,
+          "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/36a48b1093a84306869ff1cfe11ef547.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3019,
+          "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/87da5258a10a4776b0d984e7b16eff47.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3442,
+          "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/c69dcc6e27b94e9cbfa358a000123e33.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/e06051ab6545413ea5513fc2b9723add"
+  },
+  "vertexCount": 41222,
+  "viewCount": 7045,
+  "viewerUrl": "https://sketchfab.com/3d-models/dutch-ship-medium-e9636c857e9e4f8690574ac3a74f8cba",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "**Dutch Ship Medium** is a detailed mid-scale 3D sailing vessel inspired by classic Dutch maritime design, crafted for historical, adventure, and naval-themed environments. It features a realistic wooden hull, structured sails, and authentic deck details, making it ideal for games, cinematics, and environment showcases. Built with optimized geometry (around 69k triangles) and high-quality 2K textures, the model balances visual fidelity and performance for real-time engines like **Unity** and **Godot**. Its modular and game-ready structure makes it suitable for open-sea scenes, pirate settings, or historical world-building projects.",
+  "price": null,
+  "downloadCount": 1737,
+  "editorUrl": "https://sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-06-12T20:55:53.032252",
+  "pbrType": "metalness",
+  "textureCount": 9,
+  "materialCount": 3
+}

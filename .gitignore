@@ -1,0 +1,11 @@
+# Generated backups and local probes
+work/backups/
+work/godot-agent-probe/
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Keep local server logs out of the repository
+*.log

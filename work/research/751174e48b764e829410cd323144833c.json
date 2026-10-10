@@ -1,0 +1,201 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2020-06-11T07:28:52.592681",
+  "embedUrl": "https://sketchfab.com/models/751174e48b764e829410cd323144833c/embed",
+  "faceCount": 398667,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 174,
+  "name": "Swedish royal schooner yacht Amphion",
+  "publishedAt": "2020-06-11T08:00:39.927514",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "yacht",
+      "slug": "yacht",
+      "uri": "https://api.sketchfab.com/v3/tags/yacht"
+    },
+    {
+      "name": "sweden",
+      "slug": "sweden",
+      "uri": "https://api.sketchfab.com/v3/tags/sweden"
+    },
+    {
+      "name": "18th-century",
+      "slug": "18th-century",
+      "uri": "https://api.sketchfab.com/v3/tags/18th-century"
+    },
+    {
+      "name": "sailing-ship",
+      "slug": "sailing-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing-ship"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "navy",
+      "slug": "navy",
+      "uri": "https://api.sketchfab.com/v3/tags/navy"
+    },
+    {
+      "name": "baltic-sea",
+      "slug": "baltic-sea",
+      "uri": "https://api.sketchfab.com/v3/tags/baltic-sea"
+    },
+    {
+      "name": "svensksund",
+      "slug": "svensksund",
+      "uri": "https://api.sketchfab.com/v3/tags/svensksund"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "8a452d10521641928d7dd8f98bc46da9",
+        "width": 1920,
+        "height": 1080,
+        "size": 129932,
+        "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/0733094271bb4652ab85009df7973127.jpeg"
+      },
+      {
+        "uid": "b4dab49fbf4c4e79bf55a3b3a231d29e",
+        "width": 1024,
+        "height": 576,
+        "size": 42530,
+        "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/d028cb25b6f243168a233a4b487e2126.jpeg"
+      },
+      {
+        "uid": "26687c2c2d004987890c7626ddef2cb4",
+        "width": 720,
+        "height": 405,
+        "size": 24014,
+        "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/d4df16fbde034f4fbb52f2bfb6689150.jpeg"
+      },
+      {
+        "uid": "e99602220d954a03b72089880fd777ff",
+        "width": 256,
+        "height": 144,
+        "size": 4163,
+        "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/3de6ab1d5ab94caeb4be0564479be04b.jpeg"
+      },
+      {
+        "uid": "9c8e2cfab50d4a66854bcff40d953670",
+        "width": 64,
+        "height": 36,
+        "size": 687,
+        "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/6e5a1aea096a419da107e1d977f7c211.jpeg"
+      }
+    ]
+  },
+  "uid": "751174e48b764e829410cd323144833c",
+  "uri": "https://api.sketchfab.com/v3/models/751174e48b764e829410cd323144833c",
+  "user": {
+    "uid": "11896623337f4b9babf54f25938ce164",
+    "username": "Museovirasto",
+    "displayName": "Museovirasto Museiverket Finnish Heritage Agency",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Museovirasto",
+    "avatar": {
+      "uid": "190fff2c1ef94e869f5fdd0bf7a9a9b4",
+      "uri": "https://api.sketchfab.com/v3/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 678,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c8650e9a5d2342d7b9550a43e905c24b.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 844,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c508256ac465494ea57907cd8983f285.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 1779,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/2993c4f2c3024e00a0cc32cfc484f666.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 1855,
+          "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/cb7e9a7e8c87450f9773e281053b73eb.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/11896623337f4b9babf54f25938ce164"
+  },
+  "vertexCount": 224238,
+  "viewCount": 8313,
+  "viewerUrl": "https://sketchfab.com/3d-models/swedish-royal-schooner-yacht-amphion-751174e48b764e829410cd323144833c",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "The royal schooner yacht Amphion is based on the Turuma (Turunmaa) archipelago frigate. Designed by F. H. Chapman for the King Gustaf III, it is smaller in all dimensions and only has two masts with a schooner rig. The ship was launched in 1778 in Stockholm. It took heavy damage prior to the Scond Battle of Svensksund in the Battle of Vyborg Bay. The ship had no broadside guns, which made it a much lighter ship than the Turumas, this also means that the ship has different sea going properties than similarly sized warships. The kings cabin and grand room are in the back.\n\nHull dimensions:\n•\tLength at waterline: 31.77 m\n•\tGreatest width (breadth): 6.68 m\n•\tGreatest depth: 1.85 m\n\nShip 05, Swedish royal yacht Amphion, closed sails, 15.5.2020, programs: 3ds Max, UE4\n\nThis model was created in the Maritime Museum of Finland project \"Historia eläväksi digitaalisella tarinankerronnalla\" by Zoan Oy and is part of Smoke on the Waves experience at Maritime Centre Vellamo. https://kohtalonaruotsinsalmi.fi/",
+  "price": null,
+  "downloadCount": 1520,
+  "editorUrl": "https://sketchfab.com/models/751174e48b764e829410cd323144833c/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-19T17:25:09.372374",
+  "pbrType": null,
+  "textureCount": 46,
+  "materialCount": 26
+}

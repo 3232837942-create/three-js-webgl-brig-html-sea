@@ -1,0 +1,132 @@
+{
+  "checkedAt": "2026-09-06",
+  "source": "https://sketchfab.com/i/models/{uid}",
+  "models": [
+    {
+      "uid": "c001af0e023244f18c40e4c17fd2d715",
+      "name": "Stylized Cannon",
+      "author": "LJM",
+      "downloadType": "free",
+      "faceCount": 20508,
+      "vertexCount": 10813,
+      "license": {
+        "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullname": "Creative Commons Attribution",
+        "slug": "by",
+        "summary": "Share & adapt with credit",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "free": true,
+        "isCc": true,
+        "needsAttribution": true,
+        "ccClauses": [
+          "Attribution"
+        ]
+      },
+      "viewerUrl": "https://sketchfab.com/3d-models/stylized-cannon-c001af0e023244f18c40e4c17fd2d715",
+      "thumbnail": "https://media.sketchfab.com/models/c001af0e023244f18c40e4c17fd2d715/thumbnails/1f784db159ec422b9fa06b11eb317f2d/b82e399442ae4084a4058d99b6431a71.jpeg",
+      "format": "obj",
+      "originalFileName": "Cannon",
+      "archiveSize": 2453864,
+      "description": "Stylized Cannon \n\n- Modelled in Maya\n- High Poly Sculpt in Zbrush\n- Textured in Substance Painter\n- Rendered in Marmoset Toolbag 3 \n\nMore shots over at https://www.artstation.com/artwork/Ye3OXY\n\n\n\nInspiration based off the model by the Valday Team on Sketchfab.",
+      "objectSeparation": "unknown; not downloaded",
+      "downloadEndpointStatus": 401
+    },
+    {
+      "uid": "90e0e8cb529e40f68ab0659815cdf862",
+      "name": "Stylized Pirate Cannon",
+      "author": "Gustavo Ribeiro",
+      "downloadType": "free",
+      "faceCount": 8227,
+      "vertexCount": 4402,
+      "license": {
+        "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullname": "Creative Commons Attribution",
+        "slug": "by",
+        "summary": "Share & adapt with credit",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "free": true,
+        "isCc": true,
+        "needsAttribution": true,
+        "ccClauses": [
+          "Attribution"
+        ]
+      },
+      "viewerUrl": "https://sketchfab.com/3d-models/stylized-pirate-cannon-90e0e8cb529e40f68ab0659815cdf862",
+      "thumbnail": "https://media.sketchfab.com/models/90e0e8cb529e40f68ab0659815cdf862/thumbnails/037b7acd13ec4e28ba3d4caf546a6e52/d2109cc0a5724daca038b5e5b59d828b.jpeg",
+      "format": "fbx",
+      "originalFileName": "canhão2_0UV",
+      "archiveSize": 249872,
+      "description": "***Stylized Pirate Cannon***\n\n* made in Maya\n\n* Painted in Substance Painter\n\n\n\n**Ahhoy!**",
+      "objectSeparation": "unknown; not downloaded",
+      "downloadEndpointStatus": 401
+    },
+    {
+      "uid": "71d9f61a3abe413b8ab8b9eca9879900",
+      "name": "Ship cannon",
+      "author": "alexxx_xarchenko",
+      "downloadType": "free",
+      "faceCount": 8072,
+      "vertexCount": 4356,
+      "license": {
+        "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullname": "Creative Commons Attribution",
+        "slug": "by",
+        "summary": "Share & adapt with credit",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "free": true,
+        "isCc": true,
+        "needsAttribution": true,
+        "ccClauses": [
+          "Attribution"
+        ]
+      },
+      "viewerUrl": "https://sketchfab.com/3d-models/ship-cannon-71d9f61a3abe413b8ab8b9eca9879900",
+      "thumbnail": "https://media.sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/thumbnails/7a557c9c0192406ba9cef6e12eea8be0/7ca46d0e9e1d4c3bb0c1325a636e7a74.jpeg",
+      "format": "dae",
+      "originalFileName": "model",
+      "archiveSize": 9104850,
+      "description": "Ship cannon",
+      "objectSeparation": "unknown; not downloaded",
+      "downloadEndpointStatus": null,
+      "downloadVerificationNote": "Full download endpoint was not tested."
+    },
+    {
+      "uid": "bc20a6049b5a4544b60183a01b351b63",
+      "name": "Stylized cannon",
+      "author": "NinKorr3D",
+      "downloadType": "free",
+      "faceCount": 2310,
+      "vertexCount": 1216,
+      "license": {
+        "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullname": "Creative Commons Attribution",
+        "slug": "by",
+        "summary": "Share & adapt with credit",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "free": true,
+        "isCc": true,
+        "needsAttribution": true,
+        "ccClauses": [
+          "Attribution"
+        ]
+      },
+      "viewerUrl": "https://sketchfab.com/3d-models/stylized-cannon-bc20a6049b5a4544b60183a01b351b63",
+      "thumbnail": "https://media.sketchfab.com/models/bc20a6049b5a4544b60183a01b351b63/thumbnails/8e621f02aa444e46aaf6af03063606bb/66c6a033f3ba40f4afaf084a5ae0b00e.jpeg",
+      "format": "fbx",
+      "originalFileName": "cannon_lp",
+      "archiveSize": 108428,
+      "description": "Made in Blender",
+      "objectSeparation": "unknown; not downloaded",
+      "downloadEndpointStatus": null,
+      "downloadVerificationNote": "Full download endpoint was not tested."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-04-09T03:43:12.571494",
+  "embedUrl": "https://sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/embed",
+  "faceCount": 261668,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 16,
+  "name": "Echoes of the Deep - galleon",
+  "publishedAt": "2025-04-09T03:54:02.113319",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "6b5b5469731b4932a02e8b4da67c5bb0",
+        "width": 1920,
+        "height": 1080,
+        "size": 160384,
+        "url": "https://media.sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/thumbnails/48e54382b58f42f7847a2375cefca41b/46eead35799a4366908db945d667ce6d.jpeg"
+      },
+      {
+        "uid": "4f9cf926f22541d4b8ac305dd3512752",
+        "width": 1024,
+        "height": 576,
+        "size": 56453,
+        "url": "https://media.sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/thumbnails/48e54382b58f42f7847a2375cefca41b/33f62ae0030a4803886cf968a4888a8b.jpeg"
+      },
+      {
+        "uid": "9edb1db536254d4c88d1ad5ebfd14433",
+        "width": 720,
+        "height": 405,
+        "size": 33786,
+        "url": "https://media.sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/thumbnails/48e54382b58f42f7847a2375cefca41b/a96c6f37cd1b42e69ed22648164cbf1f.jpeg"
+      },
+      {
+        "uid": "553010eb26584bc28704d6c9f0bdfb7b",
+        "width": 256,
+        "height": 144,
+        "size": 6925,
+        "url": "https://media.sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/thumbnails/48e54382b58f42f7847a2375cefca41b/984a5ec95071468a93b08640bf7f16de.jpeg"
+      },
+      {
+        "uid": "9c925f00ea5a42ee8041884a35dab55e",
+        "width": 64,
+        "height": 36,
+        "size": 1323,
+        "url": "https://media.sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/thumbnails/48e54382b58f42f7847a2375cefca41b/e0be3a871cee4792a1203a9a4b73ea05.jpeg"
+      }
+    ]
+  },
+  "uid": "c08f857ea95d409db3b95565ec1f5a79",
+  "uri": "https://api.sketchfab.com/v3/models/c08f857ea95d409db3b95565ec1f5a79",
+  "user": {
+    "uid": "97940a6dfa434d689838641c6c168fa4",
+    "username": "CMBC",
+    "displayName": "Brian Trepanier",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/CMBC",
+    "avatar": {
+      "uid": "ade567e10ef64375b161d0643e1022c1",
+      "uri": "https://api.sketchfab.com/v3/avatars/ade567e10ef64375b161d0643e1022c1",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1088,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/c05e99b953a4434b851214a3210bc857.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1577,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/a533f6ed9b064b7cbc69810930aa884b.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3730,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/9e9de1ad43894ab1ae4e209ec49d2925.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4309,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/906497c62ca4436da40577f57abdea0a.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/97940a6dfa434d689838641c6c168fa4"
+  },
+  "vertexCount": 130177,
+  "viewCount": 1483,
+  "viewerUrl": "https://sketchfab.com/3d-models/echoes-of-the-deep-galleon-c08f857ea95d409db3b95565ec1f5a79",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Anchored in time and salt, an old galleon rests beneath a dusky sky, sails still catching the wind as if waiting for one last voyage. Its wood, dark with centuries of sun and sea, groans softly with each wave, telling stories few remember.  \n\nThis ship once ruled the oceans—three masts rising high, sails billowing with purpose. It carried treasures, crewed by sailors chasing maps and myths. The deck, now empty, once echoed with boots and shouted orders. Cannons still sit along the sides, silent but ready, rust creeping over cold iron.\n\nSeagulls circle above, and the sea hums below, wrapping the vessel in memory. Whether lost in battle, storm, or forgotten port, the galleon remains—proud, weathered, and hauntingly beautiful.  \n\nIt is not just a ship; it is a relic of an age when the world was still being discovered, and the wind was the only engine of dreams.",
+  "price": null,
+  "downloadCount": 223,
+  "editorUrl": "https://sketchfab.com/models/c08f857ea95d409db3b95565ec1f5a79/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "blender-exporter",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-04-09T03:54:25.509719",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

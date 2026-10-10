@@ -1,0 +1,256 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "e56c5de1e9344241909de76c5886f551",
+      "name": "Art & Abstract",
+      "slug": "art-abstract",
+      "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2025-10-10T12:40:24.682822",
+  "embedUrl": "https://sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/embed",
+  "faceCount": 775583,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 0,
+  "name": "Winifred Quigly (1753-69) Headstone",
+  "publishedAt": "2025-10-10T13:06:48.897742",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "graveyard",
+      "slug": "graveyard",
+      "uri": "https://api.sketchfab.com/v3/tags/graveyard"
+    },
+    {
+      "name": "ireland",
+      "slug": "ireland",
+      "uri": "https://api.sketchfab.com/v3/tags/ireland"
+    },
+    {
+      "name": "munster",
+      "slug": "munster",
+      "uri": "https://api.sketchfab.com/v3/tags/munster"
+    },
+    {
+      "name": "burial",
+      "slug": "burial",
+      "uri": "https://api.sketchfab.com/v3/tags/burial"
+    },
+    {
+      "name": "historical-archaeology",
+      "slug": "historical-archaeology",
+      "uri": "https://api.sketchfab.com/v3/tags/historical-archaeology"
+    },
+    {
+      "name": "tipperary",
+      "slug": "tipperary",
+      "uri": "https://api.sketchfab.com/v3/tags/tipperary"
+    },
+    {
+      "name": "funerary-art",
+      "slug": "funerary-art",
+      "uri": "https://api.sketchfab.com/v3/tags/funerary-art"
+    },
+    {
+      "name": "genealogy",
+      "slug": "genealogy",
+      "uri": "https://api.sketchfab.com/v3/tags/genealogy"
+    },
+    {
+      "name": "golgotha",
+      "slug": "golgotha",
+      "uri": "https://api.sketchfab.com/v3/tags/golgotha"
+    },
+    {
+      "name": "archaeology-3dmodel-photogrammetry",
+      "slug": "archaeology-3dmodel-photogrammetry",
+      "uri": "https://api.sketchfab.com/v3/tags/archaeology-3dmodel-photogrammetry"
+    },
+    {
+      "name": "funerary-monument",
+      "slug": "funerary-monument",
+      "uri": "https://api.sketchfab.com/v3/tags/funerary-monument"
+    },
+    {
+      "name": "funerary-archaeology",
+      "slug": "funerary-archaeology",
+      "uri": "https://api.sketchfab.com/v3/tags/funerary-archaeology"
+    },
+    {
+      "name": "killaloe-diocese",
+      "slug": "killaloe-diocese",
+      "uri": "https://api.sketchfab.com/v3/tags/killaloe-diocese"
+    },
+    {
+      "name": "18th-century-religious-art",
+      "slug": "18th-century-religious-art",
+      "uri": "https://api.sketchfab.com/v3/tags/18th-century-religious-art"
+    },
+    {
+      "name": "18th-century-headstone",
+      "slug": "18th-century-headstone",
+      "uri": "https://api.sketchfab.com/v3/tags/18th-century-headstone"
+    },
+    {
+      "name": "cross-of-thieves",
+      "slug": "cross-of-thieves",
+      "uri": "https://api.sketchfab.com/v3/tags/cross-of-thieves"
+    },
+    {
+      "name": "bevelled-panel",
+      "slug": "bevelled-panel",
+      "uri": "https://api.sketchfab.com/v3/tags/bevelled-panel"
+    },
+    {
+      "name": "old-terryglass-graveyard",
+      "slug": "old-terryglass-graveyard",
+      "uri": "https://api.sketchfab.com/v3/tags/old-terryglass-graveyard"
+    },
+    {
+      "name": "headstone-3dmodel",
+      "slug": "headstone-3dmodel",
+      "uri": "https://api.sketchfab.com/v3/tags/headstone-3dmodel"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "d85bd6583a704750970382ea5483c1c6",
+        "width": 1920,
+        "height": 1080,
+        "size": 288026,
+        "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/99051771b8dd461695043b85d0b464d3.jpeg"
+      },
+      {
+        "uid": "1daaa69e891c4cb19ec9e4789104265d",
+        "width": 1024,
+        "height": 576,
+        "size": 92543,
+        "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/ed6acd62f963488d81afb7d24c6ce26b.jpeg"
+      },
+      {
+        "uid": "1464927435494e4dac587938fabd8da2",
+        "width": 720,
+        "height": 405,
+        "size": 51264,
+        "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/2eef85bb48db4a6c914aacf037767898.jpeg"
+      },
+      {
+        "uid": "ca6dc05b981f42c09eab60258d8c4b19",
+        "width": 256,
+        "height": 144,
+        "size": 7728,
+        "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/5b5a15779410495c855e1a2ffbde8e8b.jpeg"
+      },
+      {
+        "uid": "e310b8c19c884e75a4a976ed3d2046f9",
+        "width": 64,
+        "height": 36,
+        "size": 1187,
+        "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/688a097908ed46589ec28a4d48521da4.jpeg"
+      }
+    ]
+  },
+  "uid": "ee4dc4079271477a9df921f857e5f6e5",
+  "uri": "https://api.sketchfab.com/v3/models/ee4dc4079271477a9df921f857e5f6e5",
+  "user": {
+    "uid": "bf1213522f6e4274ae0a2032dec28d2b",
+    "username": "tippstudies",
+    "displayName": "tippstudies",
+    "account": "pro",
+    "profileUrl": "https://sketchfab.com/tippstudies",
+    "avatar": {
+      "uid": "ecc27d89765c473796167e61484997ec",
+      "uri": "https://api.sketchfab.com/v3/avatars/ecc27d89765c473796167e61484997ec",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1200,
+          "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/292dcd4a375f497aacfed96ece006d87.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1603,
+          "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/22ca748b9b7542b8b97d0ece10d7873e.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3039,
+          "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/41039d5b8a844b8ca72913fc55b244fc.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3328,
+          "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/ff4480e6cef846e49ea5f7e610ebdf1f.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/bf1213522f6e4274ae0a2032dec28d2b"
+  },
+  "vertexCount": 449467,
+  "viewCount": 13,
+  "viewerUrl": "https://sketchfab.com/3d-models/winifred-quigly-1753-69-headstone-ee4dc4079271477a9df921f857e5f6e5",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "One of 240 memorials recorded in Old Terryglass graveyard (TN006-003008-), Co. Tipperary. 18th-century headstone marking the grave of Winifred Quigly  (born c. 1753) who died in 1769 aged 16.  Headstone erected by her father Garret Quigly.  Inscription framed within a bevelled panel.  Above the inscription there is the Cross-of-Thieves in an oval-shaped roundel.  The upturned base of the central cross represents Golgotha or the mount on which Jesus was crucified.  The \"cross of thieves\" refers to the crucifixion of Jesus alongside two criminals, described in the Gospels of Mark, Matthew, and particularly Luke, where one thief, the penitent thief, asked Jesus to remember him, and Jesus promised to bring him to paradise that day. The other thief, the impenitent thief, mocked Jesus, but the penitent thief rebuked him, acknowledging their just punishment and Jesus' innocence.  For more details visit; https://historicgraves.com/terryglass-old-cemetery/tn-tygs-0167/grave",
+  "price": null,
+  "downloadCount": 19,
+  "editorUrl": "https://sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-10-10T13:07:08.872344",
+  "pbrType": null,
+  "textureCount": 4,
+  "materialCount": 4
+}

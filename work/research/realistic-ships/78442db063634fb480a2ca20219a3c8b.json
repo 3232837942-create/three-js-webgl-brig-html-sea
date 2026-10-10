@@ -1,0 +1,171 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2020-04-08T21:32:54.437092",
+  "embedUrl": "https://sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/embed",
+  "faceCount": 5478,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 2,
+  "name": "Neridean Brig",
+  "publishedAt": "2020-04-08T21:35:46.174895",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "brig",
+      "slug": "brig",
+      "uri": "https://api.sketchfab.com/v3/tags/brig"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "1114faf20d7a445baa48c63e3ebe43e4",
+        "width": 1920,
+        "height": 1080,
+        "size": 23461,
+        "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/5d7650b9df034becbfce14ccb0d28f31.jpeg"
+      },
+      {
+        "uid": "47863a113b694addbb686257777d829a",
+        "width": 1024,
+        "height": 576,
+        "size": 8504,
+        "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/9b87fd124f8b47989801a3aed841264f.jpeg"
+      },
+      {
+        "uid": "345d4c87ec7a4f5d9bb699b61c0d3e8d",
+        "width": 720,
+        "height": 405,
+        "size": 5118,
+        "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/16bc19ad2f7f442b9ce42e0ccd5821d4.jpeg"
+      },
+      {
+        "uid": "4751e650ba274b31b96c8a29185186c0",
+        "width": 256,
+        "height": 144,
+        "size": 1306,
+        "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/05bbfb7b2b7a4742818f5de4901074f7.jpeg"
+      },
+      {
+        "uid": "3adee7bda9884814882e66e0331e4c18",
+        "width": 64,
+        "height": 36,
+        "size": 436,
+        "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/a6f8b4eafb6349218b0dfeaf39771384.jpeg"
+      }
+    ]
+  },
+  "uid": "78442db063634fb480a2ca20219a3c8b",
+  "uri": "https://api.sketchfab.com/v3/models/78442db063634fb480a2ca20219a3c8b",
+  "user": {
+    "uid": "0da7939684374aafa0cda233bc0b2d83",
+    "username": "Solterman",
+    "displayName": "Solterman",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Solterman",
+    "avatar": {
+      "uid": "7631b6955081422cb95034771603c0c2",
+      "uri": "https://api.sketchfab.com/v3/avatars/7631b6955081422cb95034771603c0c2",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 735,
+          "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/ace7614cc5c947a484d12f948815577e.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1143,
+          "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/f8be2a2c1a07428db1fdbb4f09f453e2.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2595,
+          "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/4154f2e499f447488b894beae25d1afa.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2989,
+          "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/190baaa1f06e48cab6ff2222c5d4e9a3.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/0da7939684374aafa0cda233bc0b2d83"
+  },
+  "vertexCount": 3275,
+  "viewCount": 322,
+  "viewerUrl": "https://sketchfab.com/3d-models/neridean-brig-78442db063634fb480a2ca20219a3c8b",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "A Brig From the early age of Neridea sailing",
+  "price": null,
+  "downloadCount": 45,
+  "editorUrl": "https://sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-17T10:52:20.218018",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 10
+}

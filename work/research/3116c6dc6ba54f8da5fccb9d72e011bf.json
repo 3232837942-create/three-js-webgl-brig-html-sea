@@ -1,0 +1,346 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-09-07T17:27:33.596806",
+  "embedUrl": "https://sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/embed",
+  "faceCount": 119207,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 1,
+  "name": "3D Ship Model – Highly Detailed and Game-Ready",
+  "publishedAt": "2025-09-07T17:36:58.119979",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "battleship",
+      "slug": "battleship",
+      "uri": "https://api.sketchfab.com/v3/tags/battleship"
+    },
+    {
+      "name": "historic",
+      "slug": "historic",
+      "uri": "https://api.sketchfab.com/v3/tags/historic"
+    },
+    {
+      "name": "yacht",
+      "slug": "yacht",
+      "uri": "https://api.sketchfab.com/v3/tags/yacht"
+    },
+    {
+      "name": "high",
+      "slug": "high",
+      "uri": "https://api.sketchfab.com/v3/tags/high"
+    },
+    {
+      "name": "textures",
+      "slug": "textures",
+      "uri": "https://api.sketchfab.com/v3/tags/textures"
+    },
+    {
+      "name": "vessel",
+      "slug": "vessel",
+      "uri": "https://api.sketchfab.com/v3/tags/vessel"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "uri": "https://api.sketchfab.com/v3/tags/ocean"
+    },
+    {
+      "name": "obj",
+      "slug": "obj",
+      "uri": "https://api.sketchfab.com/v3/tags/obj"
+    },
+    {
+      "name": "detailed",
+      "slug": "detailed",
+      "uri": "https://api.sketchfab.com/v3/tags/detailed"
+    },
+    {
+      "name": "ready",
+      "slug": "ready",
+      "uri": "https://api.sketchfab.com/v3/tags/ready"
+    },
+    {
+      "name": "vr",
+      "slug": "vr",
+      "uri": "https://api.sketchfab.com/v3/tags/vr"
+    },
+    {
+      "name": "ar",
+      "slug": "ar",
+      "uri": "https://api.sketchfab.com/v3/tags/ar"
+    },
+    {
+      "name": "fbx",
+      "slug": "fbx",
+      "uri": "https://api.sketchfab.com/v3/tags/fbx"
+    },
+    {
+      "name": "naval",
+      "slug": "naval",
+      "uri": "https://api.sketchfab.com/v3/tags/naval"
+    },
+    {
+      "name": "realistic",
+      "slug": "realistic",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic"
+    },
+    {
+      "name": "galleon",
+      "slug": "galleon",
+      "uri": "https://api.sketchfab.com/v3/tags/galleon"
+    },
+    {
+      "name": "Cinematic",
+      "slug": "cinematic",
+      "uri": "https://api.sketchfab.com/v3/tags/cinematic"
+    },
+    {
+      "name": "Maritime",
+      "slug": "maritime",
+      "uri": "https://api.sketchfab.com/v3/tags/maritime"
+    },
+    {
+      "name": "watercraft",
+      "slug": "watercraft",
+      "uri": "https://api.sketchfab.com/v3/tags/watercraft"
+    },
+    {
+      "name": "marketplace",
+      "slug": "marketplace",
+      "uri": "https://api.sketchfab.com/v3/tags/marketplace"
+    },
+    {
+      "name": "asset",
+      "slug": "asset",
+      "uri": "https://api.sketchfab.com/v3/tags/asset"
+    },
+    {
+      "name": "game",
+      "slug": "game",
+      "uri": "https://api.sketchfab.com/v3/tags/game"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "uri": "https://api.sketchfab.com/v3/tags/3d"
+    },
+    {
+      "name": "blender",
+      "slug": "blender",
+      "uri": "https://api.sketchfab.com/v3/tags/blender"
+    },
+    {
+      "name": "pbr",
+      "slug": "pbr",
+      "uri": "https://api.sketchfab.com/v3/tags/pbr"
+    },
+    {
+      "name": "low",
+      "slug": "low",
+      "uri": "https://api.sketchfab.com/v3/tags/low"
+    },
+    {
+      "name": "poly",
+      "slug": "poly",
+      "uri": "https://api.sketchfab.com/v3/tags/poly"
+    },
+    {
+      "name": "model",
+      "slug": "model",
+      "uri": "https://api.sketchfab.com/v3/tags/model"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "animation",
+      "slug": "animation",
+      "uri": "https://api.sketchfab.com/v3/tags/animation"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "stylized",
+      "slug": "stylized",
+      "uri": "https://api.sketchfab.com/v3/tags/stylized"
+    },
+    {
+      "name": "fantasy",
+      "slug": "fantasy",
+      "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+    },
+    {
+      "name": "textured",
+      "slug": "textured",
+      "uri": "https://api.sketchfab.com/v3/tags/textured"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "3178b897d0984bd6b1508c87bd1d5edc",
+        "width": 1920,
+        "height": 1080,
+        "size": 46391,
+        "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/3eef312362af4ade96a9fc06eaa786cd.jpeg"
+      },
+      {
+        "uid": "0aafcc294e7a4e13bf2da15140d7dd47",
+        "width": 1024,
+        "height": 576,
+        "size": 15400,
+        "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/166ba6ebb182489899626781fc77f851.jpeg"
+      },
+      {
+        "uid": "da34a16544a14f9580ba005546378a54",
+        "width": 720,
+        "height": 405,
+        "size": 8868,
+        "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/cb235e4670b4428489c13f9672f48448.jpeg"
+      },
+      {
+        "uid": "28c281c7a2bd46b1829c2883d05dee9a",
+        "width": 256,
+        "height": 144,
+        "size": 2112,
+        "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/8b5f1e723ff44b4dbfcb1211064cc14a.jpeg"
+      },
+      {
+        "uid": "137839ac498c4823b1d6b5f5750a27d8",
+        "width": 64,
+        "height": 36,
+        "size": 826,
+        "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/597b460f11124f2d85750ca28a4e0652.jpeg"
+      }
+    ]
+  },
+  "uid": "3116c6dc6ba54f8da5fccb9d72e011bf",
+  "uri": "https://api.sketchfab.com/v3/models/3116c6dc6ba54f8da5fccb9d72e011bf",
+  "user": {
+    "uid": "922f4e9ec91249c19ca4867abd47b3cf",
+    "username": "1_floki_1",
+    "displayName": "1_floki_1",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/1_floki_1",
+    "avatar": {
+      "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+      "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 680,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1253,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2797,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3215,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/922f4e9ec91249c19ca4867abd47b3cf"
+  },
+  "vertexCount": 58112,
+  "viewCount": 489,
+  "viewerUrl": "https://sketchfab.com/3d-models/3d-ship-model-highly-detailed-and-game-ready-3116c6dc6ba54f8da5fccb9d72e011bf",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This 3D Ship model is a detailed, game-ready asset created for a wide range of digital projects. It combines realistic design, optimized geometry, and high-quality PBR textures, making it perfect for games, animations, VR/AR experiences, or cinematic scenes. The model has clean topology, balanced polycount, and comes in common formats such as FBX, OBJ, and BLEND for easy integration. Textures include albedo, roughness, metallic, and normal maps to ensure realistic lighting and material definition. The ship’s structure is carefully modeled to capture authentic proportions and details, from the hull to the deck, making it versatile for both close-up renders and large-scale scenes. Its performance-friendly design makes it suitable for real-time engines, while still keeping a high level of realism. Whether used as a central asset in a game level, a background element in a cinematic, or part of a VR/AR simulation, this ship adapts to different workflows.",
+  "price": null,
+  "downloadCount": 28,
+  "editorUrl": "https://sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-09-07T17:36:58.806393",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 98
+}

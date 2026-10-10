@@ -1,0 +1,172 @@
+{
+  "animationCount": 1,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2016-05-31T13:24:43.081581",
+  "embedUrl": "https://sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/embed",
+  "faceCount": 88450,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/b9ddc40b93e34cdca1fc152f39b9f375",
+    "label": "CC Attribution-ShareAlike",
+    "fullName": "Creative Commons Attribution-ShareAlike",
+    "requirements": "Author must be credited. Modified versions must have the same license. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "slug": "by-sa"
+  },
+  "likeCount": 24,
+  "name": "Armstrong Gun",
+  "publishedAt": "2016-05-31T13:26:24.949926",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "artillery",
+      "slug": "artillery",
+      "uri": "https://api.sketchfab.com/v3/tags/artillery"
+    },
+    {
+      "name": "ordnance",
+      "slug": "ordnance",
+      "uri": "https://api.sketchfab.com/v3/tags/ordnance"
+    },
+    {
+      "name": "civil-war",
+      "slug": "civil-war",
+      "uri": "https://api.sketchfab.com/v3/tags/civil-war"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    },
+    {
+      "name": "gun",
+      "slug": "gun",
+      "uri": "https://api.sketchfab.com/v3/tags/gun"
+    },
+    {
+      "name": "beginner",
+      "slug": "beginner",
+      "uri": "https://api.sketchfab.com/v3/tags/beginner"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "2506ab1fc01849e99e8037ab2bba4b73",
+        "width": 1920,
+        "height": 1080,
+        "size": 111038,
+        "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/23794c000343404a9d36f4bcc66260c1.jpeg"
+      },
+      {
+        "uid": "e99ac52fcef84e65a19ccb64e4ea8b10",
+        "width": 1024,
+        "height": 576,
+        "size": 42077,
+        "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/0ca035a5799f435a99be9426d951e520.jpeg"
+      },
+      {
+        "uid": "d0b3bbe929c742199cc423bb5db998f6",
+        "width": 720,
+        "height": 405,
+        "size": 25453,
+        "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/c7eb25c52e6d41fe95e73b2767175f34.jpeg"
+      },
+      {
+        "uid": "e91cda0ec9ed4cb28cd0ef72d3ec8baf",
+        "width": 256,
+        "height": 144,
+        "size": 5360,
+        "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/7ea09d6ba7ff44f2907079b9eef5398d.jpeg"
+      },
+      {
+        "uid": "13dfcfbae70d4bf4b93466dcb0f51104",
+        "width": 64,
+        "height": 36,
+        "size": 905,
+        "url": "https://media.sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/thumbnails/eb57a6c95ade4df98dce2c4447fd8363/eca2354029aa4fd3ba0e7ab9d1ec846a.jpeg"
+      }
+    ]
+  },
+  "uid": "ae0a8c818e944869ab22a6d1452cfca5",
+  "uri": "https://api.sketchfab.com/v3/models/ae0a8c818e944869ab22a6d1452cfca5",
+  "user": {
+    "uid": "0d4d7addcade478a8db5b551ea1822a6",
+    "username": "robertnutter",
+    "displayName": "Brigantine Studios",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/robertnutter",
+    "avatar": {
+      "uid": "f33638834c6646108f7761acaa853d56",
+      "uri": "https://api.sketchfab.com/v3/avatars/f33638834c6646108f7761acaa853d56",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 939,
+          "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/47ac3dc8a56642149e5a807801b218e2.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1249,
+          "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/ef454ca73a414151a62aa9e8c4afa73e.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2865,
+          "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/c32b52baa8804d699a37f508f2f1c957.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3310,
+          "url": "https://media.sketchfab.com/avatars/f33638834c6646108f7761acaa853d56/012fe2172cdf448f95002556157dec37.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/0d4d7addcade478a8db5b551ea1822a6"
+  },
+  "vertexCount": 69940,
+  "viewCount": 1244,
+  "viewerUrl": "https://sketchfab.com/3d-models/armstrong-gun-ae0a8c818e944869ab22a6d1452cfca5",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This model/animation was my FIRST EVER 3D model. I didn't even know what a polygon was when I started making this! \n\nThe bump mapped textures have been affected by upload sadly, though I'm chuffed the animation works.\n\nThis was purely a learning project. But it laid the foundation for pretty much everything I would go on to learn.\n\n*About the Gun*\n\nIt is loosely based upon the mid 19thC U.S pattern *Armstrong* Field Gun. 70ib calibre and with a firing range greater than any other piece of artillery in history until then, it was a force to be reckoned with on any battlefield!\n\n**FREE DOWNLOAD!**",
+  "price": null,
+  "downloadCount": 195,
+  "editorUrl": "https://sketchfab.com/models/ae0a8c818e944869ab22a6d1452cfca5/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-18T00:52:46.858746",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 24
+}

@@ -1,0 +1,774 @@
+{
+  "cursors": {
+    "next": null,
+    "previous": null
+  },
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uid": "babc260ab85044dfa96981725742bc09",
+      "slug": "lowpoly-sailing-ships",
+      "name": "Lowpoly sailing ships",
+      "staffpickedAt": null,
+      "viewCount": 3995,
+      "likeCount": 26,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/lowpoly-sailing-ships-babc260ab85044dfa96981725742bc09",
+      "embedUrl": "https://sketchfab.com/models/babc260ab85044dfa96981725742bc09/embed",
+      "publicCommentCount": 3,
+      "downloadType": "store",
+      "downloadCount": 33,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2021-10-04T15:17:09.501647",
+      "thumbnails": {
+        "uid": "98065f9bc7c84053aea563cb76189e57",
+        "images": [
+          {
+            "uid": "7d0d755a209f44eb94d44f9c44b2fbea",
+            "size": 188640,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/96d7b143ffe64c5393347c2f8d6dd070.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "48365b2a4b5c40c5a1bc2e9e87f7e17a",
+            "size": 68244,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/68d5f41a89234a71be5b1d693182b390.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "99fc389fe35a42ffb9c7a32f305810e7",
+            "size": 41216,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/8346c5e5fb22408b97a3acbb63f5922b.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "fd5765b288114e0a98468125a572aa13",
+            "size": 8658,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/9a4077f1aff34103b9d9d4a89e6c1fd6.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1cb0d7427f654b7390077d97262f1bb0",
+            "size": 1542,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/babc260ab85044dfa96981725742bc09/thumbnails/98065f9bc7c84053aea563cb76189e57/ce7a449c32c843808b80e15b03b92483.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0a074156ec364840abdefc5c366e20da",
+        "displayName": "Apokalips123",
+        "account": "basic",
+        "username": "semarumov",
+        "avatars": {
+          "uid": "811bbe49a4b54caf97136e0ef6d74e77",
+          "images": [
+            {
+              "size": 657,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/d98c653dd4004b99b263eee7eca00bea.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1025,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/412fa7fba6be456fae345b4bd6e4ef5d.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2481,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/075bfb262f2448b98cbd1da7631e29fd.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2626,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/811bbe49a4b54caf97136e0ef6d74e77/848c482dc17b4dde9805202c254add58.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/semarumov"
+      },
+      "price": 450,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "78442db063634fb480a2ca20219a3c8b",
+      "slug": "neridean-brig",
+      "name": "Neridean Brig",
+      "staffpickedAt": null,
+      "viewCount": 322,
+      "likeCount": 2,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/neridean-brig-78442db063634fb480a2ca20219a3c8b",
+      "embedUrl": "https://sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 45,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2020-04-08T21:35:46.174895",
+      "thumbnails": {
+        "uid": "01bc1918f7914b278d31688874705476",
+        "images": [
+          {
+            "uid": "1114faf20d7a445baa48c63e3ebe43e4",
+            "size": 23461,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/5d7650b9df034becbfce14ccb0d28f31.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "47863a113b694addbb686257777d829a",
+            "size": 8504,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/9b87fd124f8b47989801a3aed841264f.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "345d4c87ec7a4f5d9bb699b61c0d3e8d",
+            "size": 5118,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/16bc19ad2f7f442b9ce42e0ccd5821d4.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "4751e650ba274b31b96c8a29185186c0",
+            "size": 1306,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/05bbfb7b2b7a4742818f5de4901074f7.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "3adee7bda9884814882e66e0331e4c18",
+            "size": 436,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/78442db063634fb480a2ca20219a3c8b/thumbnails/01bc1918f7914b278d31688874705476/a6f8b4eafb6349218b0dfeaf39771384.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0da7939684374aafa0cda233bc0b2d83",
+        "displayName": "Solterman",
+        "account": "basic",
+        "username": "Solterman",
+        "avatars": {
+          "uid": "7631b6955081422cb95034771603c0c2",
+          "images": [
+            {
+              "size": 735,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/ace7614cc5c947a484d12f948815577e.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1143,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/f8be2a2c1a07428db1fdbb4f09f453e2.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2595,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/4154f2e499f447488b894beae25d1afa.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2989,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/7631b6955081422cb95034771603c0c2/190baaa1f06e48cab6ff2222c5d4e9a3.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/Solterman"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "d427266544754cb5b98b6277d1d72b86",
+      "slug": "brig-mahoning-built-1847",
+      "name": "Brig Mahoning (Built 1847)",
+      "staffpickedAt": null,
+      "viewCount": 252,
+      "likeCount": 6,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/brig-mahoning-built-1847-d427266544754cb5b98b6277d1d72b86",
+      "embedUrl": "https://sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 276,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-09-02T21:47:07.893441",
+      "thumbnails": {
+        "uid": "86f9971b92254542837c7aa76068010a",
+        "images": [
+          {
+            "uid": "f7ab5c00393148608d0f177fb8f8b378",
+            "size": 206811,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/3a96a9cd55004a19b3895ab0eaa003d9.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "f1200f3541a64cb1a66fa4b8e6ba75a2",
+            "size": 62622,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/261d03bfe3864c5ba278c1eff6a172e9.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "f7dc8ade2cf34470af7d282ef3973497",
+            "size": 34717,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/08c4f8fe3cb64f95b24f80e6e9042238.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "f02b6509a73c42ad99fd8aab4dbce2e7",
+            "size": 6476,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/f542fa37bb334e32be5f8a47a5f4a031.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1a6e16dc5432409d9c5b3b49d9b0e189",
+            "size": 1284,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/8c0b5095099348198d15a1374fa531bb.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "0e5f39bb02f2479d81712a500351f1ac",
+        "displayName": "Wisconsin Shipwreck Coast NMS",
+        "account": "prem",
+        "username": "wishipwreckcoast",
+        "avatars": {
+          "uid": "1f7bd49f6ec94c1ca998f8a5fb89f75b",
+          "images": [
+            {
+              "size": 972,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/b113862bbce54246bea5bdf0facfebdf.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1208,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/6177d20ef5bf41c99f6a35ded1c1edc6.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2334,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/d87b4dddd5ad4ec6a477eb9fe67800e2.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2593,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/38219abb7949490083458f4402eb964d.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/wishipwreckcoast"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "da4d4e2fdfbf4cedaa4b892e1801d3cc",
+      "slug": "shipwreck-15563",
+      "name": "Shipwreck 15563",
+      "staffpickedAt": null,
+      "viewCount": 3445,
+      "likeCount": 7,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/shipwreck-15563-da4d4e2fdfbf4cedaa4b892e1801d3cc",
+      "embedUrl": "https://sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 133,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-03-15T03:18:18.915132",
+      "thumbnails": {
+        "uid": "d69560a505bb410f9c1f5c31cc01c8b2",
+        "images": [
+          {
+            "uid": "0cae2ab26cfd4d40a6043ca9f1542341",
+            "size": 511835,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/8693dd0838954002ad22cfe7e45a72c3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "7dd70bc227d5411faabd7417becf9f40",
+            "size": 122051,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/5530581bb68c4af3a838f075874413f4.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "3e864efe07964e139d08f1313b9f5758",
+            "size": 56818,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/c185bfbbeabf4c91b0caaad7d0662548.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "5015b2f1eae9496ab3521a7819a50716",
+            "size": 6917,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/2ed35c6461774da18af319f349e1ffe5.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "a6414d8203624c96bd52b5f98d1d1fda",
+            "size": 1153,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/f3b8dfceb46443bd887db3e183eb8717.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "98fda703b93d4e26a0b75c77b765931d",
+        "displayName": "BOEM Archaeology",
+        "account": "pro",
+        "username": "BOEMArchaeology",
+        "avatars": {
+          "uid": "49611345a0244f67bd131008cf7331d5",
+          "images": [
+            {
+              "size": 1373,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/99819f8beae04d728b1b385944ec3595.png",
+              "height": 32
+            },
+            {
+              "size": 2435,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/203e6f56936248ecb59c6c820ef94145.png",
+              "height": 48
+            },
+            {
+              "size": 5340,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/19e24d9d8add4bdcb4acdb2efa084bc2.png",
+              "height": 90
+            },
+            {
+              "size": 6233,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/6f93b2fdf92f459188e976bd4468760e.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/BOEMArchaeology"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        },
+        {
+          "uid": "17d20ca7b35243d4a45171838b50704c",
+          "name": "Science & Technology",
+          "slug": "science-technology"
+        }
+      ]
+    },
+    {
+      "uid": "37587a00ae37412d8cc2bceb4d1010d1",
+      "slug": "3d-model-of-a-classic-wooden-boat",
+      "name": "3D Model of a Classic Wooden Boat",
+      "staffpickedAt": null,
+      "viewCount": 156,
+      "likeCount": 1,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/3d-model-of-a-classic-wooden-boat-37587a00ae37412d8cc2bceb4d1010d1",
+      "embedUrl": "https://sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 33,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-02-15T14:41:30.580942",
+      "thumbnails": {
+        "uid": "58ce1a4143a64f519a18da6408cf8cf0",
+        "images": [
+          {
+            "uid": "f424ade135f54a8897efb88ad8025c36",
+            "size": 50020,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/135aa963029f4798b0ecd6cf44ffb202.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "992da62873644380a2f4ae4f46ba7b48",
+            "size": 16744,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/7457c599a83748b2955e25dc3cd7aba8.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "46343197b5f54840b0073e8a7a42966f",
+            "size": 9772,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/ef455c2cdd524b16a3cb7693799d5ac1.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "dfc717e4cbe8401184e4cc66e10bfee7",
+            "size": 2545,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/2f57c48f77d342c48f3f05e693746564.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "d3101537b9a640a3bd19b0ca11c7f687",
+            "size": 900,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/37587a00ae37412d8cc2bceb4d1010d1/thumbnails/58ce1a4143a64f519a18da6408cf8cf0/9928ab57926044de8dd83df09544ef88.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "17bea8b46214477f8983533036c9a03a",
+        "displayName": "M.Tanveer",
+        "account": "basic",
+        "username": "M.Tanveer",
+        "avatars": {
+          "uid": "78fa317e46024a5283765aa34df5e508",
+          "images": [
+            {
+              "size": 6421,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg",
+              "height": 100
+            },
+            {
+              "size": 2518,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg",
+              "height": 48
+            },
+            {
+              "size": 5653,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg",
+              "height": 90
+            },
+            {
+              "size": 1350,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg",
+              "height": 32
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/M.Tanveer"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        }
+      ]
+    },
+    {
+      "uid": "76577d428ff64613a71b95dc74ad666d",
+      "slug": "unit-3-sura-acar",
+      "name": "UNIT 3_Sura Acar",
+      "staffpickedAt": null,
+      "viewCount": 30,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/unit-3-sura-acar-76577d428ff64613a71b95dc74ad666d",
+      "embedUrl": "https://sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 14,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2022-06-18T00:39:29.707514",
+      "thumbnails": {
+        "uid": "db65d89253d844bb8633e2fce92a32c2",
+        "images": [
+          {
+            "uid": "8b12fa8ede9a48e7942682a06f5a9ca3",
+            "size": 38639,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/0f8f555f9a304ee8a32191bcf226d7b3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "e686df06dcc44ff5ac41e7ac8bb61147",
+            "size": 12168,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/232eda305c4b4f7e9a55e45e57770864.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "2d8029c04dab4075aa99980992db58a3",
+            "size": 6809,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/1fd8a2bb4f814efd84921034613c9052.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "220b86e742c841a9bbadee8a46ae26a3",
+            "size": 1601,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/5ffaba50420f48969d46bfd4cf5a6c33.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "07d22d7cee064f77bfbfe3a098599016",
+            "size": 741,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/8f6bad117cb54a429d32281165a536f6.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "fd9a52cbc07649399d285df3667b1ca0",
+        "displayName": "Horizon Arch Grad",
+        "account": "basic",
+        "username": "horizonarchgrad",
+        "avatars": {
+          "uid": "596ae94d4d2c4e60a1b6f9727f104ad6",
+          "images": [
+            {
+              "size": 1263,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/fe37253b821f4cc9a538f080371c6844.png",
+              "height": 32
+            },
+            {
+              "size": 2220,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/6e23d91e0f2548c3b7a5d4e71bdc63c6.png",
+              "height": 48
+            },
+            {
+              "size": 5226,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/bb1b1b6fc1b64c42a0abb527a405e3d1.png",
+              "height": 90
+            },
+            {
+              "size": 6127,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/9745ee8eb78c420bb49c4cd36abcdb63.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/horizonarchgrad"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "f825c721edb541dbbc8cd210123616c7",
+          "name": "Architecture",
+          "slug": "architecture"
+        }
+      ]
+    },
+    {
+      "uid": "a735f2f13d184cb79cb4eb5ff9c5f66b",
+      "slug": "high-quality-neem-tree-model",
+      "name": "High-Quality Neem Tree Model",
+      "staffpickedAt": null,
+      "viewCount": 1313,
+      "likeCount": 1,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/high-quality-neem-tree-model-a735f2f13d184cb79cb4eb5ff9c5f66b",
+      "embedUrl": "https://sketchfab.com/models/a735f2f13d184cb79cb4eb5ff9c5f66b/embed",
+      "publicCommentCount": 0,
+      "downloadType": "store",
+      "downloadCount": 0,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-10-01T10:50:23.503393",
+      "thumbnails": {
+        "uid": "cca76f794a4942f6af2385e6f52dcd63",
+        "images": [
+          {
+            "uid": "5cce293d406243a6a34d58211b04c970",
+            "size": 288050,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/a735f2f13d184cb79cb4eb5ff9c5f66b/thumbnails/cca76f794a4942f6af2385e6f52dcd63/835759b1f039439498f20e795eb9a130.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "16d0e25b62ef47b19c33b1837200d0d5",
+            "size": 91104,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/a735f2f13d184cb79cb4eb5ff9c5f66b/thumbnails/cca76f794a4942f6af2385e6f52dcd63/64bce3648dbd469ea9a5d75220b82fa9.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "c4d5e6e2e1be403bae3c06287fd9b381",
+            "size": 49890,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/a735f2f13d184cb79cb4eb5ff9c5f66b/thumbnails/cca76f794a4942f6af2385e6f52dcd63/d363f4ab48f540389ab141513ddfbf6b.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "685877f62cfa489ea71b6a1bc3d9ab0d",
+            "size": 8420,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/a735f2f13d184cb79cb4eb5ff9c5f66b/thumbnails/cca76f794a4942f6af2385e6f52dcd63/f0e1d57fb41949acac4ad7547ba9888c.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "a2e7ca928d9e4654ac4fb568bf449efe",
+            "size": 1418,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/a735f2f13d184cb79cb4eb5ff9c5f66b/thumbnails/cca76f794a4942f6af2385e6f52dcd63/f5b6ed4222d944898384eed88e2ab547.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "418db92d740242a8aa07b3bd1a8f2b27",
+        "displayName": "hkhalif",
+        "account": "basic",
+        "username": "hkhalif",
+        "avatars": {
+          "uid": "51af6a870cce449eb75b0345feebaebb",
+          "images": [
+            {
+              "size": 5719,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/2ef0f894055b4bb69123b2a27fa2d379.jpeg",
+              "height": 90
+            },
+            {
+              "size": 6496,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/ab11eedf96374486acb544f71a23b165.jpeg",
+              "height": 100
+            },
+            {
+              "size": 1359,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/35f6f9b6c9a14a548ce472582d8a9bb5.jpeg",
+              "height": 32
+            },
+            {
+              "size": 2584,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/51af6a870cce449eb75b0345feebaebb/a8072a51447c4d41ab177b357111b420.jpeg",
+              "height": 48
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/hkhalif"
+      },
+      "price": 499,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+          "name": "Nature & Plants",
+          "slug": "nature-plants"
+        }
+      ]
+    }
+  ]
+}

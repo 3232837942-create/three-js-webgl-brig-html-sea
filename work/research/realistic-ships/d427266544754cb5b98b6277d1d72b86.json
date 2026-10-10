@@ -1,0 +1,162 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2022-09-02T02:43:38.394705",
+  "embedUrl": "https://sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/embed",
+  "faceCount": 4999999,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 6,
+  "name": "Brig Mahoning (Built 1847)",
+  "publishedAt": "2022-09-02T21:47:07.893441",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "greatlakes",
+      "slug": "greatlakes",
+      "uri": "https://api.sketchfab.com/v3/tags/greatlakes"
+    },
+    {
+      "name": "metashape",
+      "slug": "metashape",
+      "uri": "https://api.sketchfab.com/v3/tags/metashape"
+    },
+    {
+      "name": "lakemichigan",
+      "slug": "lakemichigan",
+      "uri": "https://api.sketchfab.com/v3/tags/lakemichigan"
+    },
+    {
+      "name": "greatlakesshipwreck",
+      "slug": "greatlakesshipwreck",
+      "uri": "https://api.sketchfab.com/v3/tags/greatlakesshipwreck"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "f7ab5c00393148608d0f177fb8f8b378",
+        "width": 1920,
+        "height": 1080,
+        "size": 206811,
+        "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/3a96a9cd55004a19b3895ab0eaa003d9.jpeg"
+      },
+      {
+        "uid": "f1200f3541a64cb1a66fa4b8e6ba75a2",
+        "width": 1024,
+        "height": 576,
+        "size": 62622,
+        "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/261d03bfe3864c5ba278c1eff6a172e9.jpeg"
+      },
+      {
+        "uid": "f7dc8ade2cf34470af7d282ef3973497",
+        "width": 720,
+        "height": 405,
+        "size": 34717,
+        "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/08c4f8fe3cb64f95b24f80e6e9042238.jpeg"
+      },
+      {
+        "uid": "f02b6509a73c42ad99fd8aab4dbce2e7",
+        "width": 256,
+        "height": 144,
+        "size": 6476,
+        "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/f542fa37bb334e32be5f8a47a5f4a031.jpeg"
+      },
+      {
+        "uid": "1a6e16dc5432409d9c5b3b49d9b0e189",
+        "width": 64,
+        "height": 36,
+        "size": 1284,
+        "url": "https://media.sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/thumbnails/86f9971b92254542837c7aa76068010a/8c0b5095099348198d15a1374fa531bb.jpeg"
+      }
+    ]
+  },
+  "uid": "d427266544754cb5b98b6277d1d72b86",
+  "uri": "https://api.sketchfab.com/v3/models/d427266544754cb5b98b6277d1d72b86",
+  "user": {
+    "uid": "0e5f39bb02f2479d81712a500351f1ac",
+    "username": "wishipwreckcoast",
+    "displayName": "Wisconsin Shipwreck Coast NMS",
+    "account": "prem",
+    "profileUrl": "https://sketchfab.com/wishipwreckcoast",
+    "avatar": {
+      "uid": "1f7bd49f6ec94c1ca998f8a5fb89f75b",
+      "uri": "https://api.sketchfab.com/v3/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 972,
+          "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/b113862bbce54246bea5bdf0facfebdf.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1208,
+          "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/6177d20ef5bf41c99f6a35ded1c1edc6.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2334,
+          "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/d87b4dddd5ad4ec6a477eb9fe67800e2.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2593,
+          "url": "https://media.sketchfab.com/avatars/1f7bd49f6ec94c1ca998f8a5fb89f75b/38219abb7949490083458f4402eb964d.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/0e5f39bb02f2479d81712a500351f1ac"
+  },
+  "vertexCount": 2526451,
+  "viewCount": 252,
+  "viewerUrl": "https://sketchfab.com/3d-models/brig-mahoning-built-1847-d427266544754cb5b98b6277d1d72b86",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "MAHONING was built by  William Jones in 1848 in Cleveland, OH, as a two-masted brig,  measuring nearly 120 feet in length. Brigs are characterized as having two masts, outfit with square sails on both masts, and are relitively uncomon in the great Lakes.  MAHONING spent most of its early sailing career transporting grain on the eastern Great Lakes, eventually moving to Lake Michigan, where it began hauling cargos of lumber to Chicago and Milwaukee. On November 4, 1864, MAHONING ran aground near the mouth of the Black River, just south of Sheboygan, during a gale. The vessel was successfully pulled off the beach, and slated to be towed to Milwaukee for repairs, however, on December 2, while enroute, MAHONING capsized south of Port Washington and was a total loss. Today, MAHONING sits in 55 feet of water, south of Port Washington. Despite the hull’s broken state, many construction components and a few artifacts remain, including the  windlass, anchors, capstan, and carved figurehead. \n\nData collected: 2022",
+  "price": null,
+  "downloadCount": 276,
+  "editorUrl": "https://sketchfab.com/models/d427266544754cb5b98b6277d1d72b86/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-12-06T18:26:17.246230",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

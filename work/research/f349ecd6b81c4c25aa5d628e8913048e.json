@@ -1,0 +1,147 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 5,
+  "createdAt": "2022-03-31T06:32:16.831057",
+  "embedUrl": "https://sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/embed",
+  "faceCount": 83163,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 41,
+  "name": "Segelschiff - Sailing Ship [Updated PBR]",
+  "publishedAt": "2022-03-31T07:23:28.761482",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "noai",
+      "slug": "noai",
+      "uri": "https://api.sketchfab.com/v3/tags/noai"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "94173289738f46f1b9bcd0ea2ab77ed0",
+        "width": 1920,
+        "height": 1080,
+        "size": 160302,
+        "url": "https://media.sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/thumbnails/976ffdd1b65f405b9c3f1a4d6c569c62/1c05ba66fb7846c8be2e9292aafc62b0.jpeg"
+      },
+      {
+        "uid": "a95e42d4e18048219c772ac10eedb678",
+        "width": 1024,
+        "height": 576,
+        "size": 48237,
+        "url": "https://media.sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/thumbnails/976ffdd1b65f405b9c3f1a4d6c569c62/fca445de0f424c4ea72d580aa469ceba.jpeg"
+      },
+      {
+        "uid": "6bbbf2678eff4017adc2a9038ba8b74f",
+        "width": 720,
+        "height": 405,
+        "size": 26528,
+        "url": "https://media.sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/thumbnails/976ffdd1b65f405b9c3f1a4d6c569c62/9a056661e9d449e28551814361330769.jpeg"
+      },
+      {
+        "uid": "5e920ab7ac444ca4918d43c65fcea090",
+        "width": 256,
+        "height": 144,
+        "size": 4880,
+        "url": "https://media.sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/thumbnails/976ffdd1b65f405b9c3f1a4d6c569c62/2cac6c54ca4144db82d6393466eda103.jpeg"
+      },
+      {
+        "uid": "e198d7fdd789443eafd6fcb2266258e3",
+        "width": 64,
+        "height": 36,
+        "size": 1092,
+        "url": "https://media.sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/thumbnails/976ffdd1b65f405b9c3f1a4d6c569c62/fe9c1dd9c46d499b96375f51b9c5dc78.jpeg"
+      }
+    ]
+  },
+  "uid": "f349ecd6b81c4c25aa5d628e8913048e",
+  "uri": "https://api.sketchfab.com/v3/models/f349ecd6b81c4c25aa5d628e8913048e",
+  "user": {
+    "uid": "ca791bbc390d46b7b168137fa979536e",
+    "username": "phimue",
+    "displayName": "PhiMue",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/phimue",
+    "avatar": {
+      "uid": "709091106417443483e6963dacd480e7",
+      "uri": "https://api.sketchfab.com/v3/avatars/709091106417443483e6963dacd480e7",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 545,
+          "url": "https://media.sketchfab.com/avatars/709091106417443483e6963dacd480e7/96620da5596140dda058aee9ee03ebb5.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 860,
+          "url": "https://media.sketchfab.com/avatars/709091106417443483e6963dacd480e7/9cee2469465a494980257c37a00fb22a.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 1790,
+          "url": "https://media.sketchfab.com/avatars/709091106417443483e6963dacd480e7/a149b45dd8564fc1ab5ecff7421d34d2.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2044,
+          "url": "https://media.sketchfab.com/avatars/709091106417443483e6963dacd480e7/bf5d41b8a53c45c29b969a75090de27a.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/ca791bbc390d46b7b168137fa979536e"
+  },
+  "vertexCount": 54284,
+  "viewCount": 3222,
+  "viewerUrl": "https://sketchfab.com/3d-models/segelschiff-sailing-ship-updated-pbr-f349ecd6b81c4c25aa5d628e8913048e",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Same old model I uploaded in November 2013, with some minor improvements and PBR materials.",
+  "price": null,
+  "downloadCount": 659,
+  "editorUrl": "https://sketchfab.com/models/f349ecd6b81c4c25aa5d628e8913048e/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "blender-exporter",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-08-11T06:37:59.211789",
+  "pbrType": "metalness",
+  "textureCount": 57,
+  "materialCount": 25
+}

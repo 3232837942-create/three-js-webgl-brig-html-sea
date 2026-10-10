@@ -1,0 +1,141 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2022-06-18T00:37:58.370809",
+  "embedUrl": "https://sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/embed",
+  "faceCount": 147367,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 0,
+  "name": "UNIT 3_Sura Acar",
+  "publishedAt": "2022-06-18T00:39:29.707514",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "8b12fa8ede9a48e7942682a06f5a9ca3",
+        "width": 1920,
+        "height": 1080,
+        "size": 38639,
+        "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/0f8f555f9a304ee8a32191bcf226d7b3.jpeg"
+      },
+      {
+        "uid": "e686df06dcc44ff5ac41e7ac8bb61147",
+        "width": 1024,
+        "height": 576,
+        "size": 12168,
+        "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/232eda305c4b4f7e9a55e45e57770864.jpeg"
+      },
+      {
+        "uid": "2d8029c04dab4075aa99980992db58a3",
+        "width": 720,
+        "height": 405,
+        "size": 6809,
+        "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/1fd8a2bb4f814efd84921034613c9052.jpeg"
+      },
+      {
+        "uid": "220b86e742c841a9bbadee8a46ae26a3",
+        "width": 256,
+        "height": 144,
+        "size": 1601,
+        "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/5ffaba50420f48969d46bfd4cf5a6c33.jpeg"
+      },
+      {
+        "uid": "07d22d7cee064f77bfbfe3a098599016",
+        "width": 64,
+        "height": 36,
+        "size": 741,
+        "url": "https://media.sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/thumbnails/db65d89253d844bb8633e2fce92a32c2/8f6bad117cb54a429d32281165a536f6.jpeg"
+      }
+    ]
+  },
+  "uid": "76577d428ff64613a71b95dc74ad666d",
+  "uri": "https://api.sketchfab.com/v3/models/76577d428ff64613a71b95dc74ad666d",
+  "user": {
+    "uid": "fd9a52cbc07649399d285df3667b1ca0",
+    "username": "horizonarchgrad",
+    "displayName": "Horizon Arch Grad",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/horizonarchgrad",
+    "avatar": {
+      "uid": "596ae94d4d2c4e60a1b6f9727f104ad6",
+      "uri": "https://api.sketchfab.com/v3/avatars/596ae94d4d2c4e60a1b6f9727f104ad6",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1263,
+          "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/fe37253b821f4cc9a538f080371c6844.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2220,
+          "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/6e23d91e0f2548c3b7a5d4e71bdc63c6.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 5226,
+          "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/bb1b1b6fc1b64c42a0abb527a405e3d1.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 6127,
+          "url": "https://media.sketchfab.com/avatars/596ae94d4d2c4e60a1b6f9727f104ad6/9745ee8eb78c420bb49c4cd36abcdb63.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/fd9a52cbc07649399d285df3667b1ca0"
+  },
+  "vertexCount": 76566,
+  "viewCount": 30,
+  "viewerUrl": "https://sketchfab.com/3d-models/unit-3-sura-acar-76577d428ff64613a71b95dc74ad666d",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "The project area is located in İzmir/Mavişehir. The building to be constructed is a Waterfront center & Marina. Bringing together a marina, sailing and rowing club, hostel and a fisherman's cooperative, the project aims to connect with the urban environment and to revitalize the coastal area for citizens, serving as a social place. While designing the project, attention was paid to establishing a close relationship of the site with the sea and the river in general. Therefore, the site is located slightly above sea level. At the same time, there are areas on the sea-facing parts consisting of steps where people can spend time in close contact with the sea.",
+  "price": null,
+  "downloadCount": 14,
+  "editorUrl": "https://sketchfab.com/models/76577d428ff64613a71b95dc74ad666d/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-06-21T22:37:14.358288",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 1
+}

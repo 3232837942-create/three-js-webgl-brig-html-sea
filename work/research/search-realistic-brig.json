@@ -1,0 +1,2638 @@
+{
+  "cursors": {
+    "next": "bz0yNA==",
+    "previous": null
+  },
+  "next": "https://sketchfab.com/i/search?count=24&cursor=bz0yNA%3D%3D&downloadable=true&q=realistic+brig&type=models",
+  "previous": null,
+  "results": [
+    {
+      "uid": "ec0a606dca224614a878052f715f709d",
+      "slug": "realistic-humpback-whale",
+      "name": "Realistic Humpback Whale",
+      "staffpickedAt": null,
+      "viewCount": 37692,
+      "likeCount": 725,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-humpback-whale-ec0a606dca224614a878052f715f709d",
+      "embedUrl": "https://sketchfab.com/models/ec0a606dca224614a878052f715f709d/embed",
+      "publicCommentCount": 17,
+      "downloadType": "store",
+      "downloadCount": 10879,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2019-10-15T22:14:38.212266",
+      "thumbnails": {
+        "uid": "4046ecee8c2a4aed9d47e072cfbce790",
+        "images": [
+          {
+            "uid": "55e2e0856fba4a2bb59f1a90ac14bdd9",
+            "size": 125881,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/ec0a606dca224614a878052f715f709d/thumbnails/4046ecee8c2a4aed9d47e072cfbce790/d84deab84729467a832bde7b69b0e799.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "7c26a71593e44a0ea637a7233ceb483a",
+            "size": 34162,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/ec0a606dca224614a878052f715f709d/thumbnails/4046ecee8c2a4aed9d47e072cfbce790/5b4ed50d9dfa40528bd0d9c03eaa3ab8.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "515534b307ad4ab3a5f67bc62320466a",
+            "size": 19160,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/ec0a606dca224614a878052f715f709d/thumbnails/4046ecee8c2a4aed9d47e072cfbce790/ebe27c89a5e04cc0a53339d6d3878ea8.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "9104c1fde524427e8aa24362d1078ff1",
+            "size": 3935,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/ec0a606dca224614a878052f715f709d/thumbnails/4046ecee8c2a4aed9d47e072cfbce790/3987d5223ebc4b14925557dd8781ff0a.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "14d277fa86d44246ba834fdf26cf2a0e",
+            "size": 1038,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/ec0a606dca224614a878052f715f709d/thumbnails/4046ecee8c2a4aed9d47e072cfbce790/8cfe6c2797ea4d56b49f9d6ff244e080.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "a7b6cde08ef74bd8b00b437089263cf9",
+        "displayName": "nataliedesign",
+        "account": "basic",
+        "username": "nataliedesign",
+        "avatars": {
+          "uid": "3c7889d2bc1d41e18a81c7d70bbd8ba3",
+          "images": [
+            {
+              "size": 1063,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/3c7889d2bc1d41e18a81c7d70bbd8ba3/64e423d2793a4b1c8cc44c2cd29e8ed0.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1518,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/3c7889d2bc1d41e18a81c7d70bbd8ba3/30fd50913a2b4fe295eaec8cb90a86e2.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3315,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/3c7889d2bc1d41e18a81c7d70bbd8ba3/82b6f4d58568463cac6231f8024bd54d.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3915,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/3c7889d2bc1d41e18a81c7d70bbd8ba3/ff876367ba704589971b1e1eb3b4f4f0.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/nataliedesign"
+      },
+      "price": 1000,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        }
+      ]
+    },
+    {
+      "uid": "1f3e42de8f7a4b308067ad92147e269a",
+      "slug": "realistic-burger",
+      "name": "Realistic Burger",
+      "staffpickedAt": null,
+      "viewCount": 12949,
+      "likeCount": 124,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-burger-1f3e42de8f7a4b308067ad92147e269a",
+      "embedUrl": "https://sketchfab.com/models/1f3e42de8f7a4b308067ad92147e269a/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 4495,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2023-07-03T12:22:53.964652",
+      "thumbnails": {
+        "uid": "2f3da351108748fe8746aa665f1cb843",
+        "images": [
+          {
+            "uid": "6cbb8cf92a59423a9d5c7bbd3c407262",
+            "size": 213759,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/1f3e42de8f7a4b308067ad92147e269a/thumbnails/2f3da351108748fe8746aa665f1cb843/064d79abed0d4268aeab08e12f73888b.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "b8b676a9c39d4b30a7f89bb03933df52",
+            "size": 51006,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/1f3e42de8f7a4b308067ad92147e269a/thumbnails/2f3da351108748fe8746aa665f1cb843/9220224b978b4a04bdbafa46f6452083.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "d668d1e3a6b8487d90cca5af862b92d9",
+            "size": 26976,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/1f3e42de8f7a4b308067ad92147e269a/thumbnails/2f3da351108748fe8746aa665f1cb843/3125953117314d37a1a97e2a4884ae2c.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "5176233bc4b04b479c640c75fbe24c97",
+            "size": 5015,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/1f3e42de8f7a4b308067ad92147e269a/thumbnails/2f3da351108748fe8746aa665f1cb843/046161a8f7304ce69fc6757428603955.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "b293a94fb05840ff9edc8ba29de81dbc",
+            "size": 1179,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/1f3e42de8f7a4b308067ad92147e269a/thumbnails/2f3da351108748fe8746aa665f1cb843/2c62f96f53304ae5a3ea2ccfea7f0a1d.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f8a30a61733d4aa79f644dc1b95f2550",
+        "displayName": "neshallads",
+        "account": "basic",
+        "username": "neshallads",
+        "avatars": {
+          "uid": "20a44c16ab374400aa2bee8e4c8de3b6",
+          "images": [
+            {
+              "size": 2590,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/20a44c16ab374400aa2bee8e4c8de3b6/7e9a8c8bba99429287eb67b3bfccf92d.png",
+              "height": 32
+            },
+            {
+              "size": 4415,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/20a44c16ab374400aa2bee8e4c8de3b6/1cce4add90f24a32905661b7203d2ddd.png",
+              "height": 48
+            },
+            {
+              "size": 9928,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/20a44c16ab374400aa2bee8e4c8de3b6/94ea9021e86b4ed58cf7f72c706589db.png",
+              "height": 90
+            },
+            {
+              "size": 11401,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/20a44c16ab374400aa2bee8e4c8de3b6/7c5d196388a34b98be63c229f4df0aec.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/neshallads"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "b3631aefd82b4eeba37aa5fc0b73b05a",
+          "name": "Food & Drink",
+          "slug": "food-drink"
+        },
+        {
+          "uid": "93e6d27da62149c6b963039835f45997",
+          "name": "People",
+          "slug": "people"
+        }
+      ]
+    },
+    {
+      "uid": "aa72694f89944ad99e6314edf96fddc3",
+      "slug": "realistic-fox",
+      "name": "Realistic Fox",
+      "staffpickedAt": null,
+      "viewCount": 8790,
+      "likeCount": 113,
+      "animationCount": 1,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-fox-aa72694f89944ad99e6314edf96fddc3",
+      "embedUrl": "https://sketchfab.com/models/aa72694f89944ad99e6314edf96fddc3/embed",
+      "publicCommentCount": 4,
+      "downloadType": "store",
+      "downloadCount": 6,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-05-10T02:19:23.519016",
+      "thumbnails": {
+        "uid": "2a5f569c8abc4adfb67c22af05c336c4",
+        "images": [
+          {
+            "uid": "d4ff1b20a97d476cbd1c29ebc918ec7b",
+            "size": 236465,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/aa72694f89944ad99e6314edf96fddc3/thumbnails/2a5f569c8abc4adfb67c22af05c336c4/1b13b8a26e75462cb3e0c4872c0f73d7.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "537db39ce4e745949727f32673911475",
+            "size": 51429,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/aa72694f89944ad99e6314edf96fddc3/thumbnails/2a5f569c8abc4adfb67c22af05c336c4/22c4f8c4df3949d18c33ccf7625b3fe1.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "0a93ce479ec94b58805dbdd0c038b1dd",
+            "size": 27363,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/aa72694f89944ad99e6314edf96fddc3/thumbnails/2a5f569c8abc4adfb67c22af05c336c4/3575a64058364812bd8c346766f65607.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "3fac041be2a94cecb3931179992ad11b",
+            "size": 5187,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/aa72694f89944ad99e6314edf96fddc3/thumbnails/2a5f569c8abc4adfb67c22af05c336c4/dacfb7adf15c4204a9ae6f2b7e27fb8c.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "49232faef3b94967977ab392b0378ea7",
+            "size": 1283,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/aa72694f89944ad99e6314edf96fddc3/thumbnails/2a5f569c8abc4adfb67c22af05c336c4/1cd2c664814946a7941bfa94e6072a12.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "202c65b3c38e469c8b68400712d23f67",
+        "displayName": "Malbers Animations",
+        "account": "basic",
+        "username": "malbers.shark87",
+        "avatars": {
+          "uid": "6bd6f183c6e04fb08b70fb9eb7e691da",
+          "images": [
+            {
+              "size": 3275,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/ac7af024905c4b0e9b104676f2f28508.jpeg",
+              "height": 100
+            },
+            {
+              "size": 2790,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/39ed2cecf2f34987b8260bc1f96deaa4.jpeg",
+              "height": 90
+            },
+            {
+              "size": 1128,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/699d1724cc8546a8a286438596c1061c.jpeg",
+              "height": 48
+            },
+            {
+              "size": 733,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/f25d5f7a3c8042d09363d7c6db874c4b.jpeg",
+              "height": 32
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/malbers.shark87"
+      },
+      "price": 7999,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        },
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        }
+      ]
+    },
+    {
+      "uid": "153c0d829b0d44a79e1680fd4a04a082",
+      "slug": "the-ultimate-spiderman-realistic",
+      "name": "The Ultimate Spiderman : Realistic",
+      "staffpickedAt": null,
+      "viewCount": 10057,
+      "likeCount": 85,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/the-ultimate-spiderman-realistic-153c0d829b0d44a79e1680fd4a04a082",
+      "embedUrl": "https://sketchfab.com/models/153c0d829b0d44a79e1680fd4a04a082/embed",
+      "publicCommentCount": 2,
+      "downloadType": "free",
+      "downloadCount": 2655,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-08-17T07:51:44.150662",
+      "thumbnails": {
+        "uid": "4919cd7d4bf24bbcaeb9054436c79a89",
+        "images": [
+          {
+            "uid": "8aec9339a57a4a0a9279d323a74baf7d",
+            "size": 207613,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/153c0d829b0d44a79e1680fd4a04a082/thumbnails/4919cd7d4bf24bbcaeb9054436c79a89/ce8dd60e66b54b4bbf7fe75c833ba627.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "51614bfc2b7d4443aa38ead27facc6ab",
+            "size": 65218,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/153c0d829b0d44a79e1680fd4a04a082/thumbnails/4919cd7d4bf24bbcaeb9054436c79a89/50cbb81ca5bf4a699b86d88d9b94821c.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "02001cf73a284eceb75247db7ac1aa8d",
+            "size": 36761,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/153c0d829b0d44a79e1680fd4a04a082/thumbnails/4919cd7d4bf24bbcaeb9054436c79a89/ca272373b3cc45418607799f29e8cc53.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "16055cafce7344bab11176f3efc85260",
+            "size": 6455,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/153c0d829b0d44a79e1680fd4a04a082/thumbnails/4919cd7d4bf24bbcaeb9054436c79a89/8b3ab68f9e93453b8e922455a17db9e1.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "6a1da2400acb44829030176384d01ade",
+            "size": 1295,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/153c0d829b0d44a79e1680fd4a04a082/thumbnails/4919cd7d4bf24bbcaeb9054436c79a89/fcae18a7f90a41809a5ffd1b3389bcb0.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "4b24724552aa4ef39bad0f543f9a3068",
+        "displayName": "Virtual Void Studio",
+        "account": "basic",
+        "username": "VirtualVoidStudio",
+        "avatars": {
+          "uid": "9551341badbb47d582af3a560b09756c",
+          "images": [
+            {
+              "size": 936,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/9551341badbb47d582af3a560b09756c/7722db82ba2242b8ab79bd4ef97c500c.png",
+              "height": 32
+            },
+            {
+              "size": 1568,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/9551341badbb47d582af3a560b09756c/211faee03c6f4f85b5862aec16b1725f.png",
+              "height": 48
+            },
+            {
+              "size": 3352,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/9551341badbb47d582af3a560b09756c/5a8f74859c454357b65db1669ed8f9d3.png",
+              "height": 90
+            },
+            {
+              "size": 3799,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/9551341badbb47d582af3a560b09756c/ae99267d26df440e90c07c23f93fa5b7.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/VirtualVoidStudio"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        }
+      ]
+    },
+    {
+      "uid": "a7ace7ca73ce46d2a2614cebe20fa610",
+      "slug": "dry-realistic-grass-lods-1",
+      "name": "Dry realistic grass lods 1",
+      "staffpickedAt": null,
+      "viewCount": 13134,
+      "likeCount": 228,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/dry-realistic-grass-lods-1-a7ace7ca73ce46d2a2614cebe20fa610",
+      "embedUrl": "https://sketchfab.com/models/a7ace7ca73ce46d2a2614cebe20fa610/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 6117,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-04-28T06:30:06.061985",
+      "thumbnails": {
+        "uid": "dfd112d0e72d447fbfe647cdb821629a",
+        "images": [
+          {
+            "uid": "62e6078105bb4f40908e82f98022b8eb",
+            "size": 315198,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/a7ace7ca73ce46d2a2614cebe20fa610/thumbnails/dfd112d0e72d447fbfe647cdb821629a/0c8c7c0bc04a4a8699c8e6355ffa129f.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "ce856b30bbdc4089a63e780537219d91",
+            "size": 104753,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/a7ace7ca73ce46d2a2614cebe20fa610/thumbnails/dfd112d0e72d447fbfe647cdb821629a/2d0cf4bb182848bebffda6533da5fa62.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "36d8390250c348acbd305c537b6f6dd0",
+            "size": 60125,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/a7ace7ca73ce46d2a2614cebe20fa610/thumbnails/dfd112d0e72d447fbfe647cdb821629a/3091e36ff22048d0ab43884b86ef5ac7.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "0660f1d8a1ab4ddf978aad8711ade8b9",
+            "size": 9831,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/a7ace7ca73ce46d2a2614cebe20fa610/thumbnails/dfd112d0e72d447fbfe647cdb821629a/e3531091edcc4c2dbbcadc31df857f0d.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "203c6ebf52d24895b22169efb20a4a26",
+            "size": 1306,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/a7ace7ca73ce46d2a2614cebe20fa610/thumbnails/dfd112d0e72d447fbfe647cdb821629a/2cfb0c49156d44cdae10dc4c7882715d.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "7547f053f5e141e89b56fdfd9df63a5b",
+        "displayName": "POLYSCAN",
+        "account": "basic",
+        "username": "POLYSCAN3D",
+        "avatars": {
+          "uid": "fb5bd098ae604e6e9ebe509cf3af98c2",
+          "images": [
+            {
+              "size": 904,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/259285d96bc84ee4b16cddbbc653a268.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1144,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/ee032bba4ac7456ab260decf4682c99d.jpeg",
+              "height": 48
+            },
+            {
+              "size": 1729,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/28030dfad3ff456f81c7f750dae3cfd5.jpeg",
+              "height": 90
+            },
+            {
+              "size": 1983,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/fb5bd098ae604e6e9ebe509cf3af98c2/354c65886248481097d91cd82df11af2.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/POLYSCAN3D"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": true,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        },
+        {
+          "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+          "name": "Nature & Plants",
+          "slug": "nature-plants"
+        }
+      ]
+    },
+    {
+      "uid": "96acd09413e84c7ea1fd7f4af83440c0",
+      "slug": "realistic-city",
+      "name": "Realistic city",
+      "staffpickedAt": null,
+      "viewCount": 6029,
+      "likeCount": 38,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-city-96acd09413e84c7ea1fd7f4af83440c0",
+      "embedUrl": "https://sketchfab.com/models/96acd09413e84c7ea1fd7f4af83440c0/embed",
+      "publicCommentCount": 19,
+      "downloadType": "free",
+      "downloadCount": 599,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-10-25T09:45:04.688922",
+      "thumbnails": {
+        "uid": "af7b2f7ca3c941ab80ed460b4d2cf831",
+        "images": [
+          {
+            "uid": "90095c1e37b444c283bee0a102f8f234",
+            "size": 392981,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/96acd09413e84c7ea1fd7f4af83440c0/thumbnails/af7b2f7ca3c941ab80ed460b4d2cf831/dc822751e21d41da8e827a83d45ac0db.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "5d9b8ef61e914af4ba37f46a82d49c3c",
+            "size": 105285,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/96acd09413e84c7ea1fd7f4af83440c0/thumbnails/af7b2f7ca3c941ab80ed460b4d2cf831/88354d5d2155401cac2c05b30d4e9d74.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "18f490949d7e469299215c1a2fb6581a",
+            "size": 53058,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/96acd09413e84c7ea1fd7f4af83440c0/thumbnails/af7b2f7ca3c941ab80ed460b4d2cf831/69f1f8646a3045648a50e0451113fe4f.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "7eb1e3583e1d458083ab842a0e0cba42",
+            "size": 7126,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/96acd09413e84c7ea1fd7f4af83440c0/thumbnails/af7b2f7ca3c941ab80ed460b4d2cf831/dea5e5c4c7f44c579e235d119f0065ce.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "ba9fd8a1855e49ed9e600a692b096889",
+            "size": 1324,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/96acd09413e84c7ea1fd7f4af83440c0/thumbnails/af7b2f7ca3c941ab80ed460b4d2cf831/43f44c00d8fd413396d9eb8f6999b6b6.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "68e09afb2e644190bc49833c618660e3",
+        "displayName": "Blender Studio™",
+        "account": "basic",
+        "username": "Blend_GUY",
+        "avatars": {
+          "uid": "fd1dc1064a3547f287b632ad6a44c865",
+          "images": [
+            {
+              "size": 2162,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/fd1dc1064a3547f287b632ad6a44c865/cadfeba2a06d4c6ab63efc3c4be44cd8.png",
+              "height": 32
+            },
+            {
+              "size": 4552,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/fd1dc1064a3547f287b632ad6a44c865/08a3fb49a606417d82a4b2a76b58648b.png",
+              "height": 48
+            },
+            {
+              "size": 14274,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/fd1dc1064a3547f287b632ad6a44c865/8e5b20378b4f462ea7b4da37565ea4fb.png",
+              "height": 90
+            },
+            {
+              "size": 17244,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/fd1dc1064a3547f287b632ad6a44c865/a6c1e362bfb84fe79e503205a633157f.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/Blend_GUY"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "f825c721edb541dbbc8cd210123616c7",
+          "name": "Architecture",
+          "slug": "architecture"
+        }
+      ]
+    },
+    {
+      "uid": "e2761cb2839447b6beb0b4ed132b0895",
+      "slug": "boar-realistic",
+      "name": "Boar Realistic",
+      "staffpickedAt": null,
+      "viewCount": 6331,
+      "likeCount": 66,
+      "animationCount": 1,
+      "viewerUrl": "https://sketchfab.com/3d-models/boar-realistic-e2761cb2839447b6beb0b4ed132b0895",
+      "embedUrl": "https://sketchfab.com/models/e2761cb2839447b6beb0b4ed132b0895/embed",
+      "publicCommentCount": 4,
+      "downloadType": "store",
+      "downloadCount": 25,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-03-22T19:02:23.515658",
+      "thumbnails": {
+        "uid": "d2734a4ba4134f8cb2acd49fefe1d5a7",
+        "images": [
+          {
+            "uid": "94bd19b00873468da559a98a0ca16a50",
+            "size": 415045,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/e2761cb2839447b6beb0b4ed132b0895/thumbnails/d2734a4ba4134f8cb2acd49fefe1d5a7/cab216e6fc5f4998933186e5f7096bc3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "7c6237d1b07249da92a70a9813408d9b",
+            "size": 59675,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/e2761cb2839447b6beb0b4ed132b0895/thumbnails/d2734a4ba4134f8cb2acd49fefe1d5a7/055d9d6f355546aeaaec7f4e50997e5a.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "881f5601b7d24c95b21f6b9641f425df",
+            "size": 30950,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/e2761cb2839447b6beb0b4ed132b0895/thumbnails/d2734a4ba4134f8cb2acd49fefe1d5a7/a26e01c8b9b24d809621b053ddee2a81.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "6982f77c4cf8416aa7dc534178704822",
+            "size": 5569,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/e2761cb2839447b6beb0b4ed132b0895/thumbnails/d2734a4ba4134f8cb2acd49fefe1d5a7/35790f86b31c4e5197576317fed10ba7.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "081ebee05b494c8e854b56146fe4db5b",
+            "size": 1249,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/e2761cb2839447b6beb0b4ed132b0895/thumbnails/d2734a4ba4134f8cb2acd49fefe1d5a7/78c9104a7ffe48b88caf57c1b5686c33.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "202c65b3c38e469c8b68400712d23f67",
+        "displayName": "Malbers Animations",
+        "account": "basic",
+        "username": "malbers.shark87",
+        "avatars": {
+          "uid": "6bd6f183c6e04fb08b70fb9eb7e691da",
+          "images": [
+            {
+              "size": 3275,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/ac7af024905c4b0e9b104676f2f28508.jpeg",
+              "height": 100
+            },
+            {
+              "size": 2790,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/39ed2cecf2f34987b8260bc1f96deaa4.jpeg",
+              "height": 90
+            },
+            {
+              "size": 1128,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/699d1724cc8546a8a286438596c1061c.jpeg",
+              "height": 48
+            },
+            {
+              "size": 733,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/6bd6f183c6e04fb08b70fb9eb7e691da/f25d5f7a3c8042d09363d7c6db874c4b.jpeg",
+              "height": 32
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/malbers.shark87"
+      },
+      "price": 7999,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        },
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        }
+      ]
+    },
+    {
+      "uid": "12dd4e73b65245e0b755343d33df6360",
+      "slug": "free-hyper-realistic-model-of-bmw-m8-competition",
+      "name": "Free Hyper-Realistic Model of BMW M8 Competition",
+      "staffpickedAt": null,
+      "viewCount": 10405,
+      "likeCount": 169,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/free-hyper-realistic-model-of-bmw-m8-competition-12dd4e73b65245e0b755343d33df6360",
+      "embedUrl": "https://sketchfab.com/models/12dd4e73b65245e0b755343d33df6360/embed",
+      "publicCommentCount": 5,
+      "downloadType": "free",
+      "downloadCount": 3203,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-06-13T18:34:17.970265",
+      "thumbnails": {
+        "uid": "91c65c6ac8f14b3c8fe1b8059df753ff",
+        "images": [
+          {
+            "uid": "567bdf18fadf4c6bb5f00e6235608e98",
+            "size": 119844,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/12dd4e73b65245e0b755343d33df6360/thumbnails/91c65c6ac8f14b3c8fe1b8059df753ff/fff29a1e8a3c4b3db478dec80c607fca.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "181da72f230145da978790325ae8494e",
+            "size": 43274,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/12dd4e73b65245e0b755343d33df6360/thumbnails/91c65c6ac8f14b3c8fe1b8059df753ff/f455a37ec14b46f89339af373bacadc1.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "01847d1baa3f4087af07118d55952b42",
+            "size": 25906,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/12dd4e73b65245e0b755343d33df6360/thumbnails/91c65c6ac8f14b3c8fe1b8059df753ff/fd90901271024e0fa0d2aebe47d6895c.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "d8ef49abc56b4aa78ff59a5bbf635016",
+            "size": 5811,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/12dd4e73b65245e0b755343d33df6360/thumbnails/91c65c6ac8f14b3c8fe1b8059df753ff/87c02391f8cd4bba99129e6df6635066.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "235048c9d9a646adaf9bb4337bebd89f",
+            "size": 1343,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/12dd4e73b65245e0b755343d33df6360/thumbnails/91c65c6ac8f14b3c8fe1b8059df753ff/e892ac7b619047fd85d49884b6ca7782.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f364c4f79e914b60ab025caea04256cd",
+        "displayName": "shadowy vox",
+        "account": "basic",
+        "username": "shadowvox",
+        "avatars": {
+          "uid": "53144b7c1f6346e6831b165a27b0543c",
+          "images": [
+            {
+              "size": 1016,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/4ffd121b63a84005904b239f8631ba8a.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1311,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/4bd5c487744041fdb23711e339964ccf.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2580,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/4fa116f646194ff4b7d2538500fe91d9.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2910,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/5239b9aff5f94309b18bbe908cd6e32e.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/shadowvox"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": true,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "17d20ca7b35243d4a45171838b50704c",
+          "name": "Science & Technology",
+          "slug": "science-technology"
+        }
+      ]
+    },
+    {
+      "uid": "0e155448a2174d65bfa707be502fc020",
+      "slug": "realistic-brainsaw",
+      "name": "Realistic Brainsaw",
+      "staffpickedAt": null,
+      "viewCount": 513,
+      "likeCount": 29,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-brainsaw-0e155448a2174d65bfa707be502fc020",
+      "embedUrl": "https://sketchfab.com/models/0e155448a2174d65bfa707be502fc020/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 149,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-02-18T01:48:27.451075",
+      "thumbnails": {
+        "uid": "dabb5f74c0d54de9bf76105b7371a1f4",
+        "images": [
+          {
+            "uid": "0acfca054b2f4996abca8820d6e68798",
+            "size": 186149,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/0e155448a2174d65bfa707be502fc020/thumbnails/dabb5f74c0d54de9bf76105b7371a1f4/6c52d61864c9495d9d44e32b10f456b3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "b1e2967d1db7493c965e3cad8dddc5ab",
+            "size": 47028,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/0e155448a2174d65bfa707be502fc020/thumbnails/dabb5f74c0d54de9bf76105b7371a1f4/6685b45790804180ba9979a0f4adddcc.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "64d44daccbc74116b3d91e3a412284b5",
+            "size": 25351,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/0e155448a2174d65bfa707be502fc020/thumbnails/dabb5f74c0d54de9bf76105b7371a1f4/e8e9b7dccb9245a8b246ea38619da0f4.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "c4cb674404b241ed85cceaf602bf278e",
+            "size": 5079,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/0e155448a2174d65bfa707be502fc020/thumbnails/dabb5f74c0d54de9bf76105b7371a1f4/0db15bc298c8457ab6d32215d276fd27.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "3312127047b248ca926fe0d6227baf70",
+            "size": 1195,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/0e155448a2174d65bfa707be502fc020/thumbnails/dabb5f74c0d54de9bf76105b7371a1f4/f07103b51a8c4014bd828194d10fc22c.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "93d8859d7b7742738a1037ba3db35211",
+        "displayName": "thanoidiscominggaming",
+        "account": "basic",
+        "username": "thanoidiscominggaming",
+        "avatars": {
+          "uid": "8550bd044c864ceb991105972cd839c0",
+          "images": [
+            {
+              "size": 2161,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/856e3eeeda3f4ddd9d15238f1c20f6d7.png",
+              "height": 32
+            },
+            {
+              "size": 3903,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/cf25bb27f04b40db9b919da6d4c73a87.png",
+              "height": 48
+            },
+            {
+              "size": 9586,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/d96c5d8f88004ccdbd787691c9be1f99.png",
+              "height": 90
+            },
+            {
+              "size": 11353,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/8550bd044c864ceb991105972cd839c0/a9e39719ccbb48edaa774597e81097f8.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/thanoidiscominggaming"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "f672a7fd93e84997b80a54ba30956111",
+      "slug": "animated-realistic-boar-3d-animal-model",
+      "name": "Animated Realistic Boar – 3D Animal Model",
+      "staffpickedAt": null,
+      "viewCount": 3369,
+      "likeCount": 75,
+      "animationCount": 11,
+      "viewerUrl": "https://sketchfab.com/3d-models/animated-realistic-boar-3d-animal-model-f672a7fd93e84997b80a54ba30956111",
+      "embedUrl": "https://sketchfab.com/models/f672a7fd93e84997b80a54ba30956111/embed",
+      "publicCommentCount": 2,
+      "downloadType": "free",
+      "downloadCount": 598,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-11-28T19:27:17.836439",
+      "thumbnails": {
+        "uid": "09c1886150b84a479d21e56112debbbd",
+        "images": [
+          {
+            "uid": "f8713ded563e4d84bf9f035efa7e123e",
+            "size": 177957,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/f672a7fd93e84997b80a54ba30956111/thumbnails/09c1886150b84a479d21e56112debbbd/5c68f9add5544d498d3cf03c6e8cb298.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "6c11e3c551ea4c49865f0f52e3402ef3",
+            "size": 55539,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/f672a7fd93e84997b80a54ba30956111/thumbnails/09c1886150b84a479d21e56112debbbd/a1748687d16d4c04bbfa6c0dc20e3dc3.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "49d0b6b5b9584e0f9f044f26bdf95db1",
+            "size": 30003,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/f672a7fd93e84997b80a54ba30956111/thumbnails/09c1886150b84a479d21e56112debbbd/0058d2bfc8a340db8d8ba60094082c9d.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "23a128a6eb99492699d02c678349ec34",
+            "size": 4862,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/f672a7fd93e84997b80a54ba30956111/thumbnails/09c1886150b84a479d21e56112debbbd/84d1ed3b8f054b5f9753919e7b012237.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "00651b5e16b04ba1bf4cab09a6665594",
+            "size": 1035,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/f672a7fd93e84997b80a54ba30956111/thumbnails/09c1886150b84a479d21e56112debbbd/f573f8ea3a934cf99e8b70b674d9190c.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f410c40b683a421eaf3e0d00968f2a0c",
+        "displayName": "AnimalMesh 3D",
+        "account": "basic",
+        "username": "AnimalMesh3D",
+        "avatars": {
+          "uid": "4641678836a7425897ddf238d87f0ae7",
+          "images": [
+            {
+              "size": 1083,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/b272cafd5f124e699fed5d977871db89.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1402,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/ddaa6ca4f1d144dc8b3c60bd0bf9d6b0.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2831,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/d2917261501b4b90b301970705ae04cd.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3269,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/bc50ea33ce824ffd813740f9c02345bc.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/AnimalMesh3D"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        }
+      ]
+    },
+    {
+      "uid": "e31e71adf1ee44bfbef6495b6d3e5462",
+      "slug": "animated-realistic-goat-3d-animal-model",
+      "name": "Animated Realistic Goat – 3D Animal Model",
+      "staffpickedAt": null,
+      "viewCount": 3685,
+      "likeCount": 61,
+      "animationCount": 11,
+      "viewerUrl": "https://sketchfab.com/3d-models/animated-realistic-goat-3d-animal-model-e31e71adf1ee44bfbef6495b6d3e5462",
+      "embedUrl": "https://sketchfab.com/models/e31e71adf1ee44bfbef6495b6d3e5462/embed",
+      "publicCommentCount": 2,
+      "downloadType": "free",
+      "downloadCount": 977,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-11-28T20:26:39.005961",
+      "thumbnails": {
+        "uid": "15174c4c806a43e686c540423f9ab3e4",
+        "images": [
+          {
+            "uid": "cc50193cca7b4b879a453df5aa5c2b62",
+            "size": 98762,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/e31e71adf1ee44bfbef6495b6d3e5462/thumbnails/15174c4c806a43e686c540423f9ab3e4/48301561eba247589786b0ec97cef7e4.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "13f2e30cb7d24ca39089e7064082ad54",
+            "size": 29747,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/e31e71adf1ee44bfbef6495b6d3e5462/thumbnails/15174c4c806a43e686c540423f9ab3e4/95b33c1667644ed4b6002f19cddb7010.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "73c261e11a764cadbf857d85df3e9b7c",
+            "size": 16540,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/e31e71adf1ee44bfbef6495b6d3e5462/thumbnails/15174c4c806a43e686c540423f9ab3e4/82d8884c9991461bb60579c15fb58e10.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "6ebf1222e0bd460280d46937527cf0d8",
+            "size": 3456,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/e31e71adf1ee44bfbef6495b6d3e5462/thumbnails/15174c4c806a43e686c540423f9ab3e4/e18adad870ba44c8870941d455977e19.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "6c252e1d72464c5d90c97666adca348f",
+            "size": 1001,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/e31e71adf1ee44bfbef6495b6d3e5462/thumbnails/15174c4c806a43e686c540423f9ab3e4/605264392ab749dc80b79823dd7760f9.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f410c40b683a421eaf3e0d00968f2a0c",
+        "displayName": "AnimalMesh 3D",
+        "account": "basic",
+        "username": "AnimalMesh3D",
+        "avatars": {
+          "uid": "4641678836a7425897ddf238d87f0ae7",
+          "images": [
+            {
+              "size": 1083,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/b272cafd5f124e699fed5d977871db89.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1402,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/ddaa6ca4f1d144dc8b3c60bd0bf9d6b0.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2831,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/d2917261501b4b90b301970705ae04cd.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3269,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/bc50ea33ce824ffd813740f9c02345bc.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/AnimalMesh3D"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        }
+      ]
+    },
+    {
+      "uid": "a483af933f3e47818cb202a242630721",
+      "slug": "tactical-bomber-jacket-realistic-3d-model",
+      "name": "Tactical Bomber Jacket | Realistic 3D Model",
+      "staffpickedAt": null,
+      "viewCount": 2543,
+      "likeCount": 65,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/tactical-bomber-jacket-realistic-3d-model-a483af933f3e47818cb202a242630721",
+      "embedUrl": "https://sketchfab.com/models/a483af933f3e47818cb202a242630721/embed",
+      "publicCommentCount": 4,
+      "downloadType": "free",
+      "downloadCount": 457,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-08-28T10:56:52.326126",
+      "thumbnails": {
+        "uid": "7e8f6594dbca44948280e5a5e79ed5e4",
+        "images": [
+          {
+            "uid": "bed4ce8d9c7f48efb8d596b7077d1abd",
+            "size": 319947,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/a483af933f3e47818cb202a242630721/thumbnails/7e8f6594dbca44948280e5a5e79ed5e4/19991ee67a854ebba67e93bf142790c2.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "cbac77af75004a1e86fc9c2bc7a6bb22",
+            "size": 71655,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/a483af933f3e47818cb202a242630721/thumbnails/7e8f6594dbca44948280e5a5e79ed5e4/03e00f171bee4bcdbbac5209a047efe7.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "7f2bac29f46e47b4a2184c1d8754a98b",
+            "size": 39905,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/a483af933f3e47818cb202a242630721/thumbnails/7e8f6594dbca44948280e5a5e79ed5e4/68f5cf0b8bc54ad89a7272ace8a0cec2.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "a156704b9cb14192bd157beb2b843a20",
+            "size": 6414,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/a483af933f3e47818cb202a242630721/thumbnails/7e8f6594dbca44948280e5a5e79ed5e4/7241e71ecfe04dbfbcd01d398ffba29e.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "0c853e658f6e4f0a90840351424d54e5",
+            "size": 1157,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/a483af933f3e47818cb202a242630721/thumbnails/7e8f6594dbca44948280e5a5e79ed5e4/8bcc1fd9a17a43b0a89470aafe1d0ddd.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8dbf6da4bd164443b009730271ce302c",
+        "displayName": "BlendWear",
+        "account": "basic",
+        "username": "BlendWear",
+        "avatars": {
+          "uid": "c24a67c5de6642fdb8e0548f37eece58",
+          "images": [
+            {
+              "size": 978,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/c24a67c5de6642fdb8e0548f37eece58/026c64d4c1d842a7b4112ed0eaa09d40.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1274,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/c24a67c5de6642fdb8e0548f37eece58/bee0c8d93150475f9cd8b0f3e5ce02a6.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2143,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/c24a67c5de6642fdb8e0548f37eece58/5bae6b23953348e5bbb418407ca20cbe.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2396,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/c24a67c5de6642fdb8e0548f37eece58/75f83e72593d406c92110ef8fadbdcad.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/BlendWear"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+          "name": "Fashion & Style",
+          "slug": "fashion-style"
+        }
+      ]
+    },
+    {
+      "uid": "77a1fcdc92e14db698767da9ee09f84a",
+      "slug": "animated-realistic-bear-3d-animal-model",
+      "name": "Animated Realistic Bear – 3D Animal Model",
+      "staffpickedAt": null,
+      "viewCount": 2604,
+      "likeCount": 51,
+      "animationCount": 30,
+      "viewerUrl": "https://sketchfab.com/3d-models/animated-realistic-bear-3d-animal-model-77a1fcdc92e14db698767da9ee09f84a",
+      "embedUrl": "https://sketchfab.com/models/77a1fcdc92e14db698767da9ee09f84a/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 394,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-11-28T18:37:53.010230",
+      "thumbnails": {
+        "uid": "5c999354b46f4bc4adbadfb0cbedf2ad",
+        "images": [
+          {
+            "uid": "400068b0055f48c3adc97499978b39cd",
+            "size": 184602,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/77a1fcdc92e14db698767da9ee09f84a/thumbnails/5c999354b46f4bc4adbadfb0cbedf2ad/83597a52cb124350acf70a8f0eb7ffdf.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "aaef4daf69b447f0982a101528cb1cec",
+            "size": 54754,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/77a1fcdc92e14db698767da9ee09f84a/thumbnails/5c999354b46f4bc4adbadfb0cbedf2ad/d0136bbfa42a44378629d730e4fefecd.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "4eccb34442b54d748e6cb939a6dc694e",
+            "size": 29591,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/77a1fcdc92e14db698767da9ee09f84a/thumbnails/5c999354b46f4bc4adbadfb0cbedf2ad/1c2aad09dc804363914e34a8740d79c8.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "117015f74c0f4d489d26042164505f22",
+            "size": 5251,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/77a1fcdc92e14db698767da9ee09f84a/thumbnails/5c999354b46f4bc4adbadfb0cbedf2ad/45e6d0fff7a2461ba564d9f81b482e6b.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "c091de9d81f44640920aaf87351bc818",
+            "size": 1169,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/77a1fcdc92e14db698767da9ee09f84a/thumbnails/5c999354b46f4bc4adbadfb0cbedf2ad/7091af2a3bc74c9bb92148260f23f083.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f410c40b683a421eaf3e0d00968f2a0c",
+        "displayName": "AnimalMesh 3D",
+        "account": "basic",
+        "username": "AnimalMesh3D",
+        "avatars": {
+          "uid": "4641678836a7425897ddf238d87f0ae7",
+          "images": [
+            {
+              "size": 1083,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/b272cafd5f124e699fed5d977871db89.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1402,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/ddaa6ca4f1d144dc8b3c60bd0bf9d6b0.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2831,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/d2917261501b4b90b301970705ae04cd.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3269,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/bc50ea33ce824ffd813740f9c02345bc.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/AnimalMesh3D"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        }
+      ]
+    },
+    {
+      "uid": "32ce1c2f276a4e27bb26b8bb99439bb7",
+      "slug": "animated-realistic-donkey-3d-animal-model",
+      "name": "Animated Realistic Donkey – 3D Animal Model",
+      "staffpickedAt": null,
+      "viewCount": 2960,
+      "likeCount": 44,
+      "animationCount": 12,
+      "viewerUrl": "https://sketchfab.com/3d-models/animated-realistic-donkey-3d-animal-model-32ce1c2f276a4e27bb26b8bb99439bb7",
+      "embedUrl": "https://sketchfab.com/models/32ce1c2f276a4e27bb26b8bb99439bb7/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 438,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-11-28T19:57:35.080357",
+      "thumbnails": {
+        "uid": "086a1c45aca24e6cbf0f0b599490de9c",
+        "images": [
+          {
+            "uid": "9b1a70d1c226477aaa7a613d5a17b5c4",
+            "size": 95781,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/32ce1c2f276a4e27bb26b8bb99439bb7/thumbnails/086a1c45aca24e6cbf0f0b599490de9c/f3b701d5ae0c4422b97779f490f7dbe1.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "5eba66915db24969992a9e7a759d4f33",
+            "size": 28497,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/32ce1c2f276a4e27bb26b8bb99439bb7/thumbnails/086a1c45aca24e6cbf0f0b599490de9c/51d98d028afd4a038021317bd8d30475.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "a78d809f4baf46268052f2f635f24a4c",
+            "size": 16119,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/32ce1c2f276a4e27bb26b8bb99439bb7/thumbnails/086a1c45aca24e6cbf0f0b599490de9c/b6bd866f29ad432086765b72fa46b465.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "35ac21b023a14f63be0e0f6710f5a27c",
+            "size": 3630,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/32ce1c2f276a4e27bb26b8bb99439bb7/thumbnails/086a1c45aca24e6cbf0f0b599490de9c/4eabe471538b4f3894ee777fabc217ea.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "31a10f846ed2428b9f9f05ecc63016c7",
+            "size": 1021,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/32ce1c2f276a4e27bb26b8bb99439bb7/thumbnails/086a1c45aca24e6cbf0f0b599490de9c/782fea766b07431294245b47dc42c57d.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f410c40b683a421eaf3e0d00968f2a0c",
+        "displayName": "AnimalMesh 3D",
+        "account": "basic",
+        "username": "AnimalMesh3D",
+        "avatars": {
+          "uid": "4641678836a7425897ddf238d87f0ae7",
+          "images": [
+            {
+              "size": 1083,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/b272cafd5f124e699fed5d977871db89.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1402,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/ddaa6ca4f1d144dc8b3c60bd0bf9d6b0.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2831,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/d2917261501b4b90b301970705ae04cd.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3269,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/4641678836a7425897ddf238d87f0ae7/bc50ea33ce824ffd813740f9c02345bc.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/AnimalMesh3D"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        }
+      ]
+    },
+    {
+      "uid": "3bfb7b9cecbc4e9e8b471f07138b54e9",
+      "slug": "minigun-m134-realistic-3d-model",
+      "name": "Minigun M134 | Realistic 3D Model",
+      "staffpickedAt": null,
+      "viewCount": 2158,
+      "likeCount": 46,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/minigun-m134-realistic-3d-model-3bfb7b9cecbc4e9e8b471f07138b54e9",
+      "embedUrl": "https://sketchfab.com/models/3bfb7b9cecbc4e9e8b471f07138b54e9/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 347,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-10T11:48:34.927068",
+      "thumbnails": {
+        "uid": "6f3ebfa8e48f4cdfbcd9f913fd1a23fc",
+        "images": [
+          {
+            "uid": "b651426967e54f3b9fdcc1708332937a",
+            "size": 334722,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/3bfb7b9cecbc4e9e8b471f07138b54e9/thumbnails/6f3ebfa8e48f4cdfbcd9f913fd1a23fc/f4bf9376fde24df3a23de13ef7ebcea8.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "ef013ea390914cedab0eaeb148b29209",
+            "size": 89080,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/3bfb7b9cecbc4e9e8b471f07138b54e9/thumbnails/6f3ebfa8e48f4cdfbcd9f913fd1a23fc/1074cf79336a477ab3c23e13d60b437f.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "f8bc559091b14a8db6a83fbc1ba101e1",
+            "size": 41049,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/3bfb7b9cecbc4e9e8b471f07138b54e9/thumbnails/6f3ebfa8e48f4cdfbcd9f913fd1a23fc/0ab578e7b4b84d9aae43297787dc8821.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "ac071772d41c47ff983ab286363922b8",
+            "size": 5294,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/3bfb7b9cecbc4e9e8b471f07138b54e9/thumbnails/6f3ebfa8e48f4cdfbcd9f913fd1a23fc/0030782ba5ed4a62a0aa8ef2ae5f8173.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "5d47591827cb41fba65802d287c50ba3",
+            "size": 1032,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/3bfb7b9cecbc4e9e8b471f07138b54e9/thumbnails/6f3ebfa8e48f4cdfbcd9f913fd1a23fc/58a5c3f90a1543be86d806d775a9fc21.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "16d98d5261324ae19b4556d14cc9d8e3",
+        "displayName": "erenzek",
+        "account": "basic",
+        "username": "erenyeager313",
+        "avatars": {
+          "uid": "6ef31480ed2d4f7f84d6c565ee810a2b",
+          "images": [
+            {
+              "size": 2414,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/6ef31480ed2d4f7f84d6c565ee810a2b/776c903d991c4f0dba87c29294b6cea0.png",
+              "height": 32
+            },
+            {
+              "size": 4832,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/6ef31480ed2d4f7f84d6c565ee810a2b/b66b5df633844e3b905086bc1c419335.png",
+              "height": 48
+            },
+            {
+              "size": 14117,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/6ef31480ed2d4f7f84d6c565ee810a2b/a7483012be854a39afa15a427a5f7429.png",
+              "height": 90
+            },
+            {
+              "size": 16838,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/6ef31480ed2d4f7f84d6c565ee810a2b/eef9249b6d82409ebc0e83c19bf6abbd.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/erenyeager313"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "6728df53c1964db0861010db22387031",
+      "slug": "realistic-courtroom",
+      "name": "Realistic Courtroom",
+      "staffpickedAt": null,
+      "viewCount": 4321,
+      "likeCount": 17,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-courtroom-6728df53c1964db0861010db22387031",
+      "embedUrl": "https://sketchfab.com/models/6728df53c1964db0861010db22387031/embed",
+      "publicCommentCount": 0,
+      "downloadType": "store",
+      "downloadCount": 10,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-06-07T21:51:25.753829",
+      "thumbnails": {
+        "uid": "316595ef684b46888a56132ac85b7967",
+        "images": [
+          {
+            "uid": "514b4de6d4d74cd98929c15df1fa3774",
+            "size": 448911,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/6728df53c1964db0861010db22387031/thumbnails/316595ef684b46888a56132ac85b7967/5ce704e0e1684d71a7c5add01d5038f1.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "59c60caf94564805b869ceb3f068c40a",
+            "size": 119574,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/6728df53c1964db0861010db22387031/thumbnails/316595ef684b46888a56132ac85b7967/24e3a193869b4abf8cf96ac535e68ac6.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "cc992a09d93d4cc8a85e94d636c51d64",
+            "size": 65694,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/6728df53c1964db0861010db22387031/thumbnails/316595ef684b46888a56132ac85b7967/041892d825764bc9825b4be0d6b2a9a3.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "95e5dd9d6daa43718f681332d4a821cd",
+            "size": 10923,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/6728df53c1964db0861010db22387031/thumbnails/316595ef684b46888a56132ac85b7967/867002f7d61940ad99824319625195f7.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "0ab936a1d2c54bd38c7ed8b9170aa9b1",
+            "size": 1625,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/6728df53c1964db0861010db22387031/thumbnails/316595ef684b46888a56132ac85b7967/92e45349485c47be8915cd356f2a0061.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "735f3fc0260b430fb5fcc793be060603",
+        "displayName": "DoggoCreative",
+        "account": "basic",
+        "username": "DoggoCreative",
+        "avatars": {
+          "uid": "56d3decb86ea449ab7d6a11f8b1c5389",
+          "images": [
+            {
+              "size": 1071,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/56d3decb86ea449ab7d6a11f8b1c5389/2049391164134454beca731df7f5b09a.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1503,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/56d3decb86ea449ab7d6a11f8b1c5389/72374bd7d4dd44ecb0c3aeb4dd51564f.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3056,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/56d3decb86ea449ab7d6a11f8b1c5389/d632c97e275f498690bc3b18d86f6e97.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3567,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/56d3decb86ea449ab7d6a11f8b1c5389/3d330d707aa84142a7ac939966e69e8b.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/DoggoCreative"
+      },
+      "price": 9000,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "f825c721edb541dbbc8cd210123616c7",
+          "name": "Architecture",
+          "slug": "architecture"
+        },
+        {
+          "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+          "name": "Furniture & Home",
+          "slug": "furniture-home"
+        }
+      ]
+    },
+    {
+      "uid": "08e1fef882204f808e68330c707d634a",
+      "slug": "apartment-realistic-residential-structure",
+      "name": "Apartment | Realistic Residential Structure",
+      "staffpickedAt": null,
+      "viewCount": 588,
+      "likeCount": 23,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/apartment-realistic-residential-structure-08e1fef882204f808e68330c707d634a",
+      "embedUrl": "https://sketchfab.com/models/08e1fef882204f808e68330c707d634a/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 181,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-07-10T19:54:13.486935",
+      "thumbnails": {
+        "uid": "81b3b5638f424081aae8f074ca28c9e1",
+        "images": [
+          {
+            "uid": "6a4ef27eb7de46c78b069d3b373d2522",
+            "size": 306639,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/08e1fef882204f808e68330c707d634a/thumbnails/81b3b5638f424081aae8f074ca28c9e1/b905964ad79545c59245910674ca0543.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "d1f1dec174904488a3b51b21690aab6b",
+            "size": 54631,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/08e1fef882204f808e68330c707d634a/thumbnails/81b3b5638f424081aae8f074ca28c9e1/6f12f586245f4c11b733c3a599c13c6a.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "95fb3ba8e1514046aeb1ea12a6cb850e",
+            "size": 27228,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/08e1fef882204f808e68330c707d634a/thumbnails/81b3b5638f424081aae8f074ca28c9e1/829a4b801ae54ba2b2723bc0640b83af.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "1eb4143340ba410b9b01c3b39adfa3de",
+            "size": 4807,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/08e1fef882204f808e68330c707d634a/thumbnails/81b3b5638f424081aae8f074ca28c9e1/f939a83ad35f4a2ebbfd319ee73e1233.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "1800a969772042b28c9f05762d2ccd09",
+            "size": 1093,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/08e1fef882204f808e68330c707d634a/thumbnails/81b3b5638f424081aae8f074ca28c9e1/3d8b3e3b63dc47feaec7a592b6454d89.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "158918a81f6840b98dd72f21c4e6bd04",
+        "displayName": "GAMICO",
+        "account": "basic",
+        "username": "gamico",
+        "avatars": {
+          "uid": "f8ba24e12ff84381a664658212a09b46",
+          "images": [
+            {
+              "size": 2178,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/f8ba24e12ff84381a664658212a09b46/ed3dc542639e4c8d9b22bf71a9d978b2.png",
+              "height": 32
+            },
+            {
+              "size": 3892,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/f8ba24e12ff84381a664658212a09b46/483c4a4fa6ed4ffcacf163cc449c98e7.png",
+              "height": 48
+            },
+            {
+              "size": 9459,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/f8ba24e12ff84381a664658212a09b46/75fddc2d3c2b4fd697e655631abda39f.png",
+              "height": 90
+            },
+            {
+              "size": 10835,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/f8ba24e12ff84381a664658212a09b46/559d82364d0747ba8c5154501ca21929.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/gamico"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b",
+          "name": "Furniture & Home",
+          "slug": "furniture-home"
+        }
+      ]
+    },
+    {
+      "uid": "3c0387acf8b1443ca4413ce4783da4ca",
+      "slug": "realistic-tree",
+      "name": "Realistic tree",
+      "staffpickedAt": null,
+      "viewCount": 608,
+      "likeCount": 10,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-tree-3c0387acf8b1443ca4413ce4783da4ca",
+      "embedUrl": "https://sketchfab.com/models/3c0387acf8b1443ca4413ce4783da4ca/embed",
+      "publicCommentCount": 0,
+      "downloadType": "store",
+      "downloadCount": 46,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2023-10-22T10:38:53.397020",
+      "thumbnails": {
+        "uid": "7111c072a4e24e669f1e925693e3a5e3",
+        "images": [
+          {
+            "uid": "74ce28e41d344eafbd5c9ac4f754c871",
+            "size": 563742,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/3c0387acf8b1443ca4413ce4783da4ca/thumbnails/7111c072a4e24e669f1e925693e3a5e3/5fec1fc93f554664951fa569eb895465.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "aa79f1834e47484b995554a19f7721fd",
+            "size": 82751,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/3c0387acf8b1443ca4413ce4783da4ca/thumbnails/7111c072a4e24e669f1e925693e3a5e3/d9be2cd24dff47c9a7fb5c542e342699.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "b9fc91562c1b4bb0825661d27cfb6ad7",
+            "size": 39588,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/3c0387acf8b1443ca4413ce4783da4ca/thumbnails/7111c072a4e24e669f1e925693e3a5e3/c1931c56cf524f6db6c1aca1cd150c3b.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "d21e64454f1146e2ae284de250119adc",
+            "size": 6080,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/3c0387acf8b1443ca4413ce4783da4ca/thumbnails/7111c072a4e24e669f1e925693e3a5e3/88dec4610d7548db8fc285b0d406b057.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "41831d2a58e4439ab3cc712eb01a19a8",
+            "size": 1263,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/3c0387acf8b1443ca4413ce4783da4ca/thumbnails/7111c072a4e24e669f1e925693e3a5e3/752dbf758e0e48f5ab318a7c99e66207.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f234773a63874747b2ef97b6782c2ad6",
+        "displayName": "Garecra",
+        "account": "basic",
+        "username": "Garecra",
+        "avatars": {
+          "uid": "1d14d51580ae4fcdb947b2c6c63c1cc7",
+          "images": [
+            {
+              "size": 1213,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/1d14d51580ae4fcdb947b2c6c63c1cc7/e637355e33734d80a1e18bb9bf037202.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1620,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/1d14d51580ae4fcdb947b2c6c63c1cc7/8c0806fcef8d4660a3bbfdb89ba36db7.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3087,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/1d14d51580ae4fcdb947b2c6c63c1cc7/b9017ac353a641189b7471ef8ec43917.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3610,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/1d14d51580ae4fcdb947b2c6c63c1cc7/7aec068c56354b74aba446c155e48700.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/Garecra"
+      },
+      "price": 399,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "1a99e2b67fc84de0b3ea0d3925208a04",
+          "name": "Nature & Plants",
+          "slug": "nature-plants"
+        }
+      ]
+    },
+    {
+      "uid": "cf6b98df2ab64646b4599c2b1fab4911",
+      "slug": "great-white-shark-in-realistic-swimming-pose",
+      "name": "Great White Shark in Realistic Swimming Pose",
+      "staffpickedAt": null,
+      "viewCount": 1776,
+      "likeCount": 28,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/great-white-shark-in-realistic-swimming-pose-cf6b98df2ab64646b4599c2b1fab4911",
+      "embedUrl": "https://sketchfab.com/models/cf6b98df2ab64646b4599c2b1fab4911/embed",
+      "publicCommentCount": 4,
+      "downloadType": "free",
+      "downloadCount": 244,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-07-18T19:00:35.529434",
+      "thumbnails": {
+        "uid": "4dd696a52fe544ac89a26e6fe05fabcc",
+        "images": [
+          {
+            "uid": "192a362c2a7e408f9586348b759258e4",
+            "size": 124351,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/cf6b98df2ab64646b4599c2b1fab4911/thumbnails/4dd696a52fe544ac89a26e6fe05fabcc/69e4915c92a6459fbce2c79ef68fb240.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "54de6e5bdc094c91afe7794113939baf",
+            "size": 26212,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/cf6b98df2ab64646b4599c2b1fab4911/thumbnails/4dd696a52fe544ac89a26e6fe05fabcc/374f76b43b1b42b984a71abd42547bc4.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "91e43d769c3f4bb88969d333b39f0205",
+            "size": 13334,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/cf6b98df2ab64646b4599c2b1fab4911/thumbnails/4dd696a52fe544ac89a26e6fe05fabcc/5c4dd9bf7f8f49e28b94d56a578f0745.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "65d47eb1e07244a798fd5828861cd122",
+            "size": 2779,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/cf6b98df2ab64646b4599c2b1fab4911/thumbnails/4dd696a52fe544ac89a26e6fe05fabcc/1e451949a19e494786dd5dff7538e5d8.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "5f26f1a2bfc64db1a18d8d5f34d2d729",
+            "size": 877,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/cf6b98df2ab64646b4599c2b1fab4911/thumbnails/4dd696a52fe544ac89a26e6fe05fabcc/ed8dc96279f54c86860f2c0872b9edbc.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "c0e7cb6abbb54c4fbed332c1f658479d",
+        "displayName": "Pigcraft",
+        "account": "basic",
+        "username": "s8819296",
+        "avatars": {
+          "uid": "7797ae77db2943ff8057f36882c126a7",
+          "images": [
+            {
+              "size": 912,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/641a80e3656e4f619687ec58200ffc86.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1244,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/4f74af7c9e17476b97fc30e551115c65.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2524,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/1979744444a44908b96f3bcaf009a9c4.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2809,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/7797ae77db2943ff8057f36882c126a7/cff0eb04a21445cb82338bb2738345f6.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/s8819296"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "ed9e048550b2478eb1ab2faaba192832",
+          "name": "Animals & Pets",
+          "slug": "animals-pets"
+        },
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        }
+      ]
+    },
+    {
+      "uid": "77e5794dde144965b5bd4aeab9cb50e8",
+      "slug": "realistic-smartphone-3d-model",
+      "name": "Realistic Smartphone 3D Model",
+      "staffpickedAt": null,
+      "viewCount": 2228,
+      "likeCount": 14,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-smartphone-3d-model-77e5794dde144965b5bd4aeab9cb50e8",
+      "embedUrl": "https://sketchfab.com/models/77e5794dde144965b5bd4aeab9cb50e8/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 846,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-08-10T00:08:12.244927",
+      "thumbnails": {
+        "uid": "5837b345abc5460ca8f1a69860c0add0",
+        "images": [
+          {
+            "uid": "a54de3503ba248659c61ccf222c16ba3",
+            "size": 198072,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/77e5794dde144965b5bd4aeab9cb50e8/thumbnails/5837b345abc5460ca8f1a69860c0add0/73ee2126c409478082cb722f41628b0b.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "19b6e87f66144301a0e9decb51fb53bc",
+            "size": 31723,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/77e5794dde144965b5bd4aeab9cb50e8/thumbnails/5837b345abc5460ca8f1a69860c0add0/230776cd31204a07aa828bd9819fb527.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "94dffaa286dd47e6a407069b3899e10b",
+            "size": 14435,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/77e5794dde144965b5bd4aeab9cb50e8/thumbnails/5837b345abc5460ca8f1a69860c0add0/ea3c7e3129c84d6a8d137401359881e5.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "69ecc5fda68e4e9487298032c99aa9d1",
+            "size": 2777,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/77e5794dde144965b5bd4aeab9cb50e8/thumbnails/5837b345abc5460ca8f1a69860c0add0/b9a631dffa194738b8eafa22d67086ec.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "8f1a957b8da54295ac0b62fe941efe7c",
+            "size": 950,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/77e5794dde144965b5bd4aeab9cb50e8/thumbnails/5837b345abc5460ca8f1a69860c0add0/c7dbfaeb37cf41f180b6cdf82121fb4d.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "dee3fd81ef734e918486352db4600dbf",
+        "displayName": "LukeModels75",
+        "account": "basic",
+        "username": "lucss_3d",
+        "avatars": {
+          "uid": "4fada41d9fc446a68ba068817afd44b4",
+          "images": [
+            {
+              "size": 1033,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/4fada41d9fc446a68ba068817afd44b4/68084879222c461f8e1b4c1782fcee37.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1421,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/4fada41d9fc446a68ba068817afd44b4/f367b0857cdd452ba2cda915aef79d14.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2984,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/4fada41d9fc446a68ba068817afd44b4/074a12f15b6b4f03b1899c38f56c05b6.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3338,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/4fada41d9fc446a68ba068817afd44b4/87b43d34032c49d3a99228bd1b4b5ea7.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/lucss_3d"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "93e6d27da62149c6b963039835f45997",
+          "name": "People",
+          "slug": "people"
+        },
+        {
+          "uid": "17d20ca7b35243d4a45171838b50704c",
+          "name": "Science & Technology",
+          "slug": "science-technology"
+        }
+      ]
+    },
+    {
+      "uid": "ff784828aa0541a6a225711cd6230398",
+      "slug": "street-gangster-realistic-3d-character-model",
+      "name": "Street Gangster | Realistic 3D Character Model",
+      "staffpickedAt": null,
+      "viewCount": 2025,
+      "likeCount": 18,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/street-gangster-realistic-3d-character-model-ff784828aa0541a6a225711cd6230398",
+      "embedUrl": "https://sketchfab.com/models/ff784828aa0541a6a225711cd6230398/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 445,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-09-03T10:43:24.035532",
+      "thumbnails": {
+        "uid": "4fb13b35cfaf44aea01b66a26d1a4ce1",
+        "images": [
+          {
+            "uid": "567d8b24aa234c898bf119a096572954",
+            "size": 473289,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/ff784828aa0541a6a225711cd6230398/thumbnails/4fb13b35cfaf44aea01b66a26d1a4ce1/d377a22259af4a228510e3c00cfc5512.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "4483f288a0114416971ff73c0215bdf4",
+            "size": 67779,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/ff784828aa0541a6a225711cd6230398/thumbnails/4fb13b35cfaf44aea01b66a26d1a4ce1/44ae46adf00543e98272b99d35a75382.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "59c39f0617424a3daf7149c4ddd135eb",
+            "size": 34841,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/ff784828aa0541a6a225711cd6230398/thumbnails/4fb13b35cfaf44aea01b66a26d1a4ce1/b825b4f1d1be4253a277fb8ccb63bca5.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "ab793dd9043a4617ac6ef55a1d1deee9",
+            "size": 6680,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/ff784828aa0541a6a225711cd6230398/thumbnails/4fb13b35cfaf44aea01b66a26d1a4ce1/a96ee8ee13334140ad01f8c222127980.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "09bef754651b4681af5be42b65ee88e4",
+            "size": 1407,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/ff784828aa0541a6a225711cd6230398/thumbnails/4fb13b35cfaf44aea01b66a26d1a4ce1/e777739b94254da28eadc009af1ddd3a.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "600680db114546a7b57e2462228a6978",
+        "displayName": "PropShop™",
+        "account": "basic",
+        "username": "syedabbas0815",
+        "avatars": {
+          "uid": "537a470b37cd493881172ad9a4accfb3",
+          "images": [
+            {
+              "size": 1322,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/ad5b564cc4544d5ebf0a0e450c94110a.png",
+              "height": 32
+            },
+            {
+              "size": 2279,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/ac8c69c3b0004cf1bc8e337e8605c343.png",
+              "height": 48
+            },
+            {
+              "size": 5809,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/c5d371a9fc21483a978e3d9fc597ac03.png",
+              "height": 90
+            },
+            {
+              "size": 5608,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/537a470b37cd493881172ad9a4accfb3/58137eb860fd4a06abefc2b56d5a1b0d.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/syedabbas0815"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        },
+        {
+          "uid": "93e6d27da62149c6b963039835f45997",
+          "name": "People",
+          "slug": "people"
+        }
+      ]
+    },
+    {
+      "uid": "9cf928acb1504df9b5d0d3e5fd911b97",
+      "slug": "retro-philips-radio-realistic",
+      "name": "Retro Philips Radio - Realistic",
+      "staffpickedAt": null,
+      "viewCount": 354,
+      "likeCount": 9,
+      "animationCount": 1,
+      "viewerUrl": "https://sketchfab.com/3d-models/retro-philips-radio-realistic-9cf928acb1504df9b5d0d3e5fd911b97",
+      "embedUrl": "https://sketchfab.com/models/9cf928acb1504df9b5d0d3e5fd911b97/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 135,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-04-11T14:46:26.919529",
+      "thumbnails": {
+        "uid": "acf9c55d424a40d981b3764524b89f08",
+        "images": [
+          {
+            "uid": "9ccb99645aba44a1885c72ec80a4c97a",
+            "size": 100282,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/9cf928acb1504df9b5d0d3e5fd911b97/thumbnails/acf9c55d424a40d981b3764524b89f08/fc6a5a2a0eb343a7adf22e3a9842066c.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "4abbf38a787a4e339fec0009feb3a0f2",
+            "size": 30910,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/9cf928acb1504df9b5d0d3e5fd911b97/thumbnails/acf9c55d424a40d981b3764524b89f08/fa09938a6ef04a5c94bc0b1760e2bd84.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "30a82476020f4aa5842e10973e51231a",
+            "size": 16763,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/9cf928acb1504df9b5d0d3e5fd911b97/thumbnails/acf9c55d424a40d981b3764524b89f08/c84cae35930f4fb1a9bd73e516c07c07.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "7fb2d8380ed24416b46b4ec3924db302",
+            "size": 3425,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/9cf928acb1504df9b5d0d3e5fd911b97/thumbnails/acf9c55d424a40d981b3764524b89f08/a29827b847ef4c76975e573198afafa6.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "b69714aa668c4f378000a5ee9c099c61",
+            "size": 991,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/9cf928acb1504df9b5d0d3e5fd911b97/thumbnails/acf9c55d424a40d981b3764524b89f08/18df5f2ef15445fc91732e903bfc8392.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "8a62833a5d0943059994677757f3bae6",
+        "displayName": "Rajnz3d",
+        "account": "basic",
+        "username": "rurajneesh",
+        "avatars": {
+          "uid": "0ae7c5604e0f469f92a4eb315cc60019",
+          "images": [
+            {
+              "size": 2763,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/0ae7c5604e0f469f92a4eb315cc60019/9344236fdf4449289cddea726e8e728d.png",
+              "height": 32
+            },
+            {
+              "size": 5808,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/0ae7c5604e0f469f92a4eb315cc60019/54cd42ce61214f08b75284b74c60a9b2.png",
+              "height": 48
+            },
+            {
+              "size": 18765,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/0ae7c5604e0f469f92a4eb315cc60019/37c0dab282de4c45ad91758c5cafc521.png",
+              "height": 90
+            },
+            {
+              "size": 22768,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/0ae7c5604e0f469f92a4eb315cc60019/e523c06439154166a6035d9d19eec12d.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/rurajneesh"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "d7cebaeca8604ebab1480e413404b679",
+          "name": "Electronics & Gadgets",
+          "slug": "electronics-gadgets"
+        },
+        {
+          "uid": "17d20ca7b35243d4a45171838b50704c",
+          "name": "Science & Technology",
+          "slug": "science-technology"
+        }
+      ]
+    },
+    {
+      "uid": "f759c4370dbe4a98a36c2d73e30715a4",
+      "slug": "3d-soccer-ball-obj-with-realistic-textures",
+      "name": "3D Soccer Ball (OBJ) with Realistic Textures",
+      "staffpickedAt": null,
+      "viewCount": 2602,
+      "likeCount": 13,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/3d-soccer-ball-obj-with-realistic-textures-f759c4370dbe4a98a36c2d73e30715a4",
+      "embedUrl": "https://sketchfab.com/models/f759c4370dbe4a98a36c2d73e30715a4/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 749,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-05-24T01:35:52.010089",
+      "thumbnails": {
+        "uid": "05eb859be9d0461aad9ef313534ca822",
+        "images": [
+          {
+            "uid": "0af377a03c6a47c1970d6a260bdfffae",
+            "size": 238079,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/f759c4370dbe4a98a36c2d73e30715a4/thumbnails/05eb859be9d0461aad9ef313534ca822/2602f0693930408c83a8804ff77cf789.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "85b35a3c1408409194d8e6082ad156ee",
+            "size": 34370,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/f759c4370dbe4a98a36c2d73e30715a4/thumbnails/05eb859be9d0461aad9ef313534ca822/44a8f1a378b24ca699c32a47abae3b3a.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "500c8ec1a8844f07894d036953a75ecc",
+            "size": 17806,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/f759c4370dbe4a98a36c2d73e30715a4/thumbnails/05eb859be9d0461aad9ef313534ca822/8fd443b8f53e43f8a0c60a779672f218.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "69f3ecb4f3f34fd894cfa03320e6a67e",
+            "size": 4125,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/f759c4370dbe4a98a36c2d73e30715a4/thumbnails/05eb859be9d0461aad9ef313534ca822/f7d940dc89e24127b5eee6e6c3645c7e.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "6d5fabe4dad0468780cfdaef7fa4b2d8",
+            "size": 1107,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/f759c4370dbe4a98a36c2d73e30715a4/thumbnails/05eb859be9d0461aad9ef313534ca822/d4c6870771dd4eb5ad57c13aaded0bc9.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "6bde1df6221e4cd79fe6c232a07be5e9",
+        "displayName": "ronildo.facanha",
+        "account": "basic",
+        "username": "ronildo.facanha",
+        "avatars": {
+          "uid": "0bfc0113a7d046dcb4d3e2ed77c18f39",
+          "images": [
+            {
+              "size": 1038,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/0bfc0113a7d046dcb4d3e2ed77c18f39/3a4550dfdbad4d06b8ac0169b5c6e497.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1497,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/0bfc0113a7d046dcb4d3e2ed77c18f39/754df98965394ad1bceff185f1260a96.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3141,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/0bfc0113a7d046dcb4d3e2ed77c18f39/01d2e6010e7e41dc981cd07ccebbaeac.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3576,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/0bfc0113a7d046dcb4d3e2ed77c18f39/2bd7ecfa643a4b9a82ac846173b40ca0.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/ronildo.facanha"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        },
+        {
+          "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+          "name": "Sports & Fitness",
+          "slug": "sports-fitness"
+        }
+      ]
+    },
+    {
+      "uid": "eb179d1c40f34f61a98e58a5091168b9",
+      "slug": "realistic-bmw-m4-detailed-3d-model",
+      "name": "Realistic BMW M4 – Detailed 3D Model",
+      "staffpickedAt": null,
+      "viewCount": 2041,
+      "likeCount": 33,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/realistic-bmw-m4-detailed-3d-model-eb179d1c40f34f61a98e58a5091168b9",
+      "embedUrl": "https://sketchfab.com/models/eb179d1c40f34f61a98e58a5091168b9/embed",
+      "publicCommentCount": 2,
+      "downloadType": "free",
+      "downloadCount": 506,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-11-10T09:25:01.963442",
+      "thumbnails": {
+        "uid": "55ebc2fc43ee4f62b6b0d2a3ac293891",
+        "images": [
+          {
+            "uid": "affaf31ab95d4463b61ef3695a9a023d",
+            "size": 396442,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/eb179d1c40f34f61a98e58a5091168b9/thumbnails/55ebc2fc43ee4f62b6b0d2a3ac293891/647972ca20fe40de961e261d2a4516cf.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "1558fc50a95e4ce49b0209bc9c46dc92",
+            "size": 64145,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/eb179d1c40f34f61a98e58a5091168b9/thumbnails/55ebc2fc43ee4f62b6b0d2a3ac293891/78b067ecaae44826b20ed8bf6abd1dd1.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "944cf23dc6704f3a90936459995a037e",
+            "size": 31473,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/eb179d1c40f34f61a98e58a5091168b9/thumbnails/55ebc2fc43ee4f62b6b0d2a3ac293891/ac62a93df2404f64ab9aaf3148abc9ec.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "e3ba6c2f315148798bac0f4fad44d5e4",
+            "size": 6100,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/eb179d1c40f34f61a98e58a5091168b9/thumbnails/55ebc2fc43ee4f62b6b0d2a3ac293891/c369954b94d44fc285abcdeefd99d5f0.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "82e2157c51f64d9abffcc9d563743baf",
+            "size": 1246,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/eb179d1c40f34f61a98e58a5091168b9/thumbnails/55ebc2fc43ee4f62b6b0d2a3ac293891/001e7a8061e54804ab527405a814297a.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "f364c4f79e914b60ab025caea04256cd",
+        "displayName": "shadowy vox",
+        "account": "basic",
+        "username": "shadowvox",
+        "avatars": {
+          "uid": "53144b7c1f6346e6831b165a27b0543c",
+          "images": [
+            {
+              "size": 1016,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/4ffd121b63a84005904b239f8631ba8a.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1311,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/4bd5c487744041fdb23711e339964ccf.jpeg",
+              "height": 48
+            },
+            {
+              "size": 2580,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/4fa116f646194ff4b7d2538500fe91d9.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2910,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/53144b7c1f6346e6831b165a27b0543c/5239b9aff5f94309b18bbe908cd6e32e.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/shadowvox"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+          "name": "Cars & Vehicles",
+          "slug": "cars-vehicles"
+        },
+        {
+          "uid": "d7cebaeca8604ebab1480e413404b679",
+          "name": "Electronics & Gadgets",
+          "slug": "electronics-gadgets"
+        }
+      ]
+    }
+  ]
+}

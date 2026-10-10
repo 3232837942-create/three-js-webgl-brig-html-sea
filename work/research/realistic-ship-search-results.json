@@ -1,0 +1,2431 @@
+[
+  {
+    "uid": "751174e48b764e829410cd323144833c",
+    "slug": "swedish-royal-schooner-yacht-amphion",
+    "name": "Swedish royal schooner yacht Amphion",
+    "staffpickedAt": null,
+    "viewCount": 8313,
+    "likeCount": 174,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/swedish-royal-schooner-yacht-amphion-751174e48b764e829410cd323144833c",
+    "embedUrl": "https://sketchfab.com/models/751174e48b764e829410cd323144833c/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 1520,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2020-06-11T08:00:39.927514",
+    "thumbnails": {
+      "uid": "f60a7661ffef4821b91defc1472bb66e",
+      "images": [
+        {
+          "uid": "8a452d10521641928d7dd8f98bc46da9",
+          "size": 129932,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/0733094271bb4652ab85009df7973127.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "b4dab49fbf4c4e79bf55a3b3a231d29e",
+          "size": 42530,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/d028cb25b6f243168a233a4b487e2126.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "26687c2c2d004987890c7626ddef2cb4",
+          "size": 24014,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/d4df16fbde034f4fbb52f2bfb6689150.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "e99602220d954a03b72089880fd777ff",
+          "size": 4163,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/3de6ab1d5ab94caeb4be0564479be04b.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "9c8e2cfab50d4a66854bcff40d953670",
+          "size": 687,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/751174e48b764e829410cd323144833c/thumbnails/f60a7661ffef4821b91defc1472bb66e/6e5a1aea096a419da107e1d977f7c211.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "11896623337f4b9babf54f25938ce164",
+      "displayName": "Museovirasto Museiverket Finnish Heritage Agency",
+      "account": "basic",
+      "username": "Museovirasto",
+      "avatars": {
+        "uid": "190fff2c1ef94e869f5fdd0bf7a9a9b4",
+        "images": [
+          {
+            "size": 678,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c8650e9a5d2342d7b9550a43e905c24b.jpeg",
+            "height": 32
+          },
+          {
+            "size": 844,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c508256ac465494ea57907cd8983f285.jpeg",
+            "height": 48
+          },
+          {
+            "size": 1779,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/2993c4f2c3024e00a0cc32cfc484f666.jpeg",
+            "height": 90
+          },
+          {
+            "size": 1855,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/cb7e9a7e8c87450f9773e281053b73eb.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/Museovirasto"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "3badf36bd9f549bdba295334d75e04d3",
+        "name": "Weapons & Military",
+        "slug": "weapons-military"
+      }
+    ]
+  },
+  {
+    "uid": "10cdffb60f6647e785b7e9ee98f8a7a5",
+    "slug": "swedish-mortar-boat",
+    "name": "Swedish mortar boat",
+    "staffpickedAt": null,
+    "viewCount": 2970,
+    "likeCount": 93,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/swedish-mortar-boat-10cdffb60f6647e785b7e9ee98f8a7a5",
+    "embedUrl": "https://sketchfab.com/models/10cdffb60f6647e785b7e9ee98f8a7a5/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 607,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2020-06-11T11:03:53.317754",
+    "thumbnails": {
+      "uid": "f2c4ac59f34d4dad8672d838a9d1fa85",
+      "images": [
+        {
+          "uid": "f6a4e58f4b7a4b808d496736c394d053",
+          "size": 81294,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/10cdffb60f6647e785b7e9ee98f8a7a5/thumbnails/f2c4ac59f34d4dad8672d838a9d1fa85/b5ed971ac7194fdbb3ffcfd438709a76.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "d35b7b8de54e40d282f4befb5af3676a",
+          "size": 29855,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/10cdffb60f6647e785b7e9ee98f8a7a5/thumbnails/f2c4ac59f34d4dad8672d838a9d1fa85/f1802442f9694158af1992d644d89518.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "665bf3ba3b9e4d90a11c26400534e7ec",
+          "size": 17526,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/10cdffb60f6647e785b7e9ee98f8a7a5/thumbnails/f2c4ac59f34d4dad8672d838a9d1fa85/f94d2b3fa1c643cda916de66cdd55fe9.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "f0e1d852d0eb4c04b5338d21f6c0822d",
+          "size": 3544,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/10cdffb60f6647e785b7e9ee98f8a7a5/thumbnails/f2c4ac59f34d4dad8672d838a9d1fa85/9bfb45aab7134656a324f2e3fe881582.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "ebd50cc7382044e2a27afd4ca1eb6915",
+          "size": 645,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/10cdffb60f6647e785b7e9ee98f8a7a5/thumbnails/f2c4ac59f34d4dad8672d838a9d1fa85/701f7bd0505f426bbd7f50eb8d42dbe0.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "11896623337f4b9babf54f25938ce164",
+      "displayName": "Museovirasto Museiverket Finnish Heritage Agency",
+      "account": "basic",
+      "username": "Museovirasto",
+      "avatars": {
+        "uid": "190fff2c1ef94e869f5fdd0bf7a9a9b4",
+        "images": [
+          {
+            "size": 678,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c8650e9a5d2342d7b9550a43e905c24b.jpeg",
+            "height": 32
+          },
+          {
+            "size": 844,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c508256ac465494ea57907cd8983f285.jpeg",
+            "height": 48
+          },
+          {
+            "size": 1779,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/2993c4f2c3024e00a0cc32cfc484f666.jpeg",
+            "height": 90
+          },
+          {
+            "size": 1855,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/cb7e9a7e8c87450f9773e281053b73eb.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/Museovirasto"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "3badf36bd9f549bdba295334d75e04d3",
+        "name": "Weapons & Military",
+        "slug": "weapons-military"
+      }
+    ]
+  },
+  {
+    "uid": "179c7f469e63484a8fd7a152466394ec",
+    "slug": "schooner-kyle-spangler",
+    "name": "Schooner Kyle Spangler",
+    "staffpickedAt": null,
+    "viewCount": 601,
+    "likeCount": 6,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/schooner-kyle-spangler-179c7f469e63484a8fd7a152466394ec",
+    "embedUrl": "https://sketchfab.com/models/179c7f469e63484a8fd7a152466394ec/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 728,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2020-11-23T21:32:20.675060",
+    "thumbnails": {
+      "uid": "6769913273d948388fa300cc63dec615",
+      "images": [
+        {
+          "uid": "c1fda4bf3f92467fbd30d226819148c1",
+          "size": 205195,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/179c7f469e63484a8fd7a152466394ec/thumbnails/6769913273d948388fa300cc63dec615/1aebae098ab647c2982ee245a91d3c53.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "74a01966e135471bbddd5090fac232d4",
+          "size": 55898,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/179c7f469e63484a8fd7a152466394ec/thumbnails/6769913273d948388fa300cc63dec615/93beb4c266964bedb66600f351ed9db0.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "53b7899959a64a5cb1bdf44fb2aeda04",
+          "size": 29649,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/179c7f469e63484a8fd7a152466394ec/thumbnails/6769913273d948388fa300cc63dec615/c835266d3cea40dcaf31c36d7c7d493b.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "276a959d1d4c458eb57ae1b9cbae8dab",
+          "size": 5221,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/179c7f469e63484a8fd7a152466394ec/thumbnails/6769913273d948388fa300cc63dec615/fbe996a84ef24163ae3770941b0c26f3.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "740df9c024c64de6a7854c0ff929fb36",
+          "size": 876,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/179c7f469e63484a8fd7a152466394ec/thumbnails/6769913273d948388fa300cc63dec615/8475097ea7514164a3ad37a76c6607e7.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "b3c5a720456042f39f5e9b7de96deb67",
+      "displayName": "3DShipwrecks",
+      "account": "pro",
+      "username": "kenmerryman",
+      "avatars": {
+        "uid": "c74c8dde790e47ee8f076cc7068d09b7",
+        "images": [
+          {
+            "size": 879,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/c74c8dde790e47ee8f076cc7068d09b7/2a7396affa02416eb09f1348253a02ef.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1379,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/c74c8dde790e47ee8f076cc7068d09b7/c2b0cffb3f544d2d87cdd9428d93ef8b.jpeg",
+            "height": 48
+          },
+          {
+            "size": 2876,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/c74c8dde790e47ee8f076cc7068d09b7/d830741dacfc4162bdc8fbc492b33d8e.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3196,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/c74c8dde790e47ee8f076cc7068d09b7/1fc40618f8f14b1c8ced9f7c21727e9e.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/kenmerryman"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      },
+      {
+        "uid": "17d20ca7b35243d4a45171838b50704c",
+        "name": "Science & Technology",
+        "slug": "science-technology"
+      }
+    ]
+  },
+  {
+    "uid": "7f9e3b79d2d747c6ada1f0e47a420788",
+    "slug": "japanese-battleship-hyuga",
+    "name": "Japanese Battleship Hyūga",
+    "staffpickedAt": null,
+    "viewCount": 408,
+    "likeCount": 6,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/japanese-battleship-hyuga-7f9e3b79d2d747c6ada1f0e47a420788",
+    "embedUrl": "https://sketchfab.com/models/7f9e3b79d2d747c6ada1f0e47a420788/embed",
+    "publicCommentCount": 1,
+    "downloadType": "free",
+    "downloadCount": 71,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2025-01-03T12:28:00.068472",
+    "thumbnails": {
+      "uid": "e22e2663981442929c3e5e050f136b3d",
+      "images": [
+        {
+          "uid": "dc45d56124dd4e9a9a255eaa672205ad",
+          "size": 45995,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/7f9e3b79d2d747c6ada1f0e47a420788/thumbnails/e22e2663981442929c3e5e050f136b3d/2849100f3f4f4c90abca6efcad333ee9.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "df429695d38342139dda262320029aaa",
+          "size": 13795,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/7f9e3b79d2d747c6ada1f0e47a420788/thumbnails/e22e2663981442929c3e5e050f136b3d/5a522b33e4ce4d45ab9cd1ab16b2261c.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "56310c0425cd41e6805b309c977f1276",
+          "size": 7577,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/7f9e3b79d2d747c6ada1f0e47a420788/thumbnails/e22e2663981442929c3e5e050f136b3d/d3ab54d260024e03bdf3f940d9f60af8.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "ceb1833357b94b5eb9c61ba003caec8b",
+          "size": 1637,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/7f9e3b79d2d747c6ada1f0e47a420788/thumbnails/e22e2663981442929c3e5e050f136b3d/cf2ba82015d44125bb958a490ea4af21.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "bfed0fbb19314e6888acebd3b90c62ec",
+          "size": 753,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/7f9e3b79d2d747c6ada1f0e47a420788/thumbnails/e22e2663981442929c3e5e050f136b3d/dfa4a92e988449c2b6e6187d6d8899ee.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "a1cfa94f00744d7a9ee5d17d33c0ad7e",
+      "displayName": "kriss50",
+      "account": "basic",
+      "username": "kriss50",
+      "avatars": {
+        "uid": "561ded62baa04808b87db9fcc838c3b1",
+        "images": [
+          {
+            "size": 1068,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/561ded62baa04808b87db9fcc838c3b1/4a4c6b6950ef4e23b14dbdf85c2b4745.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1499,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/561ded62baa04808b87db9fcc838c3b1/5552a4e9328147a4b2ea913b65c33cca.jpeg",
+            "height": 48
+          },
+          {
+            "size": 3274,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/561ded62baa04808b87db9fcc838c3b1/cfa8d4e568f74ecc9977d216045c4ab9.jpeg",
+            "height": 90
+          },
+          {
+            "size": 4026,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/561ded62baa04808b87db9fcc838c3b1/2edbb69d63dd45f7b8a6c45dc2a33497.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/kriss50"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "3badf36bd9f549bdba295334d75e04d3",
+        "name": "Weapons & Military",
+        "slug": "weapons-military"
+      }
+    ]
+  },
+  {
+    "uid": "e9636c857e9e4f8690574ac3a74f8cba",
+    "slug": "dutch-ship-medium",
+    "name": "Dutch Ship Medium",
+    "staffpickedAt": null,
+    "viewCount": 7045,
+    "likeCount": 160,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/dutch-ship-medium-e9636c857e9e4f8690574ac3a74f8cba",
+    "embedUrl": "https://sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/embed",
+    "publicCommentCount": 2,
+    "downloadType": "free",
+    "downloadCount": 1737,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2026-06-12T20:55:52.567139",
+    "thumbnails": {
+      "uid": "c5bdaf0eff764b48b612bed0984536b4",
+      "images": [
+        {
+          "uid": "f6295a1957b1473390801e1f18c4c28c",
+          "size": 581336,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/03adb48db63c46efad27aeb80ceb2ae9.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "6a45a2e3a7d04c99ac7b011163f8ca23",
+          "size": 99172,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/0b386004020946dfa0d2303a6ddea18b.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "327990d5f037446aaa86b02c1283b16c",
+          "size": 49673,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/1c8e9cc16d0d4dc69e3fdd65fbd36f21.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "22f322e834ce4dc4a49576af69e9b2aa",
+          "size": 8173,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/997269ec87304b4fa9b7c4f934d34a75.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "96a3664fc2b341ac956b8ec9d744b70b",
+          "size": 1355,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/e9636c857e9e4f8690574ac3a74f8cba/thumbnails/c5bdaf0eff764b48b612bed0984536b4/e59550f77679491f987dc15bdcbd77d1.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "e06051ab6545413ea5513fc2b9723add",
+      "displayName": "Console Art Cybernetic",
+      "account": "basic",
+      "username": "cacybernetic",
+      "avatars": {
+        "uid": "92083ab766fd4503a0e3cfc8f2e1bc7a",
+        "images": [
+          {
+            "size": 1105,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/603900b752284bb8ba6d4d671fe3c7eb.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1490,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/36a48b1093a84306869ff1cfe11ef547.jpeg",
+            "height": 48
+          },
+          {
+            "size": 3019,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/87da5258a10a4776b0d984e7b16eff47.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3442,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/92083ab766fd4503a0e3cfc8f2e1bc7a/c69dcc6e27b94e9cbfa358a000123e33.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/cacybernetic"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      },
+      {
+        "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+        "name": "Places & Travel",
+        "slug": "places-travel"
+      }
+    ]
+  },
+  {
+    "uid": "101e1b57928a4e22b1b943f89ad57c48",
+    "slug": "nautical-twisted-ship-rope",
+    "name": "Nautical Twisted Ship Rope",
+    "staffpickedAt": null,
+    "viewCount": 364,
+    "likeCount": 5,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/nautical-twisted-ship-rope-101e1b57928a4e22b1b943f89ad57c48",
+    "embedUrl": "https://sketchfab.com/models/101e1b57928a4e22b1b943f89ad57c48/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 61,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2024-02-06T00:42:59.979787",
+    "thumbnails": {
+      "uid": "e558880a88fc45caa55071c58008155a",
+      "images": [
+        {
+          "uid": "c9d055b079574c67bd53d48d8e85920c",
+          "size": 43723,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/101e1b57928a4e22b1b943f89ad57c48/thumbnails/e558880a88fc45caa55071c58008155a/000ccef9030c488fa07d2cad3edf929b.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "712a51116f194d0da1c12bf6cd967c60",
+          "size": 14145,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/101e1b57928a4e22b1b943f89ad57c48/thumbnails/e558880a88fc45caa55071c58008155a/927f82457c004dc1a5f07842989126e2.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "32b82df60912489e92f66eeaf3d2d8ed",
+          "size": 8008,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/101e1b57928a4e22b1b943f89ad57c48/thumbnails/e558880a88fc45caa55071c58008155a/861d3655a77641a18bc0ae201197271e.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "bd8682a94a184a62aec70cdd1ab82dc1",
+          "size": 1998,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/101e1b57928a4e22b1b943f89ad57c48/thumbnails/e558880a88fc45caa55071c58008155a/5be005039dce492fb1dc872cdbf3a8cf.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "6e983f84d581474aa1686a3639971ce7",
+          "size": 794,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/101e1b57928a4e22b1b943f89ad57c48/thumbnails/e558880a88fc45caa55071c58008155a/34a8cf3f53944ae0938c0337daaf286f.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "3c41d9fc06c8495cb83bb89391863fe2",
+      "displayName": "Angy315",
+      "account": "basic",
+      "username": "Nicolino315",
+      "avatars": {
+        "uid": "387099703c4f4e7fbad55d9fd6247368",
+        "images": [
+          {
+            "size": 1023,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/387099703c4f4e7fbad55d9fd6247368/2fd23bb939304352b47cbd48797bceb8.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1419,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/387099703c4f4e7fbad55d9fd6247368/52ee25d89e414bc3b63fd4c7747f0a36.jpeg",
+            "height": 48
+          },
+          {
+            "size": 2887,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/387099703c4f4e7fbad55d9fd6247368/181cf3eb7c4742d19986d0986ad294d2.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3299,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/387099703c4f4e7fbad55d9fd6247368/c6c0490643ef43baaf2be3f1f77a614a.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/Nicolino315"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "f825c721edb541dbbc8cd210123616c7",
+        "name": "Architecture",
+        "slug": "architecture"
+      }
+    ]
+  },
+  {
+    "uid": "b097e67c207540628828ebb55afce914",
+    "slug": "ga-free-251-weathered-18th-century-galleon",
+    "name": "GA Free_251_Weathered 18th Century Galleon",
+    "staffpickedAt": null,
+    "viewCount": 3060,
+    "likeCount": 29,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/ga-free-251-weathered-18th-century-galleon-b097e67c207540628828ebb55afce914",
+    "embedUrl": "https://sketchfab.com/models/b097e67c207540628828ebb55afce914/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 284,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2025-11-27T10:35:52.115298",
+    "thumbnails": {
+      "uid": "3cbd6a3c1fde414d9b84dd1bcb0c25f2",
+      "images": [
+        {
+          "uid": "52296a8b211b433d9d3780d6f906b1d5",
+          "size": 488420,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/a75c30611f804563962d10ed66020b66.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "20b6a28d47cf4b6698e6c5e551580b89",
+          "size": 60831,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/b977453c229d46f69bc20238a274ab2d.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "b2d97eaecc3f4e77aace5ae6167c5481",
+          "size": 27070,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/ddc633ec6d2c46f8b268b55113e6a2f6.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "a772a8e4cc01477cba758fc33c943591",
+          "size": 4097,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/29e2be30f8da401e93e13fa95edfd621.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "ffaecfebf0e140a38bb36118f5d31f57",
+          "size": 1059,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/9da6770a73f247b081cfd1f993d2d72d.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+      "displayName": "Galaxy Abundant",
+      "account": "pro",
+      "username": "galaxyabundant",
+      "avatars": {
+        "uid": "1674ef3126904c269a80cd035dda447b",
+        "images": [
+          {
+            "size": 1217,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/c066045a2d7041ac92a7028b2b6edc44.png",
+            "height": 32
+          },
+          {
+            "size": 2104,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/d48d3a609feb46a69953f51acef1c982.png",
+            "height": 48
+          },
+          {
+            "size": 4341,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/9def13479b8444ef8fa513f4e2c601ce.png",
+            "height": 90
+          },
+          {
+            "size": 4919,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/b6df72fe39204bb8b47a838c7d930611.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/galaxyabundant"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": true,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      }
+    ]
+  },
+  {
+    "uid": "383789880b6640ffb307a0e81b9d7798",
+    "slug": "boat",
+    "name": "Boat",
+    "staffpickedAt": null,
+    "viewCount": 442,
+    "likeCount": 8,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/boat-383789880b6640ffb307a0e81b9d7798",
+    "embedUrl": "https://sketchfab.com/models/383789880b6640ffb307a0e81b9d7798/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 117,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2024-12-13T11:50:19.351154",
+    "thumbnails": {
+      "uid": "4c4d8ef482f84632b09a3941cb2b4dd1",
+      "images": [
+        {
+          "uid": "71cb78578dfc46d4873b84fce0633048",
+          "size": 189558,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/383789880b6640ffb307a0e81b9d7798/thumbnails/4c4d8ef482f84632b09a3941cb2b4dd1/06c59939eff54b2dbc9444d93f82b0c2.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "662b721688fe44ea9d3e377d3d8685eb",
+          "size": 45218,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/383789880b6640ffb307a0e81b9d7798/thumbnails/4c4d8ef482f84632b09a3941cb2b4dd1/5f7acc9a06f04af2861364a0bc3d0eb7.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "d6d1d683c89a4a9e9f6402505443621d",
+          "size": 22931,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/383789880b6640ffb307a0e81b9d7798/thumbnails/4c4d8ef482f84632b09a3941cb2b4dd1/ca3fc319427f4831af7457bd249f1e56.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "84ef621d6daa4a668a7e03573ed1a118",
+          "size": 3545,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/383789880b6640ffb307a0e81b9d7798/thumbnails/4c4d8ef482f84632b09a3941cb2b4dd1/5ec388c0ffeb40719223d80a07670ad5.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "0248e9ed5d034f7ebba1933c83ac8661",
+          "size": 946,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/383789880b6640ffb307a0e81b9d7798/thumbnails/4c4d8ef482f84632b09a3941cb2b4dd1/99985586ba1f41b593e87979b76a0d66.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "1178deb4a95b4853aac8b61a32959e68",
+      "displayName": "Omar Faruk Jabed",
+      "account": "basic",
+      "username": "OmarFarukJabed",
+      "avatars": {
+        "uid": "fdf78ebd3f3e4c4e8678d559a36fae08",
+        "images": [
+          {
+            "size": 1057,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/fdf78ebd3f3e4c4e8678d559a36fae08/462b37110a5a4b70a87f8067884b5092.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1495,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/fdf78ebd3f3e4c4e8678d559a36fae08/d5e36fc1bddc426382a6e24d9b6dd741.jpeg",
+            "height": 48
+          },
+          {
+            "size": 3111,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/fdf78ebd3f3e4c4e8678d559a36fae08/2de79bc4ddfe4dd08dc2c727fc72b42b.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3561,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/fdf78ebd3f3e4c4e8678d559a36fae08/1a4bcc7b0bb541dfb72836c174ee2b5c.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/OmarFarukJabed"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      }
+    ]
+  },
+  {
+    "uid": "d35e8d1b434747efa10f7c48cdb2b8de",
+    "slug": "nao-victoria-galleon-ship",
+    "name": "Nao Victoria Galleon Ship –",
+    "staffpickedAt": null,
+    "viewCount": 355,
+    "likeCount": 2,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/nao-victoria-galleon-ship-d35e8d1b434747efa10f7c48cdb2b8de",
+    "embedUrl": "https://sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 30,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2026-03-22T21:06:02.846446",
+    "thumbnails": {
+      "uid": "8d34514817a947a3a4c888ce71bed26d",
+      "images": [
+        {
+          "uid": "8f9a40358306483ab9e9aa129cfa621d",
+          "size": 85135,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/21762b6a915e4303b329cc6819426e4a.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "39474d46281c4e88bfb8ba895eecf411",
+          "size": 27829,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/230deb4e91dd40bf99fb2e071adbaf3c.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "908a107dd9cb47849912c1bb695aa0e4",
+          "size": 16151,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/e86c75be03aa409183b50d2e24698288.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "47a83df857f7459b936f5cc1f9f0db43",
+          "size": 3261,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/af823ffa90be42bf99ea442e3f069f01.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "76c112f1e3d14cad99a1869d494edb9c",
+          "size": 949,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/d35e8d1b434747efa10f7c48cdb2b8de/thumbnails/8d34514817a947a3a4c888ce71bed26d/3a2d5f8aa6eb4ea4b71ba76ad234d8e8.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "b0e15aa850ea4858b5e0705ae6f7ce9f",
+      "displayName": "soysascha",
+      "account": "basic",
+      "username": "soysascha",
+      "avatars": {
+        "uid": "a25baa2540a14d8c829ebf6a77cfafb8",
+        "images": [
+          {
+            "size": 902,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/fb43e85dc312425e9ac7e343d10f9ea0.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1217,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/c84c20ef3a8942bab76de0d8670f7485.jpeg",
+            "height": 48
+          },
+          {
+            "size": 2458,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/a6ad2235162e46bab015d54b4f098c33.jpeg",
+            "height": 90
+          },
+          {
+            "size": 2711,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/a25baa2540a14d8c829ebf6a77cfafb8/a624fd21d31744e3a29292f78e3978a3.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/soysascha"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "f825c721edb541dbbc8cd210123616c7",
+        "name": "Architecture",
+        "slug": "architecture"
+      }
+    ]
+  },
+  {
+    "uid": "a38a0e6035014e56863abdd4d65a82be",
+    "slug": "swedish-archipelago-frigate-udema-ingeborg",
+    "name": "Swedish archipelago frigate Udema Ingeborg",
+    "staffpickedAt": null,
+    "viewCount": 3855,
+    "likeCount": 98,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/swedish-archipelago-frigate-udema-ingeborg-a38a0e6035014e56863abdd4d65a82be",
+    "embedUrl": "https://sketchfab.com/models/a38a0e6035014e56863abdd4d65a82be/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 723,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2020-12-18T10:00:48.419865",
+    "thumbnails": {
+      "uid": "098cf6a821214912a33b4f94f5f5c437",
+      "images": [
+        {
+          "uid": "02541a579096438b87cacb364512ead9",
+          "size": 43385,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/a38a0e6035014e56863abdd4d65a82be/thumbnails/098cf6a821214912a33b4f94f5f5c437/11de27bc0c5d456ab839ff3d57452d16.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "485ac5d0d2e64f678d0ced116162646b",
+          "size": 13271,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/a38a0e6035014e56863abdd4d65a82be/thumbnails/098cf6a821214912a33b4f94f5f5c437/bfc63dc5056f4304b9aacd66443cc245.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "e274a52b24ec4dc29343bbd2b0dec018",
+          "size": 7317,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/a38a0e6035014e56863abdd4d65a82be/thumbnails/098cf6a821214912a33b4f94f5f5c437/67b0605797a44cbb9d977fc239854ce1.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "bc56fc677a254f1c9f2cb195250206b4",
+          "size": 1431,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/a38a0e6035014e56863abdd4d65a82be/thumbnails/098cf6a821214912a33b4f94f5f5c437/7206b73f84204da5b850f7255ce6bb7b.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "cec15a4d291e413ca8e3702cf492f9e5",
+          "size": 458,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/a38a0e6035014e56863abdd4d65a82be/thumbnails/098cf6a821214912a33b4f94f5f5c437/ee776a26e3d84006822be88602b67dc5.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "11896623337f4b9babf54f25938ce164",
+      "displayName": "Museovirasto Museiverket Finnish Heritage Agency",
+      "account": "basic",
+      "username": "Museovirasto",
+      "avatars": {
+        "uid": "190fff2c1ef94e869f5fdd0bf7a9a9b4",
+        "images": [
+          {
+            "size": 678,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c8650e9a5d2342d7b9550a43e905c24b.jpeg",
+            "height": 32
+          },
+          {
+            "size": 844,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/c508256ac465494ea57907cd8983f285.jpeg",
+            "height": 48
+          },
+          {
+            "size": 1779,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/2993c4f2c3024e00a0cc32cfc484f666.jpeg",
+            "height": 90
+          },
+          {
+            "size": 1855,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/190fff2c1ef94e869f5fdd0bf7a9a9b4/cb7e9a7e8c87450f9773e281053b73eb.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/Museovirasto"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "3badf36bd9f549bdba295334d75e04d3",
+        "name": "Weapons & Military",
+        "slug": "weapons-military"
+      }
+    ]
+  },
+  {
+    "uid": "3116c6dc6ba54f8da5fccb9d72e011bf",
+    "slug": "3d-ship-model-highly-detailed-and-game-ready",
+    "name": "3D Ship Model – Highly Detailed and Game-Ready",
+    "staffpickedAt": null,
+    "viewCount": 489,
+    "likeCount": 1,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/3d-ship-model-highly-detailed-and-game-ready-3116c6dc6ba54f8da5fccb9d72e011bf",
+    "embedUrl": "https://sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 28,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2025-09-07T17:36:58.119979",
+    "thumbnails": {
+      "uid": "4d584c59d8804a2fb35f019666ae7a5f",
+      "images": [
+        {
+          "uid": "3178b897d0984bd6b1508c87bd1d5edc",
+          "size": 46391,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/3eef312362af4ade96a9fc06eaa786cd.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "0aafcc294e7a4e13bf2da15140d7dd47",
+          "size": 15400,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/166ba6ebb182489899626781fc77f851.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "da34a16544a14f9580ba005546378a54",
+          "size": 8868,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/cb235e4670b4428489c13f9672f48448.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "28c281c7a2bd46b1829c2883d05dee9a",
+          "size": 2112,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/8b5f1e723ff44b4dbfcb1211064cc14a.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "137839ac498c4823b1d6b5f5750a27d8",
+          "size": 826,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/3116c6dc6ba54f8da5fccb9d72e011bf/thumbnails/4d584c59d8804a2fb35f019666ae7a5f/597b460f11124f2d85750ca28a4e0652.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "922f4e9ec91249c19ca4867abd47b3cf",
+      "displayName": "1_floki_1",
+      "account": "basic",
+      "username": "1_floki_1",
+      "avatars": {
+        "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+        "images": [
+          {
+            "size": 680,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1253,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg",
+            "height": 48
+          },
+          {
+            "size": 2797,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3215,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/1_floki_1"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "f825c721edb541dbbc8cd210123616c7",
+        "name": "Architecture",
+        "slug": "architecture"
+      },
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      }
+    ]
+  },
+  {
+    "uid": "ee2536a947c24610a21ddf7fd66be598",
+    "slug": "general-ship-repair",
+    "name": "General Ship Repair",
+    "staffpickedAt": null,
+    "viewCount": 13382,
+    "likeCount": 361,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/general-ship-repair-ee2536a947c24610a21ddf7fd66be598",
+    "embedUrl": "https://sketchfab.com/models/ee2536a947c24610a21ddf7fd66be598/embed",
+    "publicCommentCount": 5,
+    "downloadType": "free",
+    "downloadCount": 3379,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2022-05-10T15:24:09.827642",
+    "thumbnails": {
+      "uid": "99bd8a5d07964c759c993544f8d8fdb6",
+      "images": [
+        {
+          "uid": "8fe2d4148101445e804d369aade16dd0",
+          "size": 371459,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/ee2536a947c24610a21ddf7fd66be598/thumbnails/99bd8a5d07964c759c993544f8d8fdb6/56f7a21241c343a89c11aa48618d93c3.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "335dcc28d8fd4b069920e0916559dcaf",
+          "size": 107256,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/ee2536a947c24610a21ddf7fd66be598/thumbnails/99bd8a5d07964c759c993544f8d8fdb6/c7022380d8e24a238e562a09dfb59b1d.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "bc91be9abae046079b90b7c65227c8a0",
+          "size": 59034,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/ee2536a947c24610a21ddf7fd66be598/thumbnails/99bd8a5d07964c759c993544f8d8fdb6/c6cb12961e8b4fe38e12f51eed310102.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "bec679c6b1754b6998fa3a5364512bf1",
+          "size": 10280,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/ee2536a947c24610a21ddf7fd66be598/thumbnails/99bd8a5d07964c759c993544f8d8fdb6/ee8d08d8acf042b981cc50d2ece58321.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "ed9a3ee721d347ee8f7b80522271f659",
+          "size": 1679,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/ee2536a947c24610a21ddf7fd66be598/thumbnails/99bd8a5d07964c759c993544f8d8fdb6/c092c9e4e15f4af4abe6d76dc66d8e23.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "6076d739e3dd4538a156230774d548d5",
+      "displayName": "Katie Wolfe",
+      "account": "pro",
+      "username": "katiewolfe",
+      "avatars": {
+        "uid": "6a3a0b6bad0f45998b5341155b5c8ba9",
+        "images": [
+          {
+            "size": 617,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/6a3a0b6bad0f45998b5341155b5c8ba9/2d5fb716fb374e6aad04188602ce767f.jpeg",
+            "height": 32
+          },
+          {
+            "size": 891,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/6a3a0b6bad0f45998b5341155b5c8ba9/529705a9a8464519b243b47895995e1c.jpeg",
+            "height": 48
+          },
+          {
+            "size": 1570,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/6a3a0b6bad0f45998b5341155b5c8ba9/7f9441e299444f3c94fb235f08bbfcaf.jpeg",
+            "height": 90
+          },
+          {
+            "size": 1773,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/6a3a0b6bad0f45998b5341155b5c8ba9/f668a3efa3b14b3f8824d50383496f33.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/katiewolfe"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "f825c721edb541dbbc8cd210123616c7",
+        "name": "Architecture",
+        "slug": "architecture"
+      },
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      }
+    ]
+  },
+  {
+    "uid": "9f0cbddea7af45a09d41f4d718733150",
+    "slug": "schooner",
+    "name": "Schooner",
+    "staffpickedAt": null,
+    "viewCount": 1166,
+    "likeCount": 18,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/schooner-9f0cbddea7af45a09d41f4d718733150",
+    "embedUrl": "https://sketchfab.com/models/9f0cbddea7af45a09d41f4d718733150/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 160,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2024-09-10T12:46:42.886525",
+    "thumbnails": {
+      "uid": "5c191055bfe54c289724d3fab339ad99",
+      "images": [
+        {
+          "uid": "8bbf60527fcf4effbbf7c3dd126a1654",
+          "size": 137523,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/9f0cbddea7af45a09d41f4d718733150/thumbnails/5c191055bfe54c289724d3fab339ad99/b42fd795595a401fbeb00923e7c5e83a.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "07997abbca6b426385239e0294a3a8c9",
+          "size": 45203,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/9f0cbddea7af45a09d41f4d718733150/thumbnails/5c191055bfe54c289724d3fab339ad99/bd247ccb4b2344f3afba863a36e758dd.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "b506b286a47649678a750943f8d8e274",
+          "size": 25877,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/9f0cbddea7af45a09d41f4d718733150/thumbnails/5c191055bfe54c289724d3fab339ad99/fa7d6fdb47b4427abf476d686171430e.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "d1ce003294a441ffb6d176a0aa007a05",
+          "size": 5237,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/9f0cbddea7af45a09d41f4d718733150/thumbnails/5c191055bfe54c289724d3fab339ad99/df868790a8304a45894e93ce0202613f.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "98d436dafbba44919f29383716e8b036",
+          "size": 1134,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/9f0cbddea7af45a09d41f4d718733150/thumbnails/5c191055bfe54c289724d3fab339ad99/23856764a416449c8813d25a3581d273.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "3709544d29e542d2989244e0670b7a52",
+      "displayName": "gogiart",
+      "account": "basic",
+      "username": "agt14032013",
+      "avatars": {
+        "uid": "be989a2104b047cc882c39685069745e",
+        "images": [
+          {
+            "size": 875,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/d874b21593b8463c8dd88e8539ffc5d6.png",
+            "height": 32
+          },
+          {
+            "size": 1420,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/5c405cf3bf684f37bf447b11dd52874e.png",
+            "height": 48
+          },
+          {
+            "size": 3355,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/0a0328115a0441068e3ea5455296915a.png",
+            "height": 90
+          },
+          {
+            "size": 3884,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/09692fe79b4641d5a31627f462575c74.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/agt14032013"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      }
+    ]
+  },
+  {
+    "uid": "4a5a10c4049e4ed98ce5bcbc831a0ddc",
+    "slug": "merchant-schooner",
+    "name": "Merchant Schooner",
+    "staffpickedAt": null,
+    "viewCount": 1155,
+    "likeCount": 25,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/merchant-schooner-4a5a10c4049e4ed98ce5bcbc831a0ddc",
+    "embedUrl": "https://sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/embed",
+    "publicCommentCount": 2,
+    "downloadType": "free",
+    "downloadCount": 262,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2024-09-13T07:29:57.803822",
+    "thumbnails": {
+      "uid": "7ced902fb0d04b149392e7ab56ffdd0b",
+      "images": [
+        {
+          "uid": "f38b63e5d3264f708aac0a3094feedbf",
+          "size": 151845,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/77519404fa8540f9a41731b7cd23d570.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "90650377c1dc43d4a021d635b35efa0a",
+          "size": 52216,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/3c225ff1149147c191297ad726adc29f.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "20766ff3c99548cab655f7fd0e9c23f3",
+          "size": 30447,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/c0195fe467ed4670983b63f6222441a5.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "aec3709f170e4b469ae352fb61beb03e",
+          "size": 6067,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/69435167d071419da5c7dcf6edd2ea8c.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "4d569acf0f884ce7bd813ff9d72f079c",
+          "size": 1246,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/4a5a10c4049e4ed98ce5bcbc831a0ddc/thumbnails/7ced902fb0d04b149392e7ab56ffdd0b/63da85207ad44c30921f0eca9ee9fee3.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "3709544d29e542d2989244e0670b7a52",
+      "displayName": "gogiart",
+      "account": "basic",
+      "username": "agt14032013",
+      "avatars": {
+        "uid": "be989a2104b047cc882c39685069745e",
+        "images": [
+          {
+            "size": 875,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/d874b21593b8463c8dd88e8539ffc5d6.png",
+            "height": 32
+          },
+          {
+            "size": 1420,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/5c405cf3bf684f37bf447b11dd52874e.png",
+            "height": 48
+          },
+          {
+            "size": 3355,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/0a0328115a0441068e3ea5455296915a.png",
+            "height": 90
+          },
+          {
+            "size": 3884,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/09692fe79b4641d5a31627f462575c74.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/agt14032013"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      }
+    ]
+  },
+  {
+    "uid": "99276cd07de64d8db894bade93d82322",
+    "slug": "skulls-eye-schooner",
+    "name": "Skull's Eye Schooner",
+    "staffpickedAt": null,
+    "viewCount": 1817,
+    "likeCount": 30,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/skulls-eye-schooner-99276cd07de64d8db894bade93d82322",
+    "embedUrl": "https://sketchfab.com/models/99276cd07de64d8db894bade93d82322/embed",
+    "publicCommentCount": 1,
+    "downloadType": "free",
+    "downloadCount": 835,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2022-12-19T12:13:32.141287",
+    "thumbnails": {
+      "uid": "2a1b83954ab54c499b2d52b96f7f3360",
+      "images": [
+        {
+          "uid": "fba9f682b19b4d4ba7de457696294751",
+          "size": 162960,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/eaaa5f91b4c8414c85dd5a64f1669a6e.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "912788614da2420fbe8ed062575a023c",
+          "size": 60057,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/65c32bbf5c044c789ae89312dea7dca7.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "414b9aa936054a72a3155d9349c4bc74",
+          "size": 36734,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/3c271c9e5af94f53815ad6157f005e1b.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "0678066fbd4d46b180259226c91b9177",
+          "size": 7693,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/5d98c4242ac245bdb4d74bbba35d44b6.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "3fcf28af57c241d791821c480405c631",
+          "size": 1346,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/b815187ddc784977b63624d68fe253ae.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "691b899adfec472f8a257c51d05c2775",
+      "displayName": "reginmoller",
+      "account": "basic",
+      "username": "reginmoller",
+      "avatars": {
+        "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+        "images": [
+          {
+            "size": 680,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1253,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg",
+            "height": 48
+          },
+          {
+            "size": 2797,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3215,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/reginmoller"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      },
+      {
+        "uid": "3badf36bd9f549bdba295334d75e04d3",
+        "name": "Weapons & Military",
+        "slug": "weapons-military"
+      }
+    ]
+  },
+  {
+    "uid": "38736322fce047d28b32c916662305cf",
+    "slug": "faulkners-ship",
+    "name": "Faulkner's Ship",
+    "staffpickedAt": null,
+    "viewCount": 1206,
+    "likeCount": 41,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/faulkners-ship-38736322fce047d28b32c916662305cf",
+    "embedUrl": "https://sketchfab.com/models/38736322fce047d28b32c916662305cf/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 211,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2021-01-20T21:49:02.801747",
+    "thumbnails": {
+      "uid": "e17ec492c2574ef4b323915d805bcf7d",
+      "images": [
+        {
+          "uid": "4f50886de6ca4c15aba8f39236c4f763",
+          "size": 329310,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/88df07e842644475a56e0f20d4b87508.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "07864828a7f34753b86723bcaab6c92e",
+          "size": 50978,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/8e1ea975b97d4eafa146bbaff33461f6.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "22ab88fac00a4387a2f5396a3d05422f",
+          "size": 29593,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/c8dbcc2bb88e4adbacd0b26c0dc856e8.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "b370877d975642fe9d87021fac21f50a",
+          "size": 6395,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/0590e17190334d82970e19479fa54fe4.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "cf7e7ba54c99433482b168b0140ab60e",
+          "size": 1289,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/9b6745c169f8453ca26fd088ef63d48d.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "ba616c4072cd45c4ba2e47fbfe6e9a8b",
+      "displayName": "Dawnstar-Chronicles",
+      "account": "basic",
+      "username": "Dawnstar-Chronicles",
+      "avatars": {
+        "uid": "0d32dba25aea4e27806903f7c7109d92",
+        "images": [
+          {
+            "size": 2024,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/cc8044c706ad4a448db4ab7a793918d5.png",
+            "height": 32
+          },
+          {
+            "size": 3939,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/6149782d40ac47d7bd4d00e48718364c.png",
+            "height": 48
+          },
+          {
+            "size": 11681,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/e4c5197d16084f0d92323edc66682a6b.png",
+            "height": 90
+          },
+          {
+            "size": 14375,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/5d09ab0745b9479e9ae4f34ba5a639c5.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/Dawnstar-Chronicles"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "e56c5de1e9344241909de76c5886f551",
+        "name": "Art & Abstract",
+        "slug": "art-abstract"
+      },
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      }
+    ]
+  },
+  {
+    "uid": "4be7f7564de947a0ad3fb57a54292c3b",
+    "slug": "merchant-schooner-3",
+    "name": "Merchant Schooner 3",
+    "staffpickedAt": null,
+    "viewCount": 546,
+    "likeCount": 14,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/merchant-schooner-3-4be7f7564de947a0ad3fb57a54292c3b",
+    "embedUrl": "https://sketchfab.com/models/4be7f7564de947a0ad3fb57a54292c3b/embed",
+    "publicCommentCount": 1,
+    "downloadType": "free",
+    "downloadCount": 157,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2025-08-07T05:49:43.222990",
+    "thumbnails": {
+      "uid": "1775f9c26bba465d8717162f1ffa2ed6",
+      "images": [
+        {
+          "uid": "fbde0dd76b8348aeac7734aa1d6d4550",
+          "size": 194418,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/4be7f7564de947a0ad3fb57a54292c3b/thumbnails/1775f9c26bba465d8717162f1ffa2ed6/10bcaef5dd3840bbbf67f82dadc267a1.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "75e276a780a1451294c5cb563462c95c",
+          "size": 58082,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/4be7f7564de947a0ad3fb57a54292c3b/thumbnails/1775f9c26bba465d8717162f1ffa2ed6/2898fe90967a4545815b9fd6518c48ae.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "9e996758c6e542778d97a41a841b8fe2",
+          "size": 32159,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/4be7f7564de947a0ad3fb57a54292c3b/thumbnails/1775f9c26bba465d8717162f1ffa2ed6/b0ea7b7b139d414a986210db21de28ba.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "e73074aff3d3437997a87d7acc803229",
+          "size": 5982,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/4be7f7564de947a0ad3fb57a54292c3b/thumbnails/1775f9c26bba465d8717162f1ffa2ed6/482460b05cf248f991219d42dd913349.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "bb32f5c2b2524486884270ae05db52be",
+          "size": 1263,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/4be7f7564de947a0ad3fb57a54292c3b/thumbnails/1775f9c26bba465d8717162f1ffa2ed6/2c456660599f498d9ec5401f80d18937.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "3709544d29e542d2989244e0670b7a52",
+      "displayName": "gogiart",
+      "account": "basic",
+      "username": "agt14032013",
+      "avatars": {
+        "uid": "be989a2104b047cc882c39685069745e",
+        "images": [
+          {
+            "size": 875,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/d874b21593b8463c8dd88e8539ffc5d6.png",
+            "height": 32
+          },
+          {
+            "size": 1420,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/5c405cf3bf684f37bf447b11dd52874e.png",
+            "height": 48
+          },
+          {
+            "size": 3355,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/0a0328115a0441068e3ea5455296915a.png",
+            "height": 90
+          },
+          {
+            "size": 3884,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/be989a2104b047cc882c39685069745e/09692fe79b4641d5a31627f462575c74.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/agt14032013"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      }
+    ]
+  },
+  {
+    "uid": "5f4cc8520b0941fabe5e57a1acea081f",
+    "slug": "tall-ship-three-masted-schooner-under-sail",
+    "name": "Tall Ship three_masted_schooner_under_sail",
+    "staffpickedAt": null,
+    "viewCount": 320,
+    "likeCount": 4,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/tall-ship-three-masted-schooner-under-sail-5f4cc8520b0941fabe5e57a1acea081f",
+    "embedUrl": "https://sketchfab.com/models/5f4cc8520b0941fabe5e57a1acea081f/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 69,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2024-09-11T13:09:38.124096",
+    "thumbnails": {
+      "uid": "b1ec2880244b464f9d236e9ed19d1900",
+      "images": [
+        {
+          "uid": "5f4a28ed8e0d40b499e3b34488778711",
+          "size": 101385,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/5f4cc8520b0941fabe5e57a1acea081f/thumbnails/b1ec2880244b464f9d236e9ed19d1900/0eb0d56c528f49cba838e64d752cc574.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "e5c0e32d8a7f428081230b683ae9051a",
+          "size": 38532,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/5f4cc8520b0941fabe5e57a1acea081f/thumbnails/b1ec2880244b464f9d236e9ed19d1900/41ec544983b642d2956e3b0e82ff370f.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "253df10e047d498cadd6fb4f4b6a4cdd",
+          "size": 23099,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/5f4cc8520b0941fabe5e57a1acea081f/thumbnails/b1ec2880244b464f9d236e9ed19d1900/7dd664c161e34cb38b5b8517c2a90682.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "880cf3707b6e426baa0823b701149734",
+          "size": 5607,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/5f4cc8520b0941fabe5e57a1acea081f/thumbnails/b1ec2880244b464f9d236e9ed19d1900/b19bfbe8d3af4ed5978305b03ab6f2a7.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "a4b9e692ebd94289944cd096305bdd86",
+          "size": 1225,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/5f4cc8520b0941fabe5e57a1acea081f/thumbnails/b1ec2880244b464f9d236e9ed19d1900/c46431f6375240798c5acdc07bb7ff6f.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "824be301edb24119bcc47ab26da18a4c",
+      "displayName": "alisdairmacrae",
+      "account": "basic",
+      "username": "alisdairmacrae",
+      "avatars": {
+        "uid": "78fa317e46024a5283765aa34df5e508",
+        "images": [
+          {
+            "size": 6421,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/aec92fe9a74e499c98d759362cd7f02f.jpeg",
+            "height": 100
+          },
+          {
+            "size": 2518,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/17fa177ffaa344a2b2fc8e78efd40fbb.jpeg",
+            "height": 48
+          },
+          {
+            "size": 5653,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/02162695bdc840faa3bcb2d418309c5e.jpeg",
+            "height": 90
+          },
+          {
+            "size": 1350,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/78fa317e46024a5283765aa34df5e508/6fde876cbded4cd48d36a76029e3aa02.jpeg",
+            "height": 32
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/alisdairmacrae"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      }
+    ]
+  },
+  {
+    "uid": "9cd7568dec3348b69669f16f3a54d457",
+    "slug": "emma-nielson-wooden-schooner",
+    "name": "Emma Nielson Wooden Schooner",
+    "staffpickedAt": null,
+    "viewCount": 375,
+    "likeCount": 6,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/emma-nielson-wooden-schooner-9cd7568dec3348b69669f16f3a54d457",
+    "embedUrl": "https://sketchfab.com/models/9cd7568dec3348b69669f16f3a54d457/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 38,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2022-08-15T08:37:29.922884",
+    "thumbnails": {
+      "uid": "8eda5f46417d4139b39266e801d2d951",
+      "images": [
+        {
+          "uid": "4683f2b2f207466c8a51dde8829b712e",
+          "size": 152080,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/9cd7568dec3348b69669f16f3a54d457/thumbnails/8eda5f46417d4139b39266e801d2d951/0b3b57082a044de28cec210474f7be70.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "01d003d2806f4c398194b9b88e6d00e5",
+          "size": 57791,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/9cd7568dec3348b69669f16f3a54d457/thumbnails/8eda5f46417d4139b39266e801d2d951/d3923adc972540b5ac39bb4c3f134595.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "787365ca1295461fb58d462c7decd3fd",
+          "size": 34948,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/9cd7568dec3348b69669f16f3a54d457/thumbnails/8eda5f46417d4139b39266e801d2d951/10633bd317af447fa1849e92279d838e.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "defef264910046dc80ab93e33376c573",
+          "size": 7625,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/9cd7568dec3348b69669f16f3a54d457/thumbnails/8eda5f46417d4139b39266e801d2d951/a63d2038f639457486668274405f7334.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "14416b49ce684125bbe5a693fb52395e",
+          "size": 1443,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/9cd7568dec3348b69669f16f3a54d457/thumbnails/8eda5f46417d4139b39266e801d2d951/02b88992c4c540369b52ba4f112fac22.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "bde4809d228f40f79b87fe621fd240fd",
+      "displayName": "diveprome",
+      "account": "basic",
+      "username": "diveprome",
+      "avatars": {
+        "uid": "040c4b9c67e940f387f8192b28f4fa42",
+        "images": [
+          {
+            "size": 1181,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/040c4b9c67e940f387f8192b28f4fa42/29ef4c2c34884307b7de120a231b22e5.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1768,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/040c4b9c67e940f387f8192b28f4fa42/a71016fd13524c11bb4dbb13ca445d74.jpeg",
+            "height": 48
+          },
+          {
+            "size": 4672,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/040c4b9c67e940f387f8192b28f4fa42/521d8f70e93f466fb37c56d344297c56.jpeg",
+            "height": 90
+          },
+          {
+            "size": 5517,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/040c4b9c67e940f387f8192b28f4fa42/8a799979275d45ef8d8e8b9ba29b2fda.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/diveprome"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      },
+      {
+        "uid": "17d20ca7b35243d4a45171838b50704c",
+        "name": "Science & Technology",
+        "slug": "science-technology"
+      }
+    ]
+  },
+  {
+    "uid": "315617dabd5440579dd34068622f1dec",
+    "slug": "miniature-dune-goelette-miniature-schooner",
+    "name": "Miniature d’une goélette / Miniature schooner",
+    "staffpickedAt": null,
+    "viewCount": 349,
+    "likeCount": 4,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/miniature-dune-goelette-miniature-schooner-315617dabd5440579dd34068622f1dec",
+    "embedUrl": "https://sketchfab.com/models/315617dabd5440579dd34068622f1dec/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 53,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2023-08-06T18:26:05.497720",
+    "thumbnails": {
+      "uid": "69887c66f97d4abf93b474cac5322834",
+      "images": [
+        {
+          "uid": "b7d27e07787e4938953e000655a963ea",
+          "size": 337137,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/315617dabd5440579dd34068622f1dec/thumbnails/69887c66f97d4abf93b474cac5322834/ecb74171966b4103be44166815179f48.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "b67509a07c954f37abbf1a531c4c1ec5",
+          "size": 91249,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/315617dabd5440579dd34068622f1dec/thumbnails/69887c66f97d4abf93b474cac5322834/4d6231fd1dfc40c6801d0f3343c6e5bf.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "963e5c091e63485fab69e9aee3d7976d",
+          "size": 50390,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/315617dabd5440579dd34068622f1dec/thumbnails/69887c66f97d4abf93b474cac5322834/8cd65cda2037426796841dbcd895d94a.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "ac4f419aa50f4034ac0f9c67243c4bbd",
+          "size": 9728,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/315617dabd5440579dd34068622f1dec/thumbnails/69887c66f97d4abf93b474cac5322834/3aacfdbf226a47b7b1b3de6367ffdf84.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "a0b76c6a6e20464bbdd87e7fd73d2acd",
+          "size": 1574,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/315617dabd5440579dd34068622f1dec/thumbnails/69887c66f97d4abf93b474cac5322834/4321222399654f8884289480ca014ca3.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "1eaab4555e9d4e4c965161158dddcd66",
+      "displayName": "Musée régional de la Côte-Nord",
+      "account": "prem",
+      "username": "mrcn",
+      "avatars": {
+        "uid": "2ed33092af5a43728d24f889d5679107",
+        "images": [
+          {
+            "size": 1332,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/2ed33092af5a43728d24f889d5679107/c8e1088d80bc4666be9992d3c28270f6.png",
+            "height": 32
+          },
+          {
+            "size": 2414,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/2ed33092af5a43728d24f889d5679107/8a74488c34174cdab296ffb7d26e5336.png",
+            "height": 48
+          },
+          {
+            "size": 5586,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/2ed33092af5a43728d24f889d5679107/5fc9ac43125e4b63b8a89d809dd94c82.png",
+            "height": 90
+          },
+          {
+            "size": 6415,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/2ed33092af5a43728d24f889d5679107/6d5ab011d2da432c9b7e2584d0f992fb.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/mrcn"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "e56c5de1e9344241909de76c5886f551",
+        "name": "Art & Abstract",
+        "slug": "art-abstract"
+      },
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      }
+    ]
+  },
+  {
+    "uid": "34f01f8bd6b94fca8678dd0974856295",
+    "slug": "shipwreck-of-steamer-gilda-in-slovenia",
+    "name": "Shipwreck of steamer Gilda in Slovenia",
+    "staffpickedAt": null,
+    "viewCount": 568,
+    "likeCount": 9,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/shipwreck-of-steamer-gilda-in-slovenia-34f01f8bd6b94fca8678dd0974856295",
+    "embedUrl": "https://sketchfab.com/models/34f01f8bd6b94fca8678dd0974856295/embed",
+    "publicCommentCount": 0,
+    "downloadType": "free",
+    "downloadCount": 130,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2024-06-12T08:03:20.115894",
+    "thumbnails": {
+      "uid": "6ea03d81122441babac8ec6edbb24368",
+      "images": [
+        {
+          "uid": "bccbc91e09bf4dc88a381519048acb33",
+          "size": 230702,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/34f01f8bd6b94fca8678dd0974856295/thumbnails/6ea03d81122441babac8ec6edbb24368/fe8e9442b32f48aba6e6b7fcbc64e12f.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "4e126efa6c6e4ad794abb630f9b00fb0",
+          "size": 69792,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/34f01f8bd6b94fca8678dd0974856295/thumbnails/6ea03d81122441babac8ec6edbb24368/bd174bbcde8147bb9d2748749b4a89e3.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "4bca214461c041199d5cc5083227608d",
+          "size": 38912,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/34f01f8bd6b94fca8678dd0974856295/thumbnails/6ea03d81122441babac8ec6edbb24368/ac621ab161c44e978dbf992ad7793543.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "eaeb3399422843ffa2ac810ad8d3e8bb",
+          "size": 7578,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/34f01f8bd6b94fca8678dd0974856295/thumbnails/6ea03d81122441babac8ec6edbb24368/98a1e7cf1021462e91ba2f288ab4543b.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "6a4a53131e9c49dcb4b602fd700913c9",
+          "size": 1469,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/34f01f8bd6b94fca8678dd0974856295/thumbnails/6ea03d81122441babac8ec6edbb24368/b64d278d4aa74455a93ce0e47899e573.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "18aab9e9a6994cb098c2c36bdd335f42",
+      "displayName": "holger.buss",
+      "account": "basic",
+      "username": "holger.buss",
+      "avatars": {
+        "uid": "7a48ea9315784232bc4b58d3402bacc2",
+        "images": [
+          {
+            "size": 2627,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/7a48ea9315784232bc4b58d3402bacc2/597362d0c74449358ed22ead75216ddb.png",
+            "height": 32
+          },
+          {
+            "size": 5316,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/7a48ea9315784232bc4b58d3402bacc2/fa307823adfc4cd1afbdf9c863a4ce10.png",
+            "height": 48
+          },
+          {
+            "size": 16104,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/7a48ea9315784232bc4b58d3402bacc2/cf122a0d61724c26897f64e016642a01.png",
+            "height": 90
+          },
+          {
+            "size": 19429,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/7a48ea9315784232bc4b58d3402bacc2/d6c3dfdbe475425bb79f1ebb25eceeb7.png",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/holger.buss"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      },
+      {
+        "uid": "86f23935367b4a1f9647c8a20e03d716",
+        "name": "Cultural Heritage & History",
+        "slug": "cultural-heritage-history"
+      }
+    ]
+  },
+  {
+    "uid": "8e4f9ba8a7834ba39edf6f2877e9b0d7",
+    "slug": "shipking",
+    "name": "ShipKing",
+    "staffpickedAt": null,
+    "viewCount": 550,
+    "likeCount": 10,
+    "animationCount": 0,
+    "viewerUrl": "https://sketchfab.com/3d-models/shipking-8e4f9ba8a7834ba39edf6f2877e9b0d7",
+    "embedUrl": "https://sketchfab.com/models/8e4f9ba8a7834ba39edf6f2877e9b0d7/embed",
+    "publicCommentCount": 1,
+    "downloadType": "free",
+    "downloadCount": 104,
+    "isPublished": true,
+    "isRestricted": false,
+    "publishedAt": "2023-08-11T15:27:24.299916",
+    "thumbnails": {
+      "uid": "97c1a76b9202482ba960f25c5054dc15",
+      "images": [
+        {
+          "uid": "a56ab59dfc1d4c80b5377c9f030177db",
+          "size": 165314,
+          "width": 1920,
+          "url": "https://media.sketchfab.com/models/8e4f9ba8a7834ba39edf6f2877e9b0d7/thumbnails/97c1a76b9202482ba960f25c5054dc15/594fc9d076ea471d97151112fad0843c.jpeg",
+          "height": 1080
+        },
+        {
+          "uid": "7fec403d3438446e9ad641e82b75b977",
+          "size": 54449,
+          "width": 1024,
+          "url": "https://media.sketchfab.com/models/8e4f9ba8a7834ba39edf6f2877e9b0d7/thumbnails/97c1a76b9202482ba960f25c5054dc15/4f84de9546f44c679c7287718dd19a06.jpeg",
+          "height": 576
+        },
+        {
+          "uid": "3e4a0f39d7fe43499e7dfd0e8e10f6f2",
+          "size": 31319,
+          "width": 720,
+          "url": "https://media.sketchfab.com/models/8e4f9ba8a7834ba39edf6f2877e9b0d7/thumbnails/97c1a76b9202482ba960f25c5054dc15/0eb60c5a8fff4c10bc9da2f1825a3522.jpeg",
+          "height": 405
+        },
+        {
+          "uid": "f664dae78bb04d0c8d0f6e7f6731ccd2",
+          "size": 6091,
+          "width": 256,
+          "url": "https://media.sketchfab.com/models/8e4f9ba8a7834ba39edf6f2877e9b0d7/thumbnails/97c1a76b9202482ba960f25c5054dc15/bcd1b98e9be243ab804951ff8c205d3d.jpeg",
+          "height": 144
+        },
+        {
+          "uid": "21e92703a6cb4707b910bb8bc1d1ea9a",
+          "size": 1268,
+          "width": 64,
+          "url": "https://media.sketchfab.com/models/8e4f9ba8a7834ba39edf6f2877e9b0d7/thumbnails/97c1a76b9202482ba960f25c5054dc15/0ed33019cf5b497aa39fbf30d30691af.jpeg",
+          "height": 36
+        }
+      ]
+    },
+    "user": {
+      "uid": "4090fe9c78fa491995ff04dacd8a861e",
+      "displayName": "Alekspunch",
+      "account": "basic",
+      "username": "alekvictorios",
+      "avatars": {
+        "uid": "be159207a57140629d43ee0f89789180",
+        "images": [
+          {
+            "size": 1218,
+            "width": 32,
+            "url": "https://media.sketchfab.com/avatars/be159207a57140629d43ee0f89789180/f328d659e16e450bb9c8e5f11a85a69c.jpeg",
+            "height": 32
+          },
+          {
+            "size": 1685,
+            "width": 48,
+            "url": "https://media.sketchfab.com/avatars/be159207a57140629d43ee0f89789180/8636e134546a47fd8d7daef4ddbe03d6.jpeg",
+            "height": 48
+          },
+          {
+            "size": 3292,
+            "width": 90,
+            "url": "https://media.sketchfab.com/avatars/be159207a57140629d43ee0f89789180/2a16ef38bca84e5cb57fe93e198877af.jpeg",
+            "height": 90
+          },
+          {
+            "size": 3703,
+            "width": 100,
+            "url": "https://media.sketchfab.com/avatars/be159207a57140629d43ee0f89789180/0a5d1f804a6e4ee9891c45d1621b0c5d.jpeg",
+            "height": 100
+          }
+        ]
+      },
+      "profileUrl": "https://sketchfab.com/alekvictorios"
+    },
+    "price": null,
+    "averageRating": 0,
+    "reviewCount": 0,
+    "inStore": false,
+    "isAiGenerated": false,
+    "org": null,
+    "visibility": "public",
+    "categories": [
+      {
+        "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+        "name": "Cars & Vehicles",
+        "slug": "cars-vehicles"
+      }
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "17d20ca7b35243d4a45171838b50704c",
+      "name": "Science & Technology",
+      "slug": "science-technology",
+      "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/86b1bae49e0ed3f43b2d59b26700234e-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/17d20ca7b35243d4a45171838b50704c/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2022-03-15T03:16:00.920674",
+  "embedUrl": "https://sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/embed",
+  "faceCount": 2416028,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 7,
+  "name": "Shipwreck 15563",
+  "publishedAt": "2022-03-15T03:18:18.915132",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "mapping",
+      "slug": "mapping",
+      "uri": "https://api.sketchfab.com/v3/tags/mapping"
+    },
+    {
+      "name": "shipwreck",
+      "slug": "shipwreck",
+      "uri": "https://api.sketchfab.com/v3/tags/shipwreck"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "rov",
+      "slug": "rov",
+      "uri": "https://api.sketchfab.com/v3/tags/rov"
+    },
+    {
+      "name": "NOAA",
+      "slug": "noaa",
+      "uri": "https://api.sketchfab.com/v3/tags/noaa"
+    },
+    {
+      "name": "brig",
+      "slug": "brig",
+      "uri": "https://api.sketchfab.com/v3/tags/brig"
+    },
+    {
+      "name": "okeanos",
+      "slug": "okeanos",
+      "uri": "https://api.sketchfab.com/v3/tags/okeanos"
+    },
+    {
+      "name": "boem",
+      "slug": "boem",
+      "uri": "https://api.sketchfab.com/v3/tags/boem"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "uri": "https://api.sketchfab.com/v3/tags/3d"
+    },
+    {
+      "name": "archaeology",
+      "slug": "archaeology",
+      "uri": "https://api.sketchfab.com/v3/tags/archaeology"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "0cae2ab26cfd4d40a6043ca9f1542341",
+        "width": 1920,
+        "height": 1080,
+        "size": 511835,
+        "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/8693dd0838954002ad22cfe7e45a72c3.jpeg"
+      },
+      {
+        "uid": "7dd70bc227d5411faabd7417becf9f40",
+        "width": 1024,
+        "height": 576,
+        "size": 122051,
+        "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/5530581bb68c4af3a838f075874413f4.jpeg"
+      },
+      {
+        "uid": "3e864efe07964e139d08f1313b9f5758",
+        "width": 720,
+        "height": 405,
+        "size": 56818,
+        "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/c185bfbbeabf4c91b0caaad7d0662548.jpeg"
+      },
+      {
+        "uid": "5015b2f1eae9496ab3521a7819a50716",
+        "width": 256,
+        "height": 144,
+        "size": 6917,
+        "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/2ed35c6461774da18af319f349e1ffe5.jpeg"
+      },
+      {
+        "uid": "a6414d8203624c96bd52b5f98d1d1fda",
+        "width": 64,
+        "height": 36,
+        "size": 1153,
+        "url": "https://media.sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/thumbnails/d69560a505bb410f9c1f5c31cc01c8b2/f3b8dfceb46443bd887db3e183eb8717.jpeg"
+      }
+    ]
+  },
+  "uid": "da4d4e2fdfbf4cedaa4b892e1801d3cc",
+  "uri": "https://api.sketchfab.com/v3/models/da4d4e2fdfbf4cedaa4b892e1801d3cc",
+  "user": {
+    "uid": "98fda703b93d4e26a0b75c77b765931d",
+    "username": "BOEMArchaeology",
+    "displayName": "BOEM Archaeology",
+    "account": "pro",
+    "profileUrl": "https://sketchfab.com/BOEMArchaeology",
+    "avatar": {
+      "uid": "49611345a0244f67bd131008cf7331d5",
+      "uri": "https://api.sketchfab.com/v3/avatars/49611345a0244f67bd131008cf7331d5",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1373,
+          "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/99819f8beae04d728b1b385944ec3595.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2435,
+          "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/203e6f56936248ecb59c6c820ef94145.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 5340,
+          "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/19e24d9d8add4bdcb4acdb2efa084bc2.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 6233,
+          "url": "https://media.sketchfab.com/avatars/49611345a0244f67bd131008cf7331d5/6f93b2fdf92f459188e976bd4468760e.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/98fda703b93d4e26a0b75c77b765931d"
+  },
+  "vertexCount": 1211137,
+  "viewCount": 3445,
+  "viewerUrl": "https://sketchfab.com/3d-models/shipwreck-15563-da4d4e2fdfbf4cedaa4b892e1801d3cc",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This is the first model of shipwreck 15563. This was made using the high-resolution photogrammetry passes from Deep Discoverer (D2) remotely operated vehicle (ROV) on the Research Vessel Okeanos Explorer. These data were from NOAA Cruise EX2201 Dive 02. Much credit goes to the skillful ROV pilots on the Okeanos. Protocols for data collection and processing by BOEM’s Marine Archaeologist Scott Sorset. The BOEM Virtual Archaeology Museum can be accessed at https://www.boem.gov/Virtual-Archaeology-Museum/.",
+  "price": null,
+  "downloadCount": 133,
+  "editorUrl": "https://sketchfab.com/models/da4d4e2fdfbf4cedaa4b892e1801d3cc/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "agisoft-photoscan",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-12-13T20:40:41.738260",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

@@ -1,0 +1,371 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-12-16T11:29:48.022582",
+  "embedUrl": "https://sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/embed",
+  "faceCount": 1102204,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 3,
+  "name": "-X-Coastal_Trawler_'A'",
+  "publishedAt": "2025-12-16T11:41:02.196004",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "vehicles",
+      "slug": "vehicles",
+      "uri": "https://api.sketchfab.com/v3/tags/vehicles"
+    },
+    {
+      "name": "ships",
+      "slug": "ships",
+      "uri": "https://api.sketchfab.com/v3/tags/ships"
+    },
+    {
+      "name": "boats",
+      "slug": "boats",
+      "uri": "https://api.sketchfab.com/v3/tags/boats"
+    },
+    {
+      "name": "trawler",
+      "slug": "trawler",
+      "uri": "https://api.sketchfab.com/v3/tags/trawler"
+    },
+    {
+      "name": "Skiff",
+      "slug": "skiff",
+      "uri": "https://api.sketchfab.com/v3/tags/skiff"
+    },
+    {
+      "name": "game-development",
+      "slug": "game-development",
+      "uri": "https://api.sketchfab.com/v3/tags/game-development"
+    },
+    {
+      "name": "uvmapped",
+      "slug": "uvmapped",
+      "uri": "https://api.sketchfab.com/v3/tags/uvmapped"
+    },
+    {
+      "name": "vehicles-boat",
+      "slug": "vehicles-boat",
+      "uri": "https://api.sketchfab.com/v3/tags/vehicles-boat"
+    },
+    {
+      "name": "freeship",
+      "slug": "freeship",
+      "uri": "https://api.sketchfab.com/v3/tags/freeship"
+    },
+    {
+      "name": "fishing-boat",
+      "slug": "fishing-boat",
+      "uri": "https://api.sketchfab.com/v3/tags/fishing-boat"
+    },
+    {
+      "name": "marine-science",
+      "slug": "marine-science",
+      "uri": "https://api.sketchfab.com/v3/tags/marine-science"
+    },
+    {
+      "name": "sailing-ship",
+      "slug": "sailing-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing-ship"
+    },
+    {
+      "name": "smallboat",
+      "slug": "smallboat",
+      "uri": "https://api.sketchfab.com/v3/tags/smallboat"
+    },
+    {
+      "name": "fishing-boats",
+      "slug": "fishing-boats",
+      "uri": "https://api.sketchfab.com/v3/tags/fishing-boats"
+    },
+    {
+      "name": "vehicle",
+      "slug": "vehicle",
+      "uri": "https://api.sketchfab.com/v3/tags/vehicle"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    },
+    {
+      "name": "realistic-ship",
+      "slug": "realistic-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic-ship"
+    },
+    {
+      "name": "ship-models",
+      "slug": "ship-models",
+      "uri": "https://api.sketchfab.com/v3/tags/ship-models"
+    },
+    {
+      "name": "boat-shaped",
+      "slug": "boat-shaped",
+      "uri": "https://api.sketchfab.com/v3/tags/boat-shaped"
+    },
+    {
+      "name": "fishingvessel",
+      "slug": "fishingvessel",
+      "uri": "https://api.sketchfab.com/v3/tags/fishingvessel"
+    },
+    {
+      "name": "boat-model",
+      "slug": "boat-model",
+      "uri": "https://api.sketchfab.com/v3/tags/boat-model"
+    },
+    {
+      "name": "modern-ship",
+      "slug": "modern-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/modern-ship"
+    },
+    {
+      "name": "skiff-boat",
+      "slug": "skiff-boat",
+      "uri": "https://api.sketchfab.com/v3/tags/skiff-boat"
+    },
+    {
+      "name": "createdwithai",
+      "slug": "createdwithai",
+      "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+    },
+    {
+      "name": "meshy",
+      "slug": "meshy",
+      "uri": "https://api.sketchfab.com/v3/tags/meshy"
+    },
+    {
+      "name": "meshyai",
+      "slug": "meshyai",
+      "uri": "https://api.sketchfab.com/v3/tags/meshyai"
+    },
+    {
+      "name": "free-boat-model",
+      "slug": "free-boat-model",
+      "uri": "https://api.sketchfab.com/v3/tags/free-boat-model"
+    },
+    {
+      "name": "realistic-vehicle",
+      "slug": "realistic-vehicle",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic-vehicle"
+    },
+    {
+      "name": "realistic-design",
+      "slug": "realistic-design",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic-design"
+    },
+    {
+      "name": "meshycreatedwithaiairealistic",
+      "slug": "meshycreatedwithaiairealistic",
+      "uri": "https://api.sketchfab.com/v3/tags/meshycreatedwithaiairealistic"
+    },
+    {
+      "name": "meshy3d",
+      "slug": "meshy3d",
+      "uri": "https://api.sketchfab.com/v3/tags/meshy3d"
+    },
+    {
+      "name": "meshymodel",
+      "slug": "meshymodel",
+      "uri": "https://api.sketchfab.com/v3/tags/meshymodel"
+    },
+    {
+      "name": "modern-boat",
+      "slug": "modern-boat",
+      "uri": "https://api.sketchfab.com/v3/tags/modern-boat"
+    },
+    {
+      "name": "xx696",
+      "slug": "xx696",
+      "uri": "https://api.sketchfab.com/v3/tags/xx696"
+    },
+    {
+      "name": "xscorngames",
+      "slug": "xscorngames",
+      "uri": "https://api.sketchfab.com/v3/tags/xscorngames"
+    },
+    {
+      "name": "meshy-model",
+      "slug": "meshy-model",
+      "uri": "https://api.sketchfab.com/v3/tags/meshy-model"
+    },
+    {
+      "name": "uvmapped-model",
+      "slug": "uvmapped-model",
+      "uri": "https://api.sketchfab.com/v3/tags/uvmapped-model"
+    },
+    {
+      "name": "meshy3dai",
+      "slug": "meshy3dai",
+      "uri": "https://api.sketchfab.com/v3/tags/meshy3dai"
+    },
+    {
+      "name": "coastal-trawler",
+      "slug": "coastal-trawler",
+      "uri": "https://api.sketchfab.com/v3/tags/coastal-trawler"
+    },
+    {
+      "name": "coastaltrawler",
+      "slug": "coastaltrawler",
+      "uri": "https://api.sketchfab.com/v3/tags/coastaltrawler"
+    },
+    {
+      "name": "vehicles-ship",
+      "slug": "vehicles-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/vehicles-ship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "b86fa920b3e64aff8fb6a2d3a8408e0a",
+        "width": 1920,
+        "height": 1080,
+        "size": 374926,
+        "url": "https://media.sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/thumbnails/a4ad06bdddeb49b19c154ae3d0c97e3f/0c2f83032fc8467f82ec05aee1e05fdf.jpeg"
+      },
+      {
+        "uid": "c11cc542642843cdb8206290c82670a6",
+        "width": 1024,
+        "height": 576,
+        "size": 85354,
+        "url": "https://media.sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/thumbnails/a4ad06bdddeb49b19c154ae3d0c97e3f/b895dbe99d144ddf9bda7688ee779090.jpeg"
+      },
+      {
+        "uid": "5dae52fe11ad46c098542a36b7f6f4cb",
+        "width": 720,
+        "height": 405,
+        "size": 47263,
+        "url": "https://media.sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/thumbnails/a4ad06bdddeb49b19c154ae3d0c97e3f/eb3deb2a08e94061876472bbc3144181.jpeg"
+      },
+      {
+        "uid": "5120cebe575e4920a30aba56e6510329",
+        "width": 256,
+        "height": 144,
+        "size": 9517,
+        "url": "https://media.sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/thumbnails/a4ad06bdddeb49b19c154ae3d0c97e3f/cf860cd51ef441b4b1d044849e515ac2.jpeg"
+      },
+      {
+        "uid": "85f1fe1c142f4627a0248eded16619a5",
+        "width": 64,
+        "height": 36,
+        "size": 1658,
+        "url": "https://media.sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/thumbnails/a4ad06bdddeb49b19c154ae3d0c97e3f/4b73caaffb414cefa0127a6f6836306b.jpeg"
+      }
+    ]
+  },
+  "uid": "9af0928ebe0a47f0a37558eaac639ac8",
+  "uri": "https://api.sketchfab.com/v3/models/9af0928ebe0a47f0a37558eaac639ac8",
+  "user": {
+    "uid": "0f948ce31b8247c09fae5b0e365fb73b",
+    "username": "XX-XX",
+    "displayName": "-X-ScornGames",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/XX-XX",
+    "avatar": {
+      "uid": "1830a5a007f342d09c2d3379f8380304",
+      "uri": "https://api.sketchfab.com/v3/avatars/1830a5a007f342d09c2d3379f8380304",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 3150,
+          "url": "https://media.sketchfab.com/avatars/1830a5a007f342d09c2d3379f8380304/92ed7abc975a4b40bec4363214c82e06.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 6798,
+          "url": "https://media.sketchfab.com/avatars/1830a5a007f342d09c2d3379f8380304/aee6e17a02c8494994c900a7dd0d73a6.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 22680,
+          "url": "https://media.sketchfab.com/avatars/1830a5a007f342d09c2d3379f8380304/27a89f4ad196410aa77a07f6f0d743ce.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 27690,
+          "url": "https://media.sketchfab.com/avatars/1830a5a007f342d09c2d3379f8380304/29611b5df2fa48dabaa6974fc3739e41.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/0f948ce31b8247c09fae5b0e365fb73b"
+  },
+  "vertexCount": 550625,
+  "viewCount": 378,
+  "viewerUrl": "https://sketchfab.com/3d-models/x-coastal-trawler-a-9af0928ebe0a47f0a37558eaac639ac8",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "[![](https://img.itch.zone/aW1nLzE4MTA0NzkzLnBuZw==/original/CxHN5A.png)](https://xx696.itch.io/)\n\n# Contact:#\n\n[https://westream.at/xx696](http://)\n\n[https://xx696.itch.io](http://)\n\n[https://www.youtube.com/@xscorngames](http://)\n\n[https://gamejolt.com/@-X-ScornGames](http://)\n\n[https://gravatar.com/xx696](http://)\n\n[https://bsky.app/profile/xx696.itch.io](http://)\n\n[https://sketchfab.com/XX-XX](http://)\n\n[https://x-scorngames.newgrounds.com](http://)\n\n[https://www.twitch.tv/xx696](http://)\n\n[![](https://img.itch.zone/aW1nLzE4MTgwMTM5LnBuZw==/original/nU2Ahe.png)](https://westream.at/xx696/)",
+  "price": null,
+  "downloadCount": 63,
+  "editorUrl": "https://sketchfab.com/models/9af0928ebe0a47f0a37558eaac639ac8/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-07-12T13:39:53.217615",
+  "pbrType": "metalness",
+  "textureCount": 4,
+  "materialCount": 1
+}

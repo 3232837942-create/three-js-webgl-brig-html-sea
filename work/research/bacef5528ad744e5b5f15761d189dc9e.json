@@ -1,0 +1,211 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2024-06-02T09:55:36.678975",
+  "embedUrl": "https://sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/embed",
+  "faceCount": 16140,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 49,
+  "name": "Ship Steering Wheel",
+  "publishedAt": "2024-06-02T10:25:29.283619",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "wheel",
+      "slug": "wheel",
+      "uri": "https://api.sketchfab.com/v3/tags/wheel"
+    },
+    {
+      "name": "steering",
+      "slug": "steering",
+      "uri": "https://api.sketchfab.com/v3/tags/steering"
+    },
+    {
+      "name": "realistic",
+      "slug": "realistic",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic"
+    },
+    {
+      "name": "old",
+      "slug": "old",
+      "uri": "https://api.sketchfab.com/v3/tags/old"
+    },
+    {
+      "name": "galleon",
+      "slug": "galleon",
+      "uri": "https://api.sketchfab.com/v3/tags/galleon"
+    },
+    {
+      "name": "brig",
+      "slug": "brig",
+      "uri": "https://api.sketchfab.com/v3/tags/brig"
+    },
+    {
+      "name": "gameasset",
+      "slug": "gameasset",
+      "uri": "https://api.sketchfab.com/v3/tags/gameasset"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "gameready",
+      "slug": "gameready",
+      "uri": "https://api.sketchfab.com/v3/tags/gameready"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "a8a2d09526fd4a399ff1bcb32af51ee2",
+        "width": 1920,
+        "height": 1080,
+        "size": 171539,
+        "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/2af51511aec24ef281be97bbeea2f317.jpeg"
+      },
+      {
+        "uid": "89f38d85effb40798120489cdcad5ab3",
+        "width": 1024,
+        "height": 576,
+        "size": 53002,
+        "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/79ee68dfebc94a19b9a5911357e40bd8.jpeg"
+      },
+      {
+        "uid": "5dfc0913d15e41a1815a47e22b9ebadc",
+        "width": 720,
+        "height": 405,
+        "size": 29745,
+        "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/e2f0fdda0dcf4e6089b1ebc973d8ec58.jpeg"
+      },
+      {
+        "uid": "f7cbe0156419436fa84d6f61945cff43",
+        "width": 256,
+        "height": 144,
+        "size": 5790,
+        "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/5226f1f66db142b8819390e25d22aca0.jpeg"
+      },
+      {
+        "uid": "1c090ebe9f864ea5b5516886da1840e7",
+        "width": 64,
+        "height": 36,
+        "size": 1241,
+        "url": "https://media.sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/thumbnails/06a10d0c9cd34f5cb906314c600e7d9f/b4c6a10258ec4c979b421f307aeba002.jpeg"
+      }
+    ]
+  },
+  "uid": "bacef5528ad744e5b5f15761d189dc9e",
+  "uri": "https://api.sketchfab.com/v3/models/bacef5528ad744e5b5f15761d189dc9e",
+  "user": {
+    "uid": "f285c5cc9c544c68b54912593077598e",
+    "username": "pirate8888",
+    "displayName": "pirate8888",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/pirate8888",
+    "avatar": {
+      "uid": "69986a00ba4a44b399c506124e0a1bfa",
+      "uri": "https://api.sketchfab.com/v3/avatars/69986a00ba4a44b399c506124e0a1bfa",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1135,
+          "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/01d92d6ae21c488592843307c58545f7.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1649,
+          "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/20f9c3bf264a4aee8a04c00bcc971f73.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3798,
+          "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/94e3c4c133f6485baf1b97d36060077b.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4299,
+          "url": "https://media.sketchfab.com/avatars/69986a00ba4a44b399c506124e0a1bfa/12f9749cd3bd4d769b69f5cb550d4857.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/f285c5cc9c544c68b54912593077598e"
+  },
+  "vertexCount": 8104,
+  "viewCount": 2214,
+  "viewerUrl": "https://sketchfab.com/3d-models/ship-steering-wheel-bacef5528ad744e5b5f15761d189dc9e",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Large wooden steering wheel. The wheel and its stand are textured to represent weathered wood. Perfect for environments exploring the age of sail.",
+  "price": null,
+  "downloadCount": 442,
+  "editorUrl": "https://sketchfab.com/models/bacef5528ad744e5b5f15761d189dc9e/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-06-02T10:44:23.469647",
+  "pbrType": "metalness",
+  "textureCount": 4,
+  "materialCount": 1
+}

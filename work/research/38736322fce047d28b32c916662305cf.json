@@ -1,0 +1,231 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "e56c5de1e9344241909de76c5886f551",
+      "name": "Art & Abstract",
+      "slug": "art-abstract",
+      "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2021-01-20T21:21:23.315381",
+  "embedUrl": "https://sketchfab.com/models/38736322fce047d28b32c916662305cf/embed",
+  "faceCount": 196482,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 41,
+  "name": "Faulkner's Ship",
+  "publishedAt": "2021-01-20T21:49:02.801747",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "d&d",
+      "slug": "dd",
+      "uri": "https://api.sketchfab.com/v3/tags/dd"
+    },
+    {
+      "name": "vessel",
+      "slug": "vessel",
+      "uri": "https://api.sketchfab.com/v3/tags/vessel"
+    },
+    {
+      "name": "travel",
+      "slug": "travel",
+      "uri": "https://api.sketchfab.com/v3/tags/travel"
+    },
+    {
+      "name": "sailboat",
+      "slug": "sailboat",
+      "uri": "https://api.sketchfab.com/v3/tags/sailboat"
+    },
+    {
+      "name": "dnd",
+      "slug": "dnd",
+      "uri": "https://api.sketchfab.com/v3/tags/dnd"
+    },
+    {
+      "name": "water",
+      "slug": "water",
+      "uri": "https://api.sketchfab.com/v3/tags/water"
+    },
+    {
+      "name": "galleon",
+      "slug": "galleon",
+      "uri": "https://api.sketchfab.com/v3/tags/galleon"
+    },
+    {
+      "name": "Schooner",
+      "slug": "schooner",
+      "uri": "https://api.sketchfab.com/v3/tags/schooner"
+    },
+    {
+      "name": "dungeonsanddragons",
+      "slug": "dungeonsanddragons",
+      "uri": "https://api.sketchfab.com/v3/tags/dungeonsanddragons"
+    },
+    {
+      "name": "dungeons-and-dragons",
+      "slug": "dungeons-and-dragons",
+      "uri": "https://api.sketchfab.com/v3/tags/dungeons-and-dragons"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "fantasy",
+      "slug": "fantasy",
+      "uri": "https://api.sketchfab.com/v3/tags/fantasy"
+    },
+    {
+      "name": "sculpture",
+      "slug": "sculpture",
+      "uri": "https://api.sketchfab.com/v3/tags/sculpture"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "4f50886de6ca4c15aba8f39236c4f763",
+        "width": 1920,
+        "height": 1080,
+        "size": 329310,
+        "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/88df07e842644475a56e0f20d4b87508.jpeg"
+      },
+      {
+        "uid": "07864828a7f34753b86723bcaab6c92e",
+        "width": 1024,
+        "height": 576,
+        "size": 50978,
+        "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/8e1ea975b97d4eafa146bbaff33461f6.jpeg"
+      },
+      {
+        "uid": "22ab88fac00a4387a2f5396a3d05422f",
+        "width": 720,
+        "height": 405,
+        "size": 29593,
+        "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/c8dbcc2bb88e4adbacd0b26c0dc856e8.jpeg"
+      },
+      {
+        "uid": "b370877d975642fe9d87021fac21f50a",
+        "width": 256,
+        "height": 144,
+        "size": 6395,
+        "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/0590e17190334d82970e19479fa54fe4.jpeg"
+      },
+      {
+        "uid": "cf7e7ba54c99433482b168b0140ab60e",
+        "width": 64,
+        "height": 36,
+        "size": 1289,
+        "url": "https://media.sketchfab.com/models/38736322fce047d28b32c916662305cf/thumbnails/e17ec492c2574ef4b323915d805bcf7d/9b6745c169f8453ca26fd088ef63d48d.jpeg"
+      }
+    ]
+  },
+  "uid": "38736322fce047d28b32c916662305cf",
+  "uri": "https://api.sketchfab.com/v3/models/38736322fce047d28b32c916662305cf",
+  "user": {
+    "uid": "ba616c4072cd45c4ba2e47fbfe6e9a8b",
+    "username": "Dawnstar-Chronicles",
+    "displayName": "Dawnstar-Chronicles",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Dawnstar-Chronicles",
+    "avatar": {
+      "uid": "0d32dba25aea4e27806903f7c7109d92",
+      "uri": "https://api.sketchfab.com/v3/avatars/0d32dba25aea4e27806903f7c7109d92",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 2024,
+          "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/cc8044c706ad4a448db4ab7a793918d5.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 3939,
+          "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/6149782d40ac47d7bd4d00e48718364c.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 11681,
+          "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/e4c5197d16084f0d92323edc66682a6b.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 14375,
+          "url": "https://media.sketchfab.com/avatars/0d32dba25aea4e27806903f7c7109d92/5d09ab0745b9479e9ae4f34ba5a639c5.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/ba616c4072cd45c4ba2e47fbfe6e9a8b"
+  },
+  "vertexCount": 103939,
+  "viewCount": 1206,
+  "viewerUrl": "https://sketchfab.com/3d-models/faulkners-ship-38736322fce047d28b32c916662305cf",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This is the ship that we go to for quests and supplies. I had a great time making this for my imaginary world where my friends and I fight bad guys and roll dice.",
+  "price": null,
+  "downloadCount": 211,
+  "editorUrl": "https://sketchfab.com/models/38736322fce047d28b32c916662305cf/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-04-22T18:57:25.997402",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 15
+}

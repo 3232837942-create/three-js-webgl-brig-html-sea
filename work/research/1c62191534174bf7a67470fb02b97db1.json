@@ -1,0 +1,237 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "e56c5de1e9344241909de76c5886f551",
+      "name": "Art & Abstract",
+      "slug": "art-abstract",
+      "uri": "https://api.sketchfab.com/v3/categories/e56c5de1e9344241909de76c5886f551",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/876106eddb2a54aa1391eb2f4db0acb2-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/e56c5de1e9344241909de76c5886f551/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 10,
+  "createdAt": "2021-06-04T09:26:34.473944",
+  "embedUrl": "https://sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/embed",
+  "faceCount": 30994,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 399,
+  "name": "Stylized Pirate Ship",
+  "publishedAt": "2021-06-07T11:00:40.206931",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "barrel",
+      "slug": "barrel",
+      "uri": "https://api.sketchfab.com/v3/tags/barrel"
+    },
+    {
+      "name": "sail",
+      "slug": "sail",
+      "uri": "https://api.sketchfab.com/v3/tags/sail"
+    },
+    {
+      "name": "painted",
+      "slug": "painted",
+      "uri": "https://api.sketchfab.com/v3/tags/painted"
+    },
+    {
+      "name": "props",
+      "slug": "props",
+      "uri": "https://api.sketchfab.com/v3/tags/props"
+    },
+    {
+      "name": "Cannon",
+      "slug": "cannon",
+      "uri": "https://api.sketchfab.com/v3/tags/cannon"
+    },
+    {
+      "name": "asset",
+      "slug": "asset",
+      "uri": "https://api.sketchfab.com/v3/tags/asset"
+    },
+    {
+      "name": "game",
+      "slug": "game",
+      "uri": "https://api.sketchfab.com/v3/tags/game"
+    },
+    {
+      "name": "art",
+      "slug": "art",
+      "uri": "https://api.sketchfab.com/v3/tags/art"
+    },
+    {
+      "name": "pbr",
+      "slug": "pbr",
+      "uri": "https://api.sketchfab.com/v3/tags/pbr"
+    },
+    {
+      "name": "low",
+      "slug": "low",
+      "uri": "https://api.sketchfab.com/v3/tags/low"
+    },
+    {
+      "name": "poly",
+      "slug": "poly",
+      "uri": "https://api.sketchfab.com/v3/tags/poly"
+    },
+    {
+      "name": "skull",
+      "slug": "skull",
+      "uri": "https://api.sketchfab.com/v3/tags/skull"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "stylized",
+      "slug": "stylized",
+      "uri": "https://api.sketchfab.com/v3/tags/stylized"
+    },
+    {
+      "name": "hand",
+      "slug": "hand",
+      "uri": "https://api.sketchfab.com/v3/tags/hand"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "6061da946ea04a6ab343e3d6a98991e9",
+        "width": 1920,
+        "height": 1080,
+        "size": 386463,
+        "url": "https://media.sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/thumbnails/ad2941d860ec4ac1a830db632c821d48/c9c02fbc49054f5ca2adafa4dbc5ba83.jpeg"
+      },
+      {
+        "uid": "92cb1adc652442598702532f1b6b15fe",
+        "width": 1024,
+        "height": 576,
+        "size": 85187,
+        "url": "https://media.sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/thumbnails/ad2941d860ec4ac1a830db632c821d48/67f07116ef334ff8a708bbe76c6c7eed.jpeg"
+      },
+      {
+        "uid": "cc8f788554d7457ca0cd1648aea0e378",
+        "width": 720,
+        "height": 405,
+        "size": 49244,
+        "url": "https://media.sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/thumbnails/ad2941d860ec4ac1a830db632c821d48/cb631b3dfe714ac3866eebcd955b7448.jpeg"
+      },
+      {
+        "uid": "03069612565a4cf8982396d6ea9f9910",
+        "width": 256,
+        "height": 144,
+        "size": 9385,
+        "url": "https://media.sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/thumbnails/ad2941d860ec4ac1a830db632c821d48/f00e8191e1a04028bbf5740a891930ea.jpeg"
+      },
+      {
+        "uid": "24d734da8ce3427487ed2995e62b9204",
+        "width": 64,
+        "height": 36,
+        "size": 1483,
+        "url": "https://media.sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/thumbnails/ad2941d860ec4ac1a830db632c821d48/168db341cf4241c2ac9b182b9d1be305.jpeg"
+      }
+    ]
+  },
+  "uid": "1c62191534174bf7a67470fb02b97db1",
+  "uri": "https://api.sketchfab.com/v3/models/1c62191534174bf7a67470fb02b97db1",
+  "user": {
+    "uid": "dd7d3a9038294e96b14ead88507580cc",
+    "username": "c3posw01",
+    "displayName": "Maksim Batyrev",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/c3posw01",
+    "avatar": {
+      "uid": "d7b53d12cdc44528813748753c5947e5",
+      "uri": "https://api.sketchfab.com/v3/avatars/d7b53d12cdc44528813748753c5947e5",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 722,
+          "url": "https://media.sketchfab.com/avatars/d7b53d12cdc44528813748753c5947e5/0a643ab2ecb1446ea4fcf4f20a91cfbb.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1163,
+          "url": "https://media.sketchfab.com/avatars/d7b53d12cdc44528813748753c5947e5/603d5a6d8c944cc1bfa79c9dc2645a39.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3751,
+          "url": "https://media.sketchfab.com/avatars/d7b53d12cdc44528813748753c5947e5/b56ac25de3c940b5829c9a809c9d7d24.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4506,
+          "url": "https://media.sketchfab.com/avatars/d7b53d12cdc44528813748753c5947e5/14bd53020e5e4741be49ae74a81b9d54.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/dd7d3a9038294e96b14ead88507580cc"
+  },
+  "vertexCount": 18839,
+  "viewCount": 91922,
+  "viewerUrl": "https://sketchfab.com/3d-models/stylized-pirate-ship-1c62191534174bf7a67470fb02b97db1",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Stylized Pirate Ship with hold for your game or project. The ship also comes with a few props: cannon, box, barrel and pallet.\n\nFeatures: <br>\n- PBR workflow (metallic/roughness).<br>\n- The glow of the sails is only in the emission texture map. You can turn it on and off as you like.<br>\n- Ship uses 6 PBR materials, texture maps 2k size;<br>\n UV mapping: Yes, overlapping;<br>\n\nTriangle count: Stylized Pirate Ship: 17966 tris; Cannon: 1396 tris; Barrel: 428 tris; Box: 120 tris.\n\nDo not use two-sided polygon mapping. This is not required. I have duplicated and inverted polygons where required.\n\nI hope you will enjoy my product! If you have questions about this model or you have a problem send me:<br>\nArtstation: www.artstation.com/comeback   <br>\nEmail: c3posw@mail.ru<br>\nI believe this world is beautiful and all problems can be solved!",
+  "price": null,
+  "downloadCount": 7469,
+  "editorUrl": "https://sketchfab.com/models/1c62191534174bf7a67470fb02b97db1/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-21T05:03:37.569530",
+  "pbrType": "metalness",
+  "textureCount": 38,
+  "materialCount": 7
+}

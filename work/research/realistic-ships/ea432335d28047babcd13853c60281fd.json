@@ -1,0 +1,141 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-04-09T03:44:56.373605",
+  "embedUrl": "https://sketchfab.com/models/ea432335d28047babcd13853c60281fd/embed",
+  "faceCount": 152050,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 9,
+  "name": "Ghost of the Seas - galleon",
+  "publishedAt": "2025-04-09T03:55:10.775519",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "142d2a0d239043cca7c2efc0ebfbdee2",
+        "width": 1920,
+        "height": 1080,
+        "size": 181329,
+        "url": "https://media.sketchfab.com/models/ea432335d28047babcd13853c60281fd/thumbnails/795f12bd2bfe43249702f6490db1fd9c/b1591aef168048f68f276a2a3cf6dc1e.jpeg"
+      },
+      {
+        "uid": "93b60b44d84d4599bc1ff48b85759d68",
+        "width": 1024,
+        "height": 576,
+        "size": 65743,
+        "url": "https://media.sketchfab.com/models/ea432335d28047babcd13853c60281fd/thumbnails/795f12bd2bfe43249702f6490db1fd9c/b22297acbc984dbdbb933631e91d297a.jpeg"
+      },
+      {
+        "uid": "3ce17169701242ef975bbeb8f7c97081",
+        "width": 720,
+        "height": 405,
+        "size": 39320,
+        "url": "https://media.sketchfab.com/models/ea432335d28047babcd13853c60281fd/thumbnails/795f12bd2bfe43249702f6490db1fd9c/97ab2ec7a02643a58d5307a806bff47a.jpeg"
+      },
+      {
+        "uid": "e868b088b05b499d867a39990255d89d",
+        "width": 256,
+        "height": 144,
+        "size": 8671,
+        "url": "https://media.sketchfab.com/models/ea432335d28047babcd13853c60281fd/thumbnails/795f12bd2bfe43249702f6490db1fd9c/cadfbd39ee6d41d48dbc4a697b0947c1.jpeg"
+      },
+      {
+        "uid": "f87161fe5cfc4df491dc9ba18eaa0b9a",
+        "width": 64,
+        "height": 36,
+        "size": 1540,
+        "url": "https://media.sketchfab.com/models/ea432335d28047babcd13853c60281fd/thumbnails/795f12bd2bfe43249702f6490db1fd9c/5c25c9ed84614cb391fb330cdc31b2cd.jpeg"
+      }
+    ]
+  },
+  "uid": "ea432335d28047babcd13853c60281fd",
+  "uri": "https://api.sketchfab.com/v3/models/ea432335d28047babcd13853c60281fd",
+  "user": {
+    "uid": "97940a6dfa434d689838641c6c168fa4",
+    "username": "CMBC",
+    "displayName": "Brian Trepanier",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/CMBC",
+    "avatar": {
+      "uid": "ade567e10ef64375b161d0643e1022c1",
+      "uri": "https://api.sketchfab.com/v3/avatars/ade567e10ef64375b161d0643e1022c1",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1088,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/c05e99b953a4434b851214a3210bc857.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1577,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/a533f6ed9b064b7cbc69810930aa884b.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3730,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/9e9de1ad43894ab1ae4e209ec49d2925.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4309,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/906497c62ca4436da40577f57abdea0a.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/97940a6dfa434d689838641c6c168fa4"
+  },
+  "vertexCount": 75829,
+  "viewCount": 627,
+  "viewerUrl": "https://sketchfab.com/3d-models/ghost-of-the-seas-galleon-ea432335d28047babcd13853c60281fd",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Off the misty coast, a weathered galleon drifts silently, its towering masts slicing through the fog. Once a proud vessel of exploration and war, the ship now creaks with age, its sails faded to a ghostly white, fluttering like whispers of history.\n\nBuilt in the 1600s, this wooden giant carried gold, spices, and secrets across the treacherous oceans. Its hull, blackened by time and storm, still bears scars of cannon fire and salt. Barnacles cling to its flanks, and rope ladders sway gently in the breeze, untouched for decades.\n\nLegends surround the ship. Some say it vanished in a storm and returned untouched years later, its crew never found. Others claim to hear singing from its decks on quiet nights.\n\nNow, the galleon sits as a floating monument to an age of sails, salt, and shadow. It doesn’t speak—but if you listen close, the wind might carry its stories.",
+  "price": null,
+  "downloadCount": 87,
+  "editorUrl": "https://sketchfab.com/models/ea432335d28047babcd13853c60281fd/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "blender-exporter",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-04-09T03:56:59.924170",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

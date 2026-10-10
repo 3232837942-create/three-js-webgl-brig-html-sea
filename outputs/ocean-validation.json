@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-11",
+  "heightSamples": 38880,
+  "uniforms": "all bound",
+  "geometry": "finite",
+  "waveScaling": "4x verified",
+  "wakeDecay": "expired",
+  "browserVisualCheck": {
+    "day": "visible",
+    "night": "water and lit ship visible; checked before final storm tuning",
+    "dusk": "visible",
+    "storm2x": "rain, swells and foam visible",
+    "movingShip": "bow shoulders and persistent stern trail visible",
+    "shaderErrors": 0
+  },
+  "finalWaveSamples": 600,
+  "standaloneOutputs": "identical",
+  "waterVertices": 263169
+}

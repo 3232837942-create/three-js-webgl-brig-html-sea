@@ -1,0 +1,246 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2022-12-19T12:09:44.834854",
+  "embedUrl": "https://sketchfab.com/models/99276cd07de64d8db894bade93d82322/embed",
+  "faceCount": 15245955,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 30,
+  "name": "Skull's Eye Schooner",
+  "publishedAt": "2022-12-19T12:13:32.141287",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "skulls",
+      "slug": "skulls",
+      "uri": "https://api.sketchfab.com/v3/tags/skulls"
+    },
+    {
+      "name": "eye",
+      "slug": "eye",
+      "uri": "https://api.sketchfab.com/v3/tags/eye"
+    },
+    {
+      "name": "set",
+      "slug": "set",
+      "uri": "https://api.sketchfab.com/v3/tags/set"
+    },
+    {
+      "name": "toys",
+      "slug": "toys",
+      "uri": "https://api.sketchfab.com/v3/tags/toys"
+    },
+    {
+      "name": "lego",
+      "slug": "lego",
+      "uri": "https://api.sketchfab.com/v3/tags/lego"
+    },
+    {
+      "name": "the",
+      "slug": "the",
+      "uri": "https://api.sketchfab.com/v3/tags/the"
+    },
+    {
+      "name": "Schooner",
+      "slug": "schooner",
+      "uri": "https://api.sketchfab.com/v3/tags/schooner"
+    },
+    {
+      "name": "90s",
+      "slug": "90s",
+      "uri": "https://api.sketchfab.com/v3/tags/90s"
+    },
+    {
+      "name": "1993",
+      "slug": "1993",
+      "uri": "https://api.sketchfab.com/v3/tags/1993"
+    },
+    {
+      "name": "bricklink-studio",
+      "slug": "bricklink-studio",
+      "uri": "https://api.sketchfab.com/v3/tags/bricklink-studio"
+    },
+    {
+      "name": "skull",
+      "slug": "skull",
+      "uri": "https://api.sketchfab.com/v3/tags/skull"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "uri": "https://api.sketchfab.com/v3/tags/1"
+    },
+    {
+      "name": "black",
+      "slug": "black",
+      "uri": "https://api.sketchfab.com/v3/tags/black"
+    },
+    {
+      "name": "pirates",
+      "slug": "pirates",
+      "uri": "https://api.sketchfab.com/v3/tags/pirates"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    },
+    {
+      "name": "6286",
+      "slug": "6286",
+      "uri": "https://api.sketchfab.com/v3/tags/6286"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "fba9f682b19b4d4ba7de457696294751",
+        "width": 1920,
+        "height": 1080,
+        "size": 162960,
+        "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/eaaa5f91b4c8414c85dd5a64f1669a6e.jpeg"
+      },
+      {
+        "uid": "912788614da2420fbe8ed062575a023c",
+        "width": 1024,
+        "height": 576,
+        "size": 60057,
+        "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/65c32bbf5c044c789ae89312dea7dca7.jpeg"
+      },
+      {
+        "uid": "414b9aa936054a72a3155d9349c4bc74",
+        "width": 720,
+        "height": 405,
+        "size": 36734,
+        "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/3c271c9e5af94f53815ad6157f005e1b.jpeg"
+      },
+      {
+        "uid": "0678066fbd4d46b180259226c91b9177",
+        "width": 256,
+        "height": 144,
+        "size": 7693,
+        "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/5d98c4242ac245bdb4d74bbba35d44b6.jpeg"
+      },
+      {
+        "uid": "3fcf28af57c241d791821c480405c631",
+        "width": 64,
+        "height": 36,
+        "size": 1346,
+        "url": "https://media.sketchfab.com/models/99276cd07de64d8db894bade93d82322/thumbnails/2a1b83954ab54c499b2d52b96f7f3360/b815187ddc784977b63624d68fe253ae.jpeg"
+      }
+    ]
+  },
+  "uid": "99276cd07de64d8db894bade93d82322",
+  "uri": "https://api.sketchfab.com/v3/models/99276cd07de64d8db894bade93d82322",
+  "user": {
+    "uid": "691b899adfec472f8a257c51d05c2775",
+    "username": "reginmoller",
+    "displayName": "reginmoller",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/reginmoller",
+    "avatar": {
+      "uid": "3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+      "uri": "https://api.sketchfab.com/v3/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 680,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/116042a0854e40538adab302b593683d.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1253,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/efea16be51d04eb7a00cb9ea0b43b87f.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2797,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/ac9b469ccec74caf923a81fb2f0be3ed.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3215,
+          "url": "https://media.sketchfab.com/avatars/3ef1bd11d3eb4b57a0b353e8f2e5fc3e/a075e1d43d2f446c949b5967b470c757.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/691b899adfec472f8a257c51d05c2775"
+  },
+  "vertexCount": 9717752,
+  "viewCount": 1817,
+  "viewerUrl": "https://sketchfab.com/3d-models/skulls-eye-schooner-99276cd07de64d8db894bade93d82322",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "LEGO 6286-1  *Skull's Eye Schooner*  - also known as *The Black Skull*\n\n![](https://images.brickset.com/sets/images/6286-1.jpg)\n\nA classic lego set first realeased in 1993 as part of the *Pirates* theme. The set came with nine minifigures, a parrot, monkey and shark. \nThe four cannons on the deck could rotate and in the none-US version the cannons could fire the small Round 1x1 Brick.\n\nThere would be two hatched to open compartents in the bow and in the stern the sides could rotate out and its roof could removed further exposing its interior.\n\nAnother interesting note is that it came with a functioning compass.\n![](http://img.bricklink.com/ItemImage/PN/11/70001pb02.png)\n\nCreated using bricklink studio\nhttps://www.bricklink.com/v3/studio/download.page",
+  "price": null,
+  "downloadCount": 835,
+  "editorUrl": "https://sketchfab.com/models/99276cd07de64d8db894bade93d82322/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "bricklink-studio",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-12-19T12:40:23.284888",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 27
+}

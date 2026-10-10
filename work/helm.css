@@ -1,0 +1,21 @@
+#rudder{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+.steering-wrap{display:grid;place-items:center;margin:12px 0 8px}
+.steering-wheel{position:relative;width:192px;height:192px;touch-action:none;user-select:none;cursor:grab;border-radius:50%;outline:none;-webkit-tap-highlight-color:transparent}
+.helm-art{display:block;width:100%;height:100%;overflow:visible;pointer-events:none;filter:drop-shadow(0 5px 4px #0008)}
+.helm-rotor{transform-origin:120px 120px;transform:rotate(var(--helm-turn,0deg))}
+.steering-wheel:focus-visible{outline:2px solid #edcf86;outline-offset:5px;background:#eac7750c}
+.steering-wheel.is-gripping{cursor:grabbing;background:radial-gradient(circle,#edc87c16,transparent 65%)}
+.steering-wheel.at-limit:after{content:'';position:absolute;inset:4px;border:1px solid #e6b77366;border-radius:50%;pointer-events:none}
+.steer-readout{text-align:center;font-size:12px;font-variant-numeric:tabular-nums;color:#f0dfbb;min-width:90px;letter-spacing:1px}
+.quick-steer{position:absolute;right:28px;bottom:205px;display:grid;justify-items:center;gap:4px;pointer-events:auto;padding:10px 12px 9px;border:1px solid #dcc59133;border-radius:12px;background:radial-gradient(ellipse at center,#112c36b8,#10263165 75%);backdrop-filter:blur(5px);text-shadow:0 2px 4px #0008}
+.quick-steer:before{content:'';position:absolute;top:7px;left:calc(50% - 3px);border-left:3px solid transparent;border-right:3px solid transparent;border-top:5px solid #ecd6a0}
+.quick-steer .steering-wheel{width:138px;height:138px}
+.quick-steer small{font-size:10px;line-height:1.5;color:#d2dfdb}
+.quick-center{border:1px solid #c4aa7255;border-radius:4px;padding:5px 14px;background:#071d2866;color:#eedab0;font-size:11px;cursor:pointer}
+.quick-center:hover,.quick-center:focus-visible{background:#c4aa7233;outline:1px solid #d7bb80}
+body[data-view="first"] .quick-steer{display:none}
+body:has(.panel.open) .quick-steer{visibility:hidden}
+@media(max-width:900px){.quick-steer{right:18px;padding:8px 10px}.quick-steer .steering-wheel{width:120px;height:120px}}
+@media(max-width:620px){.quick-steer{right:16px;bottom:245px;padding:7px 8px;gap:2px}.quick-steer .steering-wheel{width:96px;height:96px}.quick-steer small{display:none}.quick-center{padding:4px 12px}}
+@media(max-height:640px) and (min-width:621px){.quick-steer{bottom:178px;right:20px;gap:1px;padding:6px 8px}.quick-steer .steering-wheel{width:100px;height:100px}.quick-steer small{display:none}}
+@media(max-height:520px) and (min-width:621px){.lesson,.mini{display:none}.quick-steer{bottom:128px;right:18px;grid-template-columns:76px 74px;gap:3px 6px}.quick-steer .steering-wheel{width:76px;height:76px;grid-row:1/3}.quick-steer .steer-readout{min-width:0;font-size:11px;align-self:end}.quick-steer:before{display:none}.quick-center{align-self:start}}

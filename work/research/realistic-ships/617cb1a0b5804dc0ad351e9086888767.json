@@ -1,0 +1,231 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+      "name": "Sports & Fitness",
+      "slug": "sports-fitness",
+      "uri": "https://api.sketchfab.com/v3/categories/ac8a0065d9e34fca8a3ffa9c6db39bff",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/2cc5442dbf0aeeed5327cbf073964157-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/ac8a0065d9e34fca8a3ffa9c6db39bff/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 2,
+  "createdAt": "2021-11-22T20:31:41.446965",
+  "embedUrl": "https://sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/embed",
+  "faceCount": 8541029,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 19,
+  "name": "Race Optimist Boat",
+  "publishedAt": "2021-11-22T20:53:15.218383",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "sail",
+      "slug": "sail",
+      "uri": "https://api.sketchfab.com/v3/tags/sail"
+    },
+    {
+      "name": "sweden",
+      "slug": "sweden",
+      "uri": "https://api.sketchfab.com/v3/tags/sweden"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "uri": "https://api.sketchfab.com/v3/tags/ocean"
+    },
+    {
+      "name": "sailboat",
+      "slug": "sailboat",
+      "uri": "https://api.sketchfab.com/v3/tags/sailboat"
+    },
+    {
+      "name": "dinghy",
+      "slug": "dinghy",
+      "uri": "https://api.sketchfab.com/v3/tags/dinghy"
+    },
+    {
+      "name": "sailing-ship",
+      "slug": "sailing-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing-ship"
+    },
+    {
+      "name": "optimist",
+      "slug": "optimist",
+      "uri": "https://api.sketchfab.com/v3/tags/optimist"
+    },
+    {
+      "name": "optimistboat",
+      "slug": "optimistboat",
+      "uri": "https://api.sketchfab.com/v3/tags/optimistboat"
+    },
+    {
+      "name": "blender",
+      "slug": "blender",
+      "uri": "https://api.sketchfab.com/v3/tags/blender"
+    },
+    {
+      "name": "racing",
+      "slug": "racing",
+      "uri": "https://api.sketchfab.com/v3/tags/racing"
+    },
+    {
+      "name": "race",
+      "slug": "race",
+      "uri": "https://api.sketchfab.com/v3/tags/race"
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "uri": "https://api.sketchfab.com/v3/tags/sea"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "ce3adfabfd0746eda00c846487e3c2ca",
+        "width": 1920,
+        "height": 1080,
+        "size": 70449,
+        "url": "https://media.sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/thumbnails/acc0d0d23bd243f89cbb5faf321da39a/8b91c8a0abc0428694e82d3f1730588b.jpeg"
+      },
+      {
+        "uid": "e66ec5cf94764cbfb66264936345d95d",
+        "width": 1024,
+        "height": 576,
+        "size": 25357,
+        "url": "https://media.sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/thumbnails/acc0d0d23bd243f89cbb5faf321da39a/015f3fdeffc9491788d2f40eee14b775.jpeg"
+      },
+      {
+        "uid": "457129dbc0734686aca931ff2a750964",
+        "width": 720,
+        "height": 405,
+        "size": 15038,
+        "url": "https://media.sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/thumbnails/acc0d0d23bd243f89cbb5faf321da39a/ff138cffad564ea7a8234c30a4897dd4.jpeg"
+      },
+      {
+        "uid": "13dfe3295e704acfb66adef5af8c154c",
+        "width": 256,
+        "height": 144,
+        "size": 3540,
+        "url": "https://media.sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/thumbnails/acc0d0d23bd243f89cbb5faf321da39a/698d9239e90a4f92871477a187812056.jpeg"
+      },
+      {
+        "uid": "7f558f13ca324e37bddda06c0af5b293",
+        "width": 64,
+        "height": 36,
+        "size": 982,
+        "url": "https://media.sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/thumbnails/acc0d0d23bd243f89cbb5faf321da39a/b3de2b49bd5e45839b1a5e013451bd08.jpeg"
+      }
+    ]
+  },
+  "uid": "617cb1a0b5804dc0ad351e9086888767",
+  "uri": "https://api.sketchfab.com/v3/models/617cb1a0b5804dc0ad351e9086888767",
+  "user": {
+    "uid": "4b0d07724ffb4f2d9a507e4b5f09fef7",
+    "username": "hans.fredo",
+    "displayName": "Hancock",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/hans.fredo",
+    "avatar": {
+      "uid": "477d4349e1f64470a3e0caf1ac89fb32",
+      "uri": "https://api.sketchfab.com/v3/avatars/477d4349e1f64470a3e0caf1ac89fb32",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1008,
+          "url": "https://media.sketchfab.com/avatars/477d4349e1f64470a3e0caf1ac89fb32/621610f2783349e085233fc72bc2a5ff.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1415,
+          "url": "https://media.sketchfab.com/avatars/477d4349e1f64470a3e0caf1ac89fb32/b53e2eb61b0e4f9286255fb02928e8df.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3015,
+          "url": "https://media.sketchfab.com/avatars/477d4349e1f64470a3e0caf1ac89fb32/c20c27e6da3d4016b1aab7e476ab4627.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3564,
+          "url": "https://media.sketchfab.com/avatars/477d4349e1f64470a3e0caf1ac89fb32/f1c18863dcd74dd9b90ec68a444ba984.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/4b0d07724ffb4f2d9a507e4b5f09fef7"
+  },
+  "vertexCount": 4267748,
+  "viewCount": 5268,
+  "viewerUrl": "https://sketchfab.com/3d-models/race-optimist-boat-617cb1a0b5804dc0ad351e9086888767",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "I made updated and more realistic version of my previous Dinghy [Optimist Boat]. This time its modeled after a Swedish Optimist boat made for races. The text is removable if you want to put anything els in the sails.\n\nHeres a image of all the parts if your confused by them:\nhttps://gyazo.com/af00d0dba3eb9429db9db46e77cd81cf\n\n(OBS!!! I compressed the Blender files to RAR so you need to unzip the files if you download it. The Blender file is about 500MB large.)",
+  "price": null,
+  "downloadCount": 1079,
+  "editorUrl": "https://sketchfab.com/models/617cb1a0b5804dc0ad351e9086888767/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-20T14:00:20.131036",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 20
+}

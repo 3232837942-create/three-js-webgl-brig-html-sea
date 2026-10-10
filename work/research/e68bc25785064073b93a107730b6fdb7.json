@@ -1,0 +1,162 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2023-04-13T18:37:54.202036",
+  "embedUrl": "https://sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/embed",
+  "faceCount": 1188192,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 13,
+  "name": "Pirate ship with interior",
+  "publishedAt": "2023-04-13T18:39:42.569556",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "cruise",
+      "slug": "cruise",
+      "uri": "https://api.sketchfab.com/v3/tags/cruise"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "03b9bc952ada4731ba8b339931211bfc",
+        "width": 1920,
+        "height": 1080,
+        "size": 71461,
+        "url": "https://media.sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/thumbnails/0d9fd9f882be40048e7003aaa834647f/d934bf5252dc4de6b7bd4ce6d6b9ad20.jpeg"
+      },
+      {
+        "uid": "66cc39804dc243fcaf127378cc0ae96a",
+        "width": 1024,
+        "height": 576,
+        "size": 22172,
+        "url": "https://media.sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/thumbnails/0d9fd9f882be40048e7003aaa834647f/92bcc0618eca4337bc26f9ea5f781eb0.jpeg"
+      },
+      {
+        "uid": "23de6d9c9f594dbda7e6e0c38ae24040",
+        "width": 720,
+        "height": 405,
+        "size": 12198,
+        "url": "https://media.sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/thumbnails/0d9fd9f882be40048e7003aaa834647f/526ea04e2aad4f578dcd131367bee098.jpeg"
+      },
+      {
+        "uid": "297fa6bdb041406fa1ca539dc41c0142",
+        "width": 256,
+        "height": 144,
+        "size": 2486,
+        "url": "https://media.sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/thumbnails/0d9fd9f882be40048e7003aaa834647f/70156a0d87dd4c4e87bea63ca02de264.jpeg"
+      },
+      {
+        "uid": "93bd0f6b271541e697763de4da816031",
+        "width": 64,
+        "height": 36,
+        "size": 884,
+        "url": "https://media.sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/thumbnails/0d9fd9f882be40048e7003aaa834647f/a37623f3e2a04d6e9b24aabe0601b1a4.jpeg"
+      }
+    ]
+  },
+  "uid": "e68bc25785064073b93a107730b6fdb7",
+  "uri": "https://api.sketchfab.com/v3/models/e68bc25785064073b93a107730b6fdb7",
+  "user": {
+    "uid": "40a1e6bc7044402693b8c6d9587e1fc0",
+    "username": "gmanisdabossatbeastmode",
+    "displayName": "Gman The Cruise Dude",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/gmanisdabossatbeastmode",
+    "avatar": {
+      "uid": "c098af7b7a4b4aa698bc0a00e8c1652e",
+      "uri": "https://api.sketchfab.com/v3/avatars/c098af7b7a4b4aa698bc0a00e8c1652e",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1092,
+          "url": "https://media.sketchfab.com/avatars/c098af7b7a4b4aa698bc0a00e8c1652e/3e8b31c418d944a69ee7cb9e578af706.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1582,
+          "url": "https://media.sketchfab.com/avatars/c098af7b7a4b4aa698bc0a00e8c1652e/5a3742c1a00d42b99dddb64829d1948b.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3689,
+          "url": "https://media.sketchfab.com/avatars/c098af7b7a4b4aa698bc0a00e8c1652e/bd24ead567f24f9d93a952f842df09b5.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4324,
+          "url": "https://media.sketchfab.com/avatars/c098af7b7a4b4aa698bc0a00e8c1652e/4b337d187f5d4982b031af28dd9d0aaf.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/40a1e6bc7044402693b8c6d9587e1fc0"
+  },
+  "vertexCount": 881391,
+  "viewCount": 481,
+  "viewerUrl": "https://sketchfab.com/3d-models/pirate-ship-with-interior-e68bc25785064073b93a107730b6fdb7",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "dont we love em",
+  "price": null,
+  "downloadCount": 164,
+  "editorUrl": "https://sketchfab.com/models/e68bc25785064073b93a107730b6fdb7/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-04-13T18:39:42.750822",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 49
+}

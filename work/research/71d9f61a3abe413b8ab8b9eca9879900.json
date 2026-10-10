@@ -1,0 +1,172 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2020-09-02T21:00:28.997668",
+  "embedUrl": "https://sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/embed",
+  "faceCount": 8072,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 219,
+  "name": "Ship cannon",
+  "publishedAt": "2020-09-02T21:35:42.801703",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "Cannon",
+      "slug": "cannon",
+      "uri": "https://api.sketchfab.com/v3/tags/cannon"
+    },
+    {
+      "name": "maya2019",
+      "slug": "maya2019",
+      "uri": "https://api.sketchfab.com/v3/tags/maya2019"
+    },
+    {
+      "name": "substancepainter",
+      "slug": "substancepainter",
+      "uri": "https://api.sketchfab.com/v3/tags/substancepainter"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "zbrush",
+      "slug": "zbrush",
+      "uri": "https://api.sketchfab.com/v3/tags/zbrush"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "899e4a5b9bfb4c29ba8fa820c81160e7",
+        "width": 1920,
+        "height": 1080,
+        "size": 222638,
+        "url": "https://media.sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/thumbnails/7a557c9c0192406ba9cef6e12eea8be0/6d8520a7b4e543f780ad9a378de4a37a.jpeg"
+      },
+      {
+        "uid": "aaf57e8cfd03458f96600369ddd24cca",
+        "width": 1024,
+        "height": 576,
+        "size": 41959,
+        "url": "https://media.sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/thumbnails/7a557c9c0192406ba9cef6e12eea8be0/7ca46d0e9e1d4c3bb0c1325a636e7a74.jpeg"
+      },
+      {
+        "uid": "c5ff1a348df74e92b8b4f7ee014c14e9",
+        "width": 720,
+        "height": 405,
+        "size": 21729,
+        "url": "https://media.sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/thumbnails/7a557c9c0192406ba9cef6e12eea8be0/e367b5bfefd44d41b18b44a8d2f1482a.jpeg"
+      },
+      {
+        "uid": "6a015f2c88f44c629b7ff71ef3ab8a9f",
+        "width": 256,
+        "height": 144,
+        "size": 4183,
+        "url": "https://media.sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/thumbnails/7a557c9c0192406ba9cef6e12eea8be0/ca2899ab6e724e7d9d0b9b90eaeb19e2.jpeg"
+      },
+      {
+        "uid": "7f3ccc709e114890b19f74198ab8ac04",
+        "width": 64,
+        "height": 36,
+        "size": 1061,
+        "url": "https://media.sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/thumbnails/7a557c9c0192406ba9cef6e12eea8be0/699b9fdaf2c64a509da6be150c83d409.jpeg"
+      }
+    ]
+  },
+  "uid": "71d9f61a3abe413b8ab8b9eca9879900",
+  "uri": "https://api.sketchfab.com/v3/models/71d9f61a3abe413b8ab8b9eca9879900",
+  "user": {
+    "uid": "e7df6ef2fd224453b79002fa80491b81",
+    "username": "alexxx_xarchenko",
+    "displayName": "alexxx_xarchenko",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/alexxx_xarchenko",
+    "avatar": {
+      "uid": "72346e28568c4ea58c02eec232db4511",
+      "uri": "https://api.sketchfab.com/v3/avatars/72346e28568c4ea58c02eec232db4511",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 615,
+          "url": "https://media.sketchfab.com/avatars/72346e28568c4ea58c02eec232db4511/17237156b3da436c9091d8f0f9b86808.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 896,
+          "url": "https://media.sketchfab.com/avatars/72346e28568c4ea58c02eec232db4511/a138b82d592d4387849acc3fd5bc90d8.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2106,
+          "url": "https://media.sketchfab.com/avatars/72346e28568c4ea58c02eec232db4511/58dbb3aae2ed4d30babf21e451932f88.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2457,
+          "url": "https://media.sketchfab.com/avatars/72346e28568c4ea58c02eec232db4511/ebf9bf9cd9a141269c62d5c0bf42147e.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/e7df6ef2fd224453b79002fa80491b81"
+  },
+  "vertexCount": 4356,
+  "viewCount": 10571,
+  "viewerUrl": "https://sketchfab.com/3d-models/ship-cannon-71d9f61a3abe413b8ab8b9eca9879900",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Ship cannon",
+  "price": null,
+  "downloadCount": 3185,
+  "editorUrl": "https://sketchfab.com/models/71d9f61a3abe413b8ab8b9eca9879900/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-20T06:21:52.204510",
+  "pbrType": "metalness",
+  "textureCount": 5,
+  "materialCount": 1
+}

@@ -1,0 +1,670 @@
+{
+  "cursors": {
+    "next": null,
+    "previous": null
+  },
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "uid": "0bb0bc1489e241e4b04fb28b5c7f027f",
+      "slug": "chiesa-di-san-grato-a-sala-monferrato",
+      "name": "Chiesa di San Grato a Sala Monferrato",
+      "staffpickedAt": null,
+      "viewCount": 516,
+      "likeCount": 27,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/chiesa-di-san-grato-a-sala-monferrato-0bb0bc1489e241e4b04fb28b5c7f027f",
+      "embedUrl": "https://sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 160,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-03-11T07:16:54.154241",
+      "thumbnails": {
+        "uid": "f934b05dd227402e8010f037f2d35f0c",
+        "images": [
+          {
+            "uid": "bcd4ead492364b8389c9c978576ad5ea",
+            "size": 302281,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/45d374bbadde4dabace6f59be31b5855.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "3da3d8e97b504045830b2857ca45a16b",
+            "size": 84193,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/6a2a66753f7d4bccb1be0415c5a3d483.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "86a83ef399264018abce164549bc03ab",
+            "size": 43287,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/fd17828fec6d49f587a5362415f24841.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "91e5ae015abb46038b472f53eeb0f97d",
+            "size": 6593,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/8662d74c0ac74c2ebc4e7c11c4c3cfd7.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "c9109cdf8b8544cb84240b9c606a4d8f",
+            "size": 1243,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/270c44189e5f4add800f17add2aa4d23.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "90f4bd89c89c479fbf9831f593be326d",
+        "displayName": "Giorgio Scioldo",
+        "account": "pro",
+        "username": "giorgioscioldo",
+        "avatars": {
+          "uid": "ccc588fbdfc44e3dae980f451e7eea64",
+          "images": [
+            {
+              "size": 788,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/c4896796715943739fa77a86cfce2ff8.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1278,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/f8e9bb7d012a418686641bd6bb21b029.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3257,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/19b34b6625ba4ef48ac0d29a9f739e1c.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3859,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/c76eaee4c8d345b58a138fda45eebfd8.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/giorgioscioldo"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "f825c721edb541dbbc8cd210123616c7",
+          "name": "Architecture",
+          "slug": "architecture"
+        },
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "9ff5b524a3714aa3b5505c68287cec02",
+      "slug": "psyche-revived-by-cupids-kiss",
+      "name": "Psyche Revived by Cupid's Kiss",
+      "staffpickedAt": null,
+      "viewCount": 9676,
+      "likeCount": 84,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/psyche-revived-by-cupids-kiss-9ff5b524a3714aa3b5505c68287cec02",
+      "embedUrl": "https://sketchfab.com/models/9ff5b524a3714aa3b5505c68287cec02/embed",
+      "publicCommentCount": 2,
+      "downloadType": "store",
+      "downloadCount": 7,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2021-08-26T09:23:58.677170",
+      "thumbnails": {
+        "uid": "90d834c9d3ea4617928994a2a2c49ea0",
+        "images": [
+          {
+            "uid": "20dfd23cf90f487689d645ae4985f29a",
+            "size": 184920,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/9ff5b524a3714aa3b5505c68287cec02/thumbnails/90d834c9d3ea4617928994a2a2c49ea0/ec25d42bdee94500b464d46905931c3e.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "4d5e872f7eec4e5d82191f0ea1409d33",
+            "size": 49687,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/9ff5b524a3714aa3b5505c68287cec02/thumbnails/90d834c9d3ea4617928994a2a2c49ea0/cd6a8eddeb8c4a96958fd4a866b606be.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "5969814b9083435bb4464dcd457c00df",
+            "size": 27234,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/9ff5b524a3714aa3b5505c68287cec02/thumbnails/90d834c9d3ea4617928994a2a2c49ea0/9f6dcbf1ec2f47f2be879c0b3905e5d0.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "0e42b3ac8c3e4585b548e8cae74687fb",
+            "size": 5208,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/9ff5b524a3714aa3b5505c68287cec02/thumbnails/90d834c9d3ea4617928994a2a2c49ea0/479dfb67a8694e4086c50ea01bd01aeb.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "478b63eb023a4a3281d5aaea32e06d45",
+            "size": 1201,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/9ff5b524a3714aa3b5505c68287cec02/thumbnails/90d834c9d3ea4617928994a2a2c49ea0/432254c2764c4098bb20cf5b7c4e9619.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "34ba5fee73144bdd823c1ab609285bca",
+        "displayName": "Raphaël",
+        "account": "prem",
+        "username": "raphael",
+        "avatars": {
+          "uid": "c5b9ee53936445ad9eca06f5272b68dd",
+          "images": [
+            {
+              "size": 2710,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/c5b9ee53936445ad9eca06f5272b68dd/038c3076d3064cf9988bec232bdc022e.jpeg",
+              "height": 100
+            },
+            {
+              "size": 2289,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/c5b9ee53936445ad9eca06f5272b68dd/8a571e23bd484bc09aced0e996fd4de0.jpeg",
+              "height": 90
+            },
+            {
+              "size": 1099,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/c5b9ee53936445ad9eca06f5272b68dd/aacb5a0f539848af8095e0d9539847b9.jpeg",
+              "height": 48
+            },
+            {
+              "size": 725,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/c5b9ee53936445ad9eca06f5272b68dd/57357c3a9f3d45008d67c4b4a2021567.jpeg",
+              "height": 32
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/raphael"
+      },
+      "price": 5000,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": true,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "e56c5de1e9344241909de76c5886f551",
+          "name": "Art & Abstract",
+          "slug": "art-abstract"
+        },
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "affee073a3224ff0add99d6581b2218e",
+      "slug": "commemorative-plaque-jan-karel-zdenko-kotera",
+      "name": "Commemorative plaque - Jan Karel Zdenko Kotěra",
+      "staffpickedAt": null,
+      "viewCount": 253,
+      "likeCount": 11,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/commemorative-plaque-jan-karel-zdenko-kotera-affee073a3224ff0add99d6581b2218e",
+      "embedUrl": "https://sketchfab.com/models/affee073a3224ff0add99d6581b2218e/embed",
+      "publicCommentCount": 2,
+      "downloadType": "free",
+      "downloadCount": 96,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2017-07-18T09:57:40.159868",
+      "thumbnails": {
+        "uid": "79cc7e2f78be40638c33de1be199a3eb",
+        "images": [
+          {
+            "uid": "9e8ebad67a5c4bbf9c59515b21f63556",
+            "size": 87250,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/1024x576.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "8e5643ad0b4a4b33b576f09171859f13",
+            "size": 45169,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/720x405.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "c205b53b59994eaf95fcbb29db98ac99",
+            "size": 7468,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/256x144.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "00917aa953294a529ca46eac6a63d149",
+            "size": 1268,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/affee073a3224ff0add99d6581b2218e/thumbnails/79cc7e2f78be40638c33de1be199a3eb/64x36.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "56b017a4f5a94a12b029692e61ec3dab",
+        "displayName": "3dhdscan",
+        "account": "basic",
+        "username": "3dhdscan",
+        "avatars": {
+          "uid": "8a719802f04443328e6f851e04c97f0d",
+          "images": [
+            {
+              "size": 1252,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/651d16522ad54854bf2b9401855dae45.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1803,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/1e5ad91e53ed4b68b6cebeea44327471.jpeg",
+              "height": 48
+            },
+            {
+              "size": 4066,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/6ae506f72563454e9dbc7c4fbc38984d.jpeg",
+              "height": 90
+            },
+            {
+              "size": 4600,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/8a719802f04443328e6f851e04c97f0d/629d3393be2c48a1b6f244a5f661ebbb.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/3dhdscan"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        },
+        {
+          "uid": "93e6d27da62149c6b963039835f45997",
+          "name": "People",
+          "slug": "people"
+        }
+      ]
+    },
+    {
+      "uid": "fead8004a9b6404ab27ccd16be2db130",
+      "slug": "cannon",
+      "name": "Cannon",
+      "staffpickedAt": null,
+      "viewCount": 104,
+      "likeCount": 6,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/cannon-fead8004a9b6404ab27ccd16be2db130",
+      "embedUrl": "https://sketchfab.com/models/fead8004a9b6404ab27ccd16be2db130/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 72,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2024-06-15T17:22:45.876551",
+      "thumbnails": {
+        "uid": "1e2ad83146f24d8a9f5bd8affe853147",
+        "images": [
+          {
+            "uid": "5311abdf9b114640b228f9170e70d0e6",
+            "size": 79313,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/fead8004a9b6404ab27ccd16be2db130/thumbnails/1e2ad83146f24d8a9f5bd8affe853147/91475db4036b4641be6e8422c21578eb.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "7ee9d36a616546d4a8b10c45a36e135e",
+            "size": 24811,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/fead8004a9b6404ab27ccd16be2db130/thumbnails/1e2ad83146f24d8a9f5bd8affe853147/c19c4136c0274b1f828b2fa7812daaee.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "cb9edf220b614a58849389aec8f22cb2",
+            "size": 14354,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/fead8004a9b6404ab27ccd16be2db130/thumbnails/1e2ad83146f24d8a9f5bd8affe853147/d3dcef011df94c76b4afd1626a947b10.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "0869d7106af842749f194046409a3d73",
+            "size": 3262,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/fead8004a9b6404ab27ccd16be2db130/thumbnails/1e2ad83146f24d8a9f5bd8affe853147/38f84cf6e2fe480eb02caaa579533605.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "edfcc4248026481fa98ba41db6e52969",
+            "size": 976,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/fead8004a9b6404ab27ccd16be2db130/thumbnails/1e2ad83146f24d8a9f5bd8affe853147/3d1420e4d1bd4ba78e57078ee1d20ac4.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "06f16a81ce4d4958829dffa9b70e2e95",
+        "displayName": "Evan16",
+        "account": "basic",
+        "username": "evan_16",
+        "avatars": {
+          "uid": "45678111d84c45f0bec2c0a596b05228",
+          "images": [
+            {
+              "size": 929,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/45678111d84c45f0bec2c0a596b05228/0136255d0fe544f9aed01eae3f62327b.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1148,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/45678111d84c45f0bec2c0a596b05228/e5fd4a77d2ba44cc86fdfbda82889792.jpeg",
+              "height": 48
+            },
+            {
+              "size": 1823,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/45678111d84c45f0bec2c0a596b05228/ba05018278334b2984d8bdc48e5bd555.jpeg",
+              "height": 90
+            },
+            {
+              "size": 2049,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/45678111d84c45f0bec2c0a596b05228/1a9aed875fb44e11851e6a205663a584.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/evan_16"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "3badf36bd9f549bdba295334d75e04d3",
+          "name": "Weapons & Military",
+          "slug": "weapons-military"
+        }
+      ]
+    },
+    {
+      "uid": "ee4dc4079271477a9df921f857e5f6e5",
+      "slug": "winifred-quigly-1753-69-headstone",
+      "name": "Winifred Quigly (1753-69) Headstone",
+      "staffpickedAt": null,
+      "viewCount": 13,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/winifred-quigly-1753-69-headstone-ee4dc4079271477a9df921f857e5f6e5",
+      "embedUrl": "https://sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/embed",
+      "publicCommentCount": 1,
+      "downloadType": "free",
+      "downloadCount": 19,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2025-10-10T13:06:48.897742",
+      "thumbnails": {
+        "uid": "fef8d9ad4dc94e49aa3c64a883b86947",
+        "images": [
+          {
+            "uid": "d85bd6583a704750970382ea5483c1c6",
+            "size": 288026,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/99051771b8dd461695043b85d0b464d3.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "1daaa69e891c4cb19ec9e4789104265d",
+            "size": 92543,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/ed6acd62f963488d81afb7d24c6ce26b.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "1464927435494e4dac587938fabd8da2",
+            "size": 51264,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/2eef85bb48db4a6c914aacf037767898.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "ca6dc05b981f42c09eab60258d8c4b19",
+            "size": 7728,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/5b5a15779410495c855e1a2ffbde8e8b.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "e310b8c19c884e75a4a976ed3d2046f9",
+            "size": 1187,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/ee4dc4079271477a9df921f857e5f6e5/thumbnails/fef8d9ad4dc94e49aa3c64a883b86947/688a097908ed46589ec28a4d48521da4.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "bf1213522f6e4274ae0a2032dec28d2b",
+        "displayName": "tippstudies",
+        "account": "pro",
+        "username": "tippstudies",
+        "avatars": {
+          "uid": "ecc27d89765c473796167e61484997ec",
+          "images": [
+            {
+              "size": 1200,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/292dcd4a375f497aacfed96ece006d87.jpeg",
+              "height": 32
+            },
+            {
+              "size": 1603,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/22ca748b9b7542b8b97d0ece10d7873e.jpeg",
+              "height": 48
+            },
+            {
+              "size": 3039,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/41039d5b8a844b8ca72913fc55b244fc.jpeg",
+              "height": 90
+            },
+            {
+              "size": 3328,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/ecc27d89765c473796167e61484997ec/ff4480e6cef846e49ea5f7e610ebdf1f.jpeg",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/tippstudies"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "e56c5de1e9344241909de76c5886f551",
+          "name": "Art & Abstract",
+          "slug": "art-abstract"
+        },
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    },
+    {
+      "uid": "b7b40f9573f5456d89c8513b8ae7932e",
+      "slug": "churchclara-walter-okeeffe-stone",
+      "name": "Churchclara: Walter O'Keeffe Stone",
+      "staffpickedAt": null,
+      "viewCount": 14,
+      "likeCount": 0,
+      "animationCount": 0,
+      "viewerUrl": "https://sketchfab.com/3d-models/churchclara-walter-okeeffe-stone-b7b40f9573f5456d89c8513b8ae7932e",
+      "embedUrl": "https://sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/embed",
+      "publicCommentCount": 0,
+      "downloadType": "free",
+      "downloadCount": 7,
+      "isPublished": true,
+      "isRestricted": false,
+      "publishedAt": "2026-06-04T14:58:37.634286",
+      "thumbnails": {
+        "uid": "f1d7aa75861d42299703918a4d81ab0b",
+        "images": [
+          {
+            "uid": "e5e385ed0c564b95b9e9d9500ce5e117",
+            "size": 157774,
+            "width": 1920,
+            "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/f3198087d0a34f57861feb6564e5a234.jpeg",
+            "height": 1080
+          },
+          {
+            "uid": "ebc7c23331e44a33bce734126f9518ba",
+            "size": 37256,
+            "width": 1024,
+            "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/f8bf9cc534884a21b20499c4d9a5022e.jpeg",
+            "height": 576
+          },
+          {
+            "uid": "a31ce2ffb67c4b118275070e7f1ed1af",
+            "size": 19110,
+            "width": 720,
+            "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/fba6ec8c48814017b9b0de36a7686087.jpeg",
+            "height": 405
+          },
+          {
+            "uid": "397e90e9000c45c1b8f028da2d932cda",
+            "size": 3504,
+            "width": 256,
+            "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/a1e2a16820e74bd386e99cae905cf9d6.jpeg",
+            "height": 144
+          },
+          {
+            "uid": "aedaa18ed0ec4f09a8ee2ad9aaa7457c",
+            "size": 955,
+            "width": 64,
+            "url": "https://media.sketchfab.com/models/b7b40f9573f5456d89c8513b8ae7932e/thumbnails/f1d7aa75861d42299703918a4d81ab0b/6e2d0fb8d72f443fa8d97ee7dd6f8781.jpeg",
+            "height": 36
+          }
+        ]
+      },
+      "user": {
+        "uid": "4d9ac526066f4adc90a32dd57ddc42dc",
+        "displayName": "b-unicycling",
+        "account": "pro",
+        "username": "b-unicycling",
+        "avatars": {
+          "uid": "6993d14140a241a9ac3a5b48ab9b6abc",
+          "images": [
+            {
+              "size": 2335,
+              "width": 32,
+              "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/6baf43359e634dba8122684a52e0bb72.png",
+              "height": 32
+            },
+            {
+              "size": 4058,
+              "width": 48,
+              "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/7977252be95f4b3a82341af4778882b4.png",
+              "height": 48
+            },
+            {
+              "size": 8726,
+              "width": 90,
+              "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/ec8ce19d537049fdba0a5421e7a38503.png",
+              "height": 90
+            },
+            {
+              "size": 10011,
+              "width": 100,
+              "url": "https://media.sketchfab.com/avatars/6993d14140a241a9ac3a5b48ab9b6abc/e554dd6be43a4b3f9089c549228edb8c.png",
+              "height": 100
+            }
+          ]
+        },
+        "profileUrl": "https://sketchfab.com/b-unicycling"
+      },
+      "price": null,
+      "averageRating": 0,
+      "reviewCount": 0,
+      "inStore": false,
+      "isAiGenerated": false,
+      "org": null,
+      "visibility": "public",
+      "categories": [
+        {
+          "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+          "name": "Characters & Creatures",
+          "slug": "characters-creatures"
+        },
+        {
+          "uid": "86f23935367b4a1f9647c8a20e03d716",
+          "name": "Cultural Heritage & History",
+          "slug": "cultural-heritage-history"
+        }
+      ]
+    }
+  ]
+}

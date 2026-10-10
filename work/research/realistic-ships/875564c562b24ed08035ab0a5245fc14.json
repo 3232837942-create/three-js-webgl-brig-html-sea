@@ -1,0 +1,160 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-09-30T03:01:32.584195",
+  "embedUrl": "https://sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/embed",
+  "faceCount": 1821222,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 11,
+  "name": "Brass Leviathan - galleon",
+  "publishedAt": "2025-09-30T03:12:51.171334",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "e4ff6672f07a442299a56192d8c04875",
+        "width": 1920,
+        "height": 1080,
+        "size": 173638,
+        "url": "https://media.sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/thumbnails/21e56543e6294fd29559923222a2460c/bf145a6b518a425eaa8e7b6501c4670e.jpeg"
+      },
+      {
+        "uid": "aabbe7275bcf441098a555213389704a",
+        "width": 1024,
+        "height": 576,
+        "size": 58264,
+        "url": "https://media.sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/thumbnails/21e56543e6294fd29559923222a2460c/a30c83c6c3034210b71d54907817e6c9.jpeg"
+      },
+      {
+        "uid": "7259949d088d462fa84d2ed77f5e9ffc",
+        "width": 720,
+        "height": 405,
+        "size": 33397,
+        "url": "https://media.sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/thumbnails/21e56543e6294fd29559923222a2460c/dfbb0232f3ad4112bd6e28f2392c2cf3.jpeg"
+      },
+      {
+        "uid": "35e9b6da73894e38b7c92fbf674727ee",
+        "width": 256,
+        "height": 144,
+        "size": 6195,
+        "url": "https://media.sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/thumbnails/21e56543e6294fd29559923222a2460c/6b89031d5b044b18a6d2eb99ee0c0dad.jpeg"
+      },
+      {
+        "uid": "91f109cc98644d7090b9cbc40e4bfb6a",
+        "width": 64,
+        "height": 36,
+        "size": 1190,
+        "url": "https://media.sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/thumbnails/21e56543e6294fd29559923222a2460c/6610bfd032da49d5a1bb4d358bb409c1.jpeg"
+      }
+    ]
+  },
+  "uid": "875564c562b24ed08035ab0a5245fc14",
+  "uri": "https://api.sketchfab.com/v3/models/875564c562b24ed08035ab0a5245fc14",
+  "user": {
+    "uid": "97940a6dfa434d689838641c6c168fa4",
+    "username": "CMBC",
+    "displayName": "Brian Trepanier",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/CMBC",
+    "avatar": {
+      "uid": "ade567e10ef64375b161d0643e1022c1",
+      "uri": "https://api.sketchfab.com/v3/avatars/ade567e10ef64375b161d0643e1022c1",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1088,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/c05e99b953a4434b851214a3210bc857.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1577,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/a533f6ed9b064b7cbc69810930aa884b.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3730,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/9e9de1ad43894ab1ae4e209ec49d2925.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4309,
+          "url": "https://media.sketchfab.com/avatars/ade567e10ef64375b161d0643e1022c1/906497c62ca4436da40577f57abdea0a.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/97940a6dfa434d689838641c6c168fa4"
+  },
+  "vertexCount": 908510,
+  "viewCount": 677,
+  "viewerUrl": "https://sketchfab.com/3d-models/brass-leviathan-galleon-875564c562b24ed08035ab0a5245fc14",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Forged in the floating shipyards of Gearhold Bay, the Brass Leviathan was the crown jewel of the Aeronautic Armada, a galleon built not for war, but for wonder. Its hull, a fusion of aged timber and polished brass, houses a labyrinth of steam engines and gear-driven cannons. Legend says it was commissioned by the eccentric explorer Lady Virella, who sought to chart the skies above the Tempest Reaches. The ship’s figurehead, a brass muse with wind-swept hair, is said to whisper navigational secrets to the crew. Though its sails are worn and its pennants tattered, the Leviathan remains a beacon of steampunk ingenuity, an airborne relic of ambition, artistry, and adventure.",
+  "price": null,
+  "downloadCount": 64,
+  "editorUrl": "https://sketchfab.com/models/875564c562b24ed08035ab0a5245fc14/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "blender-exporter",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2025-09-30T03:13:28.850063",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

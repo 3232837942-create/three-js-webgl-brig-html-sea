@@ -1,0 +1,261 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2025-11-27T10:28:09.037813",
+  "embedUrl": "https://sketchfab.com/models/b097e67c207540628828ebb55afce914/embed",
+  "faceCount": 1385094,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 29,
+  "name": "GA Free_251_Weathered 18th Century Galleon",
+  "publishedAt": "2025-11-27T10:35:52.115298",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "wooden",
+      "slug": "wooden",
+      "uri": "https://api.sketchfab.com/v3/tags/wooden"
+    },
+    {
+      "name": "vintage",
+      "slug": "vintage",
+      "uri": "https://api.sketchfab.com/v3/tags/vintage"
+    },
+    {
+      "name": "historical",
+      "slug": "historical",
+      "uri": "https://api.sketchfab.com/v3/tags/historical"
+    },
+    {
+      "name": "vessel",
+      "slug": "vessel",
+      "uri": "https://api.sketchfab.com/v3/tags/vessel"
+    },
+    {
+      "name": "sailing",
+      "slug": "sailing",
+      "uri": "https://api.sketchfab.com/v3/tags/sailing"
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "uri": "https://api.sketchfab.com/v3/tags/ocean"
+    },
+    {
+      "name": "naval",
+      "slug": "naval",
+      "uri": "https://api.sketchfab.com/v3/tags/naval"
+    },
+    {
+      "name": "realistic",
+      "slug": "realistic",
+      "uri": "https://api.sketchfab.com/v3/tags/realistic"
+    },
+    {
+      "name": "galleon",
+      "slug": "galleon",
+      "uri": "https://api.sketchfab.com/v3/tags/galleon"
+    },
+    {
+      "name": "weathered",
+      "slug": "weathered",
+      "uri": "https://api.sketchfab.com/v3/tags/weathered"
+    },
+    {
+      "name": "3D Model,",
+      "slug": "3d-model",
+      "uri": "https://api.sketchfab.com/v3/tags/3d-model"
+    },
+    {
+      "name": "game-asset",
+      "slug": "game-asset",
+      "uri": "https://api.sketchfab.com/v3/tags/game-asset"
+    },
+    {
+      "name": "18th-century",
+      "slug": "18th-century",
+      "uri": "https://api.sketchfab.com/v3/tags/18th-century"
+    },
+    {
+      "name": "tattered",
+      "slug": "tattered",
+      "uri": "https://api.sketchfab.com/v3/tags/tattered"
+    },
+    {
+      "name": "high-detail",
+      "slug": "high-detail",
+      "uri": "https://api.sketchfab.com/v3/tags/high-detail"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    },
+    {
+      "name": "createdwithai",
+      "slug": "createdwithai",
+      "uri": "https://api.sketchfab.com/v3/tags/createdwithai"
+    },
+    {
+      "name": "ghost-ship",
+      "slug": "ghost-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ghost-ship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "52296a8b211b433d9d3780d6f906b1d5",
+        "width": 1920,
+        "height": 1080,
+        "size": 488420,
+        "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/a75c30611f804563962d10ed66020b66.jpeg"
+      },
+      {
+        "uid": "20b6a28d47cf4b6698e6c5e551580b89",
+        "width": 1024,
+        "height": 576,
+        "size": 60831,
+        "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/b977453c229d46f69bc20238a274ab2d.jpeg"
+      },
+      {
+        "uid": "b2d97eaecc3f4e77aace5ae6167c5481",
+        "width": 720,
+        "height": 405,
+        "size": 27070,
+        "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/ddc633ec6d2c46f8b268b55113e6a2f6.jpeg"
+      },
+      {
+        "uid": "a772a8e4cc01477cba758fc33c943591",
+        "width": 256,
+        "height": 144,
+        "size": 4097,
+        "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/29e2be30f8da401e93e13fa95edfd621.jpeg"
+      },
+      {
+        "uid": "ffaecfebf0e140a38bb36118f5d31f57",
+        "width": 64,
+        "height": 36,
+        "size": 1059,
+        "url": "https://media.sketchfab.com/models/b097e67c207540628828ebb55afce914/thumbnails/3cbd6a3c1fde414d9b84dd1bcb0c25f2/9da6770a73f247b081cfd1f993d2d72d.jpeg"
+      }
+    ]
+  },
+  "uid": "b097e67c207540628828ebb55afce914",
+  "uri": "https://api.sketchfab.com/v3/models/b097e67c207540628828ebb55afce914",
+  "user": {
+    "uid": "8dcd2c23b5da4d0a90cb10bdb0be99a0",
+    "username": "galaxyabundant",
+    "displayName": "Galaxy Abundant",
+    "account": "pro",
+    "profileUrl": "https://sketchfab.com/galaxyabundant",
+    "avatar": {
+      "uid": "1674ef3126904c269a80cd035dda447b",
+      "uri": "https://api.sketchfab.com/v3/avatars/1674ef3126904c269a80cd035dda447b",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1217,
+          "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/c066045a2d7041ac92a7028b2b6edc44.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2104,
+          "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/d48d3a609feb46a69953f51acef1c982.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 4341,
+          "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/9def13479b8444ef8fa513f4e2c601ce.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4919,
+          "url": "https://media.sketchfab.com/avatars/1674ef3126904c269a80cd035dda447b/b6df72fe39204bb8b47a838c7d930611.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/8dcd2c23b5da4d0a90cb10bdb0be99a0"
+  },
+  "vertexCount": 691464,
+  "viewCount": 3060,
+  "viewerUrl": "https://sketchfab.com/3d-models/ga-free-251-weathered-18th-century-galleon-b097e67c207540628828ebb55afce914",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "A highly detailed 3D model of an 18th-century three-masted galleon. The design features a dark, aged wood hull with barnacle textures along the waterline and tattered canvas sails, giving it a battle-worn or \"ghost ship\" aesthetic.\n\nKey Features:\n\nClassic three-masted rigging with furled, tattered sails.\n\nRealistic, weathered wood textures.",
+  "price": null,
+  "downloadCount": 284,
+  "editorUrl": "https://sketchfab.com/models/b097e67c207540628828ebb55afce914/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": true,
+  "updatedAt": "2026-07-10T16:40:31.648045",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}

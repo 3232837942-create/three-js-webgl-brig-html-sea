@@ -1,0 +1,152 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2024-06-26T14:45:52.947638",
+  "embedUrl": "https://sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/embed",
+  "faceCount": 6196971,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 18,
+  "name": "Salegs Revenge",
+  "publishedAt": "2024-06-26T15:01:47.952361",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "sailship",
+      "slug": "sailship",
+      "uri": "https://api.sketchfab.com/v3/tags/sailship"
+    },
+    {
+      "name": "wooden-ship",
+      "slug": "wooden-ship",
+      "uri": "https://api.sketchfab.com/v3/tags/wooden-ship"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "5eeb7f1c1e61499392d0fccde375602a",
+        "width": 1920,
+        "height": 1080,
+        "size": 165481,
+        "url": "https://media.sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/thumbnails/0c3ab2ac3b954f39baa1c310277e188e/004255fddaa14d84a47ce816ac21a12f.jpeg"
+      },
+      {
+        "uid": "0d6733b6951c46bb8b7daf24756914e4",
+        "width": 1024,
+        "height": 576,
+        "size": 53564,
+        "url": "https://media.sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/thumbnails/0c3ab2ac3b954f39baa1c310277e188e/7e8c2019dbca4ed3b116b463d90916ca.jpeg"
+      },
+      {
+        "uid": "5afea61f56024f23b087228bd846692d",
+        "width": 720,
+        "height": 405,
+        "size": 30339,
+        "url": "https://media.sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/thumbnails/0c3ab2ac3b954f39baa1c310277e188e/f9232fc00b064387a250437b77d88e15.jpeg"
+      },
+      {
+        "uid": "10a6f9664aea465d98acdbd7e4183a1b",
+        "width": 256,
+        "height": 144,
+        "size": 6081,
+        "url": "https://media.sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/thumbnails/0c3ab2ac3b954f39baa1c310277e188e/29f694fbd4924fd7946bb5a20d77ed41.jpeg"
+      },
+      {
+        "uid": "b94625138fec4d8c83c4ca44b00feede",
+        "width": 64,
+        "height": 36,
+        "size": 1195,
+        "url": "https://media.sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/thumbnails/0c3ab2ac3b954f39baa1c310277e188e/b81b2da18c7f40fea96af100740fe930.jpeg"
+      }
+    ]
+  },
+  "uid": "187d7acc081c4aeba1621312b9afab4b",
+  "uri": "https://api.sketchfab.com/v3/models/187d7acc081c4aeba1621312b9afab4b",
+  "user": {
+    "uid": "e9a7417674074b73a08cabea08a07d25",
+    "username": "martyn169",
+    "displayName": "martyn169",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/martyn169",
+    "avatar": {
+      "uid": "0dd9b9a3629345e287f239c716c8ba73",
+      "uri": "https://api.sketchfab.com/v3/avatars/0dd9b9a3629345e287f239c716c8ba73",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1020,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/c8360b2c86b84035bea7d343be12bba0.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1304,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/6a9cb785e6804fe69a35b334a208a0f0.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2549,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/8e5c987a02cb43e9a694ea96aabed2b5.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2893,
+          "url": "https://media.sketchfab.com/avatars/0dd9b9a3629345e287f239c716c8ba73/d3fcc9e17fee410bb8d381aa5794014b.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/e9a7417674074b73a08cabea08a07d25"
+  },
+  "vertexCount": 2203391,
+  "viewCount": 943,
+  "viewerUrl": "https://sketchfab.com/3d-models/salegs-revenge-187d7acc081c4aeba1621312b9afab4b",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Salegs Revenge is a steam ship of the line which would have been produced during the early - late 1850's, and whithin the lore of Mellisay she stands as the last age of sail ship before the plunge into the ironclad era. The construction would likely be a hybrid of iron frames and supports with the rest being wood, to ensure more durabillity, alongside posessing a basic steam engine for auxillery propulsion.",
+  "price": null,
+  "downloadCount": 626,
+  "editorUrl": "https://sketchfab.com/models/187d7acc081c4aeba1621312b9afab4b/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-06-26T15:01:48.366315",
+  "pbrType": null,
+  "textureCount": 4,
+  "materialCount": 39
+}

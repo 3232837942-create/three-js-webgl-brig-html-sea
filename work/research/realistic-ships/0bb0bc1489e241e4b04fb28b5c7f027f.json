@@ -1,0 +1,221 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2024-03-11T06:50:15.984138",
+  "embedUrl": "https://sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/embed",
+  "faceCount": 6000000,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 27,
+  "name": "Chiesa di San Grato a Sala Monferrato",
+  "publishedAt": "2024-03-11T07:16:54.154241",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "ancient",
+      "slug": "ancient",
+      "uri": "https://api.sketchfab.com/v3/tags/ancient"
+    },
+    {
+      "name": "chapel",
+      "slug": "chapel",
+      "uri": "https://api.sketchfab.com/v3/tags/chapel"
+    },
+    {
+      "name": "italy",
+      "slug": "italy",
+      "uri": "https://api.sketchfab.com/v3/tags/italy"
+    },
+    {
+      "name": "chiesa",
+      "slug": "chiesa",
+      "uri": "https://api.sketchfab.com/v3/tags/chiesa"
+    },
+    {
+      "name": "models3d",
+      "slug": "models3d",
+      "uri": "https://api.sketchfab.com/v3/tags/models3d"
+    },
+    {
+      "name": "cappella",
+      "slug": "cappella",
+      "uri": "https://api.sketchfab.com/v3/tags/cappella"
+    },
+    {
+      "name": "piedmont",
+      "slug": "piedmont",
+      "uri": "https://api.sketchfab.com/v3/tags/piedmont"
+    },
+    {
+      "name": "piemonte",
+      "slug": "piemonte",
+      "uri": "https://api.sketchfab.com/v3/tags/piemonte"
+    },
+    {
+      "name": "realitycapture",
+      "slug": "realitycapture",
+      "uri": "https://api.sketchfab.com/v3/tags/realitycapture"
+    },
+    {
+      "name": "architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/tags/architecture"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "uri": "https://api.sketchfab.com/v3/tags/3d"
+    },
+    {
+      "name": "church",
+      "slug": "church",
+      "uri": "https://api.sketchfab.com/v3/tags/church"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "bcd4ead492364b8389c9c978576ad5ea",
+        "width": 1920,
+        "height": 1080,
+        "size": 302281,
+        "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/45d374bbadde4dabace6f59be31b5855.jpeg"
+      },
+      {
+        "uid": "3da3d8e97b504045830b2857ca45a16b",
+        "width": 1024,
+        "height": 576,
+        "size": 84193,
+        "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/6a2a66753f7d4bccb1be0415c5a3d483.jpeg"
+      },
+      {
+        "uid": "86a83ef399264018abce164549bc03ab",
+        "width": 720,
+        "height": 405,
+        "size": 43287,
+        "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/fd17828fec6d49f587a5362415f24841.jpeg"
+      },
+      {
+        "uid": "91e5ae015abb46038b472f53eeb0f97d",
+        "width": 256,
+        "height": 144,
+        "size": 6593,
+        "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/8662d74c0ac74c2ebc4e7c11c4c3cfd7.jpeg"
+      },
+      {
+        "uid": "c9109cdf8b8544cb84240b9c606a4d8f",
+        "width": 64,
+        "height": 36,
+        "size": 1243,
+        "url": "https://media.sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/thumbnails/f934b05dd227402e8010f037f2d35f0c/270c44189e5f4add800f17add2aa4d23.jpeg"
+      }
+    ]
+  },
+  "uid": "0bb0bc1489e241e4b04fb28b5c7f027f",
+  "uri": "https://api.sketchfab.com/v3/models/0bb0bc1489e241e4b04fb28b5c7f027f",
+  "user": {
+    "uid": "90f4bd89c89c479fbf9831f593be326d",
+    "username": "giorgioscioldo",
+    "displayName": "Giorgio Scioldo",
+    "account": "pro",
+    "profileUrl": "https://sketchfab.com/giorgioscioldo",
+    "avatar": {
+      "uid": "ccc588fbdfc44e3dae980f451e7eea64",
+      "uri": "https://api.sketchfab.com/v3/avatars/ccc588fbdfc44e3dae980f451e7eea64",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 788,
+          "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/c4896796715943739fa77a86cfce2ff8.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1278,
+          "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/f8e9bb7d012a418686641bd6bb21b029.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3257,
+          "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/19b34b6625ba4ef48ac0d29a9f739e1c.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3859,
+          "url": "https://media.sketchfab.com/avatars/ccc588fbdfc44e3dae980f451e7eea64/c76eaee4c8d345b58a138fda45eebfd8.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/90f4bd89c89c479fbf9831f593be326d"
+  },
+  "vertexCount": 3169891,
+  "viewCount": 516,
+  "viewerUrl": "https://sketchfab.com/3d-models/chiesa-di-san-grato-a-sala-monferrato-0bb0bc1489e241e4b04fb28b5c7f027f",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Church of San Grato in Sala Monferrato.\nThe religious building was built in the mid-17th century as a votive offering after a plague and to ask for protection from hail.\nAccording to popular memory, the entire Salesian population contributed to the construction of the church, forming a human chain which, from the town's brickyard, allowed the transport of the bricks to the chosen site.\nAlready in the mid-18th century, a complete restoration was necessary by Scapitta, the main exponent of Piedmontese Baroque, and financed through the sale of local agricultural products.\nIn 1771 the painter Pietro Guala created the image of San Grato in the dome and the four cardinal virtues. Over the years the church fell into disuse and the structural conditions worsened, making the building unsafe.\nIn 1998 a group of Salesian volunteers began working on the recovery of the building: the roof was renovated and the churchyard was recovered, to bring the church back to its original beauty.\n(Source: www.ilmonferrato.it)",
+  "price": null,
+  "downloadCount": 160,
+  "editorUrl": "https://sketchfab.com/models/0bb0bc1489e241e4b04fb28b5c7f027f/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-03-11T13:06:03.533075",
+  "pbrType": null,
+  "textureCount": 6,
+  "materialCount": 6
+}

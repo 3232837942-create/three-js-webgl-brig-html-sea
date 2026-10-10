@@ -1,0 +1,216 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "name": "Cultural Heritage & History",
+      "slug": "cultural-heritage-history",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/bb22d75450272105e64c47756c323f1f-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2023-07-16T07:44:52.902815",
+  "embedUrl": "https://sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/embed",
+  "faceCount": 499584,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 7,
+  "name": "1808 Kinman SBML 6 Pounder Cannon",
+  "publishedAt": "2023-07-16T08:12:16.553926",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "artillery",
+      "slug": "artillery",
+      "uri": "https://api.sketchfab.com/v3/tags/artillery"
+    },
+    {
+      "name": "naval",
+      "slug": "naval",
+      "uri": "https://api.sketchfab.com/v3/tags/naval"
+    },
+    {
+      "name": "Cannon",
+      "slug": "cannon",
+      "uri": "https://api.sketchfab.com/v3/tags/cannon"
+    },
+    {
+      "name": "artilery",
+      "slug": "artilery",
+      "uri": "https://api.sketchfab.com/v3/tags/artilery"
+    },
+    {
+      "name": "naval-gun",
+      "slug": "naval-gun",
+      "uri": "https://api.sketchfab.com/v3/tags/naval-gun"
+    },
+    {
+      "name": "military-equipment",
+      "slug": "military-equipment",
+      "uri": "https://api.sketchfab.com/v3/tags/military-equipment"
+    },
+    {
+      "name": "militaryweapon",
+      "slug": "militaryweapon",
+      "uri": "https://api.sketchfab.com/v3/tags/militaryweapon"
+    },
+    {
+      "name": "military",
+      "slug": "military",
+      "uri": "https://api.sketchfab.com/v3/tags/military"
+    },
+    {
+      "name": "gun",
+      "slug": "gun",
+      "uri": "https://api.sketchfab.com/v3/tags/gun"
+    },
+    {
+      "name": "navalhistory",
+      "slug": "navalhistory",
+      "uri": "https://api.sketchfab.com/v3/tags/navalhistory"
+    },
+    {
+      "name": "artillery-gun",
+      "slug": "artillery-gun",
+      "uri": "https://api.sketchfab.com/v3/tags/artillery-gun"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "0d455222d3e442e7a53b4ccd18a464cd",
+        "width": 1920,
+        "height": 1080,
+        "size": 259805,
+        "url": "https://media.sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/thumbnails/1b3a5c36bb1e41c99bf0ff35ff7907c8/fe82073063c14bd6a1943c18c88915bc.jpeg"
+      },
+      {
+        "uid": "efc6f6099384487ab3e6fbd12de02680",
+        "width": 1024,
+        "height": 576,
+        "size": 79479,
+        "url": "https://media.sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/thumbnails/1b3a5c36bb1e41c99bf0ff35ff7907c8/aa1a29953fab4bfeb3c8fc23fcee8a37.jpeg"
+      },
+      {
+        "uid": "c4f7fcbe9da7414891d0bcf60d434c91",
+        "width": 720,
+        "height": 405,
+        "size": 43997,
+        "url": "https://media.sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/thumbnails/1b3a5c36bb1e41c99bf0ff35ff7907c8/dd7bcc4d9b6143d888feb92bf555964d.jpeg"
+      },
+      {
+        "uid": "1b6c844453d847038fb1722279dd44bc",
+        "width": 256,
+        "height": 144,
+        "size": 7154,
+        "url": "https://media.sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/thumbnails/1b3a5c36bb1e41c99bf0ff35ff7907c8/3b2d5fa0e792435bb7fa5ca97432dab0.jpeg"
+      },
+      {
+        "uid": "ace070eafcdf45b8a4a9c7c65f01ac6a",
+        "width": 64,
+        "height": 36,
+        "size": 1306,
+        "url": "https://media.sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/thumbnails/1b3a5c36bb1e41c99bf0ff35ff7907c8/f88cf0c3947f4d519e0fc40132805079.jpeg"
+      }
+    ]
+  },
+  "uid": "4b33f3f594b8474183c47d15936fbd7c",
+  "uri": "https://api.sketchfab.com/v3/models/4b33f3f594b8474183c47d15936fbd7c",
+  "user": {
+    "uid": "0182befdc3a5447ebf447885521d8def",
+    "username": "The_Silver_Surfer",
+    "displayName": "Blair",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/The_Silver_Surfer",
+    "avatar": {
+      "uid": "c5603838e782486dbc443b87dbd2c6a2",
+      "uri": "https://api.sketchfab.com/v3/avatars/c5603838e782486dbc443b87dbd2c6a2",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1092,
+          "url": "https://media.sketchfab.com/avatars/c5603838e782486dbc443b87dbd2c6a2/56ae105659e44836b81f0142bc95e994.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1534,
+          "url": "https://media.sketchfab.com/avatars/c5603838e782486dbc443b87dbd2c6a2/d7a6dc76ca114cc1b0a10ffa54ac5511.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3331,
+          "url": "https://media.sketchfab.com/avatars/c5603838e782486dbc443b87dbd2c6a2/fab2d559201f45eca4450c8131e4cdbb.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3842,
+          "url": "https://media.sketchfab.com/avatars/c5603838e782486dbc443b87dbd2c6a2/ac563282003a48c5815f6aa5627b7536.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/0182befdc3a5447ebf447885521d8def"
+  },
+  "vertexCount": 249710,
+  "viewCount": 346,
+  "viewerUrl": "https://sketchfab.com/3d-models/1808-kinman-sbml-6-pounder-cannon-4b33f3f594b8474183c47d15936fbd7c",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This British Naval chase cannon mounted on field carriage is a smooth bore muzzle loaded (\"SBML\") 6 pounder. It has been on display in Britomart reserve, Akaroa New Zealand since 1907. \n\nSometimes inaccurately identified as from the HMS Britomart, a Cherokee class brig-sloop, the cannon was sent to the 1906 international exhibition in Christchurch by the British admiralty as an example of the type of cannon similar to the two bow chasers on the HMS Britomart. \n\nMarkings: Two crests appear on the barrel. On the first reinforce: Royal cypher of King George III. On the first reinforce ring is the mark of Francis Kinman of Woolwich, dated 1808. On the chase appears the cypher of the then Master General of the Ordinance (MGO), General John Pitt, 2nd Earl of Chatham. Both cyphers bear the motto \"Honi soit qui mal y pense\". On the third reinforce are the roman numerals DXXXVIII. On the right trunnion is the mark \"No. 558\".",
+  "price": null,
+  "downloadCount": 97,
+  "editorUrl": "https://sketchfab.com/models/4b33f3f594b8474183c47d15936fbd7c/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-07-23T09:51:46.867748",
+  "pbrType": null,
+  "textureCount": 2,
+  "materialCount": 1
+}

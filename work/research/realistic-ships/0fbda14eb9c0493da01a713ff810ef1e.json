@@ -1,0 +1,172 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2021-09-10T15:38:04.736697",
+  "embedUrl": "https://sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/embed",
+  "faceCount": 31222,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 69,
+  "name": "Brigandine armor",
+  "publishedAt": "2021-09-11T20:24:51.964179",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "armor",
+      "slug": "armor",
+      "uri": "https://api.sketchfab.com/v3/tags/armor"
+    },
+    {
+      "name": "medieval",
+      "slug": "medieval",
+      "uri": "https://api.sketchfab.com/v3/tags/medieval"
+    },
+    {
+      "name": "modding",
+      "slug": "modding",
+      "uri": "https://api.sketchfab.com/v3/tags/modding"
+    },
+    {
+      "name": "hq",
+      "slug": "hq",
+      "uri": "https://api.sketchfab.com/v3/tags/hq"
+    },
+    {
+      "name": "skyrim",
+      "slug": "skyrim",
+      "uri": "https://api.sketchfab.com/v3/tags/skyrim"
+    },
+    {
+      "name": "brigandine",
+      "slug": "brigandine",
+      "uri": "https://api.sketchfab.com/v3/tags/brigandine"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "557e46f5d03147e38c0b7c0099b9d4ef",
+        "width": 1920,
+        "height": 1080,
+        "size": 442070,
+        "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/cb46052bc4984d64923906901186d009.jpeg"
+      },
+      {
+        "uid": "2ff72ba2e46447e8a3f1b2c9e5176f76",
+        "width": 1024,
+        "height": 576,
+        "size": 65278,
+        "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/2af7a4ca5a184dab83ab56277d4b4145.jpeg"
+      },
+      {
+        "uid": "731c14589ef44892971fec2cd96c6aa4",
+        "width": 720,
+        "height": 405,
+        "size": 33352,
+        "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/789ee09b38ca4ae983aca06b0f1bab23.jpeg"
+      },
+      {
+        "uid": "2cec6ba425864e13acf646aab8caab32",
+        "width": 256,
+        "height": 144,
+        "size": 6983,
+        "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/49e486617b1f4281951ef818065314a7.jpeg"
+      },
+      {
+        "uid": "1b60ea70e40a40bcb1edf4760e4af4fa",
+        "width": 64,
+        "height": 36,
+        "size": 1470,
+        "url": "https://media.sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/thumbnails/76c4c39092bc4bb3a93f4c03f9ecb071/5b90adb2f6cb4dbabe7fadb54a911a88.jpeg"
+      }
+    ]
+  },
+  "uid": "0fbda14eb9c0493da01a713ff810ef1e",
+  "uri": "https://api.sketchfab.com/v3/models/0fbda14eb9c0493da01a713ff810ef1e",
+  "user": {
+    "uid": "edc90dc21d484782a02bf1350dd604db",
+    "username": "frankestudios71",
+    "displayName": "Kelisei Ventura",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/frankestudios71",
+    "avatar": {
+      "uid": "f67b9900b9f84b928ea8faac1b9d2b2a",
+      "uri": "https://api.sketchfab.com/v3/avatars/f67b9900b9f84b928ea8faac1b9d2b2a",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1093,
+          "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/3bcb60036c534e93a920e8b41b16161b.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1547,
+          "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/e90b87dbeef54a72bb177c6a64363a29.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3202,
+          "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/edc3e32ead2c4a65977c181dd45b1b50.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 3724,
+          "url": "https://media.sketchfab.com/avatars/f67b9900b9f84b928ea8faac1b9d2b2a/22a2475cd57046a994fbf8d8db37f266.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/edc90dc21d484782a02bf1350dd604db"
+  },
+  "vertexCount": 15355,
+  "viewCount": 1930,
+  "viewerUrl": "https://sketchfab.com/3d-models/brigandine-armor-0fbda14eb9c0493da01a713ff810ef1e",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "This armor is based on the brigandine presented in the Shadiversity video, that shows this kind of historical armor. Of course it isn't as historical as I wanted, probably I'm gonna remake it in the future. But for now it looks cool enough.\n\nIt's divided in 4 parts, exactly what you would use if you modded for skyrim:\n\nHelmet: 2K textures\nGloves: 2K textures\nPants: 4K textures\nChest: 4K textures",
+  "price": null,
+  "downloadCount": 365,
+  "editorUrl": "https://sketchfab.com/models/0fbda14eb9c0493da01a713ff810ef1e/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-05-08T23:22:48.442266",
+  "pbrType": "metalness",
+  "textureCount": 16,
+  "materialCount": 4
+}

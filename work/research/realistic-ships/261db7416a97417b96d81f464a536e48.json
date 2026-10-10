@@ -1,0 +1,157 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2026-08-31T08:23:39.802121",
+  "embedUrl": "https://sketchfab.com/models/261db7416a97417b96d81f464a536e48/embed",
+  "faceCount": 23355,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/72eb2b1960364637901eacce19283624",
+    "label": "Free Standard",
+    "fullName": "Free Standard",
+    "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+    "url": "https://sketchfab.com/licenses",
+    "slug": "free-st"
+  },
+  "likeCount": 2,
+  "name": "Apex Legends CAR SMG Brigantine",
+  "publishedAt": "2026-08-31T10:23:30.103742",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "weapons",
+      "slug": "weapons",
+      "uri": "https://api.sketchfab.com/v3/tags/weapons"
+    },
+    {
+      "name": "smg",
+      "slug": "smg",
+      "uri": "https://api.sketchfab.com/v3/tags/smg"
+    },
+    {
+      "name": "apexlegends",
+      "slug": "apexlegends",
+      "uri": "https://api.sketchfab.com/v3/tags/apexlegends"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "580e48c0dcec40bca0cdae7b3ec5158f",
+        "width": 1920,
+        "height": 1080,
+        "size": 241552,
+        "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/4329e338b36b4f45b66cdd27bab01edf.jpeg"
+      },
+      {
+        "uid": "733740df668140888da59a5f0861bc26",
+        "width": 1024,
+        "height": 576,
+        "size": 62813,
+        "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/f2727938feb74309afb273022b010d99.jpeg"
+      },
+      {
+        "uid": "87b3abc1411b40e48bd7f043c4984ca5",
+        "width": 720,
+        "height": 405,
+        "size": 34166,
+        "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/4a771e15a8fe4a7096444be3b4d9adb6.jpeg"
+      },
+      {
+        "uid": "16fb0c2b5db8411481cd766d48902ead",
+        "width": 256,
+        "height": 144,
+        "size": 6501,
+        "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/94cdc21122e1422ca88a107ce9b6e118.jpeg"
+      },
+      {
+        "uid": "a81a8ea7419140d8b773e8c06e57763b",
+        "width": 64,
+        "height": 36,
+        "size": 1267,
+        "url": "https://media.sketchfab.com/models/261db7416a97417b96d81f464a536e48/thumbnails/e2a386ab30974aa8a8688cbdf0086ca2/69fc7d75f0e54151bf9b63a593476d02.jpeg"
+      }
+    ]
+  },
+  "uid": "261db7416a97417b96d81f464a536e48",
+  "uri": "https://api.sketchfab.com/v3/models/261db7416a97417b96d81f464a536e48",
+  "user": {
+    "uid": "67f5b83ee408430b8132ea92ce57310d",
+    "username": "LkblZ",
+    "displayName": "零宽不连字",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/LkblZ",
+    "avatar": {
+      "uid": "6e6c2f97c1cc47608edd443cc0479311",
+      "uri": "https://api.sketchfab.com/v3/avatars/6e6c2f97c1cc47608edd443cc0479311",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1152,
+          "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/f2cf18458d134291bccb9ff19c6f330d.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1665,
+          "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/5bb137e4e58145bda76478a434b87d77.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 3806,
+          "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/ea5b7ac4d09641a9a7a90be1239dae85.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 4385,
+          "url": "https://media.sketchfab.com/avatars/6e6c2f97c1cc47608edd443cc0479311/95298dbd29314883b433a4cbb34c3a23.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/67f5b83ee408430b8132ea92ce57310d"
+  },
+  "vertexCount": 12221,
+  "viewCount": 11,
+  "viewerUrl": "https://sketchfab.com/3d-models/apex-legends-car-smg-brigantine-261db7416a97417b96d81f464a536e48",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Apex Legends CAR SMG Brigantine",
+  "price": null,
+  "downloadCount": 6,
+  "editorUrl": "https://sketchfab.com/models/261db7416a97417b96d81f464a536e48/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2026-08-31T10:23:30.180474",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 1
+}

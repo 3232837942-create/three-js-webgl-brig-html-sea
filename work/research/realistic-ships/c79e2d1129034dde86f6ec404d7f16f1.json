@@ -1,0 +1,201 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6",
+      "name": "Fashion & Style",
+      "slug": "fashion-style",
+      "uri": "https://api.sketchfab.com/v3/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/87a0deda90ae1bcc407ee9613be69320-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/81bfbbfa2c9b4f218eed8609e3cf7aa6/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2024-01-21T12:39:48.929021",
+  "embedUrl": "https://sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/embed",
+  "faceCount": 101076,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 24,
+  "name": "Cuirass",
+  "publishedAt": "2024-01-21T13:02:51.862095",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "armor",
+      "slug": "armor",
+      "uri": "https://api.sketchfab.com/v3/tags/armor"
+    },
+    {
+      "name": "medieval",
+      "slug": "medieval",
+      "uri": "https://api.sketchfab.com/v3/tags/medieval"
+    },
+    {
+      "name": "breastplate",
+      "slug": "breastplate",
+      "uri": "https://api.sketchfab.com/v3/tags/breastplate"
+    },
+    {
+      "name": "cuirass",
+      "slug": "cuirass",
+      "uri": "https://api.sketchfab.com/v3/tags/cuirass"
+    },
+    {
+      "name": "mercenary",
+      "slug": "mercenary",
+      "uri": "https://api.sketchfab.com/v3/tags/mercenary"
+    },
+    {
+      "name": "manatarms",
+      "slug": "manatarms",
+      "uri": "https://api.sketchfab.com/v3/tags/manatarms"
+    },
+    {
+      "name": "brigandine",
+      "slug": "brigandine",
+      "uri": "https://api.sketchfab.com/v3/tags/brigandine"
+    },
+    {
+      "name": "knight",
+      "slug": "knight",
+      "uri": "https://api.sketchfab.com/v3/tags/knight"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "96c1b51d657c4006a9a686eb5f681af0",
+        "width": 1920,
+        "height": 1080,
+        "size": 246523,
+        "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/d55b85f3ddb04bffa6efd49e6f3b3fc1.jpeg"
+      },
+      {
+        "uid": "8fbf2faf159c4c189537845f2847919d",
+        "width": 1024,
+        "height": 576,
+        "size": 53714,
+        "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/7c310316403345ee9b0f89240c908346.jpeg"
+      },
+      {
+        "uid": "6b4a00697d9b45f2871614f92e25e7a0",
+        "width": 720,
+        "height": 405,
+        "size": 25430,
+        "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/6046d5eec9e34edd90799fb393b06bcf.jpeg"
+      },
+      {
+        "uid": "e87b7289ce6540218b0a396afef2a86b",
+        "width": 256,
+        "height": 144,
+        "size": 4138,
+        "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/623d5664bb6e4f49a474838617df3a42.jpeg"
+      },
+      {
+        "uid": "b78da5e766d642eca8fe967c6036cfd6",
+        "width": 64,
+        "height": 36,
+        "size": 1042,
+        "url": "https://media.sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/thumbnails/c555306b1bcd4493bf61c96a519a52b0/4f4fb43ae88e4dfd8b909572e569165c.jpeg"
+      }
+    ]
+  },
+  "uid": "c79e2d1129034dde86f6ec404d7f16f1",
+  "uri": "https://api.sketchfab.com/v3/models/c79e2d1129034dde86f6ec404d7f16f1",
+  "user": {
+    "uid": "e6f13345cfbb4ca98c0ca5a9c9b00b87",
+    "username": "fractalspace",
+    "displayName": "FractalSpace",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/fractalspace",
+    "avatar": {
+      "uid": "e87ffb42983d4cc080acb601dfda2ca7",
+      "uri": "https://api.sketchfab.com/v3/avatars/e87ffb42983d4cc080acb601dfda2ca7",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1408,
+          "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/53ea216b754c42a99c3c10b3d6dbcae8.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2544,
+          "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/a7927c4edb5d48c1bd6d7542109ebfae.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 6940,
+          "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/7178ac56756540ee9270439297bddc6b.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 8262,
+          "url": "https://media.sketchfab.com/avatars/e87ffb42983d4cc080acb601dfda2ca7/cb6a4882fc57475a9bb99b40de5e2aca.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/e6f13345cfbb4ca98c0ca5a9c9b00b87"
+  },
+  "vertexCount": 50716,
+  "viewCount": 1574,
+  "viewerUrl": "https://sketchfab.com/3d-models/cuirass-c79e2d1129034dde86f6ec404d7f16f1",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "A medieval-style cuirass adorned with leather buckles, featuring detailed heraldic engravings accentuated by a normal map.",
+  "price": null,
+  "downloadCount": 378,
+  "editorUrl": "https://sketchfab.com/models/c79e2d1129034dde86f6ec404d7f16f1/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-01-21T13:02:52.170729",
+  "pbrType": "metalness",
+  "textureCount": 9,
+  "materialCount": 4
+}

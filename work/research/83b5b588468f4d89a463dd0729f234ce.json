@@ -1,0 +1,196 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "22a2f677efad4d7bbca5ad45f9b5868e",
+      "name": "Cars & Vehicles",
+      "slug": "cars-vehicles",
+      "uri": "https://api.sketchfab.com/v3/categories/22a2f677efad4d7bbca5ad45f9b5868e",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/45dd0cc0860ac57fcd63bde1cc3f2b7c-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/22a2f677efad4d7bbca5ad45f9b5868e/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "3badf36bd9f549bdba295334d75e04d3",
+      "name": "Weapons & Military",
+      "slug": "weapons-military",
+      "uri": "https://api.sketchfab.com/v3/categories/3badf36bd9f549bdba295334d75e04d3",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/6f71af8dadcca706c7404c9a0f82c1a3-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/3badf36bd9f549bdba295334d75e04d3/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 0,
+  "createdAt": "2022-03-28T13:23:01.736605",
+  "embedUrl": "https://sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/embed",
+  "faceCount": 13272,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 39,
+  "name": "Stylized Pirate Ship",
+  "publishedAt": "2022-03-28T13:47:31.256185",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "pirateship",
+      "slug": "pirateship",
+      "uri": "https://api.sketchfab.com/v3/tags/pirateship"
+    },
+    {
+      "name": "stylizedmodel",
+      "slug": "stylizedmodel",
+      "uri": "https://api.sketchfab.com/v3/tags/stylizedmodel"
+    },
+    {
+      "name": "ship",
+      "slug": "ship",
+      "uri": "https://api.sketchfab.com/v3/tags/ship"
+    },
+    {
+      "name": "pirate",
+      "slug": "pirate",
+      "uri": "https://api.sketchfab.com/v3/tags/pirate"
+    },
+    {
+      "name": "stylized",
+      "slug": "stylized",
+      "uri": "https://api.sketchfab.com/v3/tags/stylized"
+    },
+    {
+      "name": "pirates",
+      "slug": "pirates",
+      "uri": "https://api.sketchfab.com/v3/tags/pirates"
+    },
+    {
+      "name": "boat",
+      "slug": "boat",
+      "uri": "https://api.sketchfab.com/v3/tags/boat"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "104008b77b244528a1271c5009545ff6",
+        "width": 1920,
+        "height": 1080,
+        "size": 143194,
+        "url": "https://media.sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/thumbnails/0dede3837baf4897a9aae86943fcd6b8/0bc8c570f3184614a54a51c66062a877.jpeg"
+      },
+      {
+        "uid": "7e2d68ea92dd4b0f8b8a0e3eeb16f492",
+        "width": 1024,
+        "height": 576,
+        "size": 29772,
+        "url": "https://media.sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/thumbnails/0dede3837baf4897a9aae86943fcd6b8/e1b2f173ce0d49579afd015d80c3043f.jpeg"
+      },
+      {
+        "uid": "096bcb3b5f7e49cd98e1ae772dd106f1",
+        "width": 720,
+        "height": 405,
+        "size": 17576,
+        "url": "https://media.sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/thumbnails/0dede3837baf4897a9aae86943fcd6b8/d6b55f8826c449eda0417e7d9f8faf6e.jpeg"
+      },
+      {
+        "uid": "d3c87e8cad454f9ab060729301a71ba1",
+        "width": 256,
+        "height": 144,
+        "size": 4041,
+        "url": "https://media.sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/thumbnails/0dede3837baf4897a9aae86943fcd6b8/ac9cab395c00401282e18bdad5215732.jpeg"
+      },
+      {
+        "uid": "ed7e4a3416b347f3930442373e0a4303",
+        "width": 64,
+        "height": 36,
+        "size": 971,
+        "url": "https://media.sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/thumbnails/0dede3837baf4897a9aae86943fcd6b8/b1cae8cf7b384842b91e30b58ff0c548.jpeg"
+      }
+    ]
+  },
+  "uid": "83b5b588468f4d89a463dd0729f234ce",
+  "uri": "https://api.sketchfab.com/v3/models/83b5b588468f4d89a463dd0729f234ce",
+  "user": {
+    "uid": "53f43f424ac547099dc4d5db153a0321",
+    "username": "Nik_kale",
+    "displayName": "Nik_kale",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Nik_kale",
+    "avatar": {
+      "uid": "01d246b78efc40b5b227a9c0619fd09a",
+      "uri": "https://api.sketchfab.com/v3/avatars/01d246b78efc40b5b227a9c0619fd09a",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 668,
+          "url": "https://media.sketchfab.com/avatars/01d246b78efc40b5b227a9c0619fd09a/30de663fcfcd490cb1498f27f2c3d845.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 972,
+          "url": "https://media.sketchfab.com/avatars/01d246b78efc40b5b227a9c0619fd09a/a97f339fb45e4de0bb7146e4032ad133.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 2344,
+          "url": "https://media.sketchfab.com/avatars/01d246b78efc40b5b227a9c0619fd09a/87bb2ea2345f46708f9e110371a3a997.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 2810,
+          "url": "https://media.sketchfab.com/avatars/01d246b78efc40b5b227a9c0619fd09a/013995494a78446f9ef02dff6a7cea9e.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/53f43f424ac547099dc4d5db153a0321"
+  },
+  "vertexCount": 7356,
+  "viewCount": 2369,
+  "viewerUrl": "https://sketchfab.com/3d-models/stylized-pirate-ship-83b5b588468f4d89a463dd0729f234ce",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Stylized pirate ship",
+  "price": null,
+  "downloadCount": 389,
+  "editorUrl": "https://sketchfab.com/models/83b5b588468f4d89a463dd0729f234ce/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-07-31T06:49:02.245782",
+  "pbrType": "metalness",
+  "textureCount": 3,
+  "materialCount": 1
+}

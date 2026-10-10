@@ -1,0 +1,157 @@
+{
+  "animationCount": 0,
+  "categories": [],
+  "commentCount": 0,
+  "createdAt": "2015-04-14T15:36:50",
+  "embedUrl": "https://sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/embed",
+  "faceCount": 189517,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 21,
+  "name": "Clifford Williams Tombstone",
+  "publishedAt": "2015-04-14T15:37:15",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "tombstone",
+      "slug": "tombstone",
+      "uri": "https://api.sketchfab.com/v3/tags/tombstone"
+    },
+    {
+      "name": "cemetery",
+      "slug": "cemetery",
+      "uri": "https://api.sketchfab.com/v3/tags/cemetery"
+    },
+    {
+      "name": "evergreen",
+      "slug": "evergreen",
+      "uri": "https://api.sketchfab.com/v3/tags/evergreen"
+    },
+    {
+      "name": "Santa_Cruz",
+      "slug": "santa_cruz",
+      "uri": "https://api.sketchfab.com/v3/tags/santa_cruz"
+    },
+    {
+      "name": "agisoft",
+      "slug": "agisoft",
+      "uri": "https://api.sketchfab.com/v3/tags/agisoft"
+    },
+    {
+      "name": "photoscan",
+      "slug": "photoscan",
+      "uri": "https://api.sketchfab.com/v3/tags/photoscan"
+    },
+    {
+      "name": "noai",
+      "slug": "noai",
+      "uri": "https://api.sketchfab.com/v3/tags/noai"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "c4f2ce3d62c74b6883130e6b8bd3a36b",
+        "width": 1920,
+        "height": 1080,
+        "size": 181311,
+        "url": "https://media.sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/thumbnails/db24bda7378e4904a3451014bbfed76a/ee3197c7a8824691a43282b80824b351.jpeg"
+      },
+      {
+        "uid": "13493c96e8124dc997d303348d846055",
+        "width": 1024,
+        "height": 576,
+        "size": 41710,
+        "url": "https://media.sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/thumbnails/db24bda7378e4904a3451014bbfed76a/8ccd55f090564ae796c316f18f9d5f52.jpeg"
+      },
+      {
+        "uid": "494c71f8a78143ef985afb914577edca",
+        "width": 720,
+        "height": 405,
+        "size": 21169,
+        "url": "https://media.sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/thumbnails/db24bda7378e4904a3451014bbfed76a/85ae288cea094414b60cf327ba471fdc.jpeg"
+      },
+      {
+        "uid": "652bc216be7c46a68a1c2997d9670747",
+        "width": 256,
+        "height": 144,
+        "size": 3692,
+        "url": "https://media.sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/thumbnails/db24bda7378e4904a3451014bbfed76a/5348fc1d70a040a59ddadf744aa2a733.jpeg"
+      },
+      {
+        "uid": "f65fbee82c044bf3b5277cbb0a065cca",
+        "width": 64,
+        "height": 36,
+        "size": 662,
+        "url": "https://media.sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/thumbnails/db24bda7378e4904a3451014bbfed76a/44dd6c8955ed4b6591df453015969c2d.jpeg"
+      }
+    ]
+  },
+  "uid": "807c571bf92f453c8e981038ee0590e6",
+  "uri": "https://api.sketchfab.com/v3/models/807c571bf92f453c8e981038ee0590e6",
+  "user": {
+    "uid": "6374fc40c3a846838434d0b71dfc277a",
+    "username": "abby",
+    "displayName": "Abby Crawford",
+    "account": "ent",
+    "profileUrl": "https://sketchfab.com/abby",
+    "avatar": {
+      "uid": "6dd291a91a394b5cba1b5dd28392fc79",
+      "uri": "https://api.sketchfab.com/v3/avatars/6dd291a91a394b5cba1b5dd28392fc79",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 2088,
+          "url": "https://media.sketchfab.com/avatars/6dd291a91a394b5cba1b5dd28392fc79/070c51b3cc2443319f74be7576c622c6.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 4063,
+          "url": "https://media.sketchfab.com/avatars/6dd291a91a394b5cba1b5dd28392fc79/804520662aa54cf29bb8c3dfae8a23ff.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 11504,
+          "url": "https://media.sketchfab.com/avatars/6dd291a91a394b5cba1b5dd28392fc79/3b3a9e8f9a9c43959a340a7fd2ce3f42.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 13707,
+          "url": "https://media.sketchfab.com/avatars/6dd291a91a394b5cba1b5dd28392fc79/26a5ad4a70d94392a4bf29195a37c4bb.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/6374fc40c3a846838434d0b71dfc277a"
+  },
+  "vertexCount": 94890,
+  "viewCount": 855,
+  "viewerUrl": "https://sketchfab.com/3d-models/clifford-williams-tombstone-807c571bf92f453c8e981038ee0590e6",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "From the Santa Cruz Sentinel, August 4, 1866:\n\"Clifford Williams, a coal-passer of the man of war Suwanee, died on board Monday, July 30, 1866. He was buried on Tuesday in the Santa Cruz cemetery by the officers and men of the steamer, with appropriate honors.... It was most commendable on the part of the commander of the Suwanee, to put in here and give the poor fellow a Christian burial in a Christian cemetery, and goes to prove that there are some ship captains who are not lost to all feelings of humanity. The procession presented a very fine appearance as they passed through the town, upon their melancholy errand.... Deceased was 25 years of age....\"\n\nThe Suwanee was a Union ship commissioned in 1864. It sailed from Philadelphia early in 1865 and headed down the American East Coast to intercept Confederate pirates. After traveling to the tip of South America, the ship headed north along the Pacific coast and was eventually wrecked off the northwest part of Vancouver Island, British Columbia, in 1868.",
+  "price": null,
+  "downloadCount": 231,
+  "editorUrl": "https://sketchfab.com/models/807c571bf92f453c8e981038ee0590e6/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "unknown",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2023-11-21T15:21:16.928016",
+  "pbrType": null,
+  "textureCount": 1,
+  "materialCount": 1
+}
